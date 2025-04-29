@@ -10,9 +10,9 @@
         "venue": "Emirates Stadium",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event//master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8",
-        "Server3": null
+        "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954460~acl=/*~id=h~hmac=09a37c57179bdcff7ce32cd0c5c58e9806e1ccaff4cdb3a8386096dea054758a"
     },
     {
         "id": "sl1090477317",
@@ -27,7 +27,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954220~acl=/*~id=h~hmac=29f0174f40c1f6965e17aaa53dc2b3036c0dd8725e0f9993df4f051101a6c9e1"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954461~acl=/*~id=h~hmac=ad16ae9e165b813714a07835f2bccd8cd5aed8a687773b738f57fcac82454e88"
     },
     {
         "id": "sl1090477299",
@@ -42,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954461~acl=/*~id=h~hmac=ad16ae9e165b813714a07835f2bccd8cd5aed8a687773b738f57fcac82454e88"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954702~acl=/*~id=h~hmac=f215e557e3b212c7f56bfa47f1f637bca3f5123b862c0f228b1047c447740781"
     },
     {
         "id": "sl1090477290",
