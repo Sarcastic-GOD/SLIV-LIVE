@@ -10,9 +10,9 @@
         "venue": "Emirates Stadium",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745953913~acl=/*~id=h~hmac=32f3f34ae767478e9e03e10737e5b61383c41cadf81bb1151beb5487a696967b"
+        "Server1": "https://dai.google.com/ssai/event//master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8",
+        "Server3": null
     },
     {
         "id": "sl1090477317",
@@ -27,7 +27,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745953972~acl=/*~id=h~hmac=e1249e9d3b644a0487fbe5ac26eaeb9f9880c402b71b37e9c2896d0b20dbf83a"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954220~acl=/*~id=h~hmac=29f0174f40c1f6965e17aaa53dc2b3036c0dd8725e0f9993df4f051101a6c9e1"
     },
     {
         "id": "sl1090477299",
@@ -40,9 +40,9 @@
         "venue": "Park Manzanares, Madrid",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event//master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8",
-        "Server3": null
+        "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745954461~acl=/*~id=h~hmac=ad16ae9e165b813714a07835f2bccd8cd5aed8a687773b738f57fcac82454e88"
     },
     {
         "id": "sl1090477290",
