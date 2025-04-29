@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956261~acl=/*~id=h~hmac=b4fe0ff5a01e17c1a2a8972015780f491f15eafdd28ff7ea86e8d6d7365f9330"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956561~acl=/*~id=h~hmac=cb30ed6791f57e0a64bd6eaee9df5e14c5f4de2bdd342a40cbf8d6881cc559d4"
     },
     {
         "id": "sl1090477317",
@@ -27,14 +27,14 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956261~acl=/*~id=h~hmac=b4fe0ff5a01e17c1a2a8972015780f491f15eafdd28ff7ea86e8d6d7365f9330"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956561~acl=/*~id=h~hmac=cb30ed6791f57e0a64bd6eaee9df5e14c5f4de2bdd342a40cbf8d6881cc559d4"
     },
     {
         "id": "sl1090477299",
         "isLive": true,
         "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
-        "match": "Day 7 - 29 Apr 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001892/1745825037083684_ATP1000_MutuaMadridOpen25_round4_28apr_tv_bg.jpg",
+        "match": "Taylor Fritz vs Casper Ruud - Round 4 - 29 Apr 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001936/1745927283409484_MutuaMadridOpen25_Taylor_vs_Casper_Ruud_live_29apr_tv_bg.jpg",
         "genre": "Tennis",
         "language": "ENG",
         "venue": "Park Manzanares, Madrid",
@@ -42,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956501~acl=/*~id=h~hmac=fe9700a58a89b2bcd38ffa19099081431bdbe26e4a6fae3a109fb6e75a7d13bc"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1745956801~acl=/*~id=h~hmac=1be2f2566f5fb5c5651a74e2f1ae90c8765c4a0c38cd996e11739a135a723bda"
     },
     {
         "id": "sl1090477290",
