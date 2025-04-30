@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746044462~acl=/*~id=h~hmac=4bbf4cdd2ee0262c88404b94dcc76685e86e3f9a458d305d940f7a78336df581"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746044763~acl=/*~id=h~hmac=7cba1e03db76cb300c658c744a1c24cc4b2af9c81344eb16e5eda12bc1ec9caf"
     },
     {
         "id": "sl1090477319",
@@ -27,14 +27,14 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746044462~acl=/*~id=h~hmac=4bbf4cdd2ee0262c88404b94dcc76685e86e3f9a458d305d940f7a78336df581"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746044764~acl=/*~id=h~hmac=8e2bb087893ec5b1c8c84dcf0116fd5084dea8cd334ea603dcc4415611edc389"
     },
     {
         "id": "sl1090477307",
         "isLive": true,
         "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
-        "match": "Day 8 - 30 Apr 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001892/1745825272774684_ATP1000_MutuaMadridOpen25_round4_28apr_landscape_thumb.jpg",
+        "match": "Alex de Minaur vs Lorenzo Musetti - Round 4 - 1 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001961/1745998664841553_ATP1000_MutuaMadridOpen25_round4_DeMinaur_vs_Musetti_30apr_tv_bg.jpg",
         "genre": "Tennis",
         "language": "ENG",
         "venue": "Park Manzanares, Madrid",
@@ -42,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746044703~acl=/*~id=h~hmac=85b49acb000eb28a03d094c56b966bed2d922f0f40eeeb9fd5df194b2b4a76d8"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746045004~acl=/*~id=h~hmac=30eee9bce11d23e0277342b044e74fc538010227cbcb82ce785afe517a1af4e1"
     },
     {
         "id": "sl1090477290",
