@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090477307",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
-        "match": "Alex de Minaur vs Lorenzo Musetti - Round 4 - 1 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001961/1745998664841553_ATP1000_MutuaMadridOpen25_round4_DeMinaur_vs_Musetti_30apr_tv_bg.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Park Manzanares, Madrid",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746053703~acl=/*~id=h~hmac=61525cad472c3c130d7976f78aa03f8616871f9e415c47981dc5af9c0858ec46"
-    },
-    {
         "id": "sl1090477290",
         "isLive": false,
         "event": "Athletic Club vs Man United - UEFA Europa League 2024-25",
