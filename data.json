@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039360~acl=/*~id=h~hmac=fdf863ff89cce942aa91daf1d29b3414c1c8cf22c4d93699c2461fb6d86e7629"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039660~acl=/*~id=h~hmac=748f5d5682b35cd676da81c4a0060dba81b37a67ce791b9e4873cb722c967fc5"
     },
     {
         "id": "sl1090477319",
@@ -27,7 +27,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039360~acl=/*~id=h~hmac=fdf863ff89cce942aa91daf1d29b3414c1c8cf22c4d93699c2461fb6d86e7629"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039661~acl=/*~id=h~hmac=597ed10e1d7563c5215bbbc2ab98b52c5ec7bf3cb4e13d35d4138d3dc8ce0beb"
     },
     {
         "id": "sl1090477307",
@@ -42,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039601~acl=/*~id=h~hmac=6bb3ce85dcb222b7ffb7c3d4ce878bac5da3cd94e99b1f10e2373368fc571011"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746039901~acl=/*~id=h~hmac=9d595725cce0d64e55de293d479c69d07cfe27421b9f5c25817d6bdbc37be158"
     },
     {
         "id": "sl1090477290",
