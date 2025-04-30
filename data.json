@@ -10,5 +10,17 @@
         "venue": null,
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD"
+    },
+    {
+        "id": "sl1090477291",
+        "isLive": false,
+        "event": "Tottenham vs Bodo/Glimt - UEFA Europa League 2024-25",
+        "match": "",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001931/1745922891683539_uel_Tottenham_vs_Bodo_Glimt_promo_29apr_tv_bg.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": null,
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD"
     }
 ]
