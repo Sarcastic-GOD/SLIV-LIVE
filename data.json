@@ -1,5 +1,35 @@
 [
     {
+        "id": "sl1090477318",
+        "isLive": true,
+        "event": "UEFA Champions League 2024-25",
+        "match": "Barcelona vs Inter - Semi-Final - 1st Leg - 1 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001718/1745383933293429_ucl25_SF_leg1_Barcelona_vs_Inter_23apr_tv_bg.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "Estadi Olímpic Lluís Companys",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746033661~acl=/*~id=h~hmac=1ee2cb5ed1613d1b3e43f84d3c98fceccb5b8c29b37afec3104c35b704909a3d"
+    },
+    {
+        "id": "sl1090477319",
+        "isLive": true,
+        "event": "UEFA Champions League 2024-25",
+        "match": "Barcelona vs Inter - Semi-Final - 1st Leg - 1 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001718/1745383933293429_ucl25_SF_leg1_Barcelona_vs_Inter_23apr_tv_bg.jpg",
+        "genre": "Football",
+        "language": "HIN",
+        "venue": "Estadi Olímpic Lluís Companys",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746033662~acl=/*~id=h~hmac=012ee36263b3b068e3dbd63278e8dfa428af34c3265009998645711c77c8254a"
+    },
+    {
         "id": "sl1090477307",
         "isLive": true,
         "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
@@ -12,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746033602~acl=/*~id=h~hmac=7d9f754a96a86aadeab2a91eaf4093e898efdaa0c08ebefb003ff677ae6c54a7"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1746033903~acl=/*~id=h~hmac=c82c116bc27daa6f3ac04190035d932788f873e8f83064f6151869c0fcb65885"
     },
     {
         "id": "sl1090477290",
