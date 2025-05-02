@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090478972",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "Heidenheim vs VfL Bochum - MD 32 - 2 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745843705158811_bliga2425_md32_Heidenheim_vs_VfL_Bochum_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Voith-Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event//master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8",
-        "Server3": ""
-    },
-    {
         "id": "sl1090478322",
         "isLive": false,
         "event": "RB Leipzig vs Bayern Munich",
