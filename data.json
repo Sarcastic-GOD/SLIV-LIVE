@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746208920~acl=/*~id=37738538267353645208155129739677~hmac=b2a15c47d57bbb0e64a17cbde0d10c5bde6b65f6ad768656b76c042262d5fd93"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746209102~acl=/*~id=47274478395870532906179907096780~hmac=5d46955401474bd70338518e65803f73f4c16352fee32cb71aa746782026ea7f"
     },
     {
         "id": "sl1090479025",
@@ -27,7 +27,22 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746208680~acl=/*~id=20811637775280448070692072008423~hmac=5fb15e7615bc6784f79c26dfe87ad837fce2e376d040c192cd338d0f9f714e02"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746208863~acl=/*~id=15451652498676297928331218624380~hmac=7b3ef362b71ed07ca00ae18266bf532cc732f64e3402755ce639c337b4c7d942"
+    },
+    {
+        "id": "sl1090478972",
+        "isLive": true,
+        "event": "Bundesliga 2024-25",
+        "match": "Heidenheim vs VfL Bochum - MD 32 - 2 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745843705158811_bliga2425_md32_Heidenheim_vs_VfL_Bochum_28apr_tv_bg.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "Voith-Arena",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746208863~acl=/*~id=37203519412455797402984963631336~hmac=cb23d790bbea3039219480dbebf60c6ce14280a2d800d39a06052fd235403a56"
     },
     {
         "id": "sl1090478322",
