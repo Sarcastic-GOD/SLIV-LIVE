@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479038",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
-        "match": "Jack Draper vs Lorenzo Musetti - Semi-Final - 2 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002048/1746174014704867_ATP1000_MutuaMadridOpen25_SF_draper_vs_musetti_2may_tv_bg.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Park Manzanares, Madrid",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746218221~acl=/*~id=99833101336068941681073800597613~hmac=142a1a2b16df3ea1faac02e2b82b7c41daf2859f85ecaea465ba5b7870255688"
-    },
-    {
         "id": "sl1090478972",
         "isLive": true,
         "event": "Bundesliga 2024-25",
@@ -27,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746218221~acl=/*~id=99833101336068941681073800597613~hmac=142a1a2b16df3ea1faac02e2b82b7c41daf2859f85ecaea465ba5b7870255688"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746218100~acl=/*~id=74694944758451720927687699170454~hmac=173d66f5a2e3afac4e47e7b3c2a283b675caf45416e07616cc2509644eaa4562"
     },
     {
         "id": "sl1090478322",
