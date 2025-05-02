@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746200462~acl=/*~id=12618684492912848898042061509193~hmac=14e40baad402816aab86f1aa0cdefc5cf1f3857956ce6816d4fe261b76122bd6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746200643~acl=/*~id=75435532448286558044390150533674~hmac=e4896006bac722a1cbe0ccefc5d3a9270e7dfa9c5195895c095a2043b6e412a3"
     },
     {
         "id": "sl1090478322",
@@ -33,6 +33,18 @@
         "match": "",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001976/1746019652640601_SPL2425_MD30_Al_Nassr_vs_Al_Ittihad_30apr_tv_bg.jpg",
         "genre": "Football",
+        "language": "ENG",
+        "venue": null,
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD"
+    },
+    {
+        "id": "sl1090478931",
+        "isLive": false,
+        "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
+        "match": "",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002050/1746179526463239_UFC_FN_Promo_tv_background.jpg",
+        "genre": "Fight Sports",
         "language": "ENG",
         "venue": null,
         "TVchannel": "Sony Sports Ten 2",
