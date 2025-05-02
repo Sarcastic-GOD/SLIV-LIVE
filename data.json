@@ -12,7 +12,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746213180~acl=/*~id=08791506996991420724824529334564~hmac=be9f7c958c36b86246377b6ff3e1615bfd9b66fc6e8fd9fb7eb0a836659987c2"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746213240~acl=/*~id=82705936917388581915512989695321~hmac=a363e3adede5627347d92abd87c9b26f1a36c57c5f8d909999ff700da2efcef5"
     },
     {
         "id": "sl1090479025",
@@ -27,7 +27,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746212940~acl=/*~id=75636825787875715049699463599746~hmac=5586f61dcffbb3bc153786839677d2b8b450ed546dc0e397146d242f5c52f04c"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746213001~acl=/*~id=31550985259626682251812024549120~hmac=1adb51be7e896964d6c068cc4ed9a72bb4dd8f7f3f078d8c15ff5d88ff88dc8d"
     },
     {
         "id": "sl1090478972",
@@ -42,7 +42,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746212940~acl=/*~id=32285748027864748352010805152404~hmac=cc8aee0bc74e69f4968e2cdced3f9c6ff7f9bb3f3e19016d9951643321cbd5bb"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746213001~acl=/*~id=62718121049663981592025603144400~hmac=84244af849e2913b03a7e8122df1b434cae7aaa5381fc323a71262be224ab42e"
     },
     {
         "id": "sl1090478322",
@@ -73,7 +73,7 @@
         "isLive": false,
         "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
         "match": "",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002065/1746209981133667_UFC_FN_Sandhagen_vs_Figueiredo_2may_tv_bg.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002050/1746179526463239_UFC_FN_Promo_tv_background.jpg",
         "genre": "Fight Sports",
         "language": "ENG",
         "venue": null,
