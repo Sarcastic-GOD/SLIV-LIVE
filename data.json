@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479000",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Mutua Madrid Open 2025",
-        "match": "Francisco Cerundolo vs Casper Ruud - Semi-Final - 2 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002048/1746173300794867_ATP1000_MutuaMadridOpen25_SF_cerundolo_vs_ruud_2may_tv_bg.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Park Manzanares, Madrid",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event//master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8",
-        "Server3": ""
-    },
-    {
         "id": "sl1090478322",
         "isLive": false,
         "event": "RB Leipzig vs Bayern Munich",
