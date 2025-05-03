@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479071",
-        "isLive": true,
-        "event": "ABB FIA Formula E World Championship 2024-25",
-        "match": "Round 6 - Monaco E-PRIX - Qualifying Race - 3 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002006/1746077172411573_ABBFEWC25_Round6_MonacoEPrix_QF_Race_1may_tv_bg.jpg",
-        "genre": "Racing",
-        "language": "ENG",
-        "venue": null,
-        "TVchannel": "Sony Sports Ten 1",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1746312546~acl=*~id=1556784483112233~hmac=df6b6b663bfe0e35b6d601ec639155bb4df62cf866c587f7a20f90a67474ebef"
-    },
-    {
         "id": "sl1090478931",
         "isLive": false,
         "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
