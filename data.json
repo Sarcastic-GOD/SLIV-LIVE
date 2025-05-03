@@ -2,26 +2,28 @@
     {
         "id": "sl1090478322",
         "isLive": false,
-        "event": "RB Leipzig vs Bayern Munich",
+        "event": "Upcoming: RB Leipzig vs Bayern Munich",
         "match": "",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001974/1746015525449659_bliga2425_md32_leipzig_vs_bayern_30apr_tv_bg.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": null,
         "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD"
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/08bf4aa74da94be4ba959dd498b8f294/1745906504/baseline-std-v4/1090478322_29042025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090478932",
         "isLive": false,
-        "event": "Al-Nassr vs Al-Ittihad - Roshn Saudi League 2024-25",
+        "event": "Upcoming: Al-Nassr vs Al-Ittihad - Roshn Saudi League 2024-25",
         "match": "",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001976/1746019652640601_SPL2425_MD30_Al_Nassr_vs_Al_Ittihad_30apr_tv_bg.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": null,
         "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD"
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b3189e6e1c6a4cf4ac5299dd32c2bc23/1745968755/baseline-std-v4/PROMO_RSL_AL_NASSR_vs_AL_ITTIHAD_30_SEC_H_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090478931",
@@ -33,6 +35,7 @@
         "language": "ENG",
         "venue": null,
         "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD"
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/694c9a3d03ee4c40b5d3aa34b33e30e5/1746177993/baseline-std-v4/PROMO_UFC_EFN187_30sec_APP_eng_baseline-800300010.mpd"
     }
 ]
