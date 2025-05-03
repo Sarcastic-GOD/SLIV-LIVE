@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479075",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "RB Leipzig vs Bayern Munich - MD 32 - 3 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745844538748811_bliga2425_md32_RB_Leipzig_vs_Bayern_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Red Bull Arena Leipzig",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445-b/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea"
-    },
-    {
         "id": "sl1090479073",
         "isLive": true,
         "event": "Bundesliga 2024-25",
@@ -28,51 +13,6 @@
         "Server1": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea"
-    },
-    {
-        "id": "sl1090479074",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "Union Berlin vs Werder Bremen - MD 32 - 3 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745843983252811_bliga2425_md32_Union_Berlin_vs_Werder_Bremen_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Alte Forsterei",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea"
-    },
-    {
-        "id": "sl1090479077",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "Borussia M'Gladbach vs Hoffenheim - MD 32 - 3 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745844253208811_bliga2425_md32_Mgladbach_vs_Hoffenheim_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Borussia-Park",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea"
-    },
-    {
-        "id": "sl1090479078",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "St. Pauli VfB Stuttgart - MD 32 - 3 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745844771479811_bliga2425_md32_St_Pauli_vs_VfB_Stuttgart_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Millerntor-Stadion",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746325149~acl=*~id=1556784483112233~hmac=1faef0340b4383b6530977a4e196e640e9ca7d95d53e3b4e583e18859fc01aea"
     },
     {
         "id": "sl1090478931",
