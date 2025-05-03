@@ -15,6 +15,19 @@
         "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746299750~acl=*~id=1556784483112233~hmac=fe04c7c5c38fa69f5e30cd1f403da88f359a58de8cf605007590be00b58f4b10"
     },
     {
+        "id": "sl1090478931",
+        "isLive": false,
+        "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
+        "match": "",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002065/1746209981133667_UFC_FN_Sandhagen_vs_Figueiredo_2may_tv_bg.jpg",
+        "genre": "Fight Sports",
+        "language": "ENG",
+        "venue": null,
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/694c9a3d03ee4c40b5d3aa34b33e30e5/1746177993/baseline-std-v4/PROMO_UFC_EFN187_30sec_APP_eng_baseline-800300010.mpd"
+    },
+    {
         "id": "sl1090478322",
         "isLive": false,
         "event": "Upcoming: RB Leipzig vs Bayern Munich",
@@ -39,18 +52,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b3189e6e1c6a4cf4ac5299dd32c2bc23/1745968755/baseline-std-v4/PROMO_RSL_AL_NASSR_vs_AL_ITTIHAD_30_SEC_H_APP_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090478931",
-        "isLive": false,
-        "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
-        "match": "",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002065/1746209981133667_UFC_FN_Sandhagen_vs_Figueiredo_2may_tv_bg.jpg",
-        "genre": "Fight Sports",
-        "language": "ENG",
-        "venue": null,
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/694c9a3d03ee4c40b5d3aa34b33e30e5/1746177993/baseline-std-v4/PROMO_UFC_EFN187_30sec_APP_eng_baseline-800300010.mpd"
     }
 ]
