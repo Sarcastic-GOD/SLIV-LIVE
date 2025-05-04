@@ -15,21 +15,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746426778~acl=*~id=1556784483112233~hmac=d66681e75cba4bc6e99c3c827c3813eab65ce4f1ceaaa8cf11f2e0a8e8634a91"
     },
     {
-        "id": "sl1090479105",
-        "isLive": true,
-        "event": "Bundesliga 2024-25",
-        "match": "Mainz vs Eintracht Frankfurt - MD 32 - 4 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001913/1745846945601811_bliga2425_md32_Mainz_vs_Frankfurt_28apr_tv_bg.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Mewa Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1746426778~acl=*~id=1556784483112233~hmac=d66681e75cba4bc6e99c3c827c3813eab65ce4f1ceaaa8cf11f2e0a8e8634a91"
-    },
-    {
         "id": "sl1090478932",
         "isLive": false,
         "event": "Upcoming: Al-Nassr vs Al-Ittihad - Roshn Saudi League 2024-25",
