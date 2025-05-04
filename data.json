@@ -1,16 +1,18 @@
 [
     {
-        "id": "sl1090478931",
-        "isLive": false,
-        "event": "Upcoming: UFC Fight Night - Sandhagen vs Figueiredo",
-        "match": "",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002065/1746209981133667_UFC_FN_Sandhagen_vs_Figueiredo_2may_tv_bg.jpg",
+        "id": "sl1090479145",
+        "isLive": true,
+        "event": "UFC Fight Night - Sandhagen vs Figueiredo",
+        "match": "UFC Fight Night - Sandhagen vs Figueiredo - 4 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002075/1746209981133389_UFC_FN_Sandhagen_vs_Figueiredo_2may_tv_bg.jpg",
         "genre": "Fight Sports",
         "language": "ENG",
         "venue": null,
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/694c9a3d03ee4c40b5d3aa34b33e30e5/1746177993/baseline-std-v4/PROMO_UFC_EFN187_30sec_APP_eng_baseline-800300010.mpd"
+        "Server1": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1746363212~acl=*~id=1556784483112233~hmac=735d0151360fee19a2b7fa7763e177c4167332d97c5dec0167ffc6ff86824478"
     },
     {
         "id": "sl1090478932",
