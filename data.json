@@ -1,35 +1,5 @@
 [
     {
-        "id": "sl1090479086",
-        "isLive": true,
-        "event": "UEFA Champions League 2024-25",
-        "match": "Inter vs Barcelona - Semi-Final - 2nd Leg - 7 May 2025 | ENG",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745886182580622_UCL25_SF_leg2_Inter_vs_Barcelona_29apr_live_landscape_thumb_eng.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "San Siro",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1746618995~acl=*~id=1556784483112233~hmac=fb7c491948c6c3c475dee6c410ac93e1e700cffe3bb2a49076fe7f7544f76bc0"
-    },
-    {
-        "id": "sl1090479090",
-        "isLive": true,
-        "event": "UEFA Champions League 2024-25",
-        "match": "Inter vs Barcelona - Semi-Final - 2nd Leg - 7 May 2025 | HIN",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745886210724622_UCL25_SF_leg2_Inter_vs_Barcelona_29apr_live_landscape_thumb_multilang.jpg",
-        "genre": "Football",
-        "language": "HIN",
-        "venue": "San Siro",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1746618995~acl=*~id=1556784483112233~hmac=fb7c491948c6c3c475dee6c410ac93e1e700cffe3bb2a49076fe7f7544f76bc0"
-    },
-    {
         "id": "sl1090478932",
         "isLive": false,
         "event": "Roshn Saudi League 2024-25",
