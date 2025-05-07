@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745888250206622_UCL25_SF_leg2_PSG_vs_Arsenal_29apr_live_landscape_thumb_english.jpg" group-title="SonyLIV",PSG vs Arsenal - Semi-Final - 2nd Leg - 8 May 2025 | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745888277027622_UCL25_SF_leg2_PSG_vs_Arsenal_29apr_live_landscape_thumb_multilang.jpg" group-title="SonyLIV",PSG vs Arsenal - Semi-Final - 2nd Leg - 8 May 2025 | HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001959/1745985927120198_SPL_MD30_Al_Nassr_vs_Al_Ittihad_landscape_thumb_Live.jpg" group-title="SonyLIV",Al-Nassr vs Al-Ittihad - MD 30 - 7 May 2025 | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
@@ -11,9 +14,6 @@ https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516540729568_ATP_Rome_Open_25_Rd1_landscape_thumb_Live.jpg" group-title="SonyLIV",Day 1 - 7 May 2025 | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745888277027622_UCL25_SF_leg2_PSG_vs_Arsenal_29apr_live_landscape_thumb_multilang.jpg" group-title="SonyLIV",PSG vs Arsenal - Semi-Final - 2nd Leg - 8 May 2025 | HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002168/1746469479215668_manu-vs-athletic-club-UEL_promo_5may_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Man United vs Athletic Club | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/c0f1435b93d24da49a69bd7a3e70609a/1746465874/baseline-std-v4/PROMO_UEL_Man_United_vs_Athletic_Club_40SEC_H_APP_eng_baseline-800300010.mpd
