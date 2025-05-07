@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516540729568_ATP_Rome_Open_25_Rd1_landscape_thumb_Live.jpg" group-title="SonyLIV",Day 1 - 7 May 2025 | ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001957/1745973201057368_PROMO_RSL_AL_NASSR_vs_AL_ITTIHAD_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Al-Nassr vs Al-Ittihad | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/b3189e6e1c6a4cf4ac5299dd32c2bc23/1745968755/baseline-std-v4/PROMO_RSL_AL_NASSR_vs_AL_ITTIHAD_30_SEC_H_APP_eng_baseline-800300010.mpd
