@@ -13,6 +13,32 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/f884a58caddb48d482c0377546a9336c/1746177988/baseline-std-v4/PROMO_UFC_UFC315_30sec_APP_eng_baseline-800300010.mpd"
     },
     {
+        "id": "sl1090479220",
+        "isLive": false,
+        "event": "Bayern Munich vs Borussia M'gladbach",
+        "match": "Upcoming: Bayern Munich vs Borussia M'gladbach | ENG",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002168/1746469446220668_bayern-vs-monchengladbach_promo_5may_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/36e21812461d4d1fad59085ec58e178a/1746468961/baseline-std-v4/PROMO_Bayern_V_Borussia_35SEC_H_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090479219",
+        "isLive": false,
+        "event": "Bayer Leverkusen vs Borussia Dortmund",
+        "match": "Upcoming: Bayer Leverkusen vs Borussia Dortmund | ENG",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002168/1746469538852668_leverkusen-vs-bvb-bundesliga_promo_5may_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cb5f0a17d849494090ccef5149e092e9/1746469010/baseline-std-v4/PROMO_Leverkusen_V_Dortmund_35SEC_H_APP_eng_baseline-800300010.mpd"
+    },
+    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
