@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002309/1746752110176434_Trailer_saudikingscup2025_final_eng_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Al-Ittihad vs Al-Qadsiah | ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/f0b9ef99d2f54576a1944f2eaf2b8405/1746751637/baseline-std-v4/Trailer_saudikingscup2025_final_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002050/1746179317555239_UFC_315_promo_landcape.jpg" group-title="SonyLIV",Upcoming: UFC 315 | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f884a58caddb48d482c0377546a9336c/1746177988/baseline-std-v4/PROMO_UFC_UFC315_30sec_APP_eng_baseline-800300010.mpd
