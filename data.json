@@ -28,21 +28,6 @@
         "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82"
     },
     {
-        "id": "sl1090479350",
-        "isLive": true,
-        "event": "Hyundai Archery World Cup 2025",
-        "match": "Compound Team Finals - 10 May 2025 | ENG",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002323/1746790380000107_ArcheryWC_Central_Shanghai25_compound_team_finals_9may_live_landscape_thumb.jpg",
-        "genre": "Sport",
-        "language": "ENG",
-        "venue": "Yuanshen Sports Centre Stadium, Shanghai",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82"
-    },
-    {
         "id": "sl1090479220",
         "isLive": false,
         "event": "Bayern Munich vs Borussia M'gladbach",
