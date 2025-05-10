@@ -55,9 +55,9 @@
         "venue": "Alte Forsterei",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769"
+        "Server1": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
+        "Server2": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
+        "Server3": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769"
     },
     {
         "id": "sl1090479349",
@@ -85,9 +85,9 @@
         "venue": "Vonovia Ruhrstadion",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769"
+        "Server1": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
+        "Server2": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769",
+        "Server3": "?hdnea=exp=1746937437~acl=*~id=1556784483112233~hmac=1217585a46b4167006c142c1710d4762ad974958e60dd8eb55fefe5d18484769"
     },
     {
         "id": "sl1090477398",
