@@ -23,9 +23,9 @@
         "venue": "Namseoul Country Club, Seoul",
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746886818~acl=*~id=1556784483112233~hmac=5b431d9625d1e35559f6d67c8cd7a87d8674d26c404035fe87e7a4cb486d3dde",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746886818~acl=*~id=1556784483112233~hmac=5b431d9625d1e35559f6d67c8cd7a87d8674d26c404035fe87e7a4cb486d3dde",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746886818~acl=*~id=1556784483112233~hmac=5b431d9625d1e35559f6d67c8cd7a87d8674d26c404035fe87e7a4cb486d3dde"
+        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82",
+        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82",
+        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82"
     },
     {
         "id": "sl1090479350",
@@ -40,7 +40,7 @@
         "MaxResolution": "FHD",
         "Server1": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1746886818~acl=*~id=1556784483112233~hmac=5b431d9625d1e35559f6d67c8cd7a87d8674d26c404035fe87e7a4cb486d3dde"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1746899546~acl=*~id=1556784483112233~hmac=c688021fbf344cfec48591471a73f809bd48f11b12fdef7085c21ba3d3a99f82"
     },
     {
         "id": "sl1090479220",
