@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002050/1746179317555239_UFC_315_promo_landcape.jpg" group-title="SonyLIV",Upcoming: UFC 315 | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f884a58caddb48d482c0377546a9336c/1746177988/baseline-std-v4/PROMO_UFC_UFC315_30sec_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002323/1746790380000107_ArcheryWC_Central_Shanghai25_compound_team_finals_9may_live_landscape_thumb.jpg" group-title="SonyLIV",Compound Team Finals - 10 May 2025 | ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002168/1746469446220668_bayern-vs-monchengladbach_promo_5may_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Borussia M'gladbach | ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/36e21812461d4d1fad59085ec58e178a/1746468961/baseline-std-v4/PROMO_Bayern_V_Borussia_35SEC_H_APP_eng_baseline-800300010.mpd
