@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479341",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Internazionali BNL d’Italia - Rome 2025",
-        "match": "Day 4 - 10 May 2025 | ENG",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516497749568_ATP_Rome_Open_25_Rd2_landscape_thumb_Live.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Foro Italico, Rome",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746950049~acl=*~id=1556784483112233~hmac=89d082a498430d7ca86506b766252a97f9c865dba15b4524af0b6b2832cd6438"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
