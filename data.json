@@ -1,35 +1,5 @@
 [
     {
-        "id": "sl1090479499",
-        "isLive": true,
-        "event": "UFC 315",
-        "match": "UFC 315 - Muhammad vs Della Maddalena - 11 May 2025 | ENG",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002313/1746770695116335_UFC315_ENG_9may_Landscape_thumb_live.jpg",
-        "genre": "Fight Sports",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1746988291~acl=*~id=1556784483112233~hmac=d340c2963c7b152e80902823026f59956c520df4ee29491c5380e3ce9809578b"
-    },
-    {
-        "id": "sl1090479498",
-        "isLive": true,
-        "event": "UFC 315",
-        "match": "UFC 315 - Muhammad vs Della Maddalena - 11 May 2025 | HIN",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002313/1746770671734335_UFC315_Multilang_9may_Landscape_thumb_live.jpg",
-        "genre": "Fight Sports",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1746988291~acl=*~id=1556784483112233~hmac=d340c2963c7b152e80902823026f59956c520df4ee29491c5380e3ce9809578b"
-    },
-    {
         "id": "sl1090479500",
         "isLive": true,
         "event": "Hyundai Archery World Cup 2025",
