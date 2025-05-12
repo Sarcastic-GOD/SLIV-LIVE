@@ -1,20 +1,5 @@
 [
     {
-        "id": "sl1090479568",
-        "isLive": true,
-        "event": "Roshn Saudi League 2024-25",
-        "match": "Al-Okhdood vs Al-Nassr - MD 31 - 12 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002288/1746734579298551_SPL2425_MD31_Al_Okhdood_vs_Al_Nassr_8may_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Prince Hathloul bin Abdulaziz Sports City",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1747127633~acl=*~id=1556784483112233~hmac=d54371970f60468043a6fc8e79fadf09ae34b790236aa1f188605db1e665bd28"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
