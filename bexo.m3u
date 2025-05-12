@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002387/1747029547716350_pROMO_rsl_12052025_landscape.jpg" group-title="SonyLIV",Upcoming: Al-Okhdood vs Al-Nassr- Roshn Saudi League 2024-25
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/promo/DASH/31e445fcd9e34fb389a0aafec2dfd80f/1747028541/baseline-std-v4/PROMO_RSL_AL_OKHDOOD_vs_AL_NASSR_30_SEC_H_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1745585764/baseline-std-v4/RG_2025_55_SEC_Promo_eng_baseline-800300010.mpd
