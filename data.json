@@ -15,21 +15,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1747115010~acl=*~id=1556784483112233~hmac=a365914d719878f5d541b580afeb48abf43fac56e59bcfb0dd92ac5ff036ed2c"
     },
     {
-        "id": "sl1090479550",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Internazionali BNL d’Italia - Rome 2025",
-        "match": "Round 3 - 12 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516317211568_ATP_Rome_Open_25_Rd3_landscape_thumb_Live.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Foro Italico, Rome",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "Server1": "?hdnea=exp=1747115010~acl=*~id=1556784483112233~hmac=a365914d719878f5d541b580afeb48abf43fac56e59bcfb0dd92ac5ff036ed2c",
-        "Server2": "?hdnea=exp=1747115010~acl=*~id=1556784483112233~hmac=a365914d719878f5d541b580afeb48abf43fac56e59bcfb0dd92ac5ff036ed2c",
-        "Server3": "?hdnea=exp=1747115010~acl=*~id=1556784483112233~hmac=a365914d719878f5d541b580afeb48abf43fac56e59bcfb0dd92ac5ff036ed2c"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
