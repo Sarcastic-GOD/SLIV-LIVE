@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002478/174722457400754_ATP_Rome_Open_25_QF_Musetti_vs_Zverev_landscape_thumb_live.jpg" group-title="SonyLIV",Musetti vs Zverev - Quarter-Final - 15 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1747305697~acl=*~id=1556784483112233~hmac=eb2b1727251331dc1ce3504c7d15a7dc9c2abcefe71f75858955dde2f90c08e9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747230761/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd
