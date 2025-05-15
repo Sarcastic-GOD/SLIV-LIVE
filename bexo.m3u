@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002500/1747299315832445_ATP_Rome_Open_25_QF_Hurkacz_vs_Paul_Landscape_thumb_live.jpg" group-title="SonyLIV",Hurkacz vs Paul - Quarter-Final - 15 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747230761/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd
