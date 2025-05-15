@@ -39,5 +39,18 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8aa59e44802d4e388388d71663207ee4/1746790721/baseline-std-v4/PROMO_FA_CUP_FINAL_30_SEC_H_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090479596",
+        "isLive": false,
+        "event": "UEFA Europa League 2024-25",
+        "match": "Upcoming: Tottenham vs Manchester United",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002413/1747072542989583_tott-vs-man-u_promo_12may_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6a567834d0674816ba9f529e34384139/1747068998/baseline-std-v4/PROMO_UEL_FINAL_40_SEC_HOR_APP_eng_baseline-800300010.mpd"
     }
 ]
