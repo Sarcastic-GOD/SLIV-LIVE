@@ -10,9 +10,9 @@
         "venue": "Foro Italico, Rome",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1747459292~acl=*~id=1556784483112233~hmac=924e1403e2c9a411d91d00d6ec33c1afaba8b048b2a9d6f2f2bceb44070bbbac"
+        "Server1": "?hdnea=exp=1747459292~acl=*~id=1556784483112233~hmac=924e1403e2c9a411d91d00d6ec33c1afaba8b048b2a9d6f2f2bceb44070bbbac",
+        "Server2": "?hdnea=exp=1747459292~acl=*~id=1556784483112233~hmac=924e1403e2c9a411d91d00d6ec33c1afaba8b048b2a9d6f2f2bceb44070bbbac",
+        "Server3": "?hdnea=exp=1747459292~acl=*~id=1556784483112233~hmac=924e1403e2c9a411d91d00d6ec33c1afaba8b048b2a9d6f2f2bceb44070bbbac"
     },
     {
         "id": "sl1090479654",
