@@ -52,5 +52,18 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747230761/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090479756",
+        "isLive": false,
+        "event": "Roshn Saudi League 2024-25",
+        "match": "Upcoming: Al-Nassr vs Al-Taawoun",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002538/1747403004855958_Alnassr-vs-Al-Tawoon_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/650aef422b2c449c9936fcea643fea5c/1747402580/baseline-std-v4/PROMO_RSL_AL_NASSR_vs_A_TAAWOUN_30_SEC_H_APP_eng_baseline-800300010.mpd"
     }
 ]
