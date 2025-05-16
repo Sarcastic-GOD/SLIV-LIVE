@@ -30,19 +30,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1747472000~acl=*~id=1556784483112233~hmac=d6af588722fc65aef38c6de16b8415b6b8519e9c87966d9280a99fc869f9f506"
     },
     {
-        "id": "sl1090479438",
-        "isLive": false,
-        "event": "The Emirates FA Cup 2024-25",
-        "match": "Upcoming: Crystal Palace vs Man City",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002325/1746792604085264_Crystal-Palace-vs-Man-City-Final_9may_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8aa59e44802d4e388388d71663207ee4/1746790721/baseline-std-v4/PROMO_FA_CUP_FINAL_30_SEC_H_APP_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090479596",
         "isLive": false,
         "event": "UEFA Europa League 2024-25",
