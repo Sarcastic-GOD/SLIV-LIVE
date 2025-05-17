@@ -26,6 +26,21 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747230761/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd"
     },
     {
+        "id": "sl1090479656",
+        "isLive": true,
+        "event": "ABB FIA Formula E World Championship 2024-25",
+        "match": "Round 8 - Tokyo E-Prix - Qualifying Race - 17 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002517/174732478579945_ABBFEWC25_Round8_TokyoEPrix_Qualifying_Race_15may_landscape_thumb.jpg",
+        "genre": "Racing",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 1",
+        "MaxResolution": "FHD",
+        "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1747484792~acl=*~id=1556784483112233~hmac=45593602f8c86db4dc5bc59e5250eb6ffdab925f35448ea3c1f19073b9b9ea86"
+    },
+    {
         "id": "sl1090479594",
         "isLive": false,
         "event": "Hoffenheim vs Bayern Munich",
