@@ -25,9 +25,9 @@
         "venue": "Wembley Stadium",
         "TVchannel": "Sony Sports Ten 1",
         "MaxResolution": "FHD",
-        "Server1": "?hdnea=exp=1747548209~acl=*~id=1556784483112233~hmac=bf6344f46966a345bf39ed9533dcd73fd8e4ad72a20a2acdecc6163e70d64aa6",
-        "Server2": "?hdnea=exp=1747548209~acl=*~id=1556784483112233~hmac=bf6344f46966a345bf39ed9533dcd73fd8e4ad72a20a2acdecc6163e70d64aa6",
-        "Server3": "?hdnea=exp=1747548209~acl=*~id=1556784483112233~hmac=bf6344f46966a345bf39ed9533dcd73fd8e4ad72a20a2acdecc6163e70d64aa6"
+        "Server1": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1747548209~acl=*~id=1556784483112233~hmac=bf6344f46966a345bf39ed9533dcd73fd8e4ad72a20a2acdecc6163e70d64aa6"
     },
     {
         "id": "sl1090477398",
@@ -41,18 +41,5 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090479596",
-        "isLive": false,
-        "event": "UEFA Europa League 2024-25",
-        "match": "Upcoming: Tottenham vs Manchester United",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002413/1747072542989583_tott-vs-man-u_promo_12may_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6a567834d0674816ba9f529e34384139/1747068998/baseline-std-v4/PROMO_UEL_FINAL_40_SEC_HOR_APP_eng_baseline-800300010.mpd"
     }
 ]
