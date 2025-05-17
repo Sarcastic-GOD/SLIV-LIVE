@@ -1,5 +1,20 @@
 [
     {
+        "id": "sl1090479781",
+        "isLive": true,
+        "event": "UFC Fight Night - Burns vs Morales",
+        "match": "UFC Fight Night - Burns vs Morales - 18 May 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002573/1747488098936309_UFC_Fight_Night_Burns_vs_Morales_17may_multilang_landscape_thumb.jpg",
+        "genre": "Fight Sports",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "Server1": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1747561190~acl=*~id=1556784483112233~hmac=fd454c3790cd20a2b3964fc7ab4cfe7c4742ba8f8ef64ee9c1a2558c945278e9"
+    },
+    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
