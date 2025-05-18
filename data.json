@@ -13,19 +13,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/72f1a04bf9a3472d82357753d121955d/1746533737/baseline-std-v4/ATP_HOR_30_SEC_APP_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090477398",
-        "isLive": false,
-        "event": "Roland-Garros 2025",
-        "match": "Upcoming: Roland-Garros 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090479701",
         "isLive": true,
         "event": "ABB FIA Formula E World Championship 2024-25",
@@ -39,5 +26,18 @@
         "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141-b/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1747586604~acl=*~id=1556784483112233~hmac=06a005b23e54dd3d7f418b65bf466092e9beb36edbe8b68285018cbf37ea3882"
+    },
+    {
+        "id": "sl1090477398",
+        "isLive": false,
+        "event": "Roland-Garros 2025",
+        "match": "Upcoming: Roland-Garros 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd"
     }
 ]
