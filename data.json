@@ -23,9 +23,9 @@
         "venue": "N/A",
         "TVchannel": "Sony Sports Ten 1",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141-b/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3"
+        "Server1": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3",
+        "Server2": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3",
+        "Server3": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3"
     },
     {
         "id": "sl1090477398",
