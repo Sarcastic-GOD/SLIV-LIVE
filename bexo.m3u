@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002555/1747429388056714_ATP1000_ItalianOpen25_final_Sinner_vs_Alcaraz_17may_landscape_thumb.jpg" group-title="SonyLIV",Jannik Sinner vs Carlos Alcaraz - Final - 18 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1747637290~acl=*~id=1556784483112233~hmac=36d4b44a9a721ffa2b3ad9f3599b670421873a6dfa727406d0a6b51486dc99ad
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd
