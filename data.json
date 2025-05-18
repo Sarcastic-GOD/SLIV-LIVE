@@ -13,21 +13,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/72f1a04bf9a3472d82357753d121955d/1746533737/baseline-std-v4/ATP_HOR_30_SEC_APP_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090479701",
-        "isLive": true,
-        "event": "ABB FIA Formula E World Championship 2024-25",
-        "match": "Round 9 - Tokyo E-Prix - Final Race - 18 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002517/174732498447845_ABBFEWC25_Round9_TokyoEPrix_final_Race_15may_landscape_thumb.jpg",
-        "genre": "Racing",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 1",
-        "MaxResolution": "FHD",
-        "Server1": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3",
-        "Server2": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3",
-        "Server3": "?hdnea=exp=1747599274~acl=*~id=1556784483112233~hmac=81a765c583670f1c63b4627b0d271e1285b76584278e4f2890e89bcc4d2eccb3"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
