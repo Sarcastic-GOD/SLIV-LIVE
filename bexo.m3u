@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002189/1746535228412156_ATP_Rome_Promo_thumb.jpg" group-title="SonyLIV",Upcoming: ATP Masters 1000
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/72f1a04bf9a3472d82357753d121955d/1746533737/baseline-std-v4/ATP_HOR_30_SEC_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002517/174732498447845_ABBFEWC25_Round9_TokyoEPrix_final_Race_15may_landscape_thumb.jpg" group-title="SonyLIV",Round 9 - Tokyo E-Prix - Final Race - 18 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg" group-title="SonyLIV",Upcoming: Roland-Garros 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/e9ff6c19b24a4a458c089369a664d3c0/1747463920/baseline-std-v4/RG_2025_60_SEC_HOR_APP_REV_eng_baseline-800300010.mpd
