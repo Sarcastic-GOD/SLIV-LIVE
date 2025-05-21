@@ -45,21 +45,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4"
     },
     {
-        "id": "sl1090479866",
-        "isLive": true,
-        "event": "Roshn Saudi League 2024-25",
-        "match": "Al-Wehda vs Al-Hilal - MD 33 - 21 May 2025",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002544/1747409078611399_SPL2425_MD33_Al_Wehda_vs_Al_Hilal_16may_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Prince Abdullah Al Faisal Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "Server1": "?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4",
-        "Server2": "?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4",
-        "Server3": "?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
