@@ -55,9 +55,9 @@
         "venue": "Al -Awwal Park",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1747891818~acl=*~id=1556784483112233~hmac=e04014d2bbbb6dc51bcb617685771bed0cd3ddd20e66baeaa8332e4d321aff16"
+        "Server1": "?hdnea=exp=1747891818~acl=*~id=1556784483112233~hmac=e04014d2bbbb6dc51bcb617685771bed0cd3ddd20e66baeaa8332e4d321aff16",
+        "Server2": "?hdnea=exp=1747891818~acl=*~id=1556784483112233~hmac=e04014d2bbbb6dc51bcb617685771bed0cd3ddd20e66baeaa8332e4d321aff16",
+        "Server3": "?hdnea=exp=1747891818~acl=*~id=1556784483112233~hmac=e04014d2bbbb6dc51bcb617685771bed0cd3ddd20e66baeaa8332e4d321aff16"
     },
     {
         "id": "sl1090479866",
