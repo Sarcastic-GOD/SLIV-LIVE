@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002719/174785999617373_uel25_final_Tottenham_vs_Man_United_eng_20may_landscape_thumb_re1.jpg" group-title="SonyLIV",Tottenham vs Man United - Final - 22 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002719/174786001317373_uel25_final_Tottenham_vs_Man_United_multilang_20may_landscape_thumb_re1.jpg" group-title="SonyLIV",Tottenham vs Man United - Final - 22 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1747904602~acl=*~id=1556784483112233~hmac=010054fd503a5318502518a21f141b81511bfaa5501105d7f8eaa262fa0855e4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002641/1747661791247612_eng-vs-zim_landscape.jpg" group-title="SonyLIV",Upcoming: Zimbabwe Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/69545062226f4db1809da216d5f4cf83/1747663638/baseline-std-v4/PROMO_England_vs_Zimbabwe_15_SEC_HOR_APP_eng_baseline-800300010.mpd
