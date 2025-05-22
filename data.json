@@ -41,5 +41,18 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/60580fe9ad3f48ba90b819b7bce61de9/1747750909/baseline-std-v4/PROMO_RG_2025_INTERNATIONAL_70_SEC_H_APP_REV_2_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090479919",
+        "isLive": false,
+        "event": "Norway Chess 2025",
+        "match": "Upcoming: Norway Chess 2025",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002655/1747734545149344_Promo-_Norway_Chess_landscape.jpg",
+        "genre": "CHESS",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e4393b1e1b9d463786abeef8ed5413ca/1747737936/baseline-std-v4/Promo_Chess_2025_H_60_Sec_APP_eng_baseline-800300010.mpd"
     }
 ]
