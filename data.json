@@ -17,6 +17,23 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748069872~acl=*~id=1556784483112233~hmac=28742508b46f6392edf1d08200d011d71b230d6e2a35d4a3073a3c1ba3dd711d"
     },
     {
+        "id": "sl1090480014",
+        "isLive": true,
+        "event": "West Indies Women Tour of England 2025",
+        "match": "2nd T20I - 23 May 2025",
+        "Provider": "ENGLAND AND WALES CRICKET",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002755/174790097709393_ENG_W_vs_WI_W_2t20i_22may_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "County Ground, Hove",
+        "TVchannel": "Sony Sports Ten 1",
+        "MaxResolution": "FHD",
+        "SeoTags": "West Indies Women vs England Women cricket match, West Indies Women vs England Women cricket match highlights, cricket match, cricket, cricket hightlights, cricket match highlights, cricket championship",
+        "Server1": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1748069872~acl=*~id=1556784483112233~hmac=28742508b46f6392edf1d08200d011d71b230d6e2a35d4a3073a3c1ba3dd711d"
+    },
+    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
