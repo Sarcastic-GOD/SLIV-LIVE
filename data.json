@@ -17,23 +17,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748057204~acl=*~id=1556784483112233~hmac=42c2df72a88bd1f8067c8ec4dd6f0376328156a9e92315c01c5205aff3e0ebff"
     },
     {
-        "id": "sl1090479943",
-        "isLive": true,
-        "event": "Road To UFC",
-        "match": "Episode 4 - Season 4 - 23 May 2025",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002784/1747977587010136_RTUFC_S4_EP4_23may_clean_Landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": " press conference, UFC Fight Night embedded, UFC Fight Night, UFC news, UFC Fight Night media day, UFC Fight Night face offs, UFC Fight Night countdown, UFC Fight Night live, UFC Fight Night odds, UFC Fight Night picks, UFC Fight Night stream, UFC Fight Night preview, UFC fight pass, UFC Fight Night best bets, UFC Fight Night faceoffs, UFC Fight Night highlights, UFC Fight Night staredowns, UFC Fight Night predictions, UFC press, UFC weigh in, UFC weigh ins, UFC fight night, UFC fight, UFC live, UFC upcoming fights, UFC event, UFC next fight, upcoming UFC events, UFC fight card, UFC live stream, UFC match, fight night, UFC fights today",
-        "Server1": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1748057204~acl=*~id=1556784483112233~hmac=42c2df72a88bd1f8067c8ec4dd6f0376328156a9e92315c01c5205aff3e0ebff"
-    },
-    {
         "id": "sl1090477398",
         "isLive": false,
         "event": "Roland-Garros 2025",
