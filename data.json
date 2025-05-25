@@ -1,33 +1,18 @@
 [
     {
-        "id": "sl1090477398",
+        "id": "sl1090479899",
         "isLive": false,
-        "event": "Roland-Garros 2025",
-        "match": "Upcoming: Roland-Garros 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002802/174800886000061_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP6.jpg",
-        "genre": "Tennis",
+        "event": "UEFA Champions League 2024-25",
+        "match": "Upcoming: PSG vs Inter Milan",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002856/1748166273340512_ucl25_final_psg_vs_inter_25may_dated_promo_landscape_thumb.jpg",
+        "genre": "Football",
         "language": "ENG",
         "venue": "N/A",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "SeoTags": "Watch Roland Garros 2025 online,The Roland Garros 2025 online streaming,Roland Garros 2025 highlights,Roland Garros 2025 matches,watch Roland Garros 2025 games,live Roland Garros 2025 match score,Roland Garros 2025 games scores,watch Roland Garros 2025 match online,watch Roland Garros 2025 games online,Roland Garros 2025 match highlights,Roland Garros 2025 Live Streaming,Roland Garros,Roland Garros 2025,French Open,French Open 2025",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/60580fe9ad3f48ba90b819b7bce61de9/1748065349/baseline-std-v4/PROMO_RG_2025_INTERNATIONAL_70_SEC_H_APP_REV_2_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090479919",
-        "isLive": false,
-        "event": "Norway Chess 2025",
-        "match": "Upcoming: Norway Chess 2025",
-        "Provider": "TOWER AS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002655/1747734545149344_Promo-_Norway_Chess_landscape.jpg",
-        "genre": "CHESS",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "LIV",
-        "MaxResolution": "FHD",
-        "SeoTags": "Norway Chess 2025,Norway Chess tournament,Norway Chess Stavanger,Norway Chess live updates,Norway Chess results,Norway Chess standings,Norway Chess schedule,Norway Chess prize money,Norway Chess Armageddon format,Norway Chess grandmasters,Norway Chess elite players,Norway Chess classical games,Norway Chess rapid games,Norway Chess blitz games,Norway Chess streaming,Norway Chess commentary,Norway Chess analysis,Norway Chess chess rankings,Norway Chess chess news,Norway Chess chess predictions,Norway Chess chess history,Norway Chess chess experts,Norway Chess chess insights,Norway Chess chess records,Magnus Carlsen,Hikaru Nakamura,Gukesh Dommaraju,Arjun Erigaisi,Fabiano Caruana,Wei Yi,Ju Wenjun,Anna Muzychuk,Koneru Humpy,Lei Tingjie,Vaishali Rameshbabu,Sara Khadem",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e4393b1e1b9d463786abeef8ed5413ca/1747995511/baseline-std-v4/Promo_Chess_2025_H_60_Sec_APP_eng_baseline-800300010.mpd"
+        "SeoTags": "Watch UEFA Champions League 2022-23 online,UEFA Champions League 2020 online streaming,UEFA Champions League 2021 highlights,UEFA Champions League 2021,UEFA Champions League,UEFA Champions League 2024-25",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/fa7fdd3d43834ac2a85531065a9537e0/1747672274/baseline-std-v4/PROMO_UCL_FINAL_H_50_Sec_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090480125",
@@ -43,5 +28,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "Watch UEFA Champions League 2022-23 online,UEFA Champions League 2020 online streaming,UEFA Champions League 2021 highlights,UEFA Champions League 2021,UEFA Champions League,UEFA Champions League 2024-25,Chelsea vs Shamrock Rovers,UEFA Europa Conference League,UEFA Europa Conference League trailer",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/43d1a4fa9b84485fba613f0ee19709cf/1748027173/baseline-std-v4/PROMO_UECL_FINAL_24052025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090479919",
+        "isLive": false,
+        "event": "Norway Chess 2025",
+        "match": "Upcoming: Norway Chess 2025",
+        "Provider": "TOWER AS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002655/1747734545149344_Promo-_Norway_Chess_landscape.jpg",
+        "genre": "CHESS",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "Norway Chess 2025,Norway Chess tournament,Norway Chess Stavanger,Norway Chess live updates,Norway Chess results,Norway Chess standings,Norway Chess schedule,Norway Chess prize money,Norway Chess Armageddon format,Norway Chess grandmasters,Norway Chess elite players,Norway Chess classical games,Norway Chess rapid games,Norway Chess blitz games,Norway Chess streaming,Norway Chess commentary,Norway Chess analysis,Norway Chess chess rankings,Norway Chess chess news,Norway Chess chess predictions,Norway Chess chess history,Norway Chess chess experts,Norway Chess chess insights,Norway Chess chess records,Magnus Carlsen,Hikaru Nakamura,Gukesh Dommaraju,Arjun Erigaisi,Fabiano Caruana,Wei Yi,Ju Wenjun,Anna Muzychuk,Koneru Humpy,Lei Tingjie,Vaishali Rameshbabu,Sara Khadem",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e4393b1e1b9d463786abeef8ed5413ca/1747995511/baseline-std-v4/Promo_Chess_2025_H_60_Sec_APP_eng_baseline-800300010.mpd"
     }
 ]
