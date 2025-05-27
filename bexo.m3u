@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002932/1748264170916991_Norway_Chess_round2_gen_26may_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 27 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002856/1748166273340512_ucl25_final_psg_vs_inter_25may_dated_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: PSG vs Inter Milan
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fa7fdd3d43834ac2a85531065a9537e0/1747672274/baseline-std-v4/PROMO_UCL_FINAL_H_50_Sec_APP_eng_baseline-800300010.mpd
