@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002932/1748264178566991_Norway_Chess_round3_gen_26may_landscape_thumb.jpg" group-title="SonyLIV",Round 3 - 28 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002871/1748180811919808_uecl25_final_real_betis_vs_chelsea_25may_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Real Betis vs Chelsea
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/43d1a4fa9b84485fba613f0ee19709cf/1748027173/baseline-std-v4/PROMO_UECL_FINAL_24052025_eng_baseline-800300010.mpd
