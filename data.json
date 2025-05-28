@@ -63,9 +63,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea="
+        "Server1": "?hdnea=",
+        "Server2": "?hdnea=",
+        "Server3": "?hdnea="
     },
     {
         "id": "sl1090480409",
