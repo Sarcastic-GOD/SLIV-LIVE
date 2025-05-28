@@ -68,23 +68,6 @@
         "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8?hdnea="
     },
     {
-        "id": "sl1090479637",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Simonne Mathieu - 28 May 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003094/1748419167118658_RG25_round2_Rybakina_vs_Jovic_28may_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Simonne Mathieu",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "?hdnea=",
-        "Server2": "?hdnea=",
-        "Server3": "?hdnea="
-    },
-    {
         "id": "sl1090479642",
         "isLive": true,
         "event": "Roland-Garros 2025",
