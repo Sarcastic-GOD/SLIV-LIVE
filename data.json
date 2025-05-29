@@ -14,24 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748599082~acl=/*~id=18382617940180392921781581378692~hmac=27025bac6ea8aa7a8dec7365182a87b4c0069f02f2f8c22fb0bffbdbadae3cb5"
-    },
-    {
-        "id": "sl1090479637",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Simonne Mathieu - 30 May 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003072/1748407343613424_RG25_round2_Simonne_Mathieu_Court_28may_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Simonne Mathieu",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748599082~acl=/*~id=18382617940180392921781581378692~hmac=27025bac6ea8aa7a8dec7365182a87b4c0069f02f2f8c22fb0bffbdbadae3cb5"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748599323~acl=/*~id=25274603911879687651810223940024~hmac=9f13e708babc1de94613b93d0f26f033a1bf5d35f35052c083cfc15bd7ca605b"
     },
     {
         "id": "sl1090479635",
@@ -48,6 +31,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748599082~acl=/*~id=18382617940180392921781581378692~hmac=27025bac6ea8aa7a8dec7365182a87b4c0069f02f2f8c22fb0bffbdbadae3cb5"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748599323~acl=/*~id=25274603911879687651810223940024~hmac=9f13e708babc1de94613b93d0f26f033a1bf5d35f35052c083cfc15bd7ca605b"
     }
 ]
