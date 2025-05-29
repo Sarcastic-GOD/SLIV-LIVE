@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748597642~acl=/*~id=47070166265276386494863717484909~hmac=0258ea17d077daf880e1e09470baec66e60803319a3751ca67e69ed04d679fab"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748597761~acl=/*~id=60032922103560799922125298950089~hmac=adc0b5633023e1691e6afc13f04b12f0654ae6fcab16f835d352eb6c5bde9c92"
     },
     {
         "id": "sl1090479637",
@@ -31,7 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748597642~acl=/*~id=47070166265276386494863717484909~hmac=0258ea17d077daf880e1e09470baec66e60803319a3751ca67e69ed04d679fab"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748597761~acl=/*~id=60032922103560799922125298950089~hmac=adc0b5633023e1691e6afc13f04b12f0654ae6fcab16f835d352eb6c5bde9c92"
     },
     {
         "id": "sl1090479635",
@@ -48,6 +48,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748597642~acl=/*~id=47070166265276386494863717484909~hmac=0258ea17d077daf880e1e09470baec66e60803319a3751ca67e69ed04d679fab"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748597761~acl=/*~id=60032922103560799922125298950089~hmac=adc0b5633023e1691e6afc13f04b12f0654ae6fcab16f835d352eb6c5bde9c92"
     }
 ]
