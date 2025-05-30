@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003311/174860121943264_eng_lions_vs_ind_a_1st_tour_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Test - 30 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748644923~acl=/*~id=03466357170980478174378032049457~hmac=b3f9a37a2e3dc48fe077556ac8fc0201d9bb10ed04b9aeca20fb22e612d8862a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558186000915_RG25_rd3_Musetti_vs_Navone_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Navone - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
