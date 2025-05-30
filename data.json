@@ -14,7 +14,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748640487~acl=/*~id=75589278338859896637113341294052~hmac=8cfae4a75bc76349ad02ca559f5751885f74a7f543d6c391c05522696b3972c4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
+    },
+    {
+        "id": "sl1090479641",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Philippe Chatrier - 30 May 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558186000915_RG25_rd3_Sabalenka_vs_Danilovic_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "Philippe Chatrier",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
     },
     {
         "id": "sl1090479637",
@@ -31,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748640487~acl=/*~id=75589278338859896637113341294052~hmac=8cfae4a75bc76349ad02ca559f5751885f74a7f543d6c391c05522696b3972c4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
     },
     {
         "id": "sl1090479638",
@@ -48,7 +65,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748640487~acl=/*~id=75589278338859896637113341294052~hmac=8cfae4a75bc76349ad02ca559f5751885f74a7f543d6c391c05522696b3972c4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
     },
     {
         "id": "sl1090479642",
@@ -65,7 +82,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8??hdnea=exp=1748640487~acl=/*~id=75589278338859896637113341294052~hmac=8cfae4a75bc76349ad02ca559f5751885f74a7f543d6c391c05522696b3972c4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
     },
     {
         "id": "sl1090479640",
@@ -82,6 +99,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748640487~acl=/*~id=75589278338859896637113341294052~hmac=8cfae4a75bc76349ad02ca559f5751885f74a7f543d6c391c05522696b3972c4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748640604~acl=/*~id=85618286323301070709108135474666~hmac=eca9e9ee50a111335bc1c073c991592e6ad0f22ee58f406ad031656541b48f89"
     }
 ]
