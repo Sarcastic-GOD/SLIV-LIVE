@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748656441~acl=/*~id=58533046119213512876779691649262~hmac=cb21ac3b662942f5103a5a982ef2ba79be48dcad0b4310f788a07a11d2ae1785
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748656561~acl=/*~id=45520613071162379548657274589707~hmac=445014dc7e20df9cbb2d293df843d2227e1772045198526ccbe9ca33e825704d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748656441~acl=/*~id=58533046119213512876779691649262~hmac=cb21ac3b662942f5103a5a982ef2ba79be48dcad0b4310f788a07a11d2ae1785
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003241/1748527524128600_RG25_R2_Mens_Doubles_Venus_Mektic_vs_Bhambri_Galloway_29may_landscape_thumb.jpg" group-title="SonyLIV",Venus/ Mektic vs Bhambri/Galloway - Round 2 - 30 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/pIUnxAZhTe2SjDwDMTkQYA/master.m3u8
+??hdnea=exp=1748656561~acl=/*~id=45520613071162379548657274589707~hmac=445014dc7e20df9cbb2d293df843d2227e1772045198526ccbe9ca33e825704d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558184000915_RG25_rd3_Cristian_vs_Swiatek_landscape_thumb.jpg" group-title="SonyLIV",Cristian vs Swiatek - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
