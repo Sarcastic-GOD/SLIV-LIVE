@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748653322~acl=/*~id=28113138402253434295401875930348~hmac=2d79bf2e44b1a143362b097e422d1a203228b918578f1ca5f5559b7ea204e724
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748653442~acl=/*~id=29800868521365790031696407786635~hmac=2861b66cd8b2e51a1c8a243a3573ac863de53461e375363ff350451fd50f8d52
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748653322~acl=/*~id=28113138402253434295401875930348~hmac=2d79bf2e44b1a143362b097e422d1a203228b918578f1ca5f5559b7ea204e724
+??hdnea=exp=1748653442~acl=/*~id=29800868521365790031696407786635~hmac=2861b66cd8b2e51a1c8a243a3573ac863de53461e375363ff350451fd50f8d52
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003241/1748527524128600_RG25_R2_Mens_Doubles_Venus_Mektic_vs_Bhambri_Galloway_29may_landscape_thumb.jpg" group-title="SonyLIV",Venus/ Mektic vs Bhambri/Galloway - Round 2 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/pIUnxAZhTe2SjDwDMTkQYA/master.m3u8
@@ -23,6 +23,6 @@ https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Navone - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558184000915_RG25_rd3_Cristian_vs_Swiatek_landscape_thumb.jpg" group-title="SonyLIV",Suzanne Lenglen - 30 May 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558184000915_RG25_rd3_Cristian_vs_Swiatek_landscape_thumb.jpg" group-title="SonyLIV",Jaqueline Cristian vs Iga Swiatek - Women's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
