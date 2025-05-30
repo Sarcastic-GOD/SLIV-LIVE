@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003311/174860121943264_eng_lions_vs_ind_a_1st_tour_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748645283~acl=/*~id=03723643654351615590978033766147~hmac=fdf1c879fec8826fba917abd496a37d3921c990d4a42b64eb8a1a9960a5b8282
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748645402~acl=/*~id=14085981859973740880780065083498~hmac=48590d8cd40108a37ea9da3efc7d618002741679ede05d0fc3f865ba9628855f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003062/1748393506294473_RG25_round2_stream3_Generic_27may_live_Landscape_thumb.jpg" group-title="SonyLIV",Stream 3 - 30 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/pIUnxAZhTe2SjDwDMTkQYA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558186000915_RG25_rd3_Musetti_vs_Navone_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Navone - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
@@ -14,9 +17,6 @@ https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003290/1748558186000915_RG25_rd3_Tauson_vs_Anisimova_landscape_thumb.jpg" group-title="SonyLIV",Clara Tauson vs Amanda Anisimova - Women's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003062/1748393506294473_RG25_round2_stream3_Generic_27may_live_Landscape_thumb.jpg" group-title="SonyLIV",Stream 3 - 30 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/pIUnxAZhTe2SjDwDMTkQYA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Navone - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
