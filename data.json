@@ -4,7 +4,7 @@
         "isLive": true,
         "event": "Roland-Garros 2025",
         "match": "Stream 2 - 30 May 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg",
         "genre": "Tennis",
         "language": "ENG",
@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8??hdnea=exp=1748636881~acl=/*~id=80846798265749773092520779356440~hmac=39c8bec944d0ab80d967d59fe861d1459467b253fd42fc5a3e73b5d8917465c0"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8??hdnea=exp=1748636942~acl=/*~id=24724947759665935690648184814496~hmac=6e07faccfa34829806e1a75c8a1cc2b589f57a475ef10356460adc4baf218161"
     },
     {
         "id": "sl1090479635",
@@ -31,6 +31,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748636881~acl=/*~id=80846798265749773092520779356440~hmac=39c8bec944d0ab80d967d59fe861d1459467b253fd42fc5a3e73b5d8917465c0"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748636942~acl=/*~id=24724947759665935690648184814496~hmac=6e07faccfa34829806e1a75c8a1cc2b589f57a475ef10356460adc4baf218161"
     }
 ]
