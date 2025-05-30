@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090480636",
-        "isLive": true,
-        "event": "King's Cup 2024-25",
-        "match": "Al-Ittihad vs Al-Qadsiah - Final - 30 May 2025",
-        "Provider": "SAUDI PRO LEAGUE",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002175/1746518277968308_SaudiKingsCup2025_final_6may_Al_Ittihad_vs_Al_Qadsiah_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "King Abdullah Sports City Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "kings cup,king cup of champions games,saudi king's cup,kings cup saudi,saudi kings cup,kings cup saudi arebia,king cup of champions semi final,king's cup live,Live football scores,football clubs,Club football,Match highlights,football final,football fixtures,saudi league,football match highlights,Saudi Football League,Saudi Arabian football,saudi arabia cup,Saudi Football Teams,football league championship,Saudi Football News,king's cup football,international football cup,King’s Cup Trophy,King’s Cup Results,kings cup matches,saudi football tournament,saudi football fixtures,Karim Benzema,Al-Ittihad,Nacho Fernández,Jota,Moussa Diaby,Seko Fofana,Fabinho,Ever Banega,Abderrazak Hamdallah,Al-Shabab,Romarinho,Cristian Guanca,Al-Raed,Al-Qadsiah",
-        "Server1": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8??hdnea=exp=1748681402~acl=/*~id=15176678010529879194203280448967~hmac=4ce58de7bccacff37508840b7b2ab92b3a5ef7fb4ee2c659d0073336db042600"
-    },
-    {
         "id": "sl1090479641",
         "isLive": true,
         "event": "Roland-Garros 2025",
@@ -31,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748681402~acl=/*~id=15176678010529879194203280448967~hmac=4ce58de7bccacff37508840b7b2ab92b3a5ef7fb4ee2c659d0073336db042600"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748681522~acl=/*~id=37844935115055688355816573054302~hmac=e4f33bd8a5b20308550c15e72aa80b3b4aba96510dd07008f36d107e865b22e2"
     },
     {
         "id": "sl1090479635",
@@ -48,6 +31,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748681402~acl=/*~id=15176678010529879194203280448967~hmac=4ce58de7bccacff37508840b7b2ab92b3a5ef7fb4ee2c659d0073336db042600"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748681522~acl=/*~id=37844935115055688355816573054302~hmac=e4f33bd8a5b20308550c15e72aa80b3b4aba96510dd07008f36d107e865b22e2"
     }
 ]
