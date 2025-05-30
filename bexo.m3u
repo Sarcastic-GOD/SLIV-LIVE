@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748667722~acl=/*~id=95211763253868234900281487953572~hmac=714c41a7618e03c57e5436683917ea20f7aa18c46b69d77284337f34d6aaa7d1
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748667843~acl=/*~id=62807379588264656149594493556017~hmac=abbd911bb3685d1bd537aa7a628719573810fdd512db3ee64f66d6898fb7adee
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748667722~acl=/*~id=95211763253868234900281487953572~hmac=714c41a7618e03c57e5436683917ea20f7aa18c46b69d77284337f34d6aaa7d1
+??hdnea=exp=1748667843~acl=/*~id=62807379588264656149594493556017~hmac=abbd911bb3685d1bd537aa7a628719573810fdd512db3ee64f66d6898fb7adee
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003296/174858549116284_RG25_round3_Tiafoe_vs_Korda_30may_landscape_thumb.jpg" group-title="SonyLIV",Rybakina vs Ostapenko - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003292/1748582486535297_RG25_round3_Paolini_vs_Starodubtseva_30may_landscape_thumb.jpg" group-title="SonyLIV",Philippe Chatrier - 30 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003292/1748580540337297_RG25_round3_Shelton_vs_Gigante_30may_landscape_thumb.jpg" group-title="SonyLIV",Ben Shelton vs Matteo Gigante - Men's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
