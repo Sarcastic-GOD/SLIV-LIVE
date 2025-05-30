@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748665681~acl=/*~id=23555032106692025813616221531145~hmac=531db0ffbafe19c197720248761486166729c14eb24eb815cc19346887ce2bab
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748665801~acl=/*~id=43377539725030601964858267768602~hmac=be9914158ce3f7fc9eb3a0082fb2ab2139cea7940eecf826b9705c833a5626ba
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748665681~acl=/*~id=23555032106692025813616221531145~hmac=531db0ffbafe19c197720248761486166729c14eb24eb815cc19346887ce2bab
+??hdnea=exp=1748665801~acl=/*~id=43377539725030601964858267768602~hmac=be9914158ce3f7fc9eb3a0082fb2ab2139cea7940eecf826b9705c833a5626ba
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003292/1748581450005297_RG25_round3_Rybakina_vs_Ostapenko_30may_landscape_thumb.jpg" group-title="SonyLIV",Rybakina vs Ostapenko - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
