@@ -1,13 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748669520~acl=/*~id=85986072511507490353713570699081~hmac=ce42c63c4884d59c3cf7709c53913bc9c4f0a17e1afec6af9011d0742b9697b5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002175/1746518277968308_SaudiKingsCup2025_final_6may_Al_Ittihad_vs_Al_Qadsiah_Landscape_thumb.jpg" group-title="SonyLIV",Al-Ittihad vs Al-Qadsiah - Final - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748669520~acl=/*~id=85986072511507490353713570699081~hmac=ce42c63c4884d59c3cf7709c53913bc9c4f0a17e1afec6af9011d0742b9697b5
+??hdnea=exp=1748669641~acl=/*~id=60365413783038974699476269221638~hmac=ee80ff455f3294555239ee78933605e28115eab90f537510313ecaf15e6d6716
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003296/174858549116284_RG25_round3_Tiafoe_vs_Korda_30may_landscape_thumb.jpg" group-title="SonyLIV",Stream 1 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
@@ -16,7 +13,7 @@ https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517669180478_RG25_round3_Court14_29may_landscape_thumb.jpg" group-title="SonyLIV",Hamad Medjedovic vs Daniel Altmaier - Men's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748669520~acl=/*~id=85986072511507490353713570699081~hmac=ce42c63c4884d59c3cf7709c53913bc9c4f0a17e1afec6af9011d0742b9697b5
+https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Frances Tiafoe vs Sebastian Korda - Men's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
