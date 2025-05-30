@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748667483~acl=/*~id=25375301896214542750190773622851~hmac=299a7184ca1fa27501a8bf0d211d02f228d4fb6ef7506307981b8f1165d81bae
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748667605~acl=/*~id=87307623980832978382082668686394~hmac=e088ddc2e97d8506f0772bde7085d799720a5a30cf28a236f24e6cf83d351d9a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748667483~acl=/*~id=25375301896214542750190773622851~hmac=299a7184ca1fa27501a8bf0d211d02f228d4fb6ef7506307981b8f1165d81bae
+??hdnea=exp=1748667605~acl=/*~id=87307623980832978382082668686394~hmac=e088ddc2e97d8506f0772bde7085d799720a5a30cf28a236f24e6cf83d351d9a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003296/174858549116284_RG25_round3_Tiafoe_vs_Korda_30may_landscape_thumb.jpg" group-title="SonyLIV",Rybakina vs Ostapenko - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
@@ -20,6 +20,6 @@ https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Stream 2 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Suzanne Lenglen - 30 May 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Frances Tiafoe vs Sebastian Korda - Men's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
