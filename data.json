@@ -14,7 +14,7 @@
         "SeoTags": "kings cup,king cup of champions games,saudi king's cup,kings cup saudi,saudi kings cup,kings cup saudi arebia,king cup of champions semi final,king's cup live,Live football scores,football clubs,Club football,Match highlights,football final,football fixtures,saudi league,football match highlights,Saudi Football League,Saudi Arabian football,saudi arabia cup,Saudi Football Teams,football league championship,Saudi Football News,king's cup football,international football cup,King’s Cup Trophy,King’s Cup Results,kings cup matches,saudi football tournament,saudi football fixtures,Karim Benzema,Al-Ittihad,Nacho Fernández,Jota,Moussa Diaby,Seko Fofana,Fabinho,Ever Banega,Abderrazak Hamdallah,Al-Shabab,Romarinho,Cristian Guanca,Al-Raed,Al-Qadsiah",
         "Server1": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8??hdnea=exp=1748680082~acl=/*~id=42014303091355223211293182070848~hmac=4971ce85f8c259ea001111586b7ecd4f7d38d6bca83841f226395d9c8de04026"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8??hdnea=exp=1748680202~acl=/*~id=24829556636380781940331100062602~hmac=3bb09e6ec377fb4838d0d36534565083b137842a58aa36ea41db56d9525884c7"
     },
     {
         "id": "sl1090479641",
@@ -31,24 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748680082~acl=/*~id=42014303091355223211293182070848~hmac=4971ce85f8c259ea001111586b7ecd4f7d38d6bca83841f226395d9c8de04026"
-    },
-    {
-        "id": "sl1090479638",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Court  14 - 30 May 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003243/1748528505251759_RG25_R2_Mens_Doubles_Reboul_Doumbia_vs_Bopanna_Pavlasek_29may_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Court  14",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748680082~acl=/*~id=42014303091355223211293182070848~hmac=4971ce85f8c259ea001111586b7ecd4f7d38d6bca83841f226395d9c8de04026"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748680202~acl=/*~id=24829556636380781940331100062602~hmac=3bb09e6ec377fb4838d0d36534565083b137842a58aa36ea41db56d9525884c7"
     },
     {
         "id": "sl1090479635",
@@ -65,13 +48,13 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748680082~acl=/*~id=42014303091355223211293182070848~hmac=4971ce85f8c259ea001111586b7ecd4f7d38d6bca83841f226395d9c8de04026"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748680202~acl=/*~id=24829556636380781940331100062602~hmac=3bb09e6ec377fb4838d0d36534565083b137842a58aa36ea41db56d9525884c7"
     },
     {
         "id": "sl1090479637",
         "isLive": true,
         "event": "Roland-Garros 2025",
-        "match": "Bernarda Pera vs Elina Svitolina - Women's Singles - 30 May 2025",
+        "match": "Simonne Mathieu - 30 May 2025",
         "Provider": "FEDERATION FRANCAISE DE TENNIS",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003295/1748583146809951_RG25_round3_Pera_vs_Svitolina_30may_landscape_thumb.jpg",
         "genre": "Tennis",
@@ -82,6 +65,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748680082~acl=/*~id=42014303091355223211293182070848~hmac=4971ce85f8c259ea001111586b7ecd4f7d38d6bca83841f226395d9c8de04026"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748680202~acl=/*~id=24829556636380781940331100062602~hmac=3bb09e6ec377fb4838d0d36534565083b137842a58aa36ea41db56d9525884c7"
     }
 ]
