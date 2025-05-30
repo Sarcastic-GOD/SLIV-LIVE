@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748663524~acl=/*~id=20771876441707796485641784450236~hmac=63f194ec5d5ea53c18856b9d5780f37ae34194d8317251787717832f47c971e4
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748663642~acl=/*~id=40387068009756405707249872805247~hmac=d3f511686f315ef0a97b52b310412c84c51dc22e48ffce767a3fe7b3541a752e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748663524~acl=/*~id=20771876441707796485641784450236~hmac=63f194ec5d5ea53c18856b9d5780f37ae34194d8317251787717832f47c971e4
+??hdnea=exp=1748663642~acl=/*~id=40387068009756405707249872805247~hmac=d3f511686f315ef0a97b52b310412c84c51dc22e48ffce767a3fe7b3541a752e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003292/1748581450005297_RG25_round3_Rybakina_vs_Ostapenko_30may_landscape_thumb.jpg" group-title="SonyLIV",Rybakina vs Ostapenko - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
@@ -17,7 +17,7 @@ https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517669180478_RG25_round3_Court14_29may_landscape_thumb.jpg" group-title="SonyLIV",Hamad Medjedovic vs Daniel Altmaier - Men's Singles - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Halys vs Rune - Round 3 - 30 May 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Stream 2 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Elena Rybakina vs Jelena Ostapenko - Women's Singles - 30 May 2025
