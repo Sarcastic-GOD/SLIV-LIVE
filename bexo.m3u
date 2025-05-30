@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748651760~acl=/*~id=26363044561035835470242383736199~hmac=4bb2723c34bb51e20e2baf09340b506f3df23df15eec2cd7066dae531412c1fa
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748651881~acl=/*~id=29255159892355008203541235671853~hmac=d9d56a70a88886ec22d23c37ec55cc270a6318ab802a9c85f525e283a0903426
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748651760~acl=/*~id=26363044561035835470242383736199~hmac=4bb2723c34bb51e20e2baf09340b506f3df23df15eec2cd7066dae531412c1fa
+??hdnea=exp=1748651881~acl=/*~id=29255159892355008203541235671853~hmac=d9d56a70a88886ec22d23c37ec55cc270a6318ab802a9c85f525e283a0903426
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003241/1748527524128600_RG25_R2_Mens_Doubles_Venus_Mektic_vs_Bhambri_Galloway_29may_landscape_thumb.jpg" group-title="SonyLIV",Venus/ Mektic vs Bhambri/Galloway - Round 2 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/pIUnxAZhTe2SjDwDMTkQYA/master.m3u8
@@ -23,6 +23,6 @@ https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Navone - Round 3 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Lorenzo Musetti vs Mariano Navone - Men's Singles - 30 May 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517707126478_RG25_round3_Suzanne_Lenglen_Court_29may_landscape_thumb.jpg" group-title="SonyLIV",Suzanne Lenglen - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
