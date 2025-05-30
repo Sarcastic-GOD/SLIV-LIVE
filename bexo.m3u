@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003315/1748602052504942_eng_lions_vs_ind_a_1st_unofficial_test_match_day1_30may_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 1st Unofficial Test - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748668082~acl=/*~id=37279850604570591896640759124789~hmac=af909ff95d85059f89b8500411f7b102877a99d980f1db38e5ecbb6b3ed4d0de
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8??hdnea=exp=1748668204~acl=/*~id=99366851413819560752118223979955~hmac=c782af082b10f3d1e4051cc6def6dc575f71cc905225c88ea03ec9f24270b77f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-??hdnea=exp=1748668082~acl=/*~id=37279850604570591896640759124789~hmac=af909ff95d85059f89b8500411f7b102877a99d980f1db38e5ecbb6b3ed4d0de
+??hdnea=exp=1748668204~acl=/*~id=99366851413819560752118223979955~hmac=c782af082b10f3d1e4051cc6def6dc575f71cc905225c88ea03ec9f24270b77f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003296/174858549116284_RG25_round3_Tiafoe_vs_Korda_30may_landscape_thumb.jpg" group-title="SonyLIV",Stream 1 - 30 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
