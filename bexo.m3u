@@ -2,3 +2,9 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003306/1748594015659474_ABBFEWC25_Round10_Honkook_Shanghai_EPrix_final_Race_30may_landscape_thumb.jpg" group-title="SonyLIV",Round 10 - Honkook Shanghai E-Prix - Final Race - 31 May 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517548921478_RG25_round3_stream1_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Stream 1 - 31 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003222/1748517539425478_RG25_round3_stream2_Generic_29may_landscape_thumb.jpg" group-title="SonyLIV",Stream 2 - 31 May 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
