@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748853724~acl=/*~id=65204824526558813114110629827867~hmac=fefa829dd06b6dc8d314c63bb80074c071a66d919cb078574c34ef3c49805f19"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748853841~acl=/*~id=01565256247548651472036341817554~hmac=53d30f8cf4f98e974fe6dc0c3f6f6756f9ec103ff5509bcd7891d0fd93a517c8"
     },
     {
         "id": "sl1090479639",
@@ -31,6 +31,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1748853724~acl=/*~id=65204824526558813114110629827867~hmac=fefa829dd06b6dc8d314c63bb80074c071a66d919cb078574c34ef3c49805f19"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1748853841~acl=/*~id=01565256247548651472036341817554~hmac=53d30f8cf4f98e974fe6dc0c3f6f6756f9ec103ff5509bcd7891d0fd93a517c8"
     }
 ]
