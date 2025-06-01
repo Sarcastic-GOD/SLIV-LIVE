@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748811604~acl=/*~id=03371438138468711180822563880783~hmac=6126de0d7c52b5421bfdafd4d0127cd333d8b72efea74b34f792901113b8a250"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748811723~acl=/*~id=96782280816974184788909605821884~hmac=5195f48a9693c407c09e17c459ab35b860fe84550623a0456a72d38a1faee497"
     },
     {
         "id": "sl1090479641",
@@ -31,7 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748811604~acl=/*~id=03371438138468711180822563880783~hmac=6126de0d7c52b5421bfdafd4d0127cd333d8b72efea74b34f792901113b8a250"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748811723~acl=/*~id=96782280816974184788909605821884~hmac=5195f48a9693c407c09e17c459ab35b860fe84550623a0456a72d38a1faee497"
     },
     {
         "id": "sl1090479638",
@@ -48,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748811604~acl=/*~id=03371438138468711180822563880783~hmac=6126de0d7c52b5421bfdafd4d0127cd333d8b72efea74b34f792901113b8a250"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748811723~acl=/*~id=96782280816974184788909605821884~hmac=5195f48a9693c407c09e17c459ab35b860fe84550623a0456a72d38a1faee497"
     },
     {
         "id": "sl1090479637",
@@ -65,24 +65,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748811604~acl=/*~id=03371438138468711180822563880783~hmac=6126de0d7c52b5421bfdafd4d0127cd333d8b72efea74b34f792901113b8a250"
-    },
-    {
-        "id": "sl1090479635",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Stream 1 - 1 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003420/1748692170766761_RG25_round4_stream1_Generic_31may_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8??hdnea=exp=1748811604~acl=/*~id=03371438138468711180822563880783~hmac=6126de0d7c52b5421bfdafd4d0127cd333d8b72efea74b34f792901113b8a250"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748811723~acl=/*~id=96782280816974184788909605821884~hmac=5195f48a9693c407c09e17c459ab35b860fe84550623a0456a72d38a1faee497"
     },
     {
         "id": "sl1090480409",
