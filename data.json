@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748812921~acl=/*~id=80209611904208729598830662150134~hmac=8a2775418a15ab044f661cebc72c71d383a0e1bfb4bda6655a0c2a3a120effe6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748813045~acl=/*~id=40238764030757490605590315854480~hmac=3019c392e10f590e85bed48a75d27aec6020fd45f961d0edfbd81707425f590a"
     },
     {
         "id": "sl1090479641",
@@ -31,7 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748812921~acl=/*~id=80209611904208729598830662150134~hmac=8a2775418a15ab044f661cebc72c71d383a0e1bfb4bda6655a0c2a3a120effe6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748813045~acl=/*~id=40238764030757490605590315854480~hmac=3019c392e10f590e85bed48a75d27aec6020fd45f961d0edfbd81707425f590a"
     },
     {
         "id": "sl1090479638",
@@ -48,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/YVANhttlRRCuWLwfC6U10w/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748812921~acl=/*~id=80209611904208729598830662150134~hmac=8a2775418a15ab044f661cebc72c71d383a0e1bfb4bda6655a0c2a3a120effe6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI41ME-V3/master_mdh.m3u8??hdnea=exp=1748813045~acl=/*~id=40238764030757490605590315854480~hmac=3019c392e10f590e85bed48a75d27aec6020fd45f961d0edfbd81707425f590a"
     },
     {
         "id": "sl1090479637",
@@ -65,21 +65,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748812921~acl=/*~id=80209611904208729598830662150134~hmac=8a2775418a15ab044f661cebc72c71d383a0e1bfb4bda6655a0c2a3a120effe6"
-    },
-    {
-        "id": "sl1090480409",
-        "isLive": false,
-        "event": "West Indies Tour of England 2025",
-        "match": "Upcoming: West Indies Tour of England 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "West Indies vs England cricket match,West Indies vs England cricket match highlights,cricket match,cricket,cricket hightlights,cricket match highlights,cricket championship",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748813045~acl=/*~id=40238764030757490605590315854480~hmac=3019c392e10f590e85bed48a75d27aec6020fd45f961d0edfbd81707425f590a"
     }
 ]
