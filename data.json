@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748937483~acl=/*~id=61029144701488149000744083874594~hmac=bec9a93dbcfbf36ed5cef4c7b59494bff8650549f708713295fa4dfa68ba8031"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748937604~acl=/*~id=89040911042700024667707565589370~hmac=e10b6c37088978b8b85cdfcbe93f25617449944991eab8e9e514ddec371a2d70"
     },
     {
         "id": "sl1090479639",
@@ -31,24 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1748937483~acl=/*~id=61029144701488149000744083874594~hmac=bec9a93dbcfbf36ed5cef4c7b59494bff8650549f708713295fa4dfa68ba8031"
-    },
-    {
-        "id": "sl1090479637",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Simonne Mathieu - 02 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003515/1748772503930461_RG25_round4_Simonne_Mathieu_Court_1jun_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Simonne Mathieu",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1748937483~acl=/*~id=61029144701488149000744083874594~hmac=bec9a93dbcfbf36ed5cef4c7b59494bff8650549f708713295fa4dfa68ba8031"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1748937604~acl=/*~id=89040911042700024667707565589370~hmac=e10b6c37088978b8b85cdfcbe93f25617449944991eab8e9e514ddec371a2d70"
     },
     {
         "id": "sl1090481954",
