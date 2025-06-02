@@ -14,6 +14,23 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1748892601~acl=/*~id=62654563215968649929659490783448~hmac=b5af6588c56ec0d5b3a7fe545a4c5c4c0d4975e335bcf1eb49c86769fdffe370"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1748892721~acl=/*~id=27072082731206882972197761066481~hmac=f52b86a9593d229804d87c6b7dda8e6651f2d9c0bee7d5c4aeb688c69728a4ac"
+    },
+    {
+        "id": "sl1090479635",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Stream 1 - 2 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003513/17487720423186_RG25_round4_stream1_1jun_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1748892721~acl=/*~id=27072082731206882972197761066481~hmac=f52b86a9593d229804d87c6b7dda8e6651f2d9c0bee7d5c4aeb688c69728a4ac"
     }
 ]
