@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8"
     },
     {
         "id": "sl1090479640",
@@ -29,9 +29,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8"
     },
     {
         "id": "sl1090479637",
@@ -46,24 +46,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1748992564~acl=/*~id=69830424390500718978233150767978~hmac=7dc73f388b22f91dff89f60886df5270d69cfbad78e009401311f45c69e7fd79"
-    },
-    {
-        "id": "sl1090480409",
-        "isLive": false,
-        "event": "West Indies Tour of England 2025",
-        "match": "Upcoming: West Indies Tour of England 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "West Indies vs England cricket match,West Indies vs England cricket match highlights,cricket match,cricket,cricket hightlights,cricket match highlights,cricket championship",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1748992682~acl=/*~id=34393564460590139845315507603040~hmac=ee9b0c36a79069b263fdf1aa1b349767fdb5e74cbf4fe1b5d73a77fdb1e725a8"
     },
     {
         "id": "sl1090481954",
