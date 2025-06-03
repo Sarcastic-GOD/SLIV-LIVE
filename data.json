@@ -14,7 +14,24 @@
         "SeoTags": "West Indies vs England 2025,England vs West Indies cricket series,West Indies England 2025 schedule,West Indies England live score,West Indies England match updates,West Indies England ODI series,West Indies England T20I series,West Indies England squads,West Indies England cricket news,West Indies England highlights,West Indies England streaming,West Indies England cricket stats,West Indies England fixtures,West Indies England pitch report,West Indies England player rankings,West Indies England cricket predictions,West Indies England head-to-head,West Indies England match preview,West Indies England cricket commentary,West Indies England latest results,West Indies England fantasy cricket,West Indies England cricket records,West Indies England team news,West Indies England match timings,West Indies England cricket insights,Harry Brook,Jos Buttler,Joe Root,Jofra Archer,Adil Rashid,Shai Hope,Shimron Hetmyer,Brandon King,Alzarri Joseph,Jayden Seales",
         "Server1": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db"
+    },
+    {
+        "id": "sl1090482096",
+        "isLive": true,
+        "event": "Norway Chess 2025",
+        "match": "Round 8 - 3 Jun 2025",
+        "Provider": "TOWER AS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776287988968_Norway_Chess_round8_gen_1jun_landscape_thumb.jpg",
+        "genre": "CHESS",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "watch norway chess 2025 online,the norway chess 2025 online streaming,asian tour 2025,norway chess 2025 matches,watch norway chess 2025 games,live norway chess 2025 match score,norway chess 2025 games scores,watch norway chess 2025 match online,watch norway chess 2025 games online,norway chess 2025 match highlights,norway chess 2025 live streaming,norway chess 2025 india,Gukesh Dommaraju,Magnus Carlsen,Wenjun Ju,Hikaru Nakamura,Arjun Erigaisi,Fabiano Caruana",
+        "Server1": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db"
     },
     {
         "id": "sl1090479641",
@@ -29,9 +46,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db"
     },
     {
         "id": "sl1090479639",
@@ -48,7 +65,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db"
     },
     {
         "id": "sl1090479637",
@@ -63,9 +80,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003243~acl=/*~id=32051769542657903675826554086132~hmac=03935726106ba9df52142f83636d6a8147a282eba5c552365be94743d1db3cc2"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749003364~acl=/*~id=27635000814980916551645897562748~hmac=1621f15886daf3378ac1c7ad0beb55791b872bb99ccc5d23abf7d7cd91e919db"
     },
     {
         "id": "sl1090481954",
