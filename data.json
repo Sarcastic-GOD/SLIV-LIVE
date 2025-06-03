@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server2": "??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server3": "?hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887"
+        "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88"
     },
     {
         "id": "sl1090479641",
@@ -29,9 +29,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88"
     },
     {
         "id": "sl1090479640",
@@ -46,9 +46,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88"
     },
     {
         "id": "sl1090479637",
@@ -63,9 +63,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887",
-        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1748983683~acl=/*~id=04833223791839504064234815268905~hmac=03d217dc47b0e8d1404e19e54f1daaa458968160d911425e1883fdb2b8c2c887"
+        "Server1": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server2": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8??hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88",
+        "Server3": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1748984282~acl=/*~id=73948298187660631834621842769979~hmac=1ae8fd79c5a6f22ac7bddbe408b50cd3012ec83113824a1e99c21ede3d386a88"
     },
     {
         "id": "sl1090480409",
