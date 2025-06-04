@@ -14,7 +14,7 @@
         "SeoTags": "West Indies Women vs England Women cricket match, West Indies Women vs England Women cricket match highlights, cricket match, cricket, cricket hightlights, cricket match highlights, cricket championship",
         "Server1": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749088681~acl=/*~id=96638849061869499164943568809392~hmac=7c6d38215148224d70fc547ecf18d25d133d89c2e4edc748aecca2c02a959650"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749088921~acl=/*~id=94706514183515679321143424480465~hmac=fa1cd9fce81205f4bfaa7feee9e81ccf50d6d77932378aa5d1ed40ac292f85c7"
     },
     {
         "id": "sl1090479641",
@@ -22,7 +22,7 @@
         "event": "Roland-Garros 2025",
         "match": "Philippe Chatrier - 04 Jun 2025",
         "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003656/1748939960622235_RG25_QF_Andreeva_vs_Boisson_3jun_eng_landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003659/1748943973881417_RG25_QF_Sinner_vs_Bublik_3jun_eng_landscape_thumb.jpg",
         "genre": "Tennis",
         "language": "ENG",
         "venue": "Philippe Chatrier",
@@ -31,7 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749088681~acl=/*~id=96638849061869499164943568809392~hmac=7c6d38215148224d70fc547ecf18d25d133d89c2e4edc748aecca2c02a959650"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749088921~acl=/*~id=94706514183515679321143424480465~hmac=fa1cd9fce81205f4bfaa7feee9e81ccf50d6d77932378aa5d1ed40ac292f85c7"
     },
     {
         "id": "sl1090479640",
@@ -48,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749088681~acl=/*~id=96638849061869499164943568809392~hmac=7c6d38215148224d70fc547ecf18d25d133d89c2e4edc748aecca2c02a959650"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749088921~acl=/*~id=94706514183515679321143424480465~hmac=fa1cd9fce81205f4bfaa7feee9e81ccf50d6d77932378aa5d1ed40ac292f85c7"
     },
     {
         "id": "sl1090479637",
@@ -65,7 +65,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749088681~acl=/*~id=96638849061869499164943568809392~hmac=7c6d38215148224d70fc547ecf18d25d133d89c2e4edc748aecca2c02a959650"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749088921~acl=/*~id=94706514183515679321143424480465~hmac=fa1cd9fce81205f4bfaa7feee9e81ccf50d6d77932378aa5d1ed40ac292f85c7"
+    },
+    {
+        "id": "sl1090479639",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Sinner vs Bublik - Quarterfinal - 4 Jun 2025 (Multi)",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003659/1748943984705417_RG25_QF_Sinner_vs_Bublik_3jun_multi_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 3",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749088921~acl=/*~id=94706514183515679321143424480465~hmac=fa1cd9fce81205f4bfaa7feee9e81ccf50d6d77932378aa5d1ed40ac292f85c7"
     },
     {
         "id": "sl1090481954",
