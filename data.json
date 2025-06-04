@@ -14,41 +14,7 @@
         "SeoTags": "West Indies Women vs England Women cricket match, West Indies Women vs England Women cricket match highlights, cricket match, cricket, cricket hightlights, cricket match highlights, cricket championship",
         "Server1": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749100081~acl=/*~id=07167847255817183743437528160036~hmac=e26e57adda7f8dd84dce0cb7cdd3b17b0d80b08b27e79bb46aa417347c06c631"
-    },
-    {
-        "id": "sl1090479639",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Stream 3 - 4 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003655/174893490044945_RG25_studio_show_live_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 3",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749100081~acl=/*~id=07167847255817183743437528160036~hmac=e26e57adda7f8dd84dce0cb7cdd3b17b0d80b08b27e79bb46aa417347c06c631"
-    },
-    {
-        "id": "sl1090479637",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Skupski N / Krawczyk D vs King E / Townsend T - Mixed Doubles - 04 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003732/1749034998073632_RG25_SF_mixed_doubles_krawczyk_skupski_vs_king_townsend_4jun_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Simonne Mathieu",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749100081~acl=/*~id=07167847255817183743437528160036~hmac=e26e57adda7f8dd84dce0cb7cdd3b17b0d80b08b27e79bb46aa417347c06c631"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749100201~acl=/*~id=62293008846831210523210365296594~hmac=5189745b57e60bd16d481bc7ccf716246ae63134f52ea710dccd1b5ac17007e5"
     },
     {
         "id": "sl1090481954",
