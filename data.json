@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "West Indies Women vs England Women cricket match, West Indies Women vs England Women cricket match highlights, cricket match, cricket, cricket hightlights, cricket match highlights, cricket championship",
-        "Server1": "??hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503",
-        "Server2": "??hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503",
-        "Server3": "?hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503"
+        "Server1": "??hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43",
+        "Server2": "??hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43",
+        "Server3": "?hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43"
     },
     {
         "id": "sl1090479641",
@@ -31,13 +31,13 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43"
     },
     {
         "id": "sl1090479640",
         "isLive": true,
         "event": "Roland-Garros 2025",
-        "match": "Suzanne Lenglen - 4 Jun 2025",
+        "match": "Suzanne Lenglen - 04 Jun 2025",
         "Provider": "FEDERATION FRANCAISE DE TENNIS",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003648/1748925067509395_RG25_QF_Suzanne_Lenglen_Court_3jun_landscape_thumb.jpg",
         "genre": "Tennis",
@@ -48,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43"
     },
     {
         "id": "sl1090479637",
@@ -65,7 +65,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749086641~acl=/*~id=50849686999385282393220204015206~hmac=081a10d93e02dc9693f5f469030b2a5797ac83de72e6b8fb1f783d73a2861503"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749086764~acl=/*~id=55503499848189958528753812633432~hmac=66abace29741e33cd58ae200c4587f406912868d3aafe63dc5181869bdb48c43"
     },
     {
         "id": "sl1090481954",
