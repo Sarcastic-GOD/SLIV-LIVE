@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090479639",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Zverev vs Djokovic - Quarterfinal - 4 Jun 2025 (Multi)",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003660/174894493023944_RG25_QF_Zverev_vs_Djokovic_3jun_multi_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 3",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749118926~acl=/*~id=58122836260994493849629058563493~hmac=7111f6704052aa56726a1956ff54432589b7ca9211309e79ea4bb00871823a1d"
-    },
-    {
         "id": "sl1090481957",
         "isLive": false,
         "event": "Spain vs France",
