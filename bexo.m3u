@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003658/1748942112840899_RG25_QF_Keys_vs_Gauff_3jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Philippe Chatrier - 4 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003648/1748925067509395_RG25_QF_Suzanne_Lenglen_Court_3jun_landscape_thumb.jpg" group-title="SonyLIV",Suzanne Lenglen - 4 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003648/1748925080975395_RG25_QF_Simonne_Mathieu_Court_3jun_landscape_thumb.jpg" group-title="SonyLIV",Simonne Mathieu - 4 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003655/174893490044945_RG25_studio_show_live_landscape_thumb.jpg" group-title="SonyLIV",Stream 1 - 4 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003598/1748865010492561_UNL25_SF_ger_vs_por_promo_landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f5f037133b95478494d2469f8a872f08/1748876737/baseline-std-v4/1090481954_02062025_eng_baseline-800300010.mpd
