@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003722/1749029124846536_UNL25_SF_spain_vs_france_4jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Spain vs France - Semi-final - 6 Jun 2025 
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003722/1749029094060536_UNL25_SF_spain_vs_france_4jun_multi_landscape_thumb.jpg" group-title="SonyLIV",Spain vs France - Semi-final - 6 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776295217968_Norway_Chess_round9_gen_1jun_landscape_thumb.jpg" group-title="SonyLIV",Round 9 - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037897880297_UEFA_INT_Friendlies_Belarus_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="SonyLIV",Belarus vs Kazakhstan - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749190685~acl=/*~id=15293000515187002523081430601847~hmac=1a1135ce3b5b156d3d91054162fa97a11f677f8aa08d3fccf16e1d8a1937a8a3
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749190926~acl=/*~id=28655250203382887949249441884754~hmac=829608a58a57a1f81e22968cdb9a73e8d1572317865b7355a8f36a9648d6e2bc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003806/1749114960085233_VB25_MIDDLESEXvsKEN_landscape_thumb.jpg" group-title="SonyLIV",Middlesex vs Kent - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
