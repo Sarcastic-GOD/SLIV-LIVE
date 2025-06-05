@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749162961~acl=/*~id=83123048595325517568944994844561~hmac=3ef14aaf1aedf64fd6d7d771bd302d9e966db8a13a9327290713aef287506940"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749163083~acl=/*~id=43321375949456925836746082191673~hmac=34baf714bc490cd37af0b510951ec05013a4ea1202ceecac9cf2fb55cbb57633"
     },
     {
         "id": "sl1090479639",
@@ -31,7 +31,41 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749162961~acl=/*~id=83123048595325517568944994844561~hmac=3ef14aaf1aedf64fd6d7d771bd302d9e966db8a13a9327290713aef287506940"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749163083~acl=/*~id=43321375949456925836746082191673~hmac=34baf714bc490cd37af0b510951ec05013a4ea1202ceecac9cf2fb55cbb57633"
+    },
+    {
+        "id": "sl1090479641",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "King E / Townsend T vs Vavassori A / Errani S - Mixed Doubles - 05 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003803/1749108976810446_RG25_final_mixed_doubles_Townsend_King_vs_errani_vavassori_5jun_eng_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "Philippe Chatrier",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749163083~acl=/*~id=43321375949456925836746082191673~hmac=34baf714bc490cd37af0b510951ec05013a4ea1202ceecac9cf2fb55cbb57633"
+    },
+    {
+        "id": "sl1090479639",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Townsend/King vs Errani/Vavassori - Final - 5 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003803/1749108966977446_RG25_final_mixed_doubles_Townsend_King_vs_errani_vavassori_5jun_multi_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 3",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749163083~acl=/*~id=43321375949456925836746082191673~hmac=34baf714bc490cd37af0b510951ec05013a4ea1202ceecac9cf2fb55cbb57633"
     },
     {
         "id": "sl1090481957",
