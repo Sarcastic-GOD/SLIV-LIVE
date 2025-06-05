@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776295217968_Norway_Chess_round9_gen_1jun_landscape_thumb.jpg" group-title="SonyLIV",Round 9 - 5 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037897880297_UEFA_INT_Friendlies_Belarus_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="SonyLIV",Belarus vs Kazakhstan - 5 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749184805~acl=/*~id=28581693441507041758241399160804~hmac=418e49fc8539dd691ba3aa66928b83b3c570cdd2b91a4b3325b43fa4ecb2bcbd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037092812297_UEFA_INT_Friendlies_Georgia_vs_Faroe_Island_4jun_landscape_thumb.jpg" group-title="SonyLIV",Georgia vs Faroe Islands - 5 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749184805~acl=/*~id=28581693441507041758241399160804~hmac=418e49fc8539dd691ba3aa66928b83b3c570cdd2b91a4b3325b43fa4ecb2bcbd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003796/1749103525766643_RG25_SF_Boisson_vs_Gauff_5jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Lois Boisson vs Coco Gauff - Women's Singles - 05 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003796/1749103512597643_RG25_SF_Boisson_vs_Gauff_5jun_multi_landscape_thumb.jpg" group-title="SonyLIV",Boisson vs Gauff - Semi-final - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003598/1748864940875561_UNL25_SF_spa_vs_fra_promo_landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/084c8b7f5b574ec29ccd93301abbffeb/1748876783/baseline-std-v4/1090481957_02062025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of England 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
