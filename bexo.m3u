@@ -2,9 +2,12 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776295217968_Norway_Chess_round9_gen_1jun_landscape_thumb.jpg" group-title="SonyLIV",Round 9 - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037897880297_UEFA_INT_Friendlies_Belarus_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="SonyLIV",Belarus vs Kazakhstan - 5 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749183603~acl=/*~id=69256636617203552917445251609738~hmac=01b7ab23293209c33045455c2229e38fa9db5cc17a6bd3ecf3d7b653cafebd79
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037092812297_UEFA_INT_Friendlies_Georgia_vs_Faroe_Island_4jun_landscape_thumb.jpg" group-title="SonyLIV",Georgia vs Faroe Islands - 5 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749183483~acl=/*~id=26660841359267511410358957715730~hmac=001e3455642319087654a9937c8dc8d1bb27d37da06edcdb8e3093704f87b8a5
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749183603~acl=/*~id=69256636617203552917445251609738~hmac=01b7ab23293209c33045455c2229e38fa9db5cc17a6bd3ecf3d7b653cafebd79
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003796/1749103525766643_RG25_SF_Boisson_vs_Gauff_5jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Lois Boisson vs Coco Gauff - Women's Singles - 05 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
