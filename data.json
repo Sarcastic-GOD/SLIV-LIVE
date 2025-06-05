@@ -14,7 +14,24 @@
         "SeoTags": "watch norway chess 2025 online,the norway chess 2025 online streaming,asian tour 2025,norway chess 2025 matches,watch norway chess 2025 games,live norway chess 2025 match score,norway chess 2025 games scores,watch norway chess 2025 match online,watch norway chess 2025 games online,norway chess 2025 match highlights,norway chess 2025 live streaming,norway chess 2025 india,Gukesh Dommaraju,Magnus Carlsen,Wenjun Ju,Hikaru Nakamura,Arjun Erigaisi,Fabiano Caruana",
         "Server1": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749179883~acl=/*~id=42860084623315778153998343019731~hmac=a04ebb91a04256e14f439322166be9d57607ac72762317ed25e1e439f3d29b8b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08"
+    },
+    {
+        "id": "sl1090481947",
+        "isLive": true,
+        "event": "UEFA International Friendlies",
+        "match": "Georgia vs Faroe Islands - 5 Jun 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037092812297_UEFA_INT_Friendlies_Georgia_vs_Faroe_Island_4jun_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "Boris Paichadze Dinamo Arena",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
+        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08",
+        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08",
+        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08"
     },
     {
         "id": "sl1090479641",
@@ -31,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749179883~acl=/*~id=42860084623315778153998343019731~hmac=a04ebb91a04256e14f439322166be9d57607ac72762317ed25e1e439f3d29b8b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08"
     },
     {
         "id": "sl1090479639",
@@ -48,7 +65,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749179883~acl=/*~id=42860084623315778153998343019731~hmac=a04ebb91a04256e14f439322166be9d57607ac72762317ed25e1e439f3d29b8b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749180003~acl=/*~id=38481580368355185507945121360181~hmac=7d963d716357123af8d3ca72ee4114c6419fdfe70833e55114569a30cb7d0c08"
     },
     {
         "id": "sl1090481957",
