@@ -14,6 +14,21 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1749158164~acl=/*~id=85729109133249994009407661251927~hmac=bac17431fda4bd4cc12c2140f41f3e57c3a32b0718f053d1ae641e11f41e9beb"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1749158288~acl=/*~id=97443869425553643609464513611697~hmac=3ff5238cc9459ce5b424dae2a391f506d22f7052f44edc853529dd0f4fbd6e04"
+    },
+    {
+        "id": "sl1090481957",
+        "isLive": false,
+        "event": "Spain vs France",
+        "match": "Upcoming: UEFA Nations League 2024-25",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003598/1748864940875561_UNL25_SF_spa_vs_fra_promo_landscape_Thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "watch UEFA Nations League 2024 online,The UEFA Nations League 2024 online streaming,UEFA Nations League 2024 highlights,UEFA Nations League 2024 matches,watch UEFA Nations League 2024 games,live UEFA Nations League 2024 match score,UEFA Nations League 2024 games scores,watch UEFA Nations League 2024 match online,watch UEFA Nations League 2024 games online,UEFA Nations League 2024 match highlights,UEFA Nations League 2024 Live Streaming",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/084c8b7f5b574ec29ccd93301abbffeb/1748876783/baseline-std-v4/1090481957_02062025_eng_baseline-800300010.mpd"
     }
 ]
