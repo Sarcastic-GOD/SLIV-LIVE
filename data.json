@@ -14,24 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749262681~acl=/*~id=39660922228320939857730576707212~hmac=fcef4f86b3652c0ed2e0197c414296e96434a0edbb1e8903dcc7c47a71b5cd20"
-    },
-    {
-        "id": "sl1090479640",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Suzanne Lenglen - 06 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003800/1749102379957792_RG25_SF_mens_doubles_Skupski_Salisbury_vs_King_Harrison_5jun_eng_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Suzanne Lenglen",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749262681~acl=/*~id=39660922228320939857730576707212~hmac=fcef4f86b3652c0ed2e0197c414296e96434a0edbb1e8903dcc7c47a71b5cd20"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749262803~acl=/*~id=79460936599414731637457384520760~hmac=d352f8335aeca5f09df7d6df81d82a8350d23435d0699a5447754206702f753b"
     },
     {
         "id": "sl1090479637",
@@ -48,7 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749262681~acl=/*~id=39660922228320939857730576707212~hmac=fcef4f86b3652c0ed2e0197c414296e96434a0edbb1e8903dcc7c47a71b5cd20"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749262803~acl=/*~id=79460936599414731637457384520760~hmac=d352f8335aeca5f09df7d6df81d82a8350d23435d0699a5447754206702f753b"
     },
     {
         "id": "sl1090479639",
@@ -65,7 +48,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749262681~acl=/*~id=39660922228320939857730576707212~hmac=fcef4f86b3652c0ed2e0197c414296e96434a0edbb1e8903dcc7c47a71b5cd20"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749262803~acl=/*~id=79460936599414731637457384520760~hmac=d352f8335aeca5f09df7d6df81d82a8350d23435d0699a5447754206702f753b"
     },
     {
         "id": "sl1090480409",
