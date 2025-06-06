@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090479641",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Philippe Chatrier - 06 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003892/1749204781264533_RG25_studio_show_6jun_live_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Philippe Chatrier",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749267847~acl=/*~id=42173873771439045670878774254708~hmac=5aecba546389b82a5e9ad53df905b4e0031dc6f1240c3caa4d08743d9e732821"
-    },
-    {
         "id": "sl1090479637",
         "isLive": true,
         "event": "Roland-Garros 2025",
@@ -31,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749267847~acl=/*~id=42173873771439045670878774254708~hmac=5aecba546389b82a5e9ad53df905b4e0031dc6f1240c3caa4d08743d9e732821"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749267968~acl=/*~id=86076730144015745099503902720872~hmac=4cffcfc988d8b52335b81cceae916a7e299a285632846a0cbb2e1bc8b3fabb5a"
     },
     {
         "id": "sl1090480409",
