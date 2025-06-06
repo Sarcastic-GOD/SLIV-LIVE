@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749271929~acl=/*~id=37664491310605204543607151107304~hmac=d71c774fc2c92b29ce61dfcd9763e82286db1614db819921a3f32769967f5118"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749272044~acl=/*~id=93170599673899642620697824899502~hmac=18329e98c836480d6548ba5014eef2fce6412ee8956719e6fb120e7d7a206686"
     },
     {
         "id": "sl1090479639",
@@ -31,22 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749271929~acl=/*~id=37664491310605204543607151107304~hmac=d71c774fc2c92b29ce61dfcd9763e82286db1614db819921a3f32769967f5118"
-    },
-    {
-        "id": "sl1090480409",
-        "isLive": false,
-        "event": "West Indies Tour of England 2025",
-        "match": "Upcoming: West Indies Tour of England 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "West Indies vs England cricket match,West Indies vs England cricket match highlights,cricket match,cricket,cricket hightlights,cricket match highlights,cricket championship",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749272044~acl=/*~id=93170599673899642620697824899502~hmac=18329e98c836480d6548ba5014eef2fce6412ee8956719e6fb120e7d7a206686"
     },
     {
         "id": "sl1090482514",
