@@ -14,7 +14,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749248888~acl=/*~id=43678657600866112983394383762129~hmac=37c013e3e679e9b74bee787943f18fd46042a3919e9f8fc8815e68df6035cd27"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749249005~acl=/*~id=42417616609413604297889834365865~hmac=c59c4e023341f62a91f270332a98d901d818ada95ab915c4553b803d860ee779"
+    },
+    {
+        "id": "sl1090479637",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Simonne Mathieu - 6 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003885/1749187651368554_RG25_SF_womens_doubles_Krunic_Danilina_vs_Eikeri_Hozumi_6jun_eng_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "Simonne Mathieu",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749249005~acl=/*~id=42417616609413604297889834365865~hmac=c59c4e023341f62a91f270332a98d901d818ada95ab915c4553b803d860ee779"
     },
     {
         "id": "sl1090480409",
