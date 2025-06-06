@@ -14,7 +14,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749271323~acl=/*~id=59303561612561145835814190248573~hmac=31c31be672e9e0fb82cb4c1521a829769a0542052c3074d49d5686926768c8dd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749271442~acl=/*~id=66626634913232660441662241011045~hmac=21f3969e4da37cfaa55af87c80474dbfff08fd4875331c40ec22965b5ed36a0a"
+    },
+    {
+        "id": "sl1090479639",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Sinner vs Djokovic - Semi-final - 6 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003889/1749200295003456_RG25_SF_Sinner_vs_Djokovic_6jun_multi_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 3",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749271442~acl=/*~id=66626634913232660441662241011045~hmac=21f3969e4da37cfaa55af87c80474dbfff08fd4875331c40ec22965b5ed36a0a"
     },
     {
         "id": "sl1090480409",
