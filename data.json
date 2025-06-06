@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090479637",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Simonne Mathieu - 06 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003883/1749185440579911_RG25_SF_womens_doubles_Andreeva_Shnaider_vs_Errani_Paolini_6jun_eng_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Simonne Mathieu",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749270002~acl=/*~id=27907401863940665991070324151192~hmac=1c5254b7d6c60ba9134a1738112f4d9256cb78b31d37314699ab15ae2b7e07aa"
-    },
-    {
         "id": "sl1090480409",
         "isLive": false,
         "event": "West Indies Tour of England 2025",
