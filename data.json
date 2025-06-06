@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749250683~acl=/*~id=17363878147181239976332006023582~hmac=a433c7f81c9e5b919572dc24a73d08d550d79055ac13b3b2cbe99ff06165875c"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749250803~acl=/*~id=47343722490447972984630844734500~hmac=090496aaf15939cd0d4e43be50f1bf32ac0f147b1b170dfeb9e9ac1415339e93"
     },
     {
         "id": "sl1090479637",
@@ -31,7 +31,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749250683~acl=/*~id=17363878147181239976332006023582~hmac=a433c7f81c9e5b919572dc24a73d08d550d79055ac13b3b2cbe99ff06165875c"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749250803~acl=/*~id=47343722490447972984630844734500~hmac=090496aaf15939cd0d4e43be50f1bf32ac0f147b1b170dfeb9e9ac1415339e93"
+    },
+    {
+        "id": "sl1090479635",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Stream 1 - 6 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003892/1749204781264533_RG25_studio_show_6jun_live_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1749250803~acl=/*~id=47343722490447972984630844734500~hmac=090496aaf15939cd0d4e43be50f1bf32ac0f147b1b170dfeb9e9ac1415339e93"
     },
     {
         "id": "sl1090480409",
