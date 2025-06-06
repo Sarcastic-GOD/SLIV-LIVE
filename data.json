@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749265925~acl=/*~id=39190777943760046700485974410855~hmac=62b4a224fdb356449eb85ffd93255ac8a69f78ccd284a980244a44d9d5d128ef"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749266042~acl=/*~id=20639235544227945598044367996213~hmac=1be526dab37efb069ae16ab1082a6e92c420f183ac4d51c568e68318ed04346b"
     },
     {
         "id": "sl1090479637",
@@ -31,24 +31,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749265925~acl=/*~id=39190777943760046700485974410855~hmac=62b4a224fdb356449eb85ffd93255ac8a69f78ccd284a980244a44d9d5d128ef"
-    },
-    {
-        "id": "sl1090479639",
-        "isLive": true,
-        "event": "Roland-Garros 2025",
-        "match": "Musetti vs Alcaraz - Semi-final - 6 Jun 2025",
-        "Provider": "FEDERATION FRANCAISE DE TENNIS",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003889/1749200274370456_RG25_SF_Musetti_vs_Alcaraz_6jun_multi_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 3",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749265925~acl=/*~id=39190777943760046700485974410855~hmac=62b4a224fdb356449eb85ffd93255ac8a69f78ccd284a980244a44d9d5d128ef"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI40ME-V3/master_mdh.m3u8?hdnea=exp=1749266042~acl=/*~id=20639235544227945598044367996213~hmac=1be526dab37efb069ae16ab1082a6e92c420f183ac4d51c568e68318ed04346b"
     },
     {
         "id": "sl1090480409",
