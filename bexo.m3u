@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003889/1749200282020456_RG25_SF_Musetti_vs_Alcaraz_6jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Lorenzo Musetti vs Carlos Alcaraz - Men's Singles - 06 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003800/1749102379957792_RG25_SF_mens_doubles_Skupski_Salisbury_vs_King_Harrison_5jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Salisbury/Skupski vs Harrison/King - Men's Doubles - 06 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003885/1749187651368554_RG25_SF_womens_doubles_Krunic_Danilina_vs_Eikeri_Hozumi_6jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Danilina/Krunic vs Eikeri/Hozumi - Women's Doubles - 06 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/cFMM4SefT6mw4tHtPcI_Rw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003889/1749200274370456_RG25_SF_Musetti_vs_Alcaraz_6jun_multi_landscape_thumb.jpg" group-title="SonyLIV",Musetti vs Alcaraz - Semi-final - 6 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd
