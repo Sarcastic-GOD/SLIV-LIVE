@@ -14,7 +14,7 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749275642~acl=/*~id=05592291287999551591216285446166~hmac=6fa319ee02bcf0d2e623a09ec65589fc0cad330e5abc8eb9f3aceb3ea75228b6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749275761~acl=/*~id=28684750902665633288854438888075~hmac=9bffe472b33b0633065a26e94453b66b5fcf1301c0a99f9c61649155730b7e59"
     },
     {
         "id": "sl1090479639",
@@ -31,21 +31,6 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749275642~acl=/*~id=05592291287999551591216285446166~hmac=6fa319ee02bcf0d2e623a09ec65589fc0cad330e5abc8eb9f3aceb3ea75228b6"
-    },
-    {
-        "id": "sl1090482514",
-        "isLive": false,
-        "event": "Bharat Tum Chale Chalo",
-        "match": "Upcoming: Bharat Tum Chale Chalo",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749275761~acl=/*~id=28684750902665633288854438888075~hmac=9bffe472b33b0633065a26e94453b66b5fcf1301c0a99f9c61649155730b7e59"
     }
 ]
