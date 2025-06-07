@@ -14,7 +14,7 @@
         "SeoTags": "India A vs England Lions 2025,India A tour of England,India A cricket series England,India A England 2025 schedule,India A England live score,India A England match updates,India A England Test series,India A England squads,India A England cricket news,India A England highlights,India A England streaming,India A England cricket stats,India A England fixtures,India A England pitch report,India A England player rankings,India A England cricket predictions,India A England head-to-head,India A England match preview,India A England cricket commentary,India A England latest results,India A England fantasy cricket,India A England cricket records,India A England team news,India A England match timings,India A England cricket insights,Yashasvi Jaiswal,Dhruv Jurel,Tushar Deshpande,Abhimanyu Easwaran,Ruturaj Gaikwad,Sarfaraz Khan,Shardul Thakur,Mukesh Kumar,Akash Deep,Ishan Kishan",
         "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749335885~acl=/*~id=95045856307478724742519535712727~hmac=640f4f9e8f5302b02f951e5aebc92bd06201b76fc553ea7567668f28debe36c1"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749336004~acl=/*~id=52668224795778986649137280844497~hmac=3c801072f7b803fcd0af2feb8c465b46da1aaf76475f0f97df78d0d2ad017037"
     },
     {
         "id": "sl1090482796",
@@ -31,7 +31,24 @@
         "SeoTags": "West Indies Women vs England Women cricket match, West Indies Women vs England Women cricket match highlights, cricket match, cricket, cricket hightlights, cricket match highlights, cricket championship",
         "Server1": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749335885~acl=/*~id=95045856307478724742519535712727~hmac=640f4f9e8f5302b02f951e5aebc92bd06201b76fc553ea7567668f28debe36c1"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749336004~acl=/*~id=52668224795778986649137280844497~hmac=3c801072f7b803fcd0af2feb8c465b46da1aaf76475f0f97df78d0d2ad017037"
+    },
+    {
+        "id": "sl1090482201",
+        "isLive": true,
+        "event": "Hyundai Archery World Cup 2025",
+        "match": "Compound Individual Final Fours - 7 Jun 2025",
+        "Provider": "World Archery Federation",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218731515803_HAWC2025_Turkiye_Compound_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg",
+        "genre": "Archery",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Championships 2022 Paris,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2023 match highlights,Hyundai Archery World Cup 2023 match scores,Hyundai Archery World Cup 2023 highlights,Archery highlights,Hyundai Archery World Cup 2023 Archery,Hyundai Archery World Cup 2023 champion,Hyundai Archery World Cup 2023 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
+        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749336004~acl=/*~id=52668224795778986649137280844497~hmac=3c801072f7b803fcd0af2feb8c465b46da1aaf76475f0f97df78d0d2ad017037",
+        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749336004~acl=/*~id=52668224795778986649137280844497~hmac=3c801072f7b803fcd0af2feb8c465b46da1aaf76475f0f97df78d0d2ad017037",
+        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749336004~acl=/*~id=52668224795778986649137280844497~hmac=3c801072f7b803fcd0af2feb8c465b46da1aaf76475f0f97df78d0d2ad017037"
     },
     {
         "id": "sl1090482736",
