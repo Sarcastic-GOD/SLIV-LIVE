@@ -14,7 +14,24 @@
         "SeoTags": "N/A",
         "Server1": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749343682~acl=/*~id=24353590287957460662292584257965~hmac=faac589c9f54a20e2f8f7a85f4eec41999b5dad1466d996c5e04a884bb580daf"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749343802~acl=/*~id=21186431416860771676154657250646~hmac=d7d291bc594f57e5b263164e7edfff23a944200a4620e71e9c202703d429d094"
+    },
+    {
+        "id": "sl1090479639",
+        "isLive": true,
+        "event": "Roland-Garros 2025",
+        "match": "Aryna Sabalenka vs Coco Gauff - Final - 7 Jun 2025",
+        "Provider": "FEDERATION FRANCAISE DE TENNIS",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003964/1749279066776566_RG25_final_sabalenka_vs_gauff_7jun_multi_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 3",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "Server1": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749343802~acl=/*~id=21186431416860771676154657250646~hmac=d7d291bc594f57e5b263164e7edfff23a944200a4620e71e9c202703d429d094"
     },
     {
         "id": "sl1090482736",
