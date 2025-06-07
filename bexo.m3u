@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003985/174929564612059_VitalityBlast25_Notts_vs_Worcestershire_7jun_landscape_thumb.jpg" group-title="SonyLIV",Nottinghamshire vs Worcestershire - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
