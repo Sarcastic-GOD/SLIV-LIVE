@@ -2,27 +2,12 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003964/1749279088432566_RG25_final_sabalenka_vs_gauff_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Aryna Sabalenka vs Coco Gauff - Final - 7 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134508049476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day2_5jun_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 2nd Unofficial Test - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858934612110_ENG_W_vs_WI_W_3odi_30may_landscape_thumb.jpg" group-title="SonyLIV",3rd ODI - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218731515803_HAWC2025_Turkiye_Compound_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Compound Individual Final Fours - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749342001~acl=/*~id=70760349319792580218399332137688~hmac=e84958a1ea143b45b252cf63ee6f221e7ef17e934f6ecdb77c177ce7fb632940
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748870002140458_European_Qualifiers_for_the_2026_FIFA_World_Cup_Bosnia_Herzegovina_vs_San_Marino_landscape_thumb.jpg" group-title="SonyLIV",Bosnia-Herzegovina vs San Marino - MD 3 - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749342001~acl=/*~id=70760349319792580218399332137688~hmac=e84958a1ea143b45b252cf63ee6f221e7ef17e934f6ecdb77c177ce7fb632940
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749039915114297_UEFA_INT_Friendlies_Latvia_vs_Azerbaijan_4jun_landscape_thumb.jpg" group-title="SonyLIV",Latvia vs Azerbaijan - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1749342001~acl=/*~id=70760349319792580218399332137688~hmac=e84958a1ea143b45b252cf63ee6f221e7ef17e934f6ecdb77c177ce7fb632940
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003964/1749279088432566_RG25_final_sabalenka_vs_gauff_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Aryna Sabalenka vs Coco Gauff - Final - 7 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003893/1749201625089525_UNL25_final_portugal_vs_spain_6jun_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e4ad36dfaf9a464e98e09408de5e7321/1749237689/baseline-std-v4/PROMO_UNL_FINAL_H_25_SEC_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003823/1749133139041671_Promo_UFC_316_landscape.jpg" group-title="SonyLIV",Upcoming: UFC 316
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/4af59c56e5c04431a66be423cee4b51f/1749132759/baseline-std-v4/UFC316_promo_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
