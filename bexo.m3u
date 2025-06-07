@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003964/1749279088432566_RG25_final_sabalenka_vs_gauff_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Aryna Sabalenka vs Coco Gauff - Final - 7 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134508049476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day2_5jun_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 2nd Unofficial Test - 7 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
@@ -7,7 +10,10 @@ https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218731515803_HAWC2025_Turkiye_Compound_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Compound Individual Final Fours - 7 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749340680~acl=/*~id=44796548592229058451246559465332~hmac=8a9f983a71f42a274baacb5bdc7b4ea9d5e47626eea4b56016de5de7b23660f8
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749340801~acl=/*~id=09800264443795868837042902782434~hmac=18b1c267f684a1eb69d3ecf6e4e3cd6edc8b8dabe1fc2eb9f4e8cf56ee2d281e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003964/1749279088432566_RG25_final_sabalenka_vs_gauff_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Aryna Sabalenka vs Coco Gauff - Final - 7 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003893/1749201625089525_UNL25_final_portugal_vs_spain_6jun_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e4ad36dfaf9a464e98e09408de5e7321/1749237689/baseline-std-v4/PROMO_UNL_FINAL_H_25_SEC_APP_eng_baseline-800300010.mpd
