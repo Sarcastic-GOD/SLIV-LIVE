@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218401752803_HAWC2025_Turkiye_Compound_Team_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Compound Team Finals - 7 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749328202~acl=/*~id=09946968814487385576991741112828~hmac=70153be091f498a19a1dfbe6b29e8d7dce00c34a721d0333cdef9d32c56a35b0
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749328321~acl=/*~id=70257888282333653077614078833653~hmac=bdb7fa477c5973bb0d23913ea2d970e8977239535f7dd0bf978bc513421df42d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
