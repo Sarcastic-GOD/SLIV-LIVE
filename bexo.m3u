@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374092467172_UNL25_portugal_vs_spain_final_eng_8jun_landscape_thumb.jpg" group-title="SonyLIV",Portugal vs Spain - Final - 9 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374113316172_UNL25_portugal_vs_spain_final_Multi_8jun_landscape_thumb.jpg" group-title="SonyLIV",Portugal vs Spain - Final - 9 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
