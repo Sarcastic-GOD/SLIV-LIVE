@@ -2,12 +2,15 @@
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365202012375_RG25_sinner_vs_alcaraz_8june_live_eng_landscape_thumb.jpg" group-title="SonyLIV",Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004047/1749371877362440_UNL_25_germany_vs_france_3rd_place_live_landscape_thumb.jpg" group-title="SonyLIV",Germany vs France - 3rd Place - 8 Jun 2025 
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134534038476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day3_5jun_landscape_thumb.jpg" group-title="SonyLIV",Day 3 - 2nd Unofficial Test - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218691563803_HAWC2025_Turkiye_Recurve_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Recurve Individual final fours - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749428280~acl=/*~id=22961925965975574106236273098251~hmac=2f5c08bcc5b3074f9f8ba286c4ae196e75b6732cc1b6c9d84abaf0319bfcd32b
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749428400~acl=/*~id=24647633795698254648048353778451~hmac=2b969b1f0705e858e0275200f12c16339a19c01468973d7b6c2ba8a80f7360cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
