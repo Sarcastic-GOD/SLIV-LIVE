@@ -7,7 +7,16 @@ https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218691563803_HAWC2025_Turkiye_Recurve_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Recurve Individual final fours - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749424323~acl=/*~id=45576715794399380863142582648989~hmac=a95ddc8333cd6a9c8f0dede419b9c09ca9124478b7f0bde143e4406ae5ab78b3
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749424443~acl=/*~id=32986858469781652724826656976777~hmac=69e4bfd2c023c9e425326b1b375338f07996e7a64b1a77996921b5c8fbe46ab2
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003998/1749307918643843_RG25_final_womens_doubles_Krunic_Danilina_vs_Errani_Paolini_7jun_multi_landscape_thumb.jpg" group-title="SonyLIV",Krunic/Danilina vs Paolini/Errani - Final - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003929/1749235853641308_UNL_Final_Portugal_vs_Spain_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/e4ad36dfaf9a464e98e09408de5e7321/1749237689/baseline-std-v4/PROMO_UNL_FINAL_H_25_SEC_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002915/1748255050238258_England_vs_West_Indies_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of England 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd
