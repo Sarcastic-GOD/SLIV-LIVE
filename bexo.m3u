@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365202012375_RG25_sinner_vs_alcaraz_8june_live_eng_landscape_thumb.jpg" group-title="SonyLIV",Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365202012375_RG25_sinner_vs_alcaraz_8june_live_eng_landscape_thumb.jpg" group-title="SonyLIV | Tennis",Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374092467172_UNL25_portugal_vs_spain_final_eng_8jun_landscape_thumb.jpg" group-title="SonyLIV",Portugal vs Spain - Final - 9 Jun 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374092467172_UNL25_portugal_vs_spain_final_eng_8jun_landscape_thumb.jpg" group-title="SonyLIV | Football",Portugal vs Spain - Final - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374113316172_UNL25_portugal_vs_spain_final_Multi_8jun_landscape_thumb.jpg" group-title="SonyLIV",Portugal vs Spain - Final - 9 Jun 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004049/1749374113316172_UNL25_portugal_vs_spain_final_Multi_8jun_landscape_thumb.jpg" group-title="SonyLIV | Football",Portugal vs Spain - Final - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134534038476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day3_5jun_landscape_thumb.jpg" group-title="SonyLIV",Day 3 - 2nd Unofficial Test - 8 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365253582375_RG25_sinner_vs_alcaraz_8june_live_multi_landscape_thumb.jpg" group-title="SonyLIV",Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365253582375_RG25_sinner_vs_alcaraz_8june_live_multi_landscape_thumb.jpg" group-title="SonyLIV | Tennis",Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003929/1749235853641308_UNL_Final_Portugal_vs_Spain_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Nations League 2024-25
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/e4ad36dfaf9a464e98e09408de5e7321/1749237689/baseline-std-v4/PROMO_UNL_FINAL_H_25_SEC_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV | Cricket",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
