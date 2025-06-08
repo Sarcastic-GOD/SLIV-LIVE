@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003968/1749286495435900_RG25_final_stream1_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Stream 1 - 8 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003892/1749204781264533_RG25_studio_show_6jun_live_landscape_thumb.jpg" group-title="SonyLIV",Stream 3 - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
@@ -7,7 +10,7 @@ https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218691563803_HAWC2025_Turkiye_Recurve_Individual_final_fours_SF_and_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Recurve Individual final fours - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749427202~acl=/*~id=98174249223626335132788304584316~hmac=80cae5b1cda6e527e6625ae5cc7159c3205c10dd7628018b866d3ff6b58c0d32
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749427321~acl=/*~id=47004212394202581782243547239510~hmac=2ca4ad8329125d696230bcb511d82815f202d3ff93bb60e81cf44a2dbd80181b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
