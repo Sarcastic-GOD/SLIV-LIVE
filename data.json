@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
         "SeoTags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Championships 2022 Paris,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2023 match highlights,Hyundai Archery World Cup 2023 match scores,Hyundai Archery World Cup 2023 highlights,Archery highlights,Hyundai Archery World Cup 2023 Archery,Hyundai Archery World Cup 2023 champion,Hyundai Archery World Cup 2023 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749412563~acl=/*~id=61693942947193025820730630990123~hmac=ed16c00d46c34cddcb838ff77cf8febf12ff40cb12bef4d68c841a877da8ee26",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749412563~acl=/*~id=61693942947193025820730630990123~hmac=ed16c00d46c34cddcb838ff77cf8febf12ff40cb12bef4d68c841a877da8ee26",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749412563~acl=/*~id=61693942947193025820730630990123~hmac=ed16c00d46c34cddcb838ff77cf8febf12ff40cb12bef4d68c841a877da8ee26"
+        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749412685~acl=/*~id=63166226151297164855130619801732~hmac=75a8b23105c515226e873539471e9e20e0fb212c62fd9d4d63ef32641a39e58d",
+        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749412685~acl=/*~id=63166226151297164855130619801732~hmac=75a8b23105c515226e873539471e9e20e0fb212c62fd9d4d63ef32641a39e58d",
+        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749412685~acl=/*~id=63166226151297164855130619801732~hmac=75a8b23105c515226e873539471e9e20e0fb212c62fd9d4d63ef32641a39e58d"
     },
     {
         "id": "sl1090482514",
@@ -37,7 +37,7 @@
         "event": "Portugal vs Spain",
         "match": "Upcoming: UEFA Nations League 2024-25",
         "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003893/1749201625089525_UNL25_final_portugal_vs_spain_6jun_landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003929/1749235853641308_UNL_Final_Portugal_vs_Spain_Promo_Landscape_thumb.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": "N/A",
