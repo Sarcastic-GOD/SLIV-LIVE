@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003998/1749307904399843_RG25_final_womens_doubles_Krunic_Danilina_vs_Errani_Paolini_7jun_eng_landscape_thumb.jpg" group-title="SonyLIV",Krunic/Danilina vs Paolini/Errani - Final - 8 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003998/1749307918643843_RG25_final_womens_doubles_Krunic_Danilina_vs_Errani_Paolini_7jun_multi_landscape_thumb.jpg" group-title="SonyLIV",Krunic/Danilina vs Paolini/Errani - Final - 8 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218371849803_HAWC2025_Turkiye_Recurve_Team_finals_6jun_landscape_thumb.jpg" group-title="SonyLIV",Recurve Team finals - 8 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749414482~acl=/*~id=41794807496459197158311418258251~hmac=557315216212dca426198d3cd121d6c6a48f66e5df01eece63f22061bed8b5a5
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749414603~acl=/*~id=96925183352980390596112237003065~hmac=0ddb315fd2f33d8f8726945f9f1290fe7da7f16d4e1d8c716aa830c7b1fdc3ca
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
