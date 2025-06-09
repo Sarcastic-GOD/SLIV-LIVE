@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749045657892786_UEFA_INT_Friendlies_Montenegro_vs_Armenia_4jun_landscape_thumb.jpg" group-title="SonyLIV",Montenegro vs Armenia - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749534366~acl=/*~id=16812937338771707669562908566901~hmac=486fcd26dd2885057d1ef224001fcfed3bb9889c1795c262d5ed18adc21d9528
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749534483~acl=/*~id=97983388421692496473477266554691~hmac=2873c9725e16d6c3dc3bec4dc9a92d2782724adddda27346afd09a57039cb384
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004100/1749452721507528_UEFA_INT_Friendlies_Kosovo_vs_Comoros_9jun_landscape_thumb.jpg" group-title="SonyLIV",Kosovo vs Comoros - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749534366~acl=/*~id=16812937338771707669562908566901~hmac=486fcd26dd2885057d1ef224001fcfed3bb9889c1795c262d5ed18adc21d9528
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749534483~acl=/*~id=97983388421692496473477266554691~hmac=2873c9725e16d6c3dc3bec4dc9a92d2782724adddda27346afd09a57039cb384
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749044558354786_UEFA_INT_Friendlies_Liechtenstein_vs_Scotland_4jun_landscape_thumb.jpg" group-title="SonyLIV",Liechtenstein vs Scotland - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
@@ -14,6 +14,9 @@ https://streaming.sonyliv.com/trailer/DASH/ea3f986556f842e9af09981858a6d915/1748
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004114/1749475393727277_engvswi25_3t20i_9jun_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004119/1749487193741458_InternationalFriendly25_england-vs-senegalt_9june_rev_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA International Friendlies
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fdd15c6967fa41299498624ea9c2c848/1749485522/baseline-std-v4/Promo_UNL_England_V_Senegal_10Sec_H_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003816/1749125033336350_Promo_BTCC_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/44864a586ebc43f681d0f15da96c5418/1749124867/baseline-std-v4/BTCC_trailer_05062025_eng_baseline-800300010.mpd
