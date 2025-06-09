@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749045657892786_UEFA_INT_Friendlies_Montenegro_vs_Armenia_4jun_landscape_thumb.jpg" group-title="SonyLIV",Montenegro vs Armenia - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749534726~acl=/*~id=00064906435492064620240176241419~hmac=8e51437024edd802b50b094b267ff92da0fb5270204d7edbd4ea2ecbd715ea82
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749534849~acl=/*~id=31618017641757990768362590960466~hmac=4214ce3e76e32a751f9c1d5656a8e05dbae1de68d7988f4d572d34aee2c12cde
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004100/1749452721507528_UEFA_INT_Friendlies_Kosovo_vs_Comoros_9jun_landscape_thumb.jpg" group-title="SonyLIV",Kosovo vs Comoros - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749534726~acl=/*~id=00064906435492064620240176241419~hmac=8e51437024edd802b50b094b267ff92da0fb5270204d7edbd4ea2ecbd715ea82
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749534849~acl=/*~id=31618017641757990768362590960466~hmac=4214ce3e76e32a751f9c1d5656a8e05dbae1de68d7988f4d572d34aee2c12cde
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749044558354786_UEFA_INT_Friendlies_Liechtenstein_vs_Scotland_4jun_landscape_thumb.jpg" group-title="SonyLIV",Liechtenstein vs Scotland - 9 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
