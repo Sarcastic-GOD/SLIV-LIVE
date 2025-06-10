@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749045828670786_UEFA_INT_Friendlies_Azerbaijan_vs_Hungary_4jun_landscape_thumb.jpg" group-title="SonyLIV",Azerbaijan vs Hungary - 10 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749613441~acl=/*~id=09034460540417867260068339837195~hmac=94e132e3616a9228d5456aa2883205e679779797f5d34d14cec6124e5e3db1ff
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8??hdnea=exp=1749613561~acl=/*~id=14836363218075735626702880299149~hmac=d073964dc82279216604d6cc78edba4fae962c5c1c1a5682a328a503f6bb9825
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003748/1749050195969336_UEFA_INT_Friendlies_Slovenia_vs_Bosnia_Herzegovina_4jun_landscape_thumb.jpg" group-title="SonyLIV",Slovenia vs Bosnia-Herzegovina - 10 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749613441~acl=/*~id=09034460540417867260068339837195~hmac=94e132e3616a9228d5456aa2883205e679779797f5d34d14cec6124e5e3db1ff
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749613561~acl=/*~id=14836363218075735626702880299149~hmac=d073964dc82279216604d6cc78edba4fae962c5c1c1a5682a328a503f6bb9825
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004114/1749475404868277_engvswi25_3t20i_9jun_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/943b1af7fee04fc58150a8a07dc6b989/1748251211/baseline-std-v4/1090480409_26052025_eng_baseline-800300010.mpd
