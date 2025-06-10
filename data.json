@@ -14,7 +14,7 @@
         "SeoTags": "West Indies vs England 2025,England vs West Indies cricket series,West Indies England 2025 schedule,West Indies England live score,West Indies England match updates,West Indies England ODI series,West Indies England T20I series,West Indies England squads,West Indies England cricket news,West Indies England highlights,West Indies England streaming,West Indies England cricket stats,West Indies England fixtures,West Indies England pitch report,West Indies England player rankings,West Indies England cricket predictions,West Indies England head-to-head,West Indies England match preview,West Indies England cricket commentary,West Indies England latest results,West Indies England fantasy cricket,West Indies England cricket records,West Indies England team news,West Indies England match timings,West Indies England cricket insights,Harry Brook,Jos Buttler,Joe Root,Jofra Archer,Adil Rashid,Shai Hope,Shimron Hetmyer,Brandon King,Alzarri Joseph,Jayden Seales",
         "Server1": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140-b/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140-b/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749621603~acl=/*~id=80326400037163676500433764668890~hmac=163c87df7a5efbfadf6218ed128358311ffc117c599864e2b4d0066c2db81c15"
     },
     {
         "id": "sl1090483152",
@@ -31,41 +31,7 @@
         "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
         "Server1": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56"
-    },
-    {
-        "id": "sl1090483149",
-        "isLive": true,
-        "event": "UEFA International Friendlies",
-        "match": "Azerbaijan vs Hungary - 10 Jun 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749045828670786_UEFA_INT_Friendlies_Azerbaijan_vs_Hungary_4jun_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Dalga Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56"
-    },
-    {
-        "id": "sl1090483150",
-        "isLive": true,
-        "event": "UEFA International Friendlies",
-        "match": "Slovenia vs Bosnia-Herzegovina - 10 Jun 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003748/1749050195969336_UEFA_INT_Friendlies_Slovenia_vs_Bosnia_Herzegovina_4jun_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Arena Petrol",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1749621603~acl=/*~id=80326400037163676500433764668890~hmac=163c87df7a5efbfadf6218ed128358311ffc117c599864e2b4d0066c2db81c15"
     },
     {
         "id": "sl1090483151",
@@ -80,9 +46,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
         "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
-        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56",
-        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621361~acl=/*~id=26742681128558496371694904845048~hmac=bbdb5aa8d02f8b512f2675c665723ac90d8d6e5bd146d9822ee6f2a2ac018b56"
+        "Server1": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621603~acl=/*~id=80326400037163676500433764668890~hmac=163c87df7a5efbfadf6218ed128358311ffc117c599864e2b4d0066c2db81c15",
+        "Server2": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621603~acl=/*~id=80326400037163676500433764668890~hmac=163c87df7a5efbfadf6218ed128358311ffc117c599864e2b4d0066c2db81c15",
+        "Server3": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749621603~acl=/*~id=80326400037163676500433764668890~hmac=163c87df7a5efbfadf6218ed128358311ffc117c599864e2b4d0066c2db81c15"
     },
     {
         "id": "sl1090483122",
