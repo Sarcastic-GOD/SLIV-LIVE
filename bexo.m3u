@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004148/17495730658107_VitalityBlast25_Essex_vs_Glamorgan_10jun_landscape_thumb.jpg" group-title="SonyLIV",Essex vs Glamorgan - 12 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8??hdnea=exp=1749794042~acl=/*~id=03767689328612621557884082277539~hmac=1b222b5bb03c73e3110edc6c05a1d2c134b59db15b12f9e7d3800aa8d299e41c
+https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8??hdnea=exp=1749794161~acl=/*~id=98227776590013432289739736973040~hmac=5802dab8fa3f0a44504cab1357137246d8c5ba2b2924a9e506e8a64eae92243c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004176/1749642572255594_BTCC_Promo_landscape.jpg" group-title="SonyLIV",Upcoming: Bharat Tum Chale Chalo
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/014b73ef50924ece9c41ca8cc1543592/1749641908/baseline-std-v4/PROMO_SHASTRI_VIRAT_RETIREMENT_eng_baseline-800300010.mpd
