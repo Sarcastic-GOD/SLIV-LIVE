@@ -29,3 +29,6 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg" group-title="SonyLIV",
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1750409881~acl=/*~id=55854829778380931676627333022677~hmac=68c797d8f0fc5d5b8acebf1d929ab33c34385bbe71ad4ff971b9ff92a1aa0b72
