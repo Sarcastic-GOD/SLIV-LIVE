@@ -29,9 +29,12 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-id="xxxx" tvg-name="Sky Cricket" tvg-logo="xxxx" group-title="SonyLIV",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004353/175015049264183_SLvsBAN25_1test_day4_17jun_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 4 - 20 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg" group-title="SonyLIV",
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1750453801~acl=/*~id=98248545611471873912724583793988~hmac=34a896726e13cd6948622e61168bea2ac53932f5a42b7e3c465b4a602c87f8cd
+?hdnea=exp=1750453921~acl=/*~id=84160797830784992638413156989483~hmac=6c02ff9850f668a02822e537baf6aeed92cd2e8c8fc39915e5095559ae05064c
