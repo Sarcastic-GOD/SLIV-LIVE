@@ -14,7 +14,7 @@
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
         "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750561323~acl=/*~id=68650341782801799176463936207126~hmac=f052e05ac7dcdfa3ed1f82dbc5200ee8395026a6e13191a59b172aee95ef4d1a"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750561446~acl=/*~id=13434635687141243615946356295773~hmac=1b5a193a3456837010f5ea76d921628090a81f4a8dc1fa03126534c6cef3634c"
     },
     {
         "id": "sl1090483632",
@@ -31,14 +31,14 @@
         "SeoTags": "Pro Cricket League Eleven 11 schedule,Pro Cricket League Eleven 11 live score,Pro Cricket League Eleven 11 match updates,Pro Cricket League Eleven 11 fixtures,Pro Cricket League Eleven 11 squads,Pro Cricket League Eleven 11 news,Pro Cricket League Eleven 11 highlights,Pro Cricket League Eleven 11 streaming,Pro Cricket League Eleven 11 stats,Pro Cricket League Eleven 11 analysis,Pro Cricket League Eleven 11 pitch report,Pro Cricket League Eleven 11 player rankings,Pro Cricket League Eleven 11 predictions,Pro Cricket League Eleven 11 head-to-head,Pro Cricket League Eleven 11 match preview,Pro Cricket League Eleven 11 commentary,Pro Cricket League Eleven 11 latest results,Pro Cricket League Eleven 11 live,Pro Cricket League Eleven 11 live streaming,Pro Cricket League Eleven 11 live match",
         "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750561323~acl=/*~id=68650341782801799176463936207126~hmac=f052e05ac7dcdfa3ed1f82dbc5200ee8395026a6e13191a59b172aee95ef4d1a"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750561446~acl=/*~id=13434635687141243615946356295773~hmac=1b5a193a3456837010f5ea76d921628090a81f4a8dc1fa03126534c6cef3634c"
     },
     {
         "id": "sl1090483596",
         "isLive": false,
         "event": "Hill vs Rountree Jr.",
         "match": "Upcoming: UFC Fight Night",
-        "Provider": "N/A",
+        "Provider": "UFC",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004436/1750364627238547_PROMO_EFN191_landscape_thumb.jpg",
         "genre": "Fight Sports",
         "language": "ENG",
