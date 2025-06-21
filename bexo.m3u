@@ -32,9 +32,12 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-id="xxxx" tvg-name="Sky Cricket" tvg-logo="xxxx" group-title="SonyLIV",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://32tech0steam0dp01.org/live/UK_SkySportsCricketFHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004283/1749907078809142_SLvsBAN25_1test_day5_14jun_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 5 - 21 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg" group-title="SonyLIV",
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1750520161~acl=/*~id=75155770762963607927409385287352~hmac=1fb80dd2d661e6bad4f53f5c71f0c68aee76e6ccbecb2ab258a3645815363ec1
+?hdnea=exp=1750520282~acl=/*~id=47403065229194787209457056941335~hmac=fe9d02553f91fc90fe84a79db2572145f2faeabadf7356d184c368192be96049
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004147/1749568879059593_ABBFEWC25_Round12_Jakarta_International_EPrix_Qualifying_Race_10jun_landscape_thumb.jpg" group-title="SonyLIV",Round 12 - Sarinah Jakarta E-Prix - Qualifying Race - 21 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8
