@@ -14,24 +14,7 @@
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
         "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750567203~acl=/*~id=51611802091345088195319759622771~hmac=48df3abfe1fb3e843544ce309afb8af85c831cf11c08775c475c427bb20f47a8"
-    },
-    {
-        "id": "sl1090483632",
-        "isLive": true,
-        "event": "Pro Cricket League Eleven 11",
-        "match": "Sky Rozo Delhi Janakpuri vs DFCC Noida Warriors - 21 Jun 2025",
-        "Provider": "Pro Cricket League Private Limited",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960461243988_PCL2025_Mixed_Corporate_generic_15jun_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Pro Cricket League Eleven 11 schedule,Pro Cricket League Eleven 11 live score,Pro Cricket League Eleven 11 match updates,Pro Cricket League Eleven 11 fixtures,Pro Cricket League Eleven 11 squads,Pro Cricket League Eleven 11 news,Pro Cricket League Eleven 11 highlights,Pro Cricket League Eleven 11 streaming,Pro Cricket League Eleven 11 stats,Pro Cricket League Eleven 11 analysis,Pro Cricket League Eleven 11 pitch report,Pro Cricket League Eleven 11 player rankings,Pro Cricket League Eleven 11 predictions,Pro Cricket League Eleven 11 head-to-head,Pro Cricket League Eleven 11 match preview,Pro Cricket League Eleven 11 commentary,Pro Cricket League Eleven 11 latest results,Pro Cricket League Eleven 11 live,Pro Cricket League Eleven 11 live streaming,Pro Cricket League Eleven 11 live match",
-        "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750567203~acl=/*~id=51611802091345088195319759622771~hmac=48df3abfe1fb3e843544ce309afb8af85c831cf11c08775c475c427bb20f47a8"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750567326~acl=/*~id=24561292783343768697262329317400~hmac=1612c124b9f9d76b77cba2f2c9ffc800b7ed2415ce349122355dedee4bc0c7a3"
     },
     {
         "id": "sl1090483596",
