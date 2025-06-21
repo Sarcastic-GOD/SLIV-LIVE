@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
-        "Server1": "?hdnea=exp=1750518121~acl=/*~id=29081880441684889771498891085028~hmac=e359177c813b682adacad07299de08130eb818d312992af379e91319f3d066d5",
-        "Server2": "?hdnea=exp=1750518121~acl=/*~id=29081880441684889771498891085028~hmac=e359177c813b682adacad07299de08130eb818d312992af379e91319f3d066d5",
-        "Server3": "?hdnea=exp=1750518121~acl=/*~id=29081880441684889771498891085028~hmac=e359177c813b682adacad07299de08130eb818d312992af379e91319f3d066d5"
+        "Server1": "?hdnea=exp=1750518240~acl=/*~id=72908111146669555058444837590846~hmac=58f1987f8d9dbe6872896313e97739184bae98d607f4d89585097b4d695a3af9",
+        "Server2": "?hdnea=exp=1750518240~acl=/*~id=72908111146669555058444837590846~hmac=58f1987f8d9dbe6872896313e97739184bae98d607f4d89585097b4d695a3af9",
+        "Server3": "?hdnea=exp=1750518240~acl=/*~id=72908111146669555058444837590846~hmac=58f1987f8d9dbe6872896313e97739184bae98d607f4d89585097b4d695a3af9"
     },
     {
         "id": "sl1090483499",
@@ -31,7 +31,7 @@
         "SeoTags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
         "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750518121~acl=/*~id=29081880441684889771498891085028~hmac=e359177c813b682adacad07299de08130eb818d312992af379e91319f3d066d5"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750518240~acl=/*~id=72908111146669555058444837590846~hmac=58f1987f8d9dbe6872896313e97739184bae98d607f4d89585097b4d695a3af9"
     },
     {
         "id": "sl1090483596",
