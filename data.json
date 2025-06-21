@@ -12,25 +12,23 @@
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
-        "Server1": "?hdnea=exp=1750515840~acl=/*~id=43922250692797726033817600754012~hmac=37541abd59ac0fcf0ca99fcf2549203932e1639256690ed56b73a61c23d6a0d4",
-        "Server2": "?hdnea=exp=1750515840~acl=/*~id=43922250692797726033817600754012~hmac=37541abd59ac0fcf0ca99fcf2549203932e1639256690ed56b73a61c23d6a0d4",
-        "Server3": "?hdnea=exp=1750515840~acl=/*~id=43922250692797726033817600754012~hmac=37541abd59ac0fcf0ca99fcf2549203932e1639256690ed56b73a61c23d6a0d4"
+        "Server1": "?hdnea=exp=1750515961~acl=/*~id=84815924383781488060903135363256~hmac=2e16f8b5932e45313d8b69cffe21c1b1d0b69af940aa609c7bda4910864ec21c",
+        "Server2": "?hdnea=exp=1750515961~acl=/*~id=84815924383781488060903135363256~hmac=2e16f8b5932e45313d8b69cffe21c1b1d0b69af940aa609c7bda4910864ec21c",
+        "Server3": "?hdnea=exp=1750515961~acl=/*~id=84815924383781488060903135363256~hmac=2e16f8b5932e45313d8b69cffe21c1b1d0b69af940aa609c7bda4910864ec21c"
     },
     {
-        "id": "sl1090483632",
-        "isLive": true,
-        "event": "Pro Cricket League Eleven 11",
-        "match": "DFCC Noida Warriors vs Meerut Lemford Alpha Kings - 21 Jun 2025",
-        "Provider": "Pro Cricket League Private Limited",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960461243988_PCL2025_Mixed_Corporate_generic_15jun_landscape_thumb.jpg",
-        "genre": "Cricket",
+        "id": "sl1090483596",
+        "isLive": false,
+        "event": "Hill vs Rountree Jr.",
+        "match": "Upcoming: UFC Fight Night",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004436/1750364627238547_PROMO_EFN191_landscape_thumb.jpg",
+        "genre": "Fight Sports",
         "language": "ENG",
         "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
+        "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
-        "SeoTags": "Pro Cricket League Eleven 11 schedule,Pro Cricket League Eleven 11 live score,Pro Cricket League Eleven 11 match updates,Pro Cricket League Eleven 11 fixtures,Pro Cricket League Eleven 11 squads,Pro Cricket League Eleven 11 news,Pro Cricket League Eleven 11 highlights,Pro Cricket League Eleven 11 streaming,Pro Cricket League Eleven 11 stats,Pro Cricket League Eleven 11 analysis,Pro Cricket League Eleven 11 pitch report,Pro Cricket League Eleven 11 player rankings,Pro Cricket League Eleven 11 predictions,Pro Cricket League Eleven 11 head-to-head,Pro Cricket League Eleven 11 match preview,Pro Cricket League Eleven 11 commentary,Pro Cricket League Eleven 11 latest results,Pro Cricket League Eleven 11 live,Pro Cricket League Eleven 11 live streaming,Pro Cricket League Eleven 11 live match",
-        "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750515840~acl=/*~id=43922250692797726033817600754012~hmac=37541abd59ac0fcf0ca99fcf2549203932e1639256690ed56b73a61c23d6a0d4"
+        "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6137f211336647dbb9e39ee4836621b0/1750366554/baseline-std-v4/1090483596_20062025_eng_baseline-800300010.mpd"
     }
 ]
