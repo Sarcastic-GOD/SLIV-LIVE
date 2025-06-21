@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090483643",
-        "isLive": true,
-        "event": "UFC Fight Night - Hill vs Rountree Jr.",
-        "match": "UFC Fight Night - Hill vs Rountree Jr. - 22 Jun 2025",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004435/1750347906002978_UFC_Fight_Night_Hill_vs_Rountree_Jr_19jun_Landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": " press conference, UFC Fight Night embedded, UFC Fight Night, UFC news, UFC Fight Night media day, UFC Fight Night face offs, UFC Fight Night countdown, UFC Fight Night live, UFC Fight Night odds, UFC Fight Night picks, UFC Fight Night stream, UFC Fight Night preview, UFC fight pass, UFC Fight Night best bets, UFC Fight Night faceoffs, UFC Fight Night highlights, UFC Fight Night staredowns, UFC Fight Night predictions, UFC press, UFC weigh in, UFC weigh ins, UFC fight night, UFC fight, UFC live, UFC upcoming fights, UFC event, UFC next fight, upcoming UFC events, UFC fight card, UFC live stream, UFC match, fight night, UFC fights today,Blanchfield vs Barber",
-        "Server1": "?hdnea=exp=1750589166~acl=/*~id=25618170626083780319401196625262~hmac=0089bbeeec39e74aa65d4ae62862feb8289c8aab73244dda9e6cdcd8b5419408",
-        "Server2": "?hdnea=exp=1750589166~acl=/*~id=25618170626083780319401196625262~hmac=0089bbeeec39e74aa65d4ae62862feb8289c8aab73244dda9e6cdcd8b5419408",
-        "Server3": "?hdnea=exp=1750589166~acl=/*~id=25618170626083780319401196625262~hmac=0089bbeeec39e74aa65d4ae62862feb8289c8aab73244dda9e6cdcd8b5419408"
-    },
-    {
         "id": "sl1090483407",
         "isLive": true,
         "event": "Football Blockbusters 24x7",
@@ -31,6 +14,6 @@
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
         "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750589166~acl=/*~id=25618170626083780319401196625262~hmac=0089bbeeec39e74aa65d4ae62862feb8289c8aab73244dda9e6cdcd8b5419408"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750589286~acl=/*~id=96434236940958487208963655854086~hmac=f2cda4133d77e9cfc16e2a8484349facf8b69720cc9141e7b99aa6012986157f"
     }
 ]
