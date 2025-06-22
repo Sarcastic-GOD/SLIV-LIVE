@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "Pro Cricket League Eleven 11 schedule,Pro Cricket League Eleven 11 live score,Pro Cricket League Eleven 11 match updates,Pro Cricket League Eleven 11 fixtures,Pro Cricket League Eleven 11 squads,Pro Cricket League Eleven 11 news,Pro Cricket League Eleven 11 highlights,Pro Cricket League Eleven 11 streaming,Pro Cricket League Eleven 11 stats,Pro Cricket League Eleven 11 analysis,Pro Cricket League Eleven 11 pitch report,Pro Cricket League Eleven 11 player rankings,Pro Cricket League Eleven 11 predictions,Pro Cricket League Eleven 11 head-to-head,Pro Cricket League Eleven 11 match preview,Pro Cricket League Eleven 11 commentary,Pro Cricket League Eleven 11 latest results,Pro Cricket League Eleven 11 live,Pro Cricket League Eleven 11 live streaming,Pro Cricket League Eleven 11 live match",
-        "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750616884~acl=/*~id=59529503169071599081887196476520~hmac=2f5cd63246937e462ef3e475ab85650b473cd01146969c277bc99071c1637e02"
+        "Server1": "?hdnea=exp=1750617003~acl=/*~id=85238299238775284449082351072551~hmac=3dc7fbd6cde0839e539190dbba2689d63bd1f2d3b7c724dd7835c65050e032ef",
+        "Server2": "?hdnea=exp=1750617003~acl=/*~id=85238299238775284449082351072551~hmac=3dc7fbd6cde0839e539190dbba2689d63bd1f2d3b7c724dd7835c65050e032ef",
+        "Server3": "?hdnea=exp=1750617003~acl=/*~id=85238299238775284449082351072551~hmac=3dc7fbd6cde0839e539190dbba2689d63bd1f2d3b7c724dd7835c65050e032ef"
     },
     {
         "id": "sl1090483407",
@@ -31,6 +31,6 @@
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
         "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750616884~acl=/*~id=59529503169071599081887196476520~hmac=2f5cd63246937e462ef3e475ab85650b473cd01146969c277bc99071c1637e02"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750617003~acl=/*~id=85238299238775284449082351072551~hmac=3dc7fbd6cde0839e539190dbba2689d63bd1f2d3b7c724dd7835c65050e032ef"
     }
 ]
