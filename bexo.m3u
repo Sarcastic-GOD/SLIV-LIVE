@@ -38,6 +38,11 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?h
 #EXTINF:-1 tvg-id="sex" tvg-name="Fox Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZWEuSNn3pBkXpgQkalL5qF2huLy7w34XCyb54LP3UBYHg6tRFg&s=10&ec=73009746" group-title="SonyLIV",Fox Cricket
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://uugg.hatsune86.space/lchd-foxsports501.m3u8
+#EXTINF:-1 tvg-id="sex" group-title="SonyLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hban03H5LjqC9qPHyFAaRLK-EpKdqnypkheYcH2Br0-wcmIYdg&s=10&ec=73009746",ICC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://bitchv69.bgrid.in/icc/master.mpd?arthur|User-Agent=BEXO/31.05&Referer=https://bxo.lol/
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960426940988_PCL2025_elite_generic_15jun_landscape_thumb.jpg" group-title="SonyLIV",Bhavya Ghaziabad Royals vs Lazio Sharanpur Warriors - SF - 22 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
