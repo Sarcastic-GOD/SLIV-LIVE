@@ -14,7 +14,7 @@
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
         "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750857366~acl=/*~id=13924335050268752521756353587299~hmac=1ad4b35145983a043f27b9dce5189ec7f2ee508b95039699e1c4ac56145800e7"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750857483~acl=/*~id=57008531233308473743008490782213~hmac=9c4f77f144bf6a57c0308fd74f0700424abf3fe97a86827f000f9953600059bc"
     },
     {
         "id": "sl1090483333",
@@ -36,7 +36,7 @@
         "isLive": false,
         "event": "India Women Tour of England",
         "match": "Upcoming: India Women Tour of England",
-        "Provider": "ENGLAND AND WALES CRICKET",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004397/1750253643031299_India-Women-Tour-Of-England-Promo_landscape.jpg",
         "genre": "Cricket",
         "language": "ENG",
