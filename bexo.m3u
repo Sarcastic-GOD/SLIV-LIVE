@@ -30,6 +30,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004547/1750692138098119_SLvsBAN25_2nd_test_day3_23jun_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 3 - 27 Jun 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1751070124~acl=/*~id=23645788510734229359990964696944~hmac=64146b3a67880a186d7870753a7ced34b3671c1fc8ce8d2dd14a2d7f93953377
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004465/1750432323965806_engvsind25_mens_mixed_disability_4t20i_20jun_landscape_thumb.jpg" group-title="SonyLIV",England vs India Mixed Disability - 4th T20I - 27 Jun 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
