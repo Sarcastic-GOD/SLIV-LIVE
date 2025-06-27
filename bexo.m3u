@@ -30,15 +30,3 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004547/1750692138098119_SLvsBAN25_2nd_test_day3_23jun_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 3 - 27 Jun 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004282/1749885060000461_Football_Blockbusters_24x7_landscape_thumb_14jun.jpg" group-title="SonyLIV",
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004611/1750925446684316_ENGvsIND25_womens_1st_t20i_26jun_promo_ddt_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: 1st T20I
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/399fd65ee25b43f0852c8b5f7f90a426/1750954866/baseline-std-v4/1090483928_26062025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004436/1750364599530547_PROMO_UFC317_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 317
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/99d6bd0554254d489bb1f865ca9f99d6/1750366617/baseline-std-v4/1090483597_20062025_eng_baseline-800300010.mpd
