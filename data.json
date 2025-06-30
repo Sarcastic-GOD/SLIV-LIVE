@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
         "SeoTags": "UCL,UEFA Champions League,UEL,UEFA Europa League,UNL,UEFA Nations League,FA Cup,live sports,Sony LIV,football streaming,soccer live,sports tournaments,live matches,sports highlights,football news,soccer updates,live football,sports schedule,match replays,sports analysis,football fixtures,soccer scores,live commentary,sports coverage,football fans,soccer lovers,sports events,live streaming,sports app,Sony sports",
-        "Server1": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751351285~acl=/*~id=44189021981696092480771648148423~hmac=44fce7823914ade8f348a9fda8d0243a25307f9a51b829d834ea82f5896982f6"
+        "Server1": "?hdnea=exp=1751351405~acl=/*~id=13684827560088846130249372099269~hmac=803e6bbd7251e142f60bdc996dfbcd21967682b4afc4167b13d758ee4e51cb4f",
+        "Server2": "?hdnea=exp=1751351405~acl=/*~id=13684827560088846130249372099269~hmac=803e6bbd7251e142f60bdc996dfbcd21967682b4afc4167b13d758ee4e51cb4f",
+        "Server3": "?hdnea=exp=1751351405~acl=/*~id=13684827560088846130249372099269~hmac=803e6bbd7251e142f60bdc996dfbcd21967682b4afc4167b13d758ee4e51cb4f"
     },
     {
         "id": "sl1090483929",
