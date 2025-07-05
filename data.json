@@ -14,6 +14,23 @@
         "SeoTags": "Bangladesh vs Sri Lanka 2025,Sri Lanka vs Bangladesh Test series,Bangladesh Sri Lanka 2025 schedule,Bangladesh Sri Lanka live score,Bangladesh Sri Lanka match updates,Bangladesh Sri Lanka Test cricket,Bangladesh Sri Lanka ODI series,Bangladesh Sri Lanka T20I series,Bangladesh Sri Lanka squads,Bangladesh Sri Lanka cricket news,Bangladesh Sri Lanka highlights,Bangladesh Sri Lanka streaming,Bangladesh Sri Lanka cricket stats,Bangladesh Sri Lanka fixtures,Bangladesh Sri Lanka pitch report,Bangladesh Sri Lanka player rankings,Bangladesh Sri Lanka cricket predictions,Bangladesh Sri Lanka head-to-head,Bangladesh Sri Lanka match preview,Bangladesh Sri Lanka cricket commentary,Bangladesh Sri Lanka latest results,Bangladesh Sri Lanka fantasy cricket,Bangladesh Sri Lanka cricket records,Bangladesh Sri Lanka team news,Bangladesh Sri Lanka match timings,Bangladesh Sri Lanka cricket insights,Dhananjaya de Silva,Pathum Nissanka,Angelo Mathews,Kamindu Mendis,Dinesh Chandimal,Kusal Mendis,Prabath Jayasuriya,Kasun Rajitha,Asitha Fernando,Akila Dananjaya,Najmul Hossain Shanto,Mushfiqur Rahim,Litton Das,Mominul Haque,Mehidy Hasan Miraz,Taijul Islam,Nayeem Hasan,Nahid Rana,Khaled Ahmed",
         "Server1": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751754485~acl=/*~id=45017998309096159728814365066063~hmac=519be4e5e608554a13f20f3bec7dcbd016b10c0f4368683f4f7394981d936502"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751754605~acl=/*~id=65871781226055409872806786922642~hmac=bf11e7ff8c9a9128c858732823e44af5ec45f2188a62327a66ab9b9d3a8841c3"
+    },
+    {
+        "id": "sl1090484411",
+        "isLive": true,
+        "event": "Asian Tour 2025",
+        "match": "International Series Morocco - Day 3 - 5 Jul 2025",
+        "Provider": "ASIAN TOUR MEDIA PTE LTD",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004635/1750950988486918_AsiaTour2025_International_Series_Morocco_Day3_26jun_landscape_thumb.jpg",
+        "genre": "Golf",
+        "language": "ENG",
+        "venue": " Royal Golf Dar Es Salam",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming",
+        "Server1": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751754605~acl=/*~id=65871781226055409872806786922642~hmac=bf11e7ff8c9a9128c858732823e44af5ec45f2188a62327a66ab9b9d3a8841c3",
+        "Server2": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751754605~acl=/*~id=65871781226055409872806786922642~hmac=bf11e7ff8c9a9128c858732823e44af5ec45f2188a62327a66ab9b9d3a8841c3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751754605~acl=/*~id=65871781226055409872806786922642~hmac=bf11e7ff8c9a9128c858732823e44af5ec45f2188a62327a66ab9b9d3a8841c3"
     }
 ]
