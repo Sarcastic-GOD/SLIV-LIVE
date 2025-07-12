@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090484738",
+        "isLive": true,
+        "event": "Hyundai Archery World Cup 2025",
+        "match": "Compound Team Finals - 12 Jul 2025",
+        "Provider": "World Archery Federation",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004951/1751899089634730_HAWC_Madrid_Spain25_CompoundTeamFinals_Landscape_thumb_live.jpg",
+        "genre": "Archery",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Championships 2022 Paris,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2023 match highlights,Hyundai Archery World Cup 2023 match scores,Hyundai Archery World Cup 2023 highlights,Archery highlights,Hyundai Archery World Cup 2023 Archery,Hyundai Archery World Cup 2023 champion,Hyundai Archery World Cup 2023 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
+        "Server1": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752349084~acl=/*~id=75331927063401184781222599332157~hmac=266036677ac827ac89639c2d3085b28eb7293a55154e88c4acb3cf91c3212731",
+        "Server2": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752349084~acl=/*~id=75331927063401184781222599332157~hmac=266036677ac827ac89639c2d3085b28eb7293a55154e88c4acb3cf91c3212731",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752349084~acl=/*~id=75331927063401184781222599332157~hmac=266036677ac827ac89639c2d3085b28eb7293a55154e88c4acb3cf91c3212731"
+    },
+    {
         "id": "sl1090484428",
         "isLive": false,
         "event": "India Women Tour of England",
