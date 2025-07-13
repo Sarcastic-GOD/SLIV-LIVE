@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090484766",
+        "isLive": true,
+        "event": "Hyundai Archery World Cup 2025",
+        "match": "Recurve Individual Final Fours Semifinals and Finals - 13 Jul 2025",
+        "Provider": "World Archery Federation",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004951/1751898883923730_HAWC_Madrid_Spain25_RecurveIndividualFinalFours_Landscape_thumb_live.jpg",
+        "genre": "Archery",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Championships 2022 Paris,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2023 match highlights,Hyundai Archery World Cup 2023 match scores,Hyundai Archery World Cup 2023 highlights,Archery highlights,Hyundai Archery World Cup 2023 Archery,Hyundai Archery World Cup 2023 champion,Hyundai Archery World Cup 2023 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
+        "Server1": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752449648~acl=/*~id=98972258834170577709684440768522~hmac=6543e1ba5fd11f0c22d7c348a9d66d05f9c88f52cb5a3c7195f15937671e04bf",
+        "Server2": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752449648~acl=/*~id=98972258834170577709684440768522~hmac=6543e1ba5fd11f0c22d7c348a9d66d05f9c88f52cb5a3c7195f15937671e04bf",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752449648~acl=/*~id=98972258834170577709684440768522~hmac=6543e1ba5fd11f0c22d7c348a9d66d05f9c88f52cb5a3c7195f15937671e04bf"
+    },
+    {
         "id": "sl1090483333",
         "isLive": false,
         "event": "Bangladesh Tour of Sri Lanka 2025",
