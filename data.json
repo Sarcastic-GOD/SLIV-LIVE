@@ -14,7 +14,24 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753493890~acl=/*~id=54118185040648495453006619467383~hmac=3304a6299b0aac68214e287d691e2534f966368b64245c60f490faffe96816d6"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753494009~acl=/*~id=08076533981203584367222908989675~hmac=611e197ab56f067c3b585fb44e63638c526122d683e2a0a0e217ee33f7434c8f"
+    },
+    {
+        "id": "sl1090485478",
+        "isLive": true,
+        "event": "E Sports World Cup 2025",
+        "match": "Chess at EWC 25 - Day 2 - Last Chance Qualifier - 25 Jul 2025",
+        "Provider": "NODWIN GAMING PRIVATE LIMITED",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005445/1753346341883990_EWC25_Last_Chance_Qualifier_Day2_hindi_landscape_thumb.jpg",
+        "genre": "ESPORTS",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "LIV",
+        "MaxResolution": "FHD",
+        "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
+        "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753494009~acl=/*~id=08076533981203584367222908989675~hmac=611e197ab56f067c3b585fb44e63638c526122d683e2a0a0e217ee33f7434c8f"
     },
     {
         "id": "sl1090485459",
