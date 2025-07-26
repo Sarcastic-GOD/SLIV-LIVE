@@ -14,7 +14,7 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753584730~acl=/*~id=38533607793670729851357173068923~hmac=c120d0c55bdc3937d05c9840034994366be0f3b3b8d470fe5b2db520d6a573cf"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753584851~acl=/*~id=44767778073660191891200181791376~hmac=44b625e00a10455b8d32dbe3e8f44b8d0ec0f9acca55602781a78e396e57455c"
     },
     {
         "id": "sl1090485511",
@@ -31,7 +31,7 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753584730~acl=/*~id=38533607793670729851357173068923~hmac=c120d0c55bdc3937d05c9840034994366be0f3b3b8d470fe5b2db520d6a573cf"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753584851~acl=/*~id=44767778073660191891200181791376~hmac=44b625e00a10455b8d32dbe3e8f44b8d0ec0f9acca55602781a78e396e57455c"
     },
     {
         "id": "sl1090485423",
@@ -48,7 +48,22 @@
         "SeoTags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
         "Server1": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1753584730~acl=/*~id=38533607793670729851357173068923~hmac=c120d0c55bdc3937d05c9840034994366be0f3b3b8d470fe5b2db520d6a573cf"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1753584851~acl=/*~id=44767778073660191891200181791376~hmac=44b625e00a10455b8d32dbe3e8f44b8d0ec0f9acca55602781a78e396e57455c"
+    },
+    {
+        "id": "sl1090485567",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Asia Cup 2025",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005535/1753538117219526_Asia_Cup25_promo_26jul_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090485506",
