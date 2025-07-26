@@ -1,18 +1,20 @@
 [
     {
-        "id": "sl1090485459",
-        "isLive": false,
+        "id": "sl1090483661",
+        "isLive": true,
         "event": "IndianOil Durand Cup 2025",
-        "match": "Upcoming: Shillong Lajong FC vs Malaysian Armed Forces",
+        "match": "Shillong Lajong vs Malaysian Armed Forces - 26 Jul 2025",
         "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005448/1753350435723223_Durand-Cup-Promo-Thumbs-24072025-landscape.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005512/1753505224279546_DC25_shillong_lajong_fc_vs_malaysian_armed_forces_25jul_landscape_thumb.jpg",
         "genre": "Football",
         "language": "ENG",
-        "venue": "N/A",
+        "venue": "Jawaharlal Nehru Stadium",
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/edb898ffe3dd4a809adbe7dbafe4b0b7/1753349383/baseline-std-v4/DURAND_CUP_SHILLONG_LAJONG_VS_MALAYSIAN_ARMED_FORCES_25_SEC_HOR_APP_eng_baseline-800300010.mpd"
+        "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1753565526~acl=/*~id=78620577584594788088776969003497~hmac=228283534615271389e65dbf3137e59f5f8f694a220b7a7a0163d593579e9f7c"
     },
     {
         "id": "sl1090485506",
