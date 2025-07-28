@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090483663",
-        "isLive": true,
-        "event": "ATP Masters 1000 National Bank Open Toronto, Canada",
-        "match": "Day 1 - 27 Jul 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005511/1753503098541945_ATP_CAnadian_Open25_Round1_Landscape_Thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "Sobeys Stadium, Toronto",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1753698243~acl=/*~id=09978888484471670695578553430277~hmac=c7fa114036cd4e4c593eff3c334e97d6dd0904100044e69ca6763fe1517a989e"
-    },
-    {
         "id": "sl1090485567",
         "isLive": false,
         "event": "Asia Cup 2025",
