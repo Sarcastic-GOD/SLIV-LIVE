@@ -1,10 +1,27 @@
 [
     {
+        "id": "sl1090483662",
+        "isLive": true,
+        "event": "IndianOil Durand Cup 2025",
+        "match": "Shillong Lajong FC vs Rangdajied United FC - 29 Jul 2025",
+        "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005580/1753653556930804_DC25_Shillong_Lajong_FC_vs_Rangdajied_United_FC_27jul_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "Jawaharlal Nehru Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update,Shillong Lajong FC vs Rangdajied United FC",
+        "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1753837203~acl=/*~id=23545740289410051222255212922165~hmac=c30d1a3389221c1221041e45c5d3bacb5fbba9e59a9e74367f345c161f6da6dd"
+    },
+    {
         "id": "sl1090485629",
         "isLive": true,
         "event": "E Sports World Cup 2025",
         "match": "PMWC at EWC 25 with S8UL - Day 1 - Survival Stage - 29 Jul 2025",
-        "Provider": "NODWIN GAMING PRIVATE LIMITED",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005578/1753651082448970_EWC25_PMWC_Survival_Stage_Day1_27jul_hindi_landscape_thumb.jpg",
         "genre": "ESPORTS",
         "language": "HIN",
@@ -14,7 +31,7 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753837083~acl=/*~id=01222192633977538448764474482693~hmac=a58003d78eca98f782062a1202571705f7d1b3c8c0fc6abec9421c4682b942aa"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1753837203~acl=/*~id=23545740289410051222255212922165~hmac=c30d1a3389221c1221041e45c5d3bacb5fbba9e59a9e74367f345c161f6da6dd"
     },
     {
         "id": "sl1090485632",
@@ -31,22 +48,7 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753837083~acl=/*~id=01222192633977538448764474482693~hmac=a58003d78eca98f782062a1202571705f7d1b3c8c0fc6abec9421c4682b942aa"
-    },
-    {
-        "id": "sl1090485513",
-        "isLive": false,
-        "event": "IndianOil Durand Cup 2025",
-        "match": "Upcoming: Shillong Lajong FC vs Rangdajied United FC",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005513/1753507250582572_Durandcup_Shillong-vs-Rang_26july25_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8c2b32b8816343a2b1e69a79cdcd43de/1753503517/baseline-std-v4/DURAND_CUP_SHILLONG_VS_RANGDAJIED_25_SEC_HOR_APP_hin_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753837203~acl=/*~id=23545740289410051222255212922165~hmac=c30d1a3389221c1221041e45c5d3bacb5fbba9e59a9e74367f345c161f6da6dd"
     },
     {
         "id": "sl1090485567",
