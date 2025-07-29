@@ -14,14 +14,14 @@
         "SeoTags": "ATP Masters 1000 Toronto live,National Bank Open 2025,tennis day 1 highlights,watch ATP online,SonyLIV tennis stream,Canada tennis tournament,Djokovic Toronto match,Alcaraz live Toronto,Medvedev ATP 1000,Zverev National Bank Open,tennis schedule SonyLIV,live tennis scores,ATP Toronto fixtures,SonyLIV tennis coverage,Toronto tennis day 1,ATP match today,tennis on mobile,Smart TV tennis stream,HD tennis live,free tennis stream,SonyLIV app tennis,ATP 1000 Canada,watch tennis online,Toronto tennis players,ATP tennis action,National Bank Open stars,tennis streaming app,match timings ATP,SonyLIV tennis content,canadaopen_LIVE25,sports_adsupported,nopreroll_livectv",
         "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1753857128~acl=/*~id=44634148929504552285572573422377~hmac=666eb448cfb27afc699e7025332f1dded8de7e59560e76ba07e7f8f2239e2be9"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1753857247~acl=/*~id=48080256103845918838657398035004~hmac=3b5300ee7eefb1c240dba50c90b6da8e48f4e62815bd737f77c9473c9085d4e1"
     },
     {
         "id": "sl1090485632",
         "isLive": true,
         "event": "E Sports World Cup 2025",
         "match": "Chess at EWC 25 - Day 1 - Group Stage - 29 Jul 2025",
-        "Provider": "NODWIN GAMING PRIVATE LIMITED",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005578/1753651120075970_EWC25_chess_Group_Stage_Day1_27jul_hindi_landscape_thumb.jpg",
         "genre": "ESPORTS",
         "language": "HIN",
@@ -29,9 +29,9 @@
         "TVchannel": "LIV",
         "MaxResolution": "FHD",
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
-        "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1753857128~acl=/*~id=44634148929504552285572573422377~hmac=666eb448cfb27afc699e7025332f1dded8de7e59560e76ba07e7f8f2239e2be9"
+        "Server1": "?hdnea=exp=1753857247~acl=/*~id=48080256103845918838657398035004~hmac=3b5300ee7eefb1c240dba50c90b6da8e48f4e62815bd737f77c9473c9085d4e1",
+        "Server2": "?hdnea=exp=1753857247~acl=/*~id=48080256103845918838657398035004~hmac=3b5300ee7eefb1c240dba50c90b6da8e48f4e62815bd737f77c9473c9085d4e1",
+        "Server3": "?hdnea=exp=1753857247~acl=/*~id=48080256103845918838657398035004~hmac=3b5300ee7eefb1c240dba50c90b6da8e48f4e62815bd737f77c9473c9085d4e1"
     },
     {
         "id": "sl1090484816",
