@@ -42,6 +42,9 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://bitchv69.bgrid.in/icc/master.mpd?arthur|User-Agent=BEXO/31.05&Referer=https://bxo.lol/
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005580/1753654941864804_DC25_Bodoland_FC_vs_KAMSFC_27jul_landscape_thumb.jpg" group-title="SonyLIV",Bodoland FC  vs Karbi Anglong Morning Star FC - 31 Jul 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005642/1753802372539691_MohunBagan_vs_MohammedanSC_31July2025_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Mohun Bagan Super Giant vs Mohammedan SC
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/107bafe8389b45539c398595156d402c/1753802646/baseline-std-v4/PROMO_Mohun_Bagan_vs_Mohammedan_sc_hin_baseline-800300010.mpd
