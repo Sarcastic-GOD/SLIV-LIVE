@@ -14,7 +14,7 @@
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update,Shillong Lajong FC vs Rangdajied United FC",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754015166~acl=/*~id=87014148907927721004188533717517~hmac=34464d03df0d548fec597b6a484755e55c1e69964887ffc9696526269e2dfd66"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754015288~acl=/*~id=95062830167282022661709418113837~hmac=b2e6f4d792dcc464cdbf11337c9f8d44e0be1e01d5fd72a069b8850309dcb186"
     },
     {
         "id": "sl1090485747",
@@ -31,7 +31,7 @@
         "SeoTags": "Esports World Cup 2025,EWC 2025,Esports tournament,Riyadh esports,Saudi Arabia gaming,League of Legends,Valorant,Teamfight Tactics,Dota 2,PUBG Mobile,Free Fire,Street Fighter 6,Call of Duty,Apex Legends,Overwatch 2,Honor of Kings,Mobile Legends,Chess,CrossFire,Fatal Fury,esports competition,gaming event,competitive gaming,esports news,esports teams,esports players,Cristiano Ronaldo esports,$70 million prize pool",
         "Server1": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1754015166~acl=/*~id=87014148907927721004188533717517~hmac=34464d03df0d548fec597b6a484755e55c1e69964887ffc9696526269e2dfd66"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1754015288~acl=/*~id=95062830167282022661709418113837~hmac=b2e6f4d792dcc464cdbf11337c9f8d44e0be1e01d5fd72a069b8850309dcb186"
     },
     {
         "id": "sl1090485567",
@@ -47,5 +47,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090484816",
+        "isLive": false,
+        "event": "IndianOil Durand Cup 2025",
+        "match": "Upcoming: IndianOil Durand Cup 2025",
+        "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/bf19bebda92542d8b265f2c1de2c9139/1752214216/baseline-std-v4/PROMMO_DC_2025_40_SEC_H_APP_eng_baseline-800300010.mpd"
     }
 ]
