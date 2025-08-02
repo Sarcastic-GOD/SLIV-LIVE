@@ -4,7 +4,7 @@
         "isLive": true,
         "event": "ATP Masters 1000 National Bank Open Toronto, Canada",
         "match": "Day 7 - 2 Aug 2025",
-        "Provider": "ATP Media Operations Ltd",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005511/1753503037265945_ATP_CAnadian_Open25_Round4_Landscape_Thumb.jpg",
         "genre": "Tennis",
         "language": "ENG",
@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "ATP Masters 1000 Toronto live,National Bank Open 2025,tennis day 1 highlights,watch ATP online,SonyLIV tennis stream,Canada tennis tournament,Djokovic Toronto match,Alcaraz live Toronto,Medvedev ATP 1000,Zverev National Bank Open,tennis schedule SonyLIV,live tennis scores,ATP Toronto fixtures,SonyLIV tennis coverage,Toronto tennis day 1,ATP match today,tennis on mobile,Smart TV tennis stream,HD tennis live,free tennis stream,SonyLIV app tennis,ATP 1000 Canada,watch tennis online,Toronto tennis players,ATP tennis action,National Bank Open stars,tennis streaming app,match timings ATP,SonyLIV tennis content,canadaopen_LIVE25,sports_adsupported,nopreroll_livectv",
-        "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1754208968~acl=/*~id=63012839786060928308995352202885~hmac=18b674acfcd3f32910168d6ff8d2920398920eedafd1a279b14a47692164832a"
+        "Server1": "?hdnea=exp=1754209090~acl=/*~id=71901161235903604410639615840022~hmac=f1c65890da038b05b9a70019cce6795b9f1e5aa3cdc19df847055c496fc471bf",
+        "Server2": "?hdnea=exp=1754209090~acl=/*~id=71901161235903604410639615840022~hmac=f1c65890da038b05b9a70019cce6795b9f1e5aa3cdc19df847055c496fc471bf",
+        "Server3": "?hdnea=exp=1754209090~acl=/*~id=71901161235903604410639615840022~hmac=f1c65890da038b05b9a70019cce6795b9f1e5aa3cdc19df847055c496fc471bf"
     },
     {
         "id": "sl1090485567",
@@ -36,7 +36,7 @@
         "isLive": false,
         "event": "IndianOil Durand Cup 2025",
         "match": "Upcoming: Upcoming: IndianOil Durand Cup 2025",
-        "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+        "Provider": "N/A",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
         "genre": "Football",
         "language": "HIN",
