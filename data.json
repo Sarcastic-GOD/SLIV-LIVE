@@ -14,7 +14,7 @@
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update,Shillong Lajong FC vs Rangdajied United FC",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754534168~acl=/*~id=76754754366245957174976401503796~hmac=ed99807bb301b8c31734e4d805f3c82af5c731f71f648d51748b3cb8cf02a481"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754534289~acl=/*~id=64874680191223762632799583560208~hmac=83796fd8e6d6b8f019266cc46d545b621586031027843d54ecda4a3086b565d2"
     },
     {
         "id": "sl1090483666",
@@ -31,7 +31,7 @@
         "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
         "Server1": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1754534168~acl=/*~id=76754754366245957174976401503796~hmac=ed99807bb301b8c31734e4d805f3c82af5c731f71f648d51748b3cb8cf02a481"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1754534289~acl=/*~id=64874680191223762632799583560208~hmac=83796fd8e6d6b8f019266cc46d545b621586031027843d54ecda4a3086b565d2"
     },
     {
         "id": "sl1090485900",
@@ -77,5 +77,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "Legen-z T10,cricket tournament,T10 league,short format cricket,fast-paced cricket,Legen-z T10 schedule,Legen-z T10 teams,Legen-z T10 players,Legen-z T10 live scores,Legen-z T10 highlights,cricket news,T10 cricket tournament.,Legen-z T10 teams list,Legen-z T10 fixtures,Legen-z T10 results,Legen-z T10 standings,Legen-z T10 player stats,Legen-z T10 winner.,T10 cricket tournament",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/fd40213e60134bd1912fdc525ec3d6dd/1754419534/baseline-std-v4/LEGENZ1X_MUSIC_1_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090485830",
+        "isLive": false,
+        "event": "IndianOil Durand Cup 2025",
+        "match": "Upcoming: Week 3",
+        "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005953/1754487772935187_dc25_BSF_FT_vs_Mohammedan_Sc_6aug_dated_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/2c2419b72a7d47f0a4362dcb5cb70c30/1754107007/baseline-std-v4/1090485830_02082025_hin_baseline-800300010.mpd"
     }
 ]
