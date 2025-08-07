@@ -42,15 +42,12 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://bitchv69.bgrid.in/icc/master.mpd?arthur|User-Agent=BEXO/31.05&Referer=https://bxo.lol/
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005940/1754471459093991_ATP_CO25_SF_Sheton_vs_Fritz_Landscape_Thumb.jpg" group-title="SonyLIV",Ben Shelton vs Taylor Fritz - Semi-final - 7 Aug 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005912/1754423955625122_The_LegenZ_T10_5aug2025_GOB_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Legen-z T10
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/fd40213e60134bd1912fdc525ec3d6dd/1754419534/baseline-std-v4/LEGENZ1X_MUSIC_1_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005953/1754487765069187_dc25_BSF_FT_vs_Mohammedan_Sc_6aug_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Week 3
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/2c2419b72a7d47f0a4362dcb5cb70c30/1754494013/baseline-std-v4/1090485830_02082025_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005912/1754423955625122_The_LegenZ_T10_5aug2025_GOB_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Legen-z T10
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fd40213e60134bd1912fdc525ec3d6dd/1754419534/baseline-std-v4/LEGENZ1X_MUSIC_1_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd
