@@ -14,22 +14,7 @@
         "SeoTags": "casper ruud,hubert hurkacz,andrey rublev,alex de minaur,daniil medvedev,alexander zverev,Carlos Alcaraz,novak djokovic,jannik sinner,Lorenzo Musetti,ugo humbert,Ben Shelton,taylor fritz,Tommy Paul,stefanos tsitsipas,grigor dimitrov,tennis matches,tennis game,tennis player,cincinnati open,tennis,Top Tennis Player,National tennis player,National tennis,western & southern open cincinnati usa,cincinnati atp tennis,cincinnati masters 2023,cincinnati masters,ATP Master 1000 Cincinnati Open,ATP Master 1000,ATP Master 1000 Cincinnati Open 2025",
         "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1754730247~acl=/*~id=63691894027001186518911760543424~hmac=9914ab798c2c3796eb95630e998e38ed2d07bc1a28c751c6a067dd480c257af4"
-    },
-    {
-        "id": "sl1090486125",
-        "isLive": false,
-        "event": "FA Community Shield 2025",
-        "match": "Upcoming: Crystal Palace vs Liverpool",
-        "Provider": "THE FOOTBALL ASSOCIATION PREMIER LEAGUE LIMITED",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006009/1754563340919610_FAcup25_crystal_palace_vs_liverpool_dated_7aug_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 1",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/47411861bac1479fb8d25948a2509aad/1754543180/baseline-std-v4/PROMO_FA_Cup_Community_Shield_35_SEC_HOR_APP_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1754730368~acl=/*~id=14755611716057293653327272546046~hmac=c6bb8bf43a31ca4eebc625476efa696b23aea1088d38cad0dc23894a044c16db"
     },
     {
         "id": "sl1090485567",
