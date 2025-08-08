@@ -42,6 +42,9 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://bitchv69.bgrid.in/icc/master.mpd?arthur|User-Agent=BEXO/31.05&Referer=https://bxo.lol/
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754002814545345_dc25_Jamshedpur_FC_vs_1Ladakh_FC_30jul_landscape_thumb.jpg" group-title="SonyLIV",Jamshedpur FC vs 1 Ladakh FC - 8 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006009/1754563340919610_FAcup25_crystal_palace_vs_liverpool_dated_7aug_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Crystal Palace vs Liverpool
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/47411861bac1479fb8d25948a2509aad/1754543180/baseline-std-v4/PROMO_FA_Cup_Community_Shield_35_SEC_HOR_APP_eng_baseline-800300010.mpd
