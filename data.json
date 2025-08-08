@@ -14,7 +14,7 @@
         "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
         "Server1": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1754713327~acl=/*~id=47295291374295882587592683569305~hmac=7505a96177c9b033a7bdeaa139afe0b16051a081af67f03baef78b06e83247f9"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1754713448~acl=/*~id=19536652317938244078398735148870~hmac=2d2999ccd283803c26784a438e87ceaa021c099553cf14e8609628a42c8d4073"
     },
     {
         "id": "sl1090483664",
@@ -31,7 +31,7 @@
         "SeoTags": "casper ruud,hubert hurkacz,andrey rublev,alex de minaur,daniil medvedev,alexander zverev,Carlos Alcaraz,novak djokovic,jannik sinner,Lorenzo Musetti,ugo humbert,Ben Shelton,taylor fritz,Tommy Paul,stefanos tsitsipas,grigor dimitrov,tennis matches,tennis game,tennis player,cincinnati open,tennis,Top Tennis Player,National tennis player,National tennis,western & southern open cincinnati usa,cincinnati atp tennis,cincinnati masters 2023,cincinnati masters,ATP Master 1000 Cincinnati Open,ATP Master 1000,ATP Master 1000 Cincinnati Open 2025",
         "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1754713327~acl=/*~id=47295291374295882587592683569305~hmac=7505a96177c9b033a7bdeaa139afe0b16051a081af67f03baef78b06e83247f9"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1754713448~acl=/*~id=19536652317938244078398735148870~hmac=2d2999ccd283803c26784a438e87ceaa021c099553cf14e8609628a42c8d4073"
     },
     {
         "id": "sl1090486125",
@@ -62,20 +62,5 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090485900",
-        "isLive": false,
-        "event": "The Hundred 2025",
-        "match": "Upcoming: The Hundred 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754591075578419_the_hundred_mens25_Birmingham_Phoenix_vs_Trent_Rockets_7aug_tonight_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "the hundred,the hundred cricket,hundred cricket,the hundred highlights,hundred draft,the 100,the hundred draft 2025,the 100 cricket,the hundred live,the hundred 2025,the hundred draft,the hundred 2025 all teams squad,the hundred cricket league 2025,the hundred final,the hundred cricket tournament,the hundred league 2025,the hundred 2025 schedule,the hundred cricket rules",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e8704c7f531c45228d06c293d5c24a48/1754212303/baseline-std-v4/PROMO_THE_100_30_SEC_HOR_APP_03082025_eng_baseline-800300010.mpd"
     }
 ]
