@@ -14,7 +14,7 @@
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update,Shillong Lajong FC vs Rangdajied United FC",
         "Server1": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754963049~acl=/*~id=92027015544344849180659344540248~hmac=1392417573245ae512623e698dd775b98f5812f6578e753e3fcf28a8ad08b212"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1754963164~acl=/*~id=53369322643146129936205377995946~hmac=37986ed1673aca6937ba8b4685f9b20ecb1d06330108ff7ebdb22f439111fd21"
     },
     {
         "id": "sl1090483666",
@@ -31,22 +31,7 @@
         "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
         "Server1": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/Manche1108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1754963049~acl=/*~id=92027015544344849180659344540248~hmac=1392417573245ae512623e698dd775b98f5812f6578e753e3fcf28a8ad08b212"
-    },
-    {
-        "id": "sl1090485567",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: Asia Cup 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/Manche1108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1754963164~acl=/*~id=53369322643146129936205377995946~hmac=37986ed1673aca6937ba8b4685f9b20ecb1d06330108ff7ebdb22f439111fd21"
     },
     {
         "id": "sl1090486226",
@@ -62,6 +47,21 @@
         "MaxResolution": "FHD",
         "SeoTags": "UEFA Super Cup 2025,PSG vs Tottenham 2025,UEFA Super Cup Udine,UEFA Super Cup August 13 2025,UEFA Super Cup live score,UEFA Super Cup streaming,UEFA Super Cup highlights,UEFA Super Cup match preview,UEFA Super Cup final 2025,UEFA Super Cup kickoff time,UEFA Super Cup squads,UEFA Super Cup team news,UEFA Super Cup predictions,UEFA Super Cup commentary,UEFA Super Cup stats,UEFA Super Cup trophy,UEFA Super Cup venue Stadio Friuli,UEFA Super Cup match updates,UEFA Super Cup player rankings,UEFA Super Cup fantasy football,UEFA Super Cup head-to-head,UEFA Super Cup history,UEFA Super Cup prize money,UEFA Super Cup Champions League winners,UEFA Super Cup Europa League winners,Kylian Mbappé,Vitinha,Marquinhos,Gianluigi Donnarumma,Manuel Ugarte,James Maddison,Mohammed Kudus,Cristian Romero,Pedro Porro,Guglielmo Vicario",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/eb6ac08f8b2d4ab08aed1457af022c8a/1754803029/baseline-std-v4/Promo_Super_Cup_2025_H_35SEC_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090485567",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Asia Cup 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090485900",
