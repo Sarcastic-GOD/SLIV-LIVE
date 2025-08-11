@@ -14,7 +14,7 @@
         "SeoTags": "casper ruud,hubert hurkacz,andrey rublev,alex de minaur,daniil medvedev,alexander zverev,Carlos Alcaraz,novak djokovic,jannik sinner,Lorenzo Musetti,ugo humbert,Ben Shelton,taylor fritz,Tommy Paul,stefanos tsitsipas,grigor dimitrov,tennis matches,tennis game,tennis player,cincinnati open,tennis,Top Tennis Player,National tennis player,National tennis,western & southern open cincinnati usa,cincinnati atp tennis,cincinnati masters 2023,cincinnati masters,ATP Master 1000 Cincinnati Open,ATP Master 1000,ATP Master 1000 Cincinnati Open 2025",
         "Server1": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/ATPCin1108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1754975288~acl=/*~id=77424326123910978677127166795011~hmac=0b84b33ddfeaf9cbe0736004e98b221642da1a7ae31577e57a6d590b0a195faf"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/ATPCin1108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1754975418~acl=/*~id=21735070235078363507249366349661~hmac=bb5904ae24096d84d2a73ef1664d33da358cd44b623e496026110a483ad220c2"
     },
     {
         "id": "sl1090486226",
@@ -45,20 +45,5 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b1f9c9549183451f820f4d60f5044a62/1753539324/baseline-std-v4/ASIA_CUP_2025_30_SEC_HOR_APP_REVISED_hin_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090485900",
-        "isLive": false,
-        "event": "The Hundred 2025",
-        "match": "Upcoming: The Hundred 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754594645926419_the_hundred_mens25_Manchester_Originals_vs_London_Spirit_7aug_tonight_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "the hundred,the hundred cricket,hundred cricket,the hundred highlights,hundred draft,the 100,the hundred draft 2025,the 100 cricket,the hundred live,the hundred 2025,the hundred draft,the hundred 2025 all teams squad,the hundred cricket league 2025,the hundred final,the hundred cricket tournament,the hundred league 2025,the hundred 2025 schedule,the hundred cricket rules",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e8704c7f531c45228d06c293d5c24a48/1754212303/baseline-std-v4/PROMO_THE_100_30_SEC_HOR_APP_03082025_eng_baseline-800300010.mpd"
     }
 ]
