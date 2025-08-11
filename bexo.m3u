@@ -42,6 +42,9 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://bitchv69.bgrid.in/icc/master.mpd?arthur|User-Agent=BEXO/31.05&Referer=https://bxo.lol/
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754004507395345_dc25_Indian_Army_FT_vs_1Ladakh_FC_30jul_landscape_thumb.jpg" group-title="SonyLIV",Indian Army FT Vs 1 Ladakh FC - 11 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006144/1754744748289857_DC25_Landscape.jpg" group-title="SonyLIV",Upcoming: Northeast United FC vs Rangdajied United FC
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/702ca6d5676d4c9a8547692eaf05becc/1754744440/baseline-std-v4/1090486283_09082025_eng_baseline-800300010.mpd
