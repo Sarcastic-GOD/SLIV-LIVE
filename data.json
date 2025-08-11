@@ -14,7 +14,7 @@
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
         "Server1": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1754953578~acl=/*~id=54638994375723010768104949221277~hmac=2fb5c248cd4a0f90bafa5976323fbd818e9b58df1fc11ff1ade9b75a4c0f40f3"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1754953686~acl=/*~id=11948509285419986065256083111422~hmac=9a570f9963b8f18dd5b84f5417b26dffabad92bde4361ff715d2eaf453c68380"
     },
     {
         "id": "sl1090486283",
@@ -30,21 +30,6 @@
         "MaxResolution": "FHD",
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/702ca6d5676d4c9a8547692eaf05becc/1754744440/baseline-std-v4/1090486283_09082025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090485900",
-        "isLive": false,
-        "event": "The Hundred 2025",
-        "match": "Upcoming: The Hundred 2025",
-        "Provider": "ENGLAND AND WALES CRICKET",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754594645926419_the_hundred_mens25_Manchester_Originals_vs_London_Spirit_7aug_tonight_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "the hundred,the hundred cricket,hundred cricket,the hundred highlights,hundred draft,the 100,the hundred draft 2025,the 100 cricket,the hundred live,the hundred 2025,the hundred draft,the hundred 2025 all teams squad,the hundred cricket league 2025,the hundred final,the hundred cricket tournament,the hundred league 2025,the hundred 2025 schedule,the hundred cricket rules",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e8704c7f531c45228d06c293d5c24a48/1754212303/baseline-std-v4/PROMO_THE_100_30_SEC_HOR_APP_03082025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090485567",
@@ -75,5 +60,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "UEFA Super Cup 2025,PSG vs Tottenham 2025,UEFA Super Cup Udine,UEFA Super Cup August 13 2025,UEFA Super Cup live score,UEFA Super Cup streaming,UEFA Super Cup highlights,UEFA Super Cup match preview,UEFA Super Cup final 2025,UEFA Super Cup kickoff time,UEFA Super Cup squads,UEFA Super Cup team news,UEFA Super Cup predictions,UEFA Super Cup commentary,UEFA Super Cup stats,UEFA Super Cup trophy,UEFA Super Cup venue Stadio Friuli,UEFA Super Cup match updates,UEFA Super Cup player rankings,UEFA Super Cup fantasy football,UEFA Super Cup head-to-head,UEFA Super Cup history,UEFA Super Cup prize money,UEFA Super Cup Champions League winners,UEFA Super Cup Europa League winners,Kylian Mbappé,Vitinha,Marquinhos,Gianluigi Donnarumma,Manuel Ugarte,James Maddison,Mohammed Kudus,Cristian Romero,Pedro Porro,Guglielmo Vicario",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/eb6ac08f8b2d4ab08aed1457af022c8a/1754803029/baseline-std-v4/Promo_Super_Cup_2025_H_35SEC_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090485900",
+        "isLive": false,
+        "event": "The Hundred 2025",
+        "match": "Upcoming: The Hundred 2025",
+        "Provider": "ENGLAND AND WALES CRICKET",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754594645926419_the_hundred_mens25_Manchester_Originals_vs_London_Spirit_7aug_tonight_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "the hundred,the hundred cricket,hundred cricket,the hundred highlights,hundred draft,the 100,the hundred draft 2025,the 100 cricket,the hundred live,the hundred 2025,the hundred draft,the hundred 2025 all teams squad,the hundred cricket league 2025,the hundred final,the hundred cricket tournament,the hundred league 2025,the hundred 2025 schedule,the hundred cricket rules",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e8704c7f531c45228d06c293d5c24a48/1754212303/baseline-std-v4/PROMO_THE_100_30_SEC_HOR_APP_03082025_eng_baseline-800300010.mpd"
     }
 ]
