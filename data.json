@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090486380",
-        "isLive": true,
-        "event": "ATP Masters 1000 - Western and Southern Open 2025",
-        "match": "Day 5 - 11 Aug 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005983/1754521233979904_ATP_Cincinnati_Open25_round3_7aug_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "The Lindner Family Tennis Center",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "casper ruud,hubert hurkacz,andrey rublev,alex de minaur,daniil medvedev,alexander zverev,Carlos Alcaraz,novak djokovic,jannik sinner,Lorenzo Musetti,ugo humbert,Ben Shelton,taylor fritz,Tommy Paul,stefanos tsitsipas,grigor dimitrov,tennis matches,tennis game,tennis player,cincinnati open,tennis,Top Tennis Player,National tennis player,National tennis,western & southern open cincinnati usa,cincinnati atp tennis,cincinnati masters 2023,cincinnati masters,ATP Master 1000 Cincinnati Open,ATP Master 1000,ATP Master 1000 Cincinnati Open 2025",
-        "Server1": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1755013205~acl=/*~id=89167363193550874083115717518485~hmac=679eaa7fa58ea5452230240b20d84f5b0a93b258a5979ebf49d46ed51b0722f7"
-    },
-    {
         "id": "sl1090486226",
         "isLive": false,
         "event": "PSG vs Tottenham",
