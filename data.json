@@ -14,7 +14,7 @@
         "SeoTags": "casper ruud,hubert hurkacz,andrey rublev,alex de minaur,daniil medvedev,alexander zverev,Carlos Alcaraz,novak djokovic,jannik sinner,Lorenzo Musetti,ugo humbert,Ben Shelton,taylor fritz,Tommy Paul,stefanos tsitsipas,grigor dimitrov,tennis matches,tennis game,tennis player,cincinnati open,tennis,Top Tennis Player,National tennis player,National tennis,western & southern open cincinnati usa,cincinnati atp tennis,cincinnati masters 2023,cincinnati masters,ATP Master 1000 Cincinnati Open,ATP Master 1000,ATP Master 1000 Cincinnati Open 2025",
         "Server1": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/ATP_Ci1308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755164647~acl=/*~id=87462715413065600170493344969628~hmac=de8d8cb39c10afc2e7d0c0403f4c615ca20978b3c8b823c7cf6f710da3d89b1b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/ATP_Ci1308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755164765~acl=/*~id=80727298825272164452673810409629~hmac=ea40c13b45d0529e43ca5cba54317d5f100f0f89cc6182ef5777becf72f1e2ea"
     },
     {
         "id": "sl1090485567",
@@ -30,5 +30,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/1bd320ca96a240adbb62a72fb0b4f9d0/1754997856/baseline-std-v4/PROMO_ASIA_CUP_2025_30SEC_H_APP_REV_2_mp4_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090486554",
+        "isLive": false,
+        "event": "Du Plessis vs Chimaev",
+        "match": "Upcoming: UFC 319",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006370/1755095257770702_UFC_319_Du_Plessis_vs_Chimaev_landscape.jpg",
+        "genre": "Fight Sports",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/afaad582b9004871b12ad6c21b903880/1755094757/baseline-std-v4/PROMO_UFC319_13082025_eng_baseline-800300010.mpd"
     }
 ]
