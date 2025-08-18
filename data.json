@@ -14,7 +14,7 @@
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
         "Server1": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755570368~acl=/*~id=17113264165737497842454958268611~hmac=2205e9ac93b3b7c5602ed036a3300170b74612a2e31b031262fbf1aa06036bef"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755570486~acl=/*~id=62954442497456943582892932262936~hmac=61def68d077cbf8857d117407ffcffe33493ae10f056ca3685285fabe92798b4"
     },
     {
         "id": "sl1090483666",
@@ -31,7 +31,7 @@
         "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
         "Server1": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/Womens1808/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755570368~acl=/*~id=17113264165737497842454958268611~hmac=2205e9ac93b3b7c5602ed036a3300170b74612a2e31b031262fbf1aa06036bef"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/Womens1808/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755570486~acl=/*~id=62954442497456943582892932262936~hmac=61def68d077cbf8857d117407ffcffe33493ae10f056ca3685285fabe92798b4"
     },
     {
         "id": "sl1090485567",
@@ -62,6 +62,21 @@
         "MaxResolution": "FHD",
         "SeoTags": "tennis,Tennis,ATP Master 1000,Cincinnati Open,ATP Master 1000 Cincinnati Open,cincinnati masters,cincinnati atp tennis,western & southern open cincinnati usa,Tennis player,National tennis,National tennis player,Top Tennis Player,Tennis game,Tennis Matches,grigor dimitrov,stefanos tsitsipas,tommy paul,taylor fritz,ben shelton,ugo humbert,lorenzo musetti,jannik sinner,novak djokovic,carlos alcaraz,alexander zverev,daniil medvedev,alex de minaur,andrey rublev,hubert hurkacz,casper ruud",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a964753133034c1fae33b6f3b2a37ea1/1754420566/baseline-std-v4/1090486034_06082025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090486095",
+        "isLive": false,
+        "event": "IndianOil Durand Cup 2025",
+        "match": "Upcoming: IndianOil Durand Cup 2025",
+        "Provider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b8e199ad10f14e68a681570e3928dac3/1754482506/baseline-std-v4/PROMO_DC_2025_Theme_Song_06082025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090486776",
