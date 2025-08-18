@@ -14,22 +14,7 @@
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
         "Server1": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755555249~acl=/*~id=69922230143401188795154282926502~hmac=add5116a761374425f16cbe27c1400b4d947ed32447426f6fd514ff5d0ac7a8d"
-    },
-    {
-        "id": "sl1090486034",
-        "isLive": false,
-        "event": "Cincinnati Open 2025",
-        "match": "Upcoming: ATP Master 1000",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "tennis,Tennis,ATP Master 1000,Cincinnati Open,ATP Master 1000 Cincinnati Open,cincinnati masters,cincinnati atp tennis,western & southern open cincinnati usa,Tennis player,National tennis,National tennis player,Top Tennis Player,Tennis game,Tennis Matches,grigor dimitrov,stefanos tsitsipas,tommy paul,taylor fritz,ben shelton,ugo humbert,lorenzo musetti,jannik sinner,novak djokovic,carlos alcaraz,alexander zverev,daniil medvedev,alex de minaur,andrey rublev,hubert hurkacz,casper ruud",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a964753133034c1fae33b6f3b2a37ea1/1754420566/baseline-std-v4/1090486034_06082025_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755555367~acl=/*~id=03646557485126900372939859576436~hmac=8646b8ea63b4810fe870dd8e280682e06c877a1400c4b158dd3e94541de57fdf"
     },
     {
         "id": "sl1090485567",
@@ -45,6 +30,21 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b087e17cff046a69354fc7bc7269d3e/1755166112/baseline-std-v4/PROMO_ASIA_CUP_2025_30_SEC_H_APP_REV_3_mp4_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090486034",
+        "isLive": false,
+        "event": "Cincinnati Open 2025",
+        "match": "Upcoming: ATP Master 1000",
+        "Provider": "ATP Media Operations Ltd",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "tennis,Tennis,ATP Master 1000,Cincinnati Open,ATP Master 1000 Cincinnati Open,cincinnati masters,cincinnati atp tennis,western & southern open cincinnati usa,Tennis player,National tennis,National tennis player,Top Tennis Player,Tennis game,Tennis Matches,grigor dimitrov,stefanos tsitsipas,tommy paul,taylor fritz,ben shelton,ugo humbert,lorenzo musetti,jannik sinner,novak djokovic,carlos alcaraz,alexander zverev,daniil medvedev,alex de minaur,andrey rublev,hubert hurkacz,casper ruud",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a964753133034c1fae33b6f3b2a37ea1/1754420566/baseline-std-v4/1090486034_06082025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090486776",
