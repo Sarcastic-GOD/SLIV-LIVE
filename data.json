@@ -14,7 +14,24 @@
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
         "Server1": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755567368~acl=/*~id=13599164202157525546621309013285~hmac=50b72f5625767e14e453949a5c8407c45586f0906391fd04daabb30d1416fa9b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/UP_T201808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755567489~acl=/*~id=28787868198742026868593227401876~hmac=0912b9465dd202c0840cff56e0458d81c56f6f5665c8d736ce4ab0fc2e1d439b"
+    },
+    {
+        "id": "sl1090483666",
+        "isLive": true,
+        "event": "The Hundred 2025 (Women's)",
+        "match": "Southern Brave vs Oval Invincibles - 18 Aug 2025",
+        "Provider": "ENGLAND AND WALES CRICKET",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006065/175464515166076_the_hundred_womens25_Southern_Brave_vs_Oval_Invincibles_8aug_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "The Rose Bowl",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
+        "Server1": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/Womens1808/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755567489~acl=/*~id=28787868198742026868593227401876~hmac=0912b9465dd202c0840cff56e0458d81c56f6f5665c8d736ce4ab0fc2e1d439b"
     },
     {
         "id": "sl1090485567",
