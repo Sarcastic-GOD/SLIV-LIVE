@@ -1,20 +1,18 @@
 [
     {
-        "id": "sl1090483667",
-        "isLive": true,
-        "event": "UP T20 League 2025",
-        "match": "Meerut Mavericks vs Lucknow Falcons - 19 Aug 2025",
-        "Provider": "UTTAR PRADESH CRICKET ASSOCIATION",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006658/1755564712125715_UP_T20_MeerutMavericks_vs_LucknowFalcons_Landscape_thumb.jpg",
+        "id": "sl1090485567",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Asia Cup 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
         "genre": "Cricket",
         "language": "HIN",
-        "venue": "Ekana Stadium, Lucknow",
+        "venue": "N/A",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
-        "Server1": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118979/UP_T201908/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755669605~acl=/*~id=15712353269220741132020115274610~hmac=13260f49eeafe2f7b6e7c635893c7582fae92bf924d6f1b3657be674f1612af8"
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b087e17cff046a69354fc7bc7269d3e/1755525511/baseline-std-v4/PROMO_ASIA_CUP_2025_30_SEC_H_APP_REV_3_mp4_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090486913",
@@ -30,21 +28,6 @@
         "MaxResolution": "FHD",
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/2944b2b77c094112bd7c8cafcaca2bde/1755613421/baseline-std-v4/DURAND_SF_Diamond_Harbour_FC_vs_East_Bengal_hin_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090485567",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: Asia Cup 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b087e17cff046a69354fc7bc7269d3e/1755525511/baseline-std-v4/PROMO_ASIA_CUP_2025_30_SEC_H_APP_REV_3_mp4_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090486776",
