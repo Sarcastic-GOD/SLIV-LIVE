@@ -1,18 +1,20 @@
 [
     {
-        "id": "sl1090485567",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: Asia Cup 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
+        "id": "sl1090483668",
+        "isLive": true,
+        "event": "CLT10",
+        "match": "Dynamic Dynamos vs Supreme Strikers - 22 Aug 2025",
+        "Provider": "Champions League T10",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006828/1755837813505684_CLT10_Dynamic_Dynamos_Vs_Supreme_Strikers_21aug25_landscape_thumb.jpg",
         "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
+        "language": "ENG",
+        "venue": "Noida Indoor Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b087e17cff046a69354fc7bc7269d3e/1755525511/baseline-std-v4/PROMO_ASIA_CUP_2025_30_SEC_H_APP_REV_3_mp4_hin_baseline-800300010.mpd"
+        "SeoTags": "Champions League T10,T10 cricket league,T10 Champions League 2025,T10 cricket tournament,Champions League T10 schedule,T10 cricket live score,T10 league teams,T10 cricket highlights,T10 fantasy cricket,Champions League T10 points table,T10 cricket news,T10 match updates,T10 cricket fixtures,T10 cricket results,T10 cricket stats,Tillakaratne Dilshan,Parthiv Patel,Carlos Brathwaite,Shaun Marsh,Ross Taylor,Dwayne Smith,Thisara Perera",
+        "Server1": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118979/CLT10_2208/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755882126~acl=/*~id=00070421603473561447721715887844~hmac=a8fc00b3db5374d02690fbcc67c8f45ee0ab0cad127a2015affab64bceb788a4"
     },
     {
         "id": "sl1090486095",
@@ -30,18 +32,18 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/b8e199ad10f14e68a681570e3928dac3/1754482506/baseline-std-v4/PROMO_DC_2025_Theme_Song_06082025_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090486776",
+        "id": "sl1090485567",
         "isLive": false,
-        "event": "CLT10",
-        "match": "Upcoming: CLT10",
-        "Provider": "Champions League T10",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006572/1755446579997220_CLT10_landscape_thumb_Dated_17aug.jpg",
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Asia Cup 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
         "genre": "Cricket",
-        "language": "ENG",
+        "language": "HIN",
         "venue": "N/A",
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
-        "SeoTags": "champions league t10 live score,champions league t10 highlights,champions league t10 schedule,champions league t10 points table,champions league t10 teams,champions league t10 fixtures,champions league t10 results,champions league t10 fantasy tips,champions league t10 top performers,champions league t10 match updates,champions league t10 today’s match,champions league t10 player stats,champions league t10 standings,champions league t10 knockout stage,champions league t10 semi-final,champions league t10 final,champions league t10 news,champions league t10 records,champions league t10 best moments,champions league t10 batting stats,champions league t10 bowling stats,champions league t10 team rankings,champions league t10 match preview,champions league t10 post-match,champions league t10 social buzz,champions league t10 fan reactions,champions league t10 venue details,champions league t10 weather update,champions league t10 injury report,champions league t10 captain picks",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5f95116f1d1d4f49b941f3e3e80ead4f/1755525228/baseline-std-v4/1090486776_17082025_eng_baseline-800300010.mpd"
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b087e17cff046a69354fc7bc7269d3e/1755525511/baseline-std-v4/PROMO_ASIA_CUP_2025_30_SEC_H_APP_REV_3_mp4_hin_baseline-800300010.mpd"
     }
 ]
