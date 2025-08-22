@@ -14,7 +14,24 @@
         "SeoTags": "Champions League T10,T10 cricket league,T10 Champions League 2025,T10 cricket tournament,Champions League T10 schedule,T10 cricket live score,T10 league teams,T10 cricket highlights,T10 fantasy cricket,Champions League T10 points table,T10 cricket news,T10 match updates,T10 cricket fixtures,T10 cricket results,T10 cricket stats,Tillakaratne Dilshan,Parthiv Patel,Carlos Brathwaite,Shaun Marsh,Ross Taylor,Dwayne Smith,Thisara Perera",
         "Server1": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118979/CLT10_2208/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755897373~acl=/*~id=16997949568256805941515241000291~hmac=28f355bf0ba5f8f02db4f7cc3aebca722023e1f04b68a60d29a6cbfc6fb41662"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118979/CLT10_2208/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755897493~acl=/*~id=32982084309461878444554900041490~hmac=dc76a7892f00dc01e891203cf4343ef17be9cfa772be87ea9c7485c1329f1ca5"
+    },
+    {
+        "id": "sl1090483667",
+        "isLive": true,
+        "event": "UP T20 League 2025",
+        "match": "Noida Kings vs Kanpur Superstars - 22 Aug 2025",
+        "Provider": "UTTAR PRADESH CRICKET ASSOCIATION",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006659/1755579119355941_UPT20_League25_Noida_Kings_vs_Kanpur_Superstars_19aug_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
+        "Server1": "https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118974/UP_T202208/HIN/std_mdh-800300010.m3u8?hdnea=exp=1755897493~acl=/*~id=32982084309461878444554900041490~hmac=dc76a7892f00dc01e891203cf4343ef17be9cfa772be87ea9c7485c1329f1ca5"
     },
     {
         "id": "sl1090486095",
