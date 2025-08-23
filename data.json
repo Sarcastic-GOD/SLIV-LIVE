@@ -14,7 +14,7 @@
         "SeoTags": "Champions League T10,T10 cricket league,T10 Champions League 2025,T10 cricket tournament,Champions League T10 schedule,T10 cricket live score,T10 league teams,T10 cricket highlights,T10 fantasy cricket,Champions League T10 points table,T10 cricket news,T10 match updates,T10 cricket fixtures,T10 cricket results,T10 cricket stats,Tillakaratne Dilshan,Parthiv Patel,Carlos Brathwaite,Shaun Marsh,Ross Taylor,Dwayne Smith,Thisara Perera",
         "Server1": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/CLT10_2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755978847~acl=/*~id=42178547739320944270483195269336~hmac=5f692fd07af366301e02330fe8ed965d57c801fda90874f407f97e2c30be58a0"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/CLT10_2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755978970~acl=/*~id=74765225815906652448333983239795~hmac=83839d99741ab246d3646a80b930a9c514df7db6f62bdd286f5ef4e11f906cc9"
     },
     {
         "id": "sl1090487092",
@@ -45,5 +45,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1755871797/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090487106",
+        "isLive": false,
+        "event": "St. Pauli vs Borussia Dortmund",
+        "match": "Upcoming: St. Pauli vs Borussia Dortmund",
+        "Provider": "DFL Deutsche Fubball Liga e.V.",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858931386702_st_pauli_vs_Dortmund_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "N/A",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6298c09814e04bf581c7fc55cb4fa417/1755858852/baseline-std-v4/PROMO_BUNDESLIGA_FC_ST_PAULI_VS_BORUSSIA_DORTMUND_30_SEC_HOR_APP_eng_baseline-800300010.mpd"
     }
 ]
