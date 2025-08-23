@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090487034",
-        "isLive": true,
-        "event": "Bundesliga 2025-26",
-        "match": "Union Berlin vs VfB Stuttgart - MD 1 - 23 Aug 2025",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755792183068311_Bundesliga_MD1_UnionBerlin_vs_VfB_Stuttgart_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "An der Alten Forsterei Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
-        "Server1": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/Bundes2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756007532~acl=/*~id=17362419491760998538058497237960~hmac=ba8ab3a7c34efabd20e629e8d712ff0dc9c98940fb426c7a19744b9a68a93bf4"
-    },
-    {
         "id": "sl1090487032",
         "isLive": true,
         "event": "Bundesliga 2025-26",
@@ -31,22 +14,7 @@
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
         "Server1": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118973/Bundes2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756007532~acl=/*~id=17362419491760998538058497237960~hmac=ba8ab3a7c34efabd20e629e8d712ff0dc9c98940fb426c7a19744b9a68a93bf4"
-    },
-    {
-        "id": "sl1090487106",
-        "isLive": false,
-        "event": "St. Pauli vs Borussia Dortmund",
-        "match": "Upcoming: St. Pauli vs Borussia Dortmund",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858931386702_st_pauli_vs_Dortmund_landscape.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6298c09814e04bf581c7fc55cb4fa417/1755858852/baseline-std-v4/PROMO_BUNDESLIGA_FC_ST_PAULI_VS_BORUSSIA_DORTMUND_30_SEC_HOR_APP_eng_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118973/Bundes2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756007651~acl=/*~id=97094459449383643124589564514263~hmac=d5130946718f57a3b94e0ed9ca1a31c3b1f812966f5b34d5c8ef627c0d21c5ab"
     },
     {
         "id": "sl1090487125",
