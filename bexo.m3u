@@ -31,3 +31,15 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755792183068311_Bundesliga_MD1_UnionBerlin_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="SonyLIV",Union Berlin vs VfB Stuttgart - MD 1 - 23 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755792464895311_Bundesliga_MD1_Heidenheim_vs_VfL_Wolfsburg_Stuttgart_landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs VfL Wolfsburg - MD 1 - 23 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858931386702_st_pauli_vs_Dortmund_landscape.jpg" group-title="SonyLIV",Upcoming: St. Pauli vs Borussia Dortmund
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/6298c09814e04bf581c7fc55cb4fa417/1755858852/baseline-std-v4/PROMO_BUNDESLIGA_FC_ST_PAULI_VS_BORUSSIA_DORTMUND_30_SEC_HOR_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1755871797/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd
