@@ -14,22 +14,7 @@
         "SeoTags": "Champions League T10,T10 cricket league,T10 Champions League 2025,T10 cricket tournament,Champions League T10 schedule,T10 cricket live score,T10 league teams,T10 cricket highlights,T10 fantasy cricket,Champions League T10 points table,T10 cricket news,T10 match updates,T10 cricket fixtures,T10 cricket results,T10 cricket stats,Tillakaratne Dilshan,Parthiv Patel,Carlos Brathwaite,Shaun Marsh,Ross Taylor,Dwayne Smith,Thisara Perera",
         "Server1": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/CLT10_2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755970691~acl=/*~id=99198865765470848693775547958450~hmac=ccad6962cdbec99c185d026dcefe1d01016b069ec15bd12d7bc1f0db9eaa5b94"
-    },
-    {
-        "id": "sl1090487125",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: Asia Cup 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1755871797/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/CLT10_2308/ENG/std_mdh-800300010.m3u8?hdnea=exp=1755970809~acl=/*~id=84282947867371897466274954259210~hmac=42af0bb50c210d40ca1d70298cadb6eb686d246e3d0c3e6097e90858c47e9ad2"
     },
     {
         "id": "sl1090487092",
@@ -45,5 +30,20 @@
         "MaxResolution": "FHD",
         "SeoTags": "IndianOil Durand Cup 2025,football,Durand Cup,Durand Cup 2025 tickets,Durand Cup 2025 schedule,Asian football,Durand Cup 2025 highlights,durand cup 2025,durand cup,durand cup 2025 date,durand cup 2025 news,durand cup 2025 schedule,durand cup 2025 live,durand cup 2025 teams,durand cup 2025 venue,durand cup 2025 update,durand cup 2025 fixtures,durand cup 2025 all matches,durand cup 2025 new updates,durand cup 2025 latest news,durand cup 2025 team updates,where to watch durand cup 2025,durand cup fixtures 2025,durand cup 2025 starting date,durand cup 2025 latest update",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/94c68b28b3ce413aa10b03620afa0e21/1755850430/baseline-std-v4/PROMO_DURAND_CUP_FINAL_H_30SEC_APP_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090487125",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Asia Cup 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1755871797/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd"
     }
 ]
