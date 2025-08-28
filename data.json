@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "MaxResolution": "FHD",
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
-        "Server1": "https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756425328~acl=/*~id=78220566251762686683705344691177~hmac=09d41c99c720d66f366b72749a9128a6e0370ff463b3b68a8d3c83d68df9d496",
-        "Server2": "https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756425328~acl=/*~id=78220566251762686683705344691177~hmac=09d41c99c720d66f366b72749a9128a6e0370ff463b3b68a8d3c83d68df9d496",
-        "Server3": "https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756425328~acl=/*~id=78220566251762686683705344691177~hmac=09d41c99c720d66f366b72749a9128a6e0370ff463b3b68a8d3c83d68df9d496"
+        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/UPT20_2808/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756425331~acl=/*~id=57835373384242745912979473283780~hmac=b6f03d4c2ce33b9c5327c07d94f9ea7ec6cf81cfef154d6234f533ca4107ff8f"
     },
     {
         "id": "sl1090487125",
