@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "MaxResolution": "FHD",
         "SeoTags": "N/A",
-        "Server1": "https://dai.google.com/ssai/event/09tqCp6pRxGwJJETnMJ0ig/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/09tqCp6pRxGwJJETnMJ0ig/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118978/Bundes2908/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756543330~acl=/*~id=73489795346049610622267117580237~hmac=98d96ff4a01b534383d3211f3a430aca9714b29c7fb3e6ea9da409c7e794e279"
+        "Server1": "?hdnea=exp=1756543451~acl=/*~id=37327649823081842486169974598862~hmac=73bf82922ca002e06425f39da0cc0947859b3c640dbfaadcbc28602dd700fad0",
+        "Server2": "?hdnea=exp=1756543451~acl=/*~id=37327649823081842486169974598862~hmac=73bf82922ca002e06425f39da0cc0947859b3c640dbfaadcbc28602dd700fad0",
+        "Server3": "?hdnea=exp=1756543451~acl=/*~id=37327649823081842486169974598862~hmac=73bf82922ca002e06425f39da0cc0947859b3c640dbfaadcbc28602dd700fad0"
     },
     {
         "id": "sl1090487125",
