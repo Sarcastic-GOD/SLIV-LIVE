@@ -14,7 +14,7 @@
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
         "Server1": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118976/UPT20_Le3108/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756694886~acl=/*~id=04036128628962633348476818567164~hmac=a1d4d1c27a212207bf8277748034df378b78fc7065e2bdee76d20db67c0f1942"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118976/UPT20_Le3108/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756695005~acl=/*~id=00879646504647831365462001343890~hmac=60f155f71c3cd094d1fa547bab12b51ba22e79fb753c50dd86c8476b1349f2b8"
     },
     {
         "id": "sl1090483665",
@@ -31,7 +31,24 @@
         "SeoTags": "The Hundred 2025 Women’s,watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content",
         "Server1": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/WomensHu3108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756694886~acl=/*~id=04036128628962633348476818567164~hmac=a1d4d1c27a212207bf8277748034df378b78fc7065e2bdee76d20db67c0f1942"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/WomensHu3108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756695005~acl=/*~id=00879646504647831365462001343890~hmac=60f155f71c3cd094d1fa547bab12b51ba22e79fb753c50dd86c8476b1349f2b8"
+    },
+    {
+        "id": "sl1090487678",
+        "isLive": true,
+        "event": "Bundesliga 2025-26",
+        "match": "Borussia Dortmund vs Union Berlin - MD 2 - 31 Aug 2025",
+        "Provider": "DFL Deutsche Fubball Liga e.V.",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006984/1755959140281731_Bundesliga_MD2_Borussia_Dortmund_vs_Union-Berlin_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "Signal Iduna Park",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
+        "Server1": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118969/Bundesli3108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756695005~acl=/*~id=00879646504647831365462001343890~hmac=60f155f71c3cd094d1fa547bab12b51ba22e79fb753c50dd86c8476b1349f2b8"
     },
     {
         "id": "sl1090487623",
@@ -48,7 +65,7 @@
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
         "Server1": "https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119738/cricacc13108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756694886~acl=/*~id=04036128628962633348476818567164~hmac=a1d4d1c27a212207bf8277748034df378b78fc7065e2bdee76d20db67c0f1942"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119738/cricacc13108/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756695005~acl=/*~id=00879646504647831365462001343890~hmac=60f155f71c3cd094d1fa547bab12b51ba22e79fb753c50dd86c8476b1349f2b8"
     },
     {
         "id": "sl1090485900",
@@ -79,21 +96,6 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1756538581/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090487663",
-        "isLive": false,
-        "event": "Borussia Dortmund vs Union Berlin",
-        "match": "Upcoming: Borussia Dortmund vs Union Berlin",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653545482268_Bundesliga25_Dortmund_vs_UnionBerlin_Laandscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "N/A",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/25f6a3a674d140c0b9b1ce1166ae889f/1756535963/baseline-std-v4/PROMO_BUNDESLIGA_BORUSSIA_DORTMUND_VS_FC_BERLIN_30_SEC_HOR_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090487709",
