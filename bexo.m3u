@@ -31,3 +31,27 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006740/1755675297453366_UPT20_League25_Gaur_Gorakhpur_Lions_vs_Kanpur_Superstars_19aug_landscape_thumb.jpg" group-title="SonyLIV",Gaur Gorakhpur Lions vs Kanpur Superstars - 31 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006741/1755675528797499_UPT20_League25_Meerut_Mavericks_vs_Noida_Kings_19aug_landscape_thumb.jpg" group-title="SonyLIV",Meerut Mavericks vs Noida Kings - 31 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007215/1756507960410308_the_hundred_womens25_final_Southern_Brave_vs_Northern_Superchargers_30aug_landscape_thumb.jpg" group-title="SonyLIV",Southern Brave vs Northern Superchargers - Final - 31 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006983/1755955888452306_Bundesliga_VfL_Wolfsburg_vs_Mainz_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs Mainz - 31 Aug 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005849/1754319185161803_The_Hundred_2025_Mens_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: The Hundred 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/e8704c7f531c45228d06c293d5c24a48/1754212303/baseline-std-v4/PROMO_THE_100_30_SEC_HOR_APP_03082025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8923d93b79e043f09e925ec3c2755b38/1756538581/baseline-std-v4/PROMO_ASIA_CUP_MAIN_FILM_HIN_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653545482268_Bundesliga25_Dortmund_vs_UnionBerlin_Laandscape_thumb.jpg" group-title="SonyLIV",Upcoming: Borussia Dortmund vs Union Berlin
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/25f6a3a674d140c0b9b1ce1166ae889f/1756535963/baseline-std-v4/PROMO_BUNDESLIGA_BORUSSIA_DORTMUND_VS_FC_BERLIN_30_SEC_HOR_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007263/1756647178868459_EngvsSA25_1odi_dated_31aug_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: South Africa Tour of England
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/b6d6d38b77334e949c97504930b81026/1756642251/baseline-std-v4/SA_tour_Of_ENG_Slate_eng_baseline-800300010.mpd
