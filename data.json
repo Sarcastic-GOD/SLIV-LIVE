@@ -14,7 +14,7 @@
         "SeoTags": "Vitality Blast 2025,Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/Vitality0309/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756969564~acl=/*~id=31438555676886637746070361375198~hmac=5ee6bc728053053f2bdcf703c45644dbf7ff1440e167c10769762f729b088eae"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/Vitality0309/ENG/std_mdh-800300010.m3u8?hdnea=exp=1756969684~acl=/*~id=58093358369121169387322611911024~hmac=e50e044016b6d0d1b55644b7fa51ec42a2d4fa2b84a1446fbcac5891c38ec172"
     },
     {
         "id": "sl1090487709",
@@ -45,5 +45,35 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1756724835/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090487951",
+        "isLive": false,
+        "event": "European Qualifiers for 2026 FIFA World Cup",
+        "match": "Upcoming: Bulgaria vs Spain",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007418/1756917063654788_Bulgaria_vs_Spain_5th_Sept_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0b0c171824b14bcfab14a4bb055e43e8/1756915785/baseline-std-v4/PROMO_EQ_BULGARIYA_VS_SPAIN_30SEC_HOR_APP_mp4_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090487316",
+        "isLive": false,
+        "event": "Hero Asia Cup 2025",
+        "match": "Upcoming: Hero Asia Cup 2025",
+        "Provider": "Hockey India",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007389/1756850454152412_Hero_AsiaCup25_Malaysia_vs_India_3sep_dated_landscape_thumb.jpg",
+        "genre": "Hockey",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 1",
+        "MaxResolution": "FHD",
+        "SeoTags": "Hero Asia Cup 2025 hockey,Asia Cup hockey live streaming,India hockey team 2025,Harmanpreet Singh Asia Cup,Manpreet Singh hockey 2025,Mandeep Singh goals 2025,Krishan Pathak goalkeeper,Suraj Karkera hockey saves,Dilpreet Singh Asia Cup,Vivek Sagar Prasad skills,Shilanand Lakra highlights,Asia Cup hockey schedule,India vs Pakistan hockey 2025,Asia Cup hockey Rajgir Bihar,Sony LIV hockey streaming,FIH World Cup qualifier hockey,best Indian hockey players 2025,Asia Cup hockey match highlights,India hockey squad 2025,Asia Cup hockey top scorers,watch Hero Asia Cup online,Asia Cup hockey fixtures,India hockey captain Harmanpreet,Asia Cup hockey results,Asia Cup hockey semi finals,Asia Cup hockey final match,Asia Cup hockey player stats,Asia Cup hockey team rankings,Asia Cup hockey live scores,Asia Cup hockey medal winners.",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/4869877e02dd44d098429142927afe34/1756152325/baseline-std-v4/1090487316_26082025_eng_baseline-800300010.mpd"
     }
 ]
