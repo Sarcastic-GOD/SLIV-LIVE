@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090483667",
-        "isLive": true,
-        "event": "UP T20 League 2025",
-        "match": "Kashi Rudras vs Meerut Mavericks - Qualifier 1 - 3 Sep 2025",
-        "Provider": "UTTAR PRADESH CRICKET ASSOCIATION",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007366/1756821186734111_UPT20_League25_Kashi_Rudras_vs_Meerut_Mavericks_2sep_Qualifier1_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
-        "Server1": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119734/UPT20_030309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756937045~acl=/*~id=76645109564486724767854864885135~hmac=d3c17503ad0cea7709e2c3f5674d05670afa0b485fbc78c6deae78d6ee6b4462"
-    },
-    {
         "id": "sl1090487905",
         "isLive": true,
         "event": "Hero Asia Cup 2025",
@@ -31,7 +14,24 @@
         "SeoTags": "mens hockey,mens hockey asia cup,mens hockey asia cup 2025,mens hockey asia cup 2025 online live,mens hockey asia cup 2025 players list,mens hockey asia cup 2025 schedule,mens hockey asia cup 2025 start date,mens hockey asia cup 2025 timetable,mens hockey asia cup competition 2025,mens hockey asia cup teams 2025,stream mens hockey asia cup 2025,stream mens hockey asia cup 2025 live,stream mens hockey asia cup 2025 live online,stream mens hockey asia cup 2025 onlinelive score,today match,match schedules,match highlights,match updates,hockey live,hockey match,live hockey score,hockey scores,hockey finals,live match updates,hockey highlights,upcoming hockey matches,sanjay,harmanpreet singh,sumit,manpreet singh,amit rohidas,hardik singh,jarmanpreet singh,vivek sagar prasad,jugraj singh,rajinder singh,raj kumar pal,suraj karkera,krishan b pathak,selvam karthi,nilam sanjeep xess",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/backup_h0309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756937045~acl=/*~id=76645109564486724767854864885135~hmac=d3c17503ad0cea7709e2c3f5674d05670afa0b485fbc78c6deae78d6ee6b4462"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/backup_h0309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756937164~acl=/*~id=63832835919854937493768708323895~hmac=0c199072de8301db16434febedde0a3f7f6267937cd7c57b9d6373748f3e9389"
+    },
+    {
+        "id": "sl1090483667",
+        "isLive": true,
+        "event": "UP T20 League 2025",
+        "match": "Kashi Rudras vs Meerut Mavericks - Qualifier 1 - 3 Sep 2025",
+        "Provider": "UTTAR PRADESH CRICKET ASSOCIATION",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007366/1756821186734111_UPT20_League25_Kashi_Rudras_vs_Meerut_Mavericks_2sep_Qualifier1_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
+        "Server1": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119734/UPT20_030309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756937164~acl=/*~id=63832835919854937493768708323895~hmac=0c199072de8301db16434febedde0a3f7f6267937cd7c57b9d6373748f3e9389"
     },
     {
         "id": "sl1090487316",
