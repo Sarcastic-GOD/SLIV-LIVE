@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090487765",
-        "isLive": true,
-        "event": "Hero Asia Cup 2025",
-        "match": "Japan vs Chinese Taipei - 5th-8th Place - 3 Sep 2025",
-        "Provider": "Hockey India",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007386/1756840787157267_Hero_AsiaCup25_5th_8th_Place_Japan_vs_Chinese_Taipei_2sep_landscape_thumb.jpg",
-        "genre": "Hockey",
-        "language": "HIN",
-        "venue": "Bihar Sports University Hockey Stadium, Bihar",
-        "TVchannel": "Sony Sports Ten 1",
-        "MaxResolution": "FHD",
-        "SeoTags": "mens hockey,mens hockey asia cup,mens hockey asia cup 2025,mens hockey asia cup 2025 online live,mens hockey asia cup 2025 players list,mens hockey asia cup 2025 schedule,mens hockey asia cup 2025 start date,mens hockey asia cup 2025 timetable,mens hockey asia cup competition 2025,mens hockey asia cup teams 2025,stream mens hockey asia cup 2025,stream mens hockey asia cup 2025 live,stream mens hockey asia cup 2025 live online,stream mens hockey asia cup 2025 onlinelive score,today match,match schedules,match highlights,match updates,hockey live,hockey match,live hockey score,hockey scores,hockey finals,live match updates,hockey highlights,upcoming hockey matches,sanjay,harmanpreet singh,sumit,manpreet singh,amit rohidas,hardik singh,jarmanpreet singh,vivek sagar prasad,jugraj singh,rajinder singh,raj kumar pal,suraj karkera,krishan b pathak,selvam karthi,nilam sanjeep xess",
-        "Server1": "?hdnea=exp=1756934645~acl=/*~id=36174663248200860440968311374394~hmac=155270a5cfc070ae2a08fe1571ad8b6f3cc5e9ce280c2ac92303de936ad25ec2",
-        "Server2": "?hdnea=exp=1756934645~acl=/*~id=36174663248200860440968311374394~hmac=155270a5cfc070ae2a08fe1571ad8b6f3cc5e9ce280c2ac92303de936ad25ec2",
-        "Server3": "?hdnea=exp=1756934645~acl=/*~id=36174663248200860440968311374394~hmac=155270a5cfc070ae2a08fe1571ad8b6f3cc5e9ce280c2ac92303de936ad25ec2"
-    },
-    {
         "id": "sl1090483667",
         "isLive": true,
         "event": "UP T20 League 2025",
@@ -31,7 +14,24 @@
         "SeoTags": "Uttar Pradesh T20 League,UPT20 2025,Meerut Mavericks,Lucknow Falcons,Kashi Rudras,Kanpur Superstars,Gorakhpur Lions,Noida Super Kings,Rinku Singh,Bhuvneshwar Kumar,Nitish Rana,Madhav Kaushik,Priyam Garg,Dhruv Jurel,UP T20 League schedule,UP T20 League fixtures,UP T20 League squads,UP T20 League teams,UP T20 League 2025 live streaming,UP T20 League 2025 match schedule,UP T20 League 2025 team squads,UP T20 League 2025 points table,UP T20 League 2025 winner.,UP T20 League 2025,UP T20 League 2025 schedule and fixtures",
         "Server1": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119734/UPT20_030309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756934645~acl=/*~id=36174663248200860440968311374394~hmac=155270a5cfc070ae2a08fe1571ad8b6f3cc5e9ce280c2ac92303de936ad25ec2"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119734/UPT20_030309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756934764~acl=/*~id=68963699350562937221873342078064~hmac=43e5465f990b1ef82c41b4b34ac8ac24e8356a9c06db1739297736c086734a3a"
+    },
+    {
+        "id": "sl1090487905",
+        "isLive": true,
+        "event": "Hero Asia Cup 2025",
+        "match": "Japan vs Chinese Taipei - 5th-8th Place - 3 Sep 2025",
+        "Provider": "Hockey India",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007386/1756840787157267_Hero_AsiaCup25_5th_8th_Place_Japan_vs_Chinese_Taipei_2sep_landscape_thumb.jpg",
+        "genre": "Hockey",
+        "language": "HIN",
+        "venue": "Bihar Sports University Hockey Stadium, Bihar",
+        "TVchannel": "Sony Sports Ten 1",
+        "MaxResolution": "FHD",
+        "SeoTags": "mens hockey,mens hockey asia cup,mens hockey asia cup 2025,mens hockey asia cup 2025 online live,mens hockey asia cup 2025 players list,mens hockey asia cup 2025 schedule,mens hockey asia cup 2025 start date,mens hockey asia cup 2025 timetable,mens hockey asia cup competition 2025,mens hockey asia cup teams 2025,stream mens hockey asia cup 2025,stream mens hockey asia cup 2025 live,stream mens hockey asia cup 2025 live online,stream mens hockey asia cup 2025 onlinelive score,today match,match schedules,match highlights,match updates,hockey live,hockey match,live hockey score,hockey scores,hockey finals,live match updates,hockey highlights,upcoming hockey matches,sanjay,harmanpreet singh,sumit,manpreet singh,amit rohidas,hardik singh,jarmanpreet singh,vivek sagar prasad,jugraj singh,rajinder singh,raj kumar pal,suraj karkera,krishan b pathak,selvam karthi,nilam sanjeep xess",
+        "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118982/backup_h0309/HIN/std_mdh-800300010.m3u8?hdnea=exp=1756934764~acl=/*~id=68963699350562937221873342078064~hmac=43e5465f990b1ef82c41b4b34ac8ac24e8356a9c06db1739297736c086734a3a"
     },
     {
         "id": "sl1090487316",
