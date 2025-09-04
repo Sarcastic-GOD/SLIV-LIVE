@@ -31,12 +31,12 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007392/1756852919579551_EngvsSA25_2odi_3sep_landscape_thumb.jpg" group-title="SonyLIV",2nd ODI - 4 Sep 2025 
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007390/1756850146394846_Hero_AsiaCup25_Korea_vs_China_3sep_landscape_thumb.jpg" group-title="SonyLIV",Korea vs China - Super 4s - 4 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007385/1756838925885813_EngvsSA25_2odi_today_3sep_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: South Africa Tour of England 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/b6d6d38b77334e949c97504930b81026/1756734078/baseline-std-v4/SA_tour_Of_ENG_Slate_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007351/175680437305257_AsiaCup_2025_GOB_3_Rev_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1756724835/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd
