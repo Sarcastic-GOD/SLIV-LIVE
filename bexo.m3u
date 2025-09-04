@@ -34,24 +34,33 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007392/1756852919579551_EngvsSA25_2odi_3sep_landscape_thumb.jpg" group-title="SonyLIV",2nd ODI - 4 Sep 2025 
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756877914747731_EQ26_MD5_Bulgaria_vs_Spain_landscape_thumb.jpg" group-title="SonyLIV",Bulgaria vs Spain - MD 1 - 5 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756880000474731_EQ26_MD5_Slovakia_vs_Germany_landscape_thumb.jpg" group-title="SonyLIV",Slovakia vs Germany - MD 1 - 5 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756879000459731_EQ26_MD5_Netherlands_vs_Poland_landscape_thumb.jpg" group-title="SonyLIV",Netherlands vs Poland - MD 5 - 5 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007435/1756973552764570_UPT20_League25_Meerut_Mavericks_vs_Lucknow_Falcons_4sep_Qualifier2_landscape_thumb.jpg" group-title="SonyLIV",Meerut Mavericks vs Lucknow Falcons - Qualifier 2 - 4 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/leiwJAxRRbSM7mZBudKN7g/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756878226632731_EQ26_MD5_Liechtenstein_vs_Belgium_landscape_thumb.jpg" group-title="SonyLIV",Liechtenstein vs Belgium - MD 5 - 5 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756876616663731_EQ26_MD5_Georgia_vs_Turkiye_landscape_thumb.jpg" group-title="SonyLIV",Georgia vs Turkiye - MD 1 - 4 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756877100497731_EQ26_MD5_Lithuania_vs_Malta_landscape_thumb.jpg" group-title="SonyLIV",Lithuania vs Malta - MD 5 - 4 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/KWMcJPLaRDOD9X6t7EH_Uw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007403/1756878652194731_EQ26_MD5_Luxembourg_vs_NorthernIreland_landscape_thumb.jpg" group-title="SonyLIV",Luxembourg vs Northern Ireland - MD 1 - 5 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007419/1756913832943320_UEFA_INT_Friendlies_Gibraltar_vs_Albania_3sep_landscape_thumb.jpg" group-title="SonyLIV",Gibraltar vs Albania - 4 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/CR5lqbOVREmDMoyGnXfA_Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007418/1756917063654788_Bulgaria_vs_Spain_5th_Sept_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bulgaria vs Spain
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/0b0c171824b14bcfab14a4bb055e43e8/1756915785/baseline-std-v4/PROMO_EQ_BULGARIYA_VS_SPAIN_30SEC_HOR_APP_mp4_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007418/1756917052688788_Slovakia_vs_Germany_5th_Sept_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Slovakia vs Germany
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/15e46afed08948f7ba7a8f593bcf2b65/1756916979/baseline-std-v4/PROMO_EQ_SLOVAKIA_VS_GERMANY_30SEC_HOR_APP_mp4_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007351/175680437305257_AsiaCup_2025_GOB_3_Rev_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1756724835/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd
