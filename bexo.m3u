@@ -31,6 +31,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007432/1756967385121482_EQ_Ukraine_vs_France_Prommo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Ukraine vs France
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fb845fbdbbd64ea099880f09419ff6f3/1756963790/baseline-std-v4/PROMO_EQ_UKRAINE_VS_FRANCE_30_SEC_HOR_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007351/175680437305257_AsiaCup_2025_GOB_3_Rev_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1756724835/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd
