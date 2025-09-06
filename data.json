@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090488142",
+        "isLive": true,
+        "event": "European Qualifiers For 2026 FIFA World Cup",
+        "match": "Latvia vs Serbia - 6 Sep 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007406/1756899307103374_EQ26_MD5_Latvia_vs_Serbia_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "Daugava Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+        "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/EuroQual0609/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757205133~acl=/*~id=78601549283468123476844769909559~hmac=3c71d2d166fa0113c0d01f0f4e4a1953653311330455f1baeacd9b1225802f03"
+    },
+    {
         "id": "sl1090487765",
         "isLive": true,
         "event": "Hero Asia Cup 2025",
@@ -14,7 +31,7 @@
         "SeoTags": "mens hockey,mens hockey asia cup,mens hockey asia cup 2025,mens hockey asia cup 2025 online live,mens hockey asia cup 2025 players list,mens hockey asia cup 2025 schedule,mens hockey asia cup 2025 start date,mens hockey asia cup 2025 timetable,mens hockey asia cup competition 2025,mens hockey asia cup teams 2025,stream mens hockey asia cup 2025,stream mens hockey asia cup 2025 live,stream mens hockey asia cup 2025 live online,stream mens hockey asia cup 2025 onlinelive score,today match,match schedules,match highlights,match updates,hockey live,hockey match,live hockey score,hockey scores,hockey finals,live match updates,hockey highlights,upcoming hockey matches,sanjay,harmanpreet singh,sumit,manpreet singh,amit rohidas,hardik singh,jarmanpreet singh,vivek sagar prasad,jugraj singh,rajinder singh,raj kumar pal,suraj karkera,krishan b pathak,selvam karthi,nilam sanjeep xess",
         "Server1": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119925/1HeroAsi0609/HIN/std_mdd-600300010.m3u8?hdnea=exp=1757205012~acl=/*~id=52656856896878619199342474032976~hmac=82f1d071f1b007b80c8d1216e108118da2131c33e9deac195f26af2ce1be6742"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119925/1HeroAsi0609/HIN/std_mdd-600300010.m3u8?hdnea=exp=1757205133~acl=/*~id=78601549283468123476844769909559~hmac=3c71d2d166fa0113c0d01f0f4e4a1953653311330455f1baeacd9b1225802f03"
     },
     {
         "id": "sl1090487316",
