@@ -15,21 +15,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1757166944/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090488065",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: India vs UAE",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "MaxResolution": "FHD",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090488172",
         "isLive": false,
         "event": "Asia Cup 2025",
@@ -43,6 +28,21 @@
         "MaxResolution": "FHD",
         "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/4a8c2397607b4f32881d05e6d94f19fe/1757142787/baseline-std-v4/PROMO_Asia_Cup_Afghanistan_vs_hong_kong_H_20_Sec_APP_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090488065",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: India vs UAE",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "MaxResolution": "FHD",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090488325",
