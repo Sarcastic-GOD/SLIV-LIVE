@@ -31,6 +31,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007642/1757317083534792_UEFA_INT_Friendlies_Czechia_vs_Saudi_Arabia_8sep_landscape_thumb.jpg" group-title="SonyLIV",Czechia vs Saudi Arabia - 8 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757321255694302_EQ26_Israel_vs_Italy_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Israel vs Italy
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/60c025d96d8c4b3692730d0a77e78b46/1757142172/baseline-std-v4/PROMO_ISRAEL_VS_ITALY_30SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd
@@ -43,6 +46,3 @@ https://streaming.sonyliv.com/trailer/DASH/4a8c2397607b4f32881d05e6d94f19fe/1757
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs UAE
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007631/1757308891566964_acc25_Bangladesh_vs_Hong_Kong_8sep_dated_promo2_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bangladesh vs Hong Kong, China
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/bb6053e346774f48965929f71eeb6622/1757247816/baseline-std-v4/1090488325_07092025_hin_baseline-800300010.mpd
