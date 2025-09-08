@@ -34,12 +34,12 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007600/1757246345679393_ACC_promo_7sep25_rev_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Asia Cup 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8245daa6220c474c841ec3e52c912c00/1757166944/baseline-std-v4/1090487792_01092025_hin_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs UAE
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007648/1757320508949923_ACC25_promo_AFGvsHKG_dated_8sep_landscape_thumb_re1.jpg" group-title="SonyLIV",Upcoming: Afghanistan vs Hong Kong, China
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/4a8c2397607b4f32881d05e6d94f19fe/1757142787/baseline-std-v4/PROMO_Asia_Cup_Afghanistan_vs_hong_kong_H_20_Sec_APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs UAE
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/c66bb41274944bff9e3823e938e66f38/1757142689/baseline-std-v4/Promo_Asia_Cup_India_vs_UAE_H_20_Sec_Rev_APP_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007631/1757308891566964_acc25_Bangladesh_vs_Hong_Kong_8sep_dated_promo2_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bangladesh vs Hong Kong, China
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/bb6053e346774f48965929f71eeb6622/1757247816/baseline-std-v4/1090488325_07092025_hin_baseline-800300010.mpd
