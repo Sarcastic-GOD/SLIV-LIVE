@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090488437",
-        "isLive": true,
-        "event": "European Qualifiers For 2026 FIFA World Cup",
-        "match": "France vs Iceland - 10 Sep 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007510/1757062716534660_EQ26_MD6_France_vs_Iceland_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "Parc des Princes",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "Server1": "https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8",
-        "Server2": "https://pubads.g.doubleclick.net/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118969/EuroQual0909/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757494804~acl=/*~id=07250634810728629415700792734455~hmac=390ec4ed9fee3699f29dcb737c1b0f3abde0aa4c9f8db41d848265d391f673f4"
-    },
-    {
         "id": "sl1090488450",
         "isLive": true,
         "event": "UEFA International Friendlies",
@@ -31,7 +14,7 @@
         "SeoTags": "UEFA International Friendlies,UEFA International Friendlies 2024,UEFA International Friendlies 2024 live,watch UEFA International Friendlies 2024 live stream,stream UEFA International Friendlies 2024 streaming,watch UEFA International Friendlies 2024 online,uefa,UEFA International Friendlies 2024 live score,uefa UEFA International Friendlies 2024 score update,european football,watch UEFA International Friendlies",
         "Server1": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/Malta_vs0909/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757494804~acl=/*~id=07250634810728629415700792734455~hmac=390ec4ed9fee3699f29dcb737c1b0f3abde0aa4c9f8db41d848265d391f673f4"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118980/Malta_vs0909/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757494927~acl=/*~id=33454471203414328761046918571443~hmac=4e3eae3622e1b08e13431216bc8a68cd4c9d5a5702e42a3bb961c53acd933fab"
     },
     {
         "id": "sl1090488569",
