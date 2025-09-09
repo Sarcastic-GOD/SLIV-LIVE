@@ -14,7 +14,7 @@
         "SeoTags": "Watch Hyundai World Archery Championships 2025 online,Hyundai World Archery Championships 2025 online streaming,Hyundai World Archery Championships 2025 highlights,Hyundai World Archery Championships 2025,Hyundai World Archery Championships live,Hyundai World Archery Championships 2025 clips",
         "Server1": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/HyundaiA0809/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757438167~acl=/*~id=87165063587441252303247716875193~hmac=738cc42585957696f3a5ab4f77630da979e68c05c4fccc98a1e0ddf631d4fbb9"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/HyundaiA0809/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757438296~acl=/*~id=42787836418783520934923254338412~hmac=d2f6123833ae442aeef3a721ff64feb4ad3fabbe2331cd6f58e6b7c1e751598e"
     },
     {
         "id": "sl1090488210",
@@ -32,21 +32,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/0818df1b33394812b8bd48428091d052/1757142188/baseline-std-v4/PROMO_HUNGARY_VS_PORTUGAL_30SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090488212",
-        "isLive": false,
-        "event": "European Qualifiers for 2026 FIFA World Cup",
-        "match": "Upcoming: France vs Iceland",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757327785534302_EQ26_france_vs_iceland_tonight_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "MaxResolution": "FHD",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/d26fc9ddd7e14984ba4fc21d66d5c191/1757142756/baseline-std-v4/PROMO_FRANCE_VS_ICELAND_30SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090488214",
         "isLive": false,
         "event": "European Qualifiers for 2026 FIFA World Cup",
@@ -60,6 +45,21 @@
         "MaxResolution": "FHD",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/39a4654a611d4f009c9e64c2fabaaab4/1757145128/baseline-std-v4/PROMO_SERBIA_VS_ENGLAND_06092025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090488212",
+        "isLive": false,
+        "event": "European Qualifiers for 2026 FIFA World Cup",
+        "match": "Upcoming: France vs Iceland",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757327785534302_EQ26_france_vs_iceland_tonight_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "MaxResolution": "FHD",
+        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/d26fc9ddd7e14984ba4fc21d66d5c191/1757142756/baseline-std-v4/PROMO_FRANCE_VS_ICELAND_30SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090487792",
