@@ -29,9 +29,6 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007905/1757538131625380_ACC25_BAN_vs_HKC_11sep_live_landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Hong Kong, China - 11 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007905/1757538079464380_ACC25_BAN_vs_HKC_11sep_telugu_live_landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Hong Kong, China - 11 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8
@@ -41,6 +38,9 @@ https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007905/1757538066937380_ACC25_BAN_vs_HKC_11sep_tamil_live_landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Hong Kong, China - 11 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007905/1757538131625380_ACC25_BAN_vs_HKC_11sep_live_landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Hong Kong, China - 11 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007916/1757577064736256_ACC25_IND_vs_PAK_DDT_promo_landscape_thumb_11SEP_Re1.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/226e69f05866452ea8b7a5b66d245e74/1757574714/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_PAKISTAN_45SEC_HOR_DATED_APP_REV_hin_baseline-800300010.mpd
