@@ -13,7 +13,23 @@
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/41st_Shi1209/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757705774~acl=/*~id=82066477830101423407858462584837~hmac=5d8016bdf7743af30d817e85df7ed3c988978144dc6d7a601a3fa87fdd9792da"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/41st_Shi1209/ENG/std_mdh-800300010.m3u8?hdnea=exp=1757702798~acl=/*~id=21636708175823616694240914218358~hmac=3ce047cb3e8f2863311a545741ecaac6ca756337adde810eb2946edf208c76bd"
+    },
+    {
+        "id": "sl1090488704",
+        "isLive": false,
+        "event": "",
+        "match": "Recurve Women Elite Eight (Quarterfinals To Finals) - 12 Sep 2025",
+        "Provider": "",
+        "poster": "",
+        "genre": "Archery",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "",
+        "SeoTags": "sports_adsupported,nopreroll_livectv,Watch Hyundai World Archery Championships 2025 online,Hyundai World Archery Championships 2025 online streaming,Hyundai World Archery Championships 2025 highlights,Hyundai World Archery Championships 2025,Hyundai World Archery Championships live,Hyundai World Archery Championships 2025 clips,Archery_KoreaLive,HyundaiWorldArcheryChampionships2025",
+        "Server1": "?hdnea=exp=1757702798~acl=/*~id=21636708175823616694240914218358~hmac=3ce047cb3e8f2863311a545741ecaac6ca756337adde810eb2946edf208c76bd",
+        "Server2": "?hdnea=exp=1757702798~acl=/*~id=21636708175823616694240914218358~hmac=3ce047cb3e8f2863311a545741ecaac6ca756337adde810eb2946edf208c76bd",
+        "Server3": "?hdnea=exp=1757702798~acl=/*~id=21636708175823616694240914218358~hmac=3ce047cb3e8f2863311a545741ecaac6ca756337adde810eb2946edf208c76bd"
     },
     {
         "id": "sl1090488569",
