@@ -29,18 +29,18 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681799987536_ACC25_PAK_vs_OMA_hindi_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681770901536_ACC25_PAK_vs_OMA_clean_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681893993536_ACC25_PAK_vs_OMA_telugu_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681818565536_ACC25_PAK_vs_OMA_tamil_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aginduneQi6WVHHmSRi6ow/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681799987536_ACC25_PAK_vs_OMA_hindi_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008063/1757681770901536_ACC25_PAK_vs_OMA_clean_live_landscape_thumb_re2.jpg" group-title="SonyLIV",Pakistan vs Oman - 12 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757472934120535_ENG_vs_SA_2T20i_ton_Promo_landscape_thumb_10sep.jpg" group-title="SonyLIV",Upcoming: South Africa Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/357bc2400bcc4bed9e17d3c2c1a8a82f/1757573934/baseline-std-v4/Promo_England_V_South_Africa_H_10_Sec_APP_hin_baseline-800300010.mpd
