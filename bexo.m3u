@@ -29,6 +29,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007812/1757477966747189_Vitality25_SF_Lancashire_vs_Somerset_landscape_thumb.jpg" group-title="SonyLIV",Lancashire vs Somerset - Semi-final - 13 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Chelsea
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5c0c518aad2e490ca1886eaca63cd406/1757618515/baseline-std-v4/1090488916_12092025_eng_baseline-800300010.mpd
