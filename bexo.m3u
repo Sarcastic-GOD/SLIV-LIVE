@@ -29,6 +29,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007812/1757477966747189_Vitality25_SF_Lancashire_vs_Somerset_landscape_thumb.jpg" group-title="SonyLIV",Lancashire vs Somerset - Semi-final - 13 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008085/1757689937137437_ACC25_BAN_vs_SL_promo_ton_landscape_thumb_re1_12sep.jpg" group-title="SonyLIV",Upcoming: Bangladesh vs Sri Lanka
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/0962944a92b145d099094add5f51a34e/1757696822/baseline-std-v4/PROMO_ASIA_CUP_BANGLADESH_VS_SRHI_LANKA_20SEC_HOR_DATED_APP_REV_hin_baseline-800300010.mpd
