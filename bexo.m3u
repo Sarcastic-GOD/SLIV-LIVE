@@ -29,6 +29,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008167/1757753921097187_UFC-_Noche_Lopes-_vs_Silva_hindi_landscape_thumb.jpg" group-title="SonyLIV",Noche UFC - Lopes vs Silva - 13 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/DD-3j9HWTsyxtaZasjfD6A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008166/175775365094863_UFC-_Noche_Lopes-_vs_Silva_telugu_landscape_thumb.jpg" group-title="SonyLIV",Noche UFC - Lopes vs Silva - 13 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8
@@ -38,9 +41,6 @@ https://dai.google.com/ssai/event/UFXu0e8pQRikjXYQQCKMCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008166/175775358143063_UFC-_Noche_Lopes-_vs_Silva_tamil_landscape_thumb.jpg" group-title="SonyLIV",Noche UFC - Lopes vs Silva - 13 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008167/1757753921097187_UFC-_Noche_Lopes-_vs_Silva_hindi_landscape_thumb.jpg" group-title="SonyLIV",Noche UFC - Lopes vs Silva - 13 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1757846489~acl=/*~id=14890676512121852127339197158082~hmac=001dc199c76bc742bda454df2a53c522ee36f9d0302747d63bb93bffe1ce130d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757472976213535_ENG_vs_SA_3T20i_ton_Promo_landscape_thumb_10sep.jpg" group-title="SonyLIV",Upcoming: South Africa Tour of England 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/357bc2400bcc4bed9e17d3c2c1a8a82f/1757573934/baseline-std-v4/Promo_England_V_South_Africa_H_10_Sec_APP_hin_baseline-800300010.mpd
