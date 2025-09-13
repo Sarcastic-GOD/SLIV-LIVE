@@ -1,19 +1,5 @@
 [
     {
-        "id": "sl1090488569",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: India vs Pakistan",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008081/1757688789621106_ACC25_IND_vs_PAK_promo_ddt_landscape_thumb_re1_12sep.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ee741e2786c64bf793a5821b5008dbba/1757696695/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_PAKISTAN_45SEC_HOR_DATED_APP_REV_1_hin_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090488916",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
@@ -40,6 +26,20 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/acb1285b37a94bfa822472dc08162169/1757618528/baseline-std-v4/1090488918_12092025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090488569",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: India vs Pakistan",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008081/1757688789621106_ACC25_IND_vs_PAK_promo_ddt_landscape_thumb_re1_12sep.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ee741e2786c64bf793a5821b5008dbba/1757696695/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_PAKISTAN_45SEC_HOR_DATED_APP_REV_1_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090488905",
