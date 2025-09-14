@@ -29,21 +29,21 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008200/1757767691678528_ACC25_IND_vs_PAK_live_TAmil_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - 14 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007808/1757420152341955_ENG_vs_SA_25_3rdT20I_Landscape_thumb.jpg" group-title="SonyLIV",3rd T20I - 14 Sep 2025 
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/fNwNyRsSQLOQ45LFUyTx2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008200/1757767669681528_ACC25_IND_vs_PAK_live_hindi_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - 14 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007808/1757420152341955_ENG_vs_SA_25_3rdT20I_Landscape_thumb.jpg" group-title="SonyLIV",3rd T20I - 14 Sep 2025 
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/fNwNyRsSQLOQ45LFUyTx2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008200/1757767701850528_ACC25_IND_vs_PAK_live_Telugu_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - 14 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008200/1757767662019528_ACC25_IND_vs_PAK_live_clean_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - 14 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008200/1757767691678528_ACC25_IND_vs_PAK_live_TAmil_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - 14 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757403259864825_Bundesliga_25_26_Borussia_Mgladbach_vs_Werder_Bremen_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs Werder Bremen - 14 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8
