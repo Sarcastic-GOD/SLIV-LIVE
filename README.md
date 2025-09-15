@@ -8,6 +8,6 @@ Stay ahead with real-time updates on live events and stream links from SonyLIV! 
 <br>**📌 Never miss a live event again!** Let automation handle the updates while you enjoy uninterrupted streaming.
 
 ## ⚠️ Takedown Request
-If you want this repository to be taken down, please contact me at  arthur@bgrid.in.
+If you want this repository to be taken down, please contact me at  arthur@bxo.lol
 
 <br>***⭐ Star this project if you find it useful!***
