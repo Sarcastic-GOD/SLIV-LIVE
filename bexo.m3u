@@ -29,15 +29,15 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008283/1757849954173329_ACC25_SL_vs_HKC_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka vs Hong Kong, China - 15 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008283/1757849973406329_ACC25_SL_vs_HKC_telugu_live_landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka vs Hong Kong, China - 15 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/aginduneQi6WVHHmSRi6ow/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008278/175783771493097_ACC_UAE_vs_OMA_clean_live_landscape_thumb.jpg" group-title="SonyLIV",UAE vs Oman - 15 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/A5dwVheNRuiqM_U4rtpG_g/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008283/1757849973406329_ACC25_SL_vs_HKC_telugu_live_landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka vs Hong Kong, China - 15 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/aginduneQi6WVHHmSRi6ow/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008283/1757849954173329_ACC25_SL_vs_HKC_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka vs Hong Kong, China - 15 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008283/1757849858213329_ACC25_SL_vs_HKC_clean_live_landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka vs Hong Kong, China - 15 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
