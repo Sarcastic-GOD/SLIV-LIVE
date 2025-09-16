@@ -13,7 +13,7 @@
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Juventus vs Borussia Dortmund,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/UYL_Juve1609/ENG/std_mdh-800300010.m3u8?hdnea=exp=1758070322~acl=/*~id=95155706550785990237875405078542~hmac=978b29d2b4ef1690cd89d2502b9fe797caaa698a617ba46d8f57fc614cc8e15b"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/UYL_Juve1609/ENG/std_mdh-800300010.m3u8?hdnea=exp=1758070442~acl=/*~id=76316630440578843571510065564499~hmac=480a06a494df9365426793be602674d439d36f6cbd49a1929f14b9921dc7726d"
     },
     {
         "id": "sl1090488905",
@@ -58,6 +58,34 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/acb1285b37a94bfa822472dc08162169/1757618528/baseline-std-v4/1090488918_12092025_eng_baseline-800300010.mpd"
     },
     {
+        "id": "sl1090489555",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Pakistan vs United Arab Emirates",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757978551277386_ACC25_PAK_vs_UAE_dated_16sep_promo_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/14da050b7e7644ffae41e2fa62c7d496/1758004844/baseline-std-v4/1090489555_16092025_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090489556",
+        "isLive": false,
+        "event": "Asia Cup 2025",
+        "match": "Upcoming: Sri Lanka vs Afghanistan",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979048906386_ACC25_SL_vs_AFG_dated_16sep_promo_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/4f3956c0f0ad4d2ba1c561db11120351/1758006338/baseline-std-v4/1090489556_16092025_hin_baseline-800300010.mpd"
+    },
+    {
         "id": "sl1090489437",
         "isLive": false,
         "event": "Asia Cup 2025",
@@ -84,19 +112,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8cbbfe9c53c442e2b0cb9de03c4b3f4c/1757702955/baseline-std-v4/1090489034_13092025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090489335",
-        "isLive": false,
-        "event": "Asia Cup 2025",
-        "match": "Upcoming: Bangladesh vs Afghanistan",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008338/1757869176985684_ACC25_BAN_vs_AFG_14sep_tonight_promo_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/77c6ca06b0d74db1a1f9402c9da17773/1757861786/baseline-std-v4/PROMO_ASIA_CUP_BAN_VS_AFG_20SEC_HOR_DATED_APP_hin_baseline-800300010.mpd"
     }
 ]
