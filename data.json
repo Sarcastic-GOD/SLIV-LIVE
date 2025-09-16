@@ -1,5 +1,21 @@
 [
     {
+        "id": "sl1090489398",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "Juventus vs Borussia Dortmund - MD 1 - 16 Sep 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008388/1757916475765823_UYL25_Juventus_vs_dortmund_Live_15Sep_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Juventus Training Ground, Turin",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Juventus vs Borussia Dortmund,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "Server2": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118981/UYL_Juve1609/ENG/std_mdh-800300010.m3u8?hdnea=exp=1758065161~acl=/*~id=64827818934803259411848299430411~hmac=895a34e9b397d1d24dff1aa79a6c0db5e49d0e4b5a330d832d4336a876e2b2e0"
+    },
+    {
         "id": "sl1090488905",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
