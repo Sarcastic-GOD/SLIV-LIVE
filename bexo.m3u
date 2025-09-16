@@ -29,18 +29,18 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910337707468_ACC25_BAN_vs_AFG_Hindi_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910355611468_ACC25_BAN_vs_AFG_Tamil_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910310144468_ACC25_BAN_vs_AFG_Clean_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910337707468_ACC25_BAN_vs_AFG_Hindi_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910370622468_ACC25_BAN_vs_AFG_Telugu_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910355611468_ACC25_BAN_vs_AFG_Tamil_live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh vs Afghanistan - 16 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008388/1757916747809823_UYL24_RealMadrid_vs_OlympiqueMarseillen_Live_16_Sep_24_Landscape_thumb.jpg" group-title="SonyLIV",Real Madrid vs Olympique Marseille - MD1 - 16 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
@@ -55,7 +55,7 @@ https://streaming.sonyliv.com/trailer/DASH/5c0c518aad2e490ca1886eaca63cd406/1757
 https://streaming.sonyliv.com/trailer/DASH/14da050b7e7644ffae41e2fa62c7d496/1758004844/baseline-std-v4/1090489555_16092025_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979582169386_ACC25_IND_vs_OMA_dated_16sep_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Oman
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/79119f56dec24fc689ddc5b55ccacf9f/1757941723/baseline-std-v4/1090489437_15092025_hin_baseline-800300010.mpd
+https://streaming.sonyliv.com/trailer/DASH/f15adbeb059d46b1ad0466300c27139f/1758032725/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_OMAN_20SEC_HOR_DATED_APP_16092025_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/acb1285b37a94bfa822472dc08162169/1757618528/baseline-std-v4/1090488918_12092025_eng_baseline-800300010.mpd
