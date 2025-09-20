@@ -13,6 +13,20 @@
         "SeoTags": "switzerland,Laver Cup,tennis,team world,roger federer,rafael nadal,novak djokovic,nick kyrgios,john isner,alexander zverev,stefanos tsitsipas,denis shapovalov,dominic thiem,jack sock,tennis tournament,exhibition match,team europe,tennis legends,team competition,geneva,lavercup2025,2025tennis,Laver Cup 2025,Laver Cup San Francisco,Team Europe vs Team World,Carlos Alcaraz Laver Cup,Alexander Zverev Laver Cup,Holger Rune tennis,Casper Ruud Laver Cup,Jakub Mensik debut,Flavio Cobolli Laver Cup,Taylor Fritz Team World,Alex de Minaur Laver Cup,Francisco Cerundolo tennis,Joao Fonseca Laver Cup,Alex Michelsen tennis,Reilly Opelka Laver Cup,Yannick Noah captain,Andre Agassi captain,Laver Cup schedule 2025,Laver Cup live streaming,Laver Cup match results,Laver Cup doubles matches,Laver Cup points system,Laver Cup format explained,Laver Cup 2025 tickets,Laver Cup Chase Center,Laver Cup day-wise matches,Laver Cup 2025 highlights,Laver Cup 2025 final day,Laver Cup 2025 team lineups,Laver Cup 2025 live telecast India,LaverCup_LIVE25,sports_adsupported,nopreroll_livectv,LaverCup2025",
         "Server1": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
         "Server2": "https://pubads.g.doubleclick.net/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/Laver_Cu2009/ENG/std_mdh-800300010.m3u8?hdnea=exp=1758451442~acl=/*~id=82585834650790079604660840264263~hmac=0c350bc0b7cdf57715cec3ace6f6d81b741a4cdc9c657df606e75de335d40fd2"
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2118975/Laver_Cu2009/ENG/std_mdh-800300010.m3u8?hdnea=exp=1758451562~acl=/*~id=55486593171209309385609593142426~hmac=99dbf7f8d7ee81a5d6d9643cc49d56ead185560dec8dbe272c5fda2db83543b6"
+    },
+    {
+        "id": "sl1090489988",
+        "isLive": false,
+        "event": "Super 4 - Asia Cup 2025",
+        "match": "Upcoming: India vs Pakistan",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009011/1758397041064640_ACC_rail1_INDvsPAK_promo1_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Asia Cup schedule,Asia Cup live streaming,Asia Cup teams,Asia Cup fixtures,Asia Cup results,Asia Cup highlights,Asia Cup tickets,Asia Cup venues,Asia Cup news,India cricket team,Pakistan cricket team,Sri Lanka cricket team,Bangladesh cricket team,Afghanistan cricket team,UAE cricket team,Virat Kohli,Babar Azam,Rashid Khan,Shakib Al Hasan,Kusal Perera,Rohan Mustafa,india,pakistan,bangladesh,sri lanka,afghanistan,uae",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a02fb0665d74462f924d2e2613361d7c/1758395254/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_PAKISTAN_20_SEC_HOR_TON_APP_REV_hin_baseline-800300010.mpd"
     }
 ]
