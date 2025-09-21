@@ -29,15 +29,15 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365686945557_ACC25_S4_IND_vs_PAK_Hindi_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365808790556_ACC25_S4_IND_vs_PAK_Bengali_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/98DVtIBHQ9-0eg2nsViD_w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365754691557_ACC25_S4_IND_vs_PAK_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365686945557_ACC25_S4_IND_vs_PAK_Hindi_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365835605556_ACC25_S4_IND_vs_PAK_Clean_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
