@@ -29,24 +29,24 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365808790556_ACC25_S4_IND_vs_PAK_Bengali_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - bn
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119782/cricacc12109/BEN/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365754691557_ACC25_S4_IND_vs_PAK_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - TAM
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365686945557_ACC25_S4_IND_vs_PAK_Hindi_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
+https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365808790556_ACC25_S4_IND_vs_PAK_Bengali_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - bn
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119782/cricacc12109/BEN/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365754691557_ACC25_S4_IND_vs_PAK_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365835605556_ACC25_S4_IND_vs_PAK_Clean_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
+https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008954/1758365731665557_ACC25_S4_IND_vs_PAK_Telugu_live_landscapet_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Super Four - 21 Sep 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
+https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007936/175750525380784_Bundesliga_25_26_Borussia_Dortmund_vs_VfL_Wolfsburg_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs VfL Wolfsburg - 21 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2118970/Bundelsi2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758525784~acl=/*~id=12353970807495660141917558015790~hmac=3957a3d46c9f96303eeb9c997ad666b5bbbc1b9805bef0e88b17e148d176aeb8
+https://liveakdai.slivcdn.com/hls/live/2118970/Bundelsi2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758525841~acl=/*~id=73403091817266787470806849685509~hmac=4dd1fd7d9cedd515192c30f4fd736f209420f67cdd7132fd7630b00ea355a27a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009062/1758471595617287_LaverCup25_d3_mensDoubles_21sep_landscape_thumb.jpg" group-title="SonyLIV",Alcaraz/Ruud vs Michelsen/Opelka - 22 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
