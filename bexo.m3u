@@ -32,3 +32,9 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009011/1758397041064640_ACC_rail1_INDvsPAK_promo1_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a02fb0665d74462f924d2e2613361d7c/1758395254/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_PAKISTAN_20_SEC_HOR_TON_APP_REV_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295218050630_ACC25_PAK_vs_SL_S4_DATED_19sep_rev_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Pakistan vs Sri Lanka
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/41c3260e77634164a523774662c86391/1758400814/baseline-std-v4/PROMO_ASIA_CUP_PAKISTAN_VS_SRILANKA_20_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295323373630_ACC25_IND_VS_BAN_S4_dated_19sep_promo_rev_LANDCAPE_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Bangladesh
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/f1aa758e4dbb4fe7b6e1d26b1db3ede7/1758400768/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_BANGLADESH_20_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
