@@ -1,21 +1,5 @@
 [
     {
-        "id": "sl1090490423",
-        "isLive": true,
-        "event": "Multi CDN Test Asset",
-        "match": "Test Asset",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007921/1757497409080169_Bundesliga_25_26_MD4_VfB_Stuttgart_vs_St_Pauli_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "MultiCDNTestAsset,test assest,ACC assest ",
-        "Server1": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8",
-        "Server2": "https://liveakdai.slivcdn.com/hls/live/2119931/Mutli_CD2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758601561~acl=/*~id=67217531835386757969561592934034~hmac=e1d81ff12b26dbb70bb4fb8cee647bf24eaecb39959045e48761369cda89d0da",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119935/Mutli_CD2209/ENG/std_mdd-600300010.m3u8?hdnea=exp=1758601561~acl=/*~id=67217531835386757969561592934034~hmac=e1d81ff12b26dbb70bb4fb8cee647bf24eaecb39959045e48761369cda89d0da"
-    },
-    {
         "id": "sl1090490287",
         "isLive": false,
         "event": "Super 4 - Asia Cup 2025",
