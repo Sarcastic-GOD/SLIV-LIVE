@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "MultiCDNTestAsset,test assest,ACC assest ",
         "Server1": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8",
-        "Server2": "https://liveakdai.slivcdn.com/hls/live/2119931/Mutli_CD2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758600228~acl=/*~id=38845613457809909426991969900945~hmac=bc1454175e7767bba5cf0ca7690235ef561dcad2a034e3d957350dc5b666b4dd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119935/Mutli_CD2209/ENG/std_mdd-600300010.m3u8?hdnea=exp=1758600228~acl=/*~id=38845613457809909426991969900945~hmac=bc1454175e7767bba5cf0ca7690235ef561dcad2a034e3d957350dc5b666b4dd"
+        "Server2": "https://liveakdai.slivcdn.com/hls/live/2119931/Mutli_CD2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758600241~acl=/*~id=72166944131033975469535924079332~hmac=5b2cdf28355c206726ef56ae56a35892c12beaa388a57219619739bf2335c7df",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2119935/Mutli_CD2209/ENG/std_mdd-600300010.m3u8?hdnea=exp=1758600241~acl=/*~id=72166944131033975469535924079332~hmac=5b2cdf28355c206726ef56ae56a35892c12beaa388a57219619739bf2335c7df"
     },
     {
         "id": "sl1090490287",
