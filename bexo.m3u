@@ -29,24 +29,24 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119933/cricacc12409/ENG/std_lrd-700300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626813836347_ACC25_S4_IND_vs_BAN_Telugui_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119943/cricacc12409/TEL/std_lrd-700300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626778791347_ACC25_S4_IND_vs_BAN_Hindi_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119923/cricacc12409/HIN/std_lrd-700300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
+https://liveakdai.slivcdn.com/hls/live/2119923/cricacc12409/HIN/std_lrd-700300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119933/cricacc12409/ENG/std_lrd-700300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626813836347_ACC25_S4_IND_vs_BAN_Telugui_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119943/cricacc12409/TEL/std_lrd-700300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626747300347_ACC25_S4_IND_vs_BAN_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119953/cricacc12409/TAM/std_lrd-700300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
+https://liveakdai.slivcdn.com/hls/live/2119953/cricacc12409/TAM/std_lrd-700300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758625278203591_UEL_25_26_MD_1_PAOK_vs_M_Tel-Aviv_landscape_thumb.jpg" group-title="SonyLIV",PAOK vs M. Tel-Aviv - MD 1 - 24 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/PAOK_vs_2409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
+https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/PAOK_vs_2409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758635820616591_UEL_25_26_MD_1_Midtjylland_vs_Sturm_Graz_landscape_thumb.jpg" group-title="SonyLIV",Midtjylland vs Sturm Graz - 24 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Midtjyll2409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758774121~acl=/*~id=88818925414956707681281640996142~hmac=71c01b461a24b4c55c612b57fd1b91b36c6e823f39a058cebce3c0cb6b418e33
+https://sonydaimenew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Midtjyll2409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758774243~acl=/*~id=78821409191638323883251487834269~hmac=64a845c960665d093707372659b973869274c10b2ced910108c1955135b65192
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009182/1758642456261638_UEL_Promo_thumbnail_MD1_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e3f5b08af62a4d9cb2fdbc5bd9c1c717/1758641620/baseline-std-v4/1090490538_23092025_eng_baseline-800300010.mpd
