@@ -29,18 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119933/cricacc12409/ENG/std_lrd-700300010.m3u8?hdnea=exp=1758769201~acl=/*~id=24871003769940634934342160425970~hmac=c6329510cc03676756358c8a3cab8662a2ac72aca5db82411a965000540dc897
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626813836347_ACC25_S4_IND_vs_BAN_Telugui_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119943/cricacc12409/TEL/std_lrd-700300010.m3u8?hdnea=exp=1758769201~acl=/*~id=24871003769940634934342160425970~hmac=c6329510cc03676756358c8a3cab8662a2ac72aca5db82411a965000540dc897
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626778791347_ACC25_S4_IND_vs_BAN_Hindi_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119923/cricacc12409/HIN/std_lrd-700300010.m3u8?hdnea=exp=1758769201~acl=/*~id=24871003769940634934342160425970~hmac=c6329510cc03676756358c8a3cab8662a2ac72aca5db82411a965000540dc897
+https://liveakdai.slivcdn.com/hls/live/2119923/cricacc12409/HIN/std_lrd-700300010.m3u8?hdnea=exp=1758769321~acl=/*~id=59330394328975362461148950538077~hmac=c18f24aeee9461c5840f6c97c8998dbc8f79ada9b3ba5700cb40c9932e37a614
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119933/cricacc12409/ENG/std_lrd-700300010.m3u8?hdnea=exp=1758769321~acl=/*~id=59330394328975362461148950538077~hmac=c18f24aeee9461c5840f6c97c8998dbc8f79ada9b3ba5700cb40c9932e37a614
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626813836347_ACC25_S4_IND_vs_BAN_Telugui_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119943/cricacc12409/TEL/std_lrd-700300010.m3u8?hdnea=exp=1758769321~acl=/*~id=59330394328975362461148950538077~hmac=c18f24aeee9461c5840f6c97c8998dbc8f79ada9b3ba5700cb40c9932e37a614
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626747300347_ACC25_S4_IND_vs_BAN_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119953/cricacc12409/TAM/std_lrd-700300010.m3u8?hdnea=exp=1758769201~acl=/*~id=24871003769940634934342160425970~hmac=c6329510cc03676756358c8a3cab8662a2ac72aca5db82411a965000540dc897
+https://liveakdai.slivcdn.com/hls/live/2119953/cricacc12409/TAM/std_lrd-700300010.m3u8?hdnea=exp=1758769321~acl=/*~id=59330394328975362461148950538077~hmac=c18f24aeee9461c5840f6c97c8998dbc8f79ada9b3ba5700cb40c9932e37a614
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009182/1758642456261638_UEL_Promo_thumbnail_MD1_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e3f5b08af62a4d9cb2fdbc5bd9c1c717/1758641620/baseline-std-v4/1090490538_23092025_eng_baseline-800300010.mpd
