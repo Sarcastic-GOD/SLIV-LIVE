@@ -29,12 +29,12 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758630349991590_UEL_25_26_MD_1_Crvena_Zvezda_vs_Celtic_landscape_thumb.jpg" group-title="SonyLIV",Crvena Zvezda vs Celtic - 25 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758631016599591_UEL_25_26_MD_1_Nice_vs_Roma_landscape_thumb.jpg" group-title="SonyLIV",Nice vs Roma - 25 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758630349991590_UEL_25_26_MD_1_Crvena_Zvezda_vs_Celtic_landscape_thumb.jpg" group-title="SonyLIV",Crvena Zvezda vs Celtic - 25 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758632703501591_UEL_25_26_MD_1_Freiburg_vs_Basel_landscape_thumb.jpg" group-title="SonyLIV",Freiburg vs Basel - 25 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8
