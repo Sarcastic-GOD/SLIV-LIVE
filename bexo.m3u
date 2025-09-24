@@ -29,18 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626778791347_ACC25_S4_IND_vs_BAN_Hindi_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758776643~acl=/*~id=19226257519033073949763909677289~hmac=68c6b75df195e5e7354d8cc2a7009140f41c856ad3d72f6b250ef8b8e1f9ade1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758627006369347_ACC25_S4_IND_vs_BAN_Clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758776643~acl=/*~id=19226257519033073949763909677289~hmac=68c6b75df195e5e7354d8cc2a7009140f41c856ad3d72f6b250ef8b8e1f9ade1
+https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758776762~acl=/*~id=17591762173924013346668456285482~hmac=50b19d6659614da14e70a4a7a9d464660337f92b579ae04c66b541a089e29f4e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626813836347_ACC25_S4_IND_vs_BAN_Telugui_live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758776643~acl=/*~id=19226257519033073949763909677289~hmac=68c6b75df195e5e7354d8cc2a7009140f41c856ad3d72f6b250ef8b8e1f9ade1
+https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758776762~acl=/*~id=17591762173924013346668456285482~hmac=50b19d6659614da14e70a4a7a9d464660337f92b579ae04c66b541a089e29f4e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626778791347_ACC25_S4_IND_vs_BAN_Hindi_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758776762~acl=/*~id=17591762173924013346668456285482~hmac=50b19d6659614da14e70a4a7a9d464660337f92b579ae04c66b541a089e29f4e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009173/1758626747300347_ACC25_S4_IND_vs_BAN_Tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Bangladesh - Super Four - 24 Sep 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758776643~acl=/*~id=19226257519033073949763909677289~hmac=68c6b75df195e5e7354d8cc2a7009140f41c856ad3d72f6b250ef8b8e1f9ade1
+https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758776762~acl=/*~id=17591762173924013346668456285482~hmac=50b19d6659614da14e70a4a7a9d464660337f92b579ae04c66b541a089e29f4e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009172/1758625278203591_UEL_25_26_MD_1_PAOK_vs_M_Tel-Aviv_landscape_thumb.jpg" group-title="SonyLIV",PAOK vs M. Tel-Aviv - MD 1 - 24 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
