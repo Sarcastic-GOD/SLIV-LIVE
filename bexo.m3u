@@ -29,33 +29,33 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694647364611_ACC25_S4_PAK_vs_SL_live_clean_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758868325~acl=/*~id=84533961884414547419459601349506~hmac=864dc91e54924c7b3addb02e9998a3c5783be897e02045253b9d3db57dec6066
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694680363611_ACC25_S4_PAK_vs_SL_live_Telugu_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758868325~acl=/*~id=84533961884414547419459601349506~hmac=864dc91e54924c7b3addb02e9998a3c5783be897e02045253b9d3db57dec6066
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694713401611_ACC25_S4_PAK_vs_SL_live_Hindi_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758868325~acl=/*~id=84533961884414547419459601349506~hmac=864dc91e54924c7b3addb02e9998a3c5783be897e02045253b9d3db57dec6066
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694695072611_ACC25_S4_PAK_vs_SL_live_Tamil_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758868325~acl=/*~id=84533961884414547419459601349506~hmac=864dc91e54924c7b3addb02e9998a3c5783be897e02045253b9d3db57dec6066
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758629815908115_UEL_MD1_Ferencvaros_vs_ViktoriaPlzen_Landscape_thumb.jpg" group-title="SonyLIV",Ferencváros vs Viktoria Plzen - 26 Sep 2025 - ENG
+https://liveakdai.slivcdn.com/hls/live/2119951/cricacc12509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758868440~acl=/*~id=06354549803686723616762043291370~hmac=2a811a0c35448156f79e6a22e541962736a9cf38618d8180478104dee378ff01
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694647364611_ACC25_S4_PAK_vs_SL_live_clean_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
+https://liveakdai.slivcdn.com/hls/live/2119931/cricacc12509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758868440~acl=/*~id=06354549803686723616762043291370~hmac=2a811a0c35448156f79e6a22e541962736a9cf38618d8180478104dee378ff01
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694680363611_ACC25_S4_PAK_vs_SL_live_Telugu_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119941/cricacc12509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758868440~acl=/*~id=06354549803686723616762043291370~hmac=2a811a0c35448156f79e6a22e541962736a9cf38618d8180478104dee378ff01
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009263/1758694713401611_ACC25_S4_PAK_vs_SL_live_Hindi_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan vs Bangladesh - Super Four - 25 Sep 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758868440~acl=/*~id=06354549803686723616762043291370~hmac=2a811a0c35448156f79e6a22e541962736a9cf38618d8180478104dee378ff01
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758633007050115_UEL_MD1_AstonVilla_vs_Bologna_landscape_thumb.jpg" group-title="SonyLIV",Aston Villa vs Bologna - 26 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/lkGY9y9WRxqKdhATE858bQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758629815908115_UEL_MD1_Ferencvaros_vs_ViktoriaPlzen_Landscape_thumb.jpg" group-title="SonyLIV",Ferencváros vs Viktoria Plzen - 26 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758630408315115_UEL_MD1_Rangers_vs_Genk_landscape_thumb.jpg" group-title="SonyLIV",Rangers vs Genk - 26 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758632019058115_UEL_MD1_Stuttgart_vs_Celta_landscape_thumb.jpg" group-title="SonyLIV",Stuttgart vs Celta - 26 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758631038206115_UEL_MD1_Utrecht_vs_Lyon_Landscape_thumb.jpg" group-title="SonyLIV",Utrecht vs Lyon - 26 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/eCwfco5kSQOgsF_j6UEq5g/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758630408315115_UEL_MD1_Rangers_vs_Genk_landscape_thumb.jpg" group-title="SonyLIV",Rangers vs Genk - 26 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009163/1758632561249115_UEL_MD1_Salzburg_vs_Porto_Landsape_thumb.jpg" group-title="SonyLIV",Salzburg vs Porto - 26 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
