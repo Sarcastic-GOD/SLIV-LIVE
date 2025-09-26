@@ -29,6 +29,24 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Matchday 2 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/540f3c5257b04c4d9e690a2fd10b3c33/1758709820/baseline-std-v4/1090490624_24092025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705771154323_UCL_MD2_Galatasaray_vs_Liverpool_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Galatasaray vs Liverpool - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/db74556c24cb4dcb83f7ee8ad5509b92/1758711654/baseline-std-v4/1090490629_24092025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705971050323_UCL_MD2_Barcelona_vs_PSG_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Barcelona vs PSG - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/5ffe35b57ca3452f94997dcc52ff069e/1758713033/baseline-std-v4/1090490630_24092025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295276733630_ACC25_IND_vs_SL_S4_tonight_19sep_rev_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Sri Lanka - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/14fead4926874cf5986311c09eff7d9c/1758663522/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_SRILANKA_20SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Monaco vs Man City - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/5a95276614ac48d2a646491472c1f579/1758710884/baseline-std-v4/1090490626_24092025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Chelsea vs Benfica - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/d38405e04e2c45e3b54cbcf53cdc21f0/1758713336/baseline-std-v4/1090490631_24092025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Dortmund vs Athletic - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/7c732d531b174045a3a26df4f84696fb/1758714101/baseline-std-v4/1090490632_24092025_eng_baseline-800300010.mpd
