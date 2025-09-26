@@ -29,9 +29,21 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758783399694855_ICC25_S4_IND_vs-SL_Clean_Live_landscape_thumb.jpg" group-title="SonyLIV",India vs Sri Lanka - Super Four - 26 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758801500330855_ICC25_S4_IND_vs-SL_TAmil_Live_landscape_thumb.jpg" group-title="SonyLIV",India vs Sri Lanka - Super Four - 26 Sep 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2119953/cricacc12609/TAM/std_lrd-700300010.m3u8?hdnea=exp=1758959641~acl=/*~id=33627065984708879217598855421839~hmac=79848708ad675afe5e3af69821f406f20203e7eff03e130163ef49f747cb0179
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758801521217855_ICC25_S4_IND_vs-SL_Telugu_Live_landscape_thumb.jpg" group-title="SonyLIV",India vs Sri Lanka - Super Four - 26 Sep 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758801226147855_ICC25_S4_IND_vs-SL_Hindi_Live_Landscape_thumb.jpg" group-title="SonyLIV",India vs Sri Lanka - Super Four - 26 Sep 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008045/1757505985631481_Bundesliga_25_26_MD5_Bayern_Munich_vs_Werder_Bremen_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Werder Bremen - MD 5 - 26 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2118981/Bundesli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758959641~acl=/*~id=28585060877201104365111504279613~hmac=6d6f554abc499a02204a87e94cdc7a24a7d20b88ff9e5adabb8c913c32799e3a
+https://liveakdai.slivcdn.com/hls/live/2118981/Bundesli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758959641~acl=/*~id=33627065984708879217598855421839~hmac=79848708ad675afe5e3af69821f406f20203e7eff03e130163ef49f747cb0179
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009413/1758885723469806_ACC25_Final_IND_vs_PAK_Promo_DDT_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/4c5790b82091440ea764bca6de8b2f92/1758896754/baseline-std-v4/PROMO_ASIA_CUP_FINAL_VANDE_MATARAM_30_SEC_H_APP_hin_baseline-800300010.mpd
