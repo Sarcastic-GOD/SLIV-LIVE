@@ -29,18 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008047/1757506717301561_Bundesliga_25_26_Mainz_vs_Borussia_Dortmund_landscape_thumb.jpg" group-title="SonyLIV",Mainz vs Borussia Dortmund - 27 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030322~acl=/*~id=76970811765852241056456040154668~hmac=e0a82b8e4f2538119d8686b8058ed8dd516390f237ac9541359217aaf6e92fb3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008046/1757506399688234_Bundesliga_25_26_Heidenheim_vs_FC_Augsburg_landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs FC Augsburg - 27 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030322~acl=/*~id=76970811765852241056456040154668~hmac=e0a82b8e4f2538119d8686b8058ed8dd516390f237ac9541359217aaf6e92fb3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008096/1757510514684584_Bundesliga_25_26_VfL_Wolfsburg_vs_RB_Leipzig_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs RB Leipzig - 27 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030322~acl=/*~id=76970811765852241056456040154668~hmac=e0a82b8e4f2538119d8686b8058ed8dd516390f237ac9541359217aaf6e92fb3
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008095/1757507140528578_Bundesliga_25_26_St_Pauli_vs_Bayer_Leverkusen_landscape_thumb.jpg" group-title="SonyLIV",St. Pauli vs Bayer Leverkusen - 27 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakdai.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030322~acl=/*~id=76970811765852241056456040154668~hmac=e0a82b8e4f2538119d8686b8058ed8dd516390f237ac9541359217aaf6e92fb3
+https://liveakdai.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030441~acl=/*~id=82640122491407451837721819936142~hmac=dd105cb60ef3c84ff5db79317f14262fa2d926538f14b05161fe99d2b7b704bc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008046/1757506399688234_Bundesliga_25_26_Heidenheim_vs_FC_Augsburg_landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs FC Augsburg - 27 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030441~acl=/*~id=82640122491407451837721819936142~hmac=dd105cb60ef3c84ff5db79317f14262fa2d926538f14b05161fe99d2b7b704bc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008096/1757510514684584_Bundesliga_25_26_VfL_Wolfsburg_vs_RB_Leipzig_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs RB Leipzig - 27 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030441~acl=/*~id=82640122491407451837721819936142~hmac=dd105cb60ef3c84ff5db79317f14262fa2d926538f14b05161fe99d2b7b704bc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008047/1757506717301561_Bundesliga_25_26_Mainz_vs_Borussia_Dortmund_landscape_thumb.jpg" group-title="SonyLIV",Mainz vs Borussia Dortmund - 27 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakdai.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759030441~acl=/*~id=82640122491407451837721819936142~hmac=dd105cb60ef3c84ff5db79317f14262fa2d926538f14b05161fe99d2b7b704bc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705971050323_UCL_MD2_Barcelona_vs_PSG_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Barcelona vs PSG - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5ffe35b57ca3452f94997dcc52ff069e/1758713033/baseline-std-v4/1090490630_24092025_eng_baseline-800300010.mpd
