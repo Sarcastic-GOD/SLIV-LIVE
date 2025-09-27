@@ -29,12 +29,12 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175879020508265_WAPC25_Compound-finals_25SEP_live_Landscape_thumb.jpg" group-title="SonyLIV",Compound finals - 27 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/sOwA5A2UQJuw2u-eli66dg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009321/1758794597831453_World_Para_Athletics_Championships_2025_DAY_1_landscape_thumb.jpg" group-title="SonyLIV",Day 1 - 27 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175879020508265_WAPC25_Compound-finals_25SEP_live_Landscape_thumb.jpg" group-title="SonyLIV",Compound finals - 27 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/sOwA5A2UQJuw2u-eli66dg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009413/1758885723469806_ACC25_Final_IND_vs_PAK_Promo_DDT_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/4c5790b82091440ea764bca6de8b2f92/1758896754/baseline-std-v4/PROMO_ASIA_CUP_FINAL_VANDE_MATARAM_30_SEC_H_APP_hin_baseline-800300010.mpd
