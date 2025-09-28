@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491047",
-        "isLive": true,
-        "event": "Asia Cup 2025",
-        "match": "India vs Pakistan - Final - 28 Sep 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758994219577809_ACC25_Final_IND_vs_PAK_27sep_telugu_live_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "te",
-        "venue": "Dubai International Stadium",
-        "TVchannel": "Sony Sports Ten 1",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Cricket Afghanistan,Asia Cup Cricket UAE,Asia Cup Cricket Oman,Surya Kumar Yadav,Shubman Gill,Abhishek Sharma,Tilak Varma,Hardik Pandya,Shivam Dube,Axar Patel,Jitesh Sharma,Arshdeep Singh,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Harshit Rana,Rinku Singh,ACC_2025_LIVE,sports_adsupported,nopreroll_livectv,India vs Pakistan,Pakistan,Shaheen Afridi,Hussain Talat,Mohammad Nawaz,Sahibzada Farhan,Fakhar Zaman,Saim Ayub,Mohammad Haris,India,AsiaCup2025",
-        "Server1": "https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119945/cricacc12809/TEL/std_mdd-600300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
-    },
-    {
         "id": "sl1090491046",
         "isLive": true,
         "event": "Asia Cup 2025",
@@ -29,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Cricket Afghanistan,Asia Cup Cricket UAE,Asia Cup Cricket Oman,Surya Kumar Yadav,Shubman Gill,Abhishek Sharma,Tilak Varma,Hardik Pandya,Shivam Dube,Axar Patel,Jitesh Sharma,Arshdeep Singh,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Harshit Rana,Rinku Singh,ACC_2025_LIVE,sports_adsupported,nopreroll_livectv,India vs Pakistan,Pakistan,Shaheen Afridi,Hussain Talat,Mohammad Nawaz,Sahibzada Farhan,Fakhar Zaman,Saim Ayub,Mohammad Haris,India,AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/aginduneQi6WVHHmSRi6ow/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119955/cricacc12809/TAM/std_mdd-600300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119955/cricacc12809/TAM/std_mdd-600300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
     },
     {
@@ -46,8 +29,25 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Cricket Afghanistan,Asia Cup Cricket UAE,Asia Cup Cricket Oman,Surya Kumar Yadav,Shubman Gill,Abhishek Sharma,Tilak Varma,Hardik Pandya,Shivam Dube,Axar Patel,Jitesh Sharma,Arshdeep Singh,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Harshit Rana,Rinku Singh,ACC_2025_LIVE,sports_adsupported,nopreroll_livectv,India vs Pakistan,Pakistan,Shaheen Afridi,Hussain Talat,Mohammad Nawaz,Sahibzada Farhan,Fakhar Zaman,Saim Ayub,Mohammad Haris,India,AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119925/cricacc12809/HIN/std_mdd-600300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119925/cricacc12809/HIN/std_mdd-600300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
+    },
+    {
+        "id": "sl1090491047",
+        "isLive": true,
+        "event": "Asia Cup 2025",
+        "match": "India vs Pakistan - Final - 28 Sep 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758994219577809_ACC25_Final_IND_vs_PAK_27sep_telugu_live_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "te",
+        "venue": "Dubai International Stadium",
+        "TVchannel": "Sony Sports Ten 1",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Cricket Afghanistan,Asia Cup Cricket UAE,Asia Cup Cricket Oman,Surya Kumar Yadav,Shubman Gill,Abhishek Sharma,Tilak Varma,Hardik Pandya,Shivam Dube,Axar Patel,Jitesh Sharma,Arshdeep Singh,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Harshit Rana,Rinku Singh,ACC_2025_LIVE,sports_adsupported,nopreroll_livectv,India vs Pakistan,Pakistan,Shaheen Afridi,Hussain Talat,Mohammad Nawaz,Sahibzada Farhan,Fakhar Zaman,Saim Ayub,Mohammad Haris,India,AsiaCup2025",
+        "Server1": "https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119945/cricacc12809/TEL/std_mdd-600300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
     },
     {
@@ -63,8 +63,8 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Cricket Afghanistan,Asia Cup Cricket UAE,Asia Cup Cricket Oman,Surya Kumar Yadav,Shubman Gill,Abhishek Sharma,Tilak Varma,Hardik Pandya,Shivam Dube,Axar Patel,Jitesh Sharma,Arshdeep Singh,Varun Chakaravarthy,Kuldeep Yadav,Sanju Samson,Harshit Rana,Rinku Singh,ACC_2025_LIVE,sports_adsupported,nopreroll_livectv,India vs Pakistan,Pakistan,Shaheen Afridi,Hussain Talat,Mohammad Nawaz,Sahibzada Farhan,Fakhar Zaman,Saim Ayub,Mohammad Haris,India,AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119935/cricacc12809/ENG/std_mdd-600300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119935/cricacc12809/ENG/std_mdd-600300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
     },
     {
@@ -80,8 +80,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Union Berlin vs Hamburg SV,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/dbpLNriASFGe1kkUv43Hxw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759126446~acl=/*~id=59567064792697598041366445958934~hmac=451ac1e8bb08e9d3a5b3b5e924e780235708ac501a553313d2cf07dc6eeb59f9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759126561~acl=/*~id=82886020878198072911063667230184~hmac=0862c0e309f34a752797ed6c750e5d72acf84740825c2ea0e7388467bd94bce7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
