@@ -29,15 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175880040346065_WAPC25_W1Finals_25SEP_live_Landscape_thumb.jpg" group-title="SonyLIV",W1 Finals - 28 Sep 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880231260690_UFC_Fight_Night_Ulberg_vs_Reyes_tamil_landscape_thumb.jpg" group-title="SonyLIV",UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009409/1758880203277690_UFC_Fight_Night_Ulberg_vs_Reyes_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC Fight Night - Ulberg vs Reyes - 28 Sep 2025  - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/WJgwumb_T1WR_Qf4m5caZQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175880040346065_WAPC25_W1Finals_25SEP_live_Landscape_thumb.jpg" group-title="SonyLIV",W1 Finals - 28 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893258026701_World_Para_Athletics_Championships_2025_DAY_2_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 28 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
