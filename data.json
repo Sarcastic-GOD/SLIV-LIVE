@@ -12,8 +12,8 @@
         "TVchannel": "LIV",
         "SeoTags": "World Archery Para Championships 2025,Para Archery Gwangju 2025,Archery Para Worlds Korea,Sony LIV Archery Streaming,Watch Para Archery Live,Para Archery Finals Sony LIV,Compound Archery Finals,Recurve Archery Finals,W1 Archery Finals,Archery+ Streaming,Para Archery India Team,Harvinder Singh Archery,Sheetal Devi Compound,Indian Para Archers,Archery Medal Events,Adaptive Archery Sports,Para Archery Highlights,Archery Streaming OTT,Sony LIV Sports Events,Archery Championships Live,Para Archery Mixed Team,Archery for All,Inclusive Archery India,Disability Sports Archery,Global Para Archery,Archery World Titles 2025,Gwangju Archery Finals,Archery Streaming India,Archery OTT Coverage,Para Archery Medal Tally,sports_adsupported,nopreroll_livectv,worldarchery_parachampsLIVE25,WorldArcheryParaChampionships2025",
         "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-        "Server2": "https://liveakdai.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759088206~acl=/*~id=19818851510360364234431934653409~hmac=7deca4ca9e9a9e777812d61f50416ffa9cd5d7d95a516935f774ace3070c9763",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759088206~acl=/*~id=19818851510360364234431934653409~hmac=7deca4ca9e9a9e777812d61f50416ffa9cd5d7d95a516935f774ace3070c9763"
+        "Server2": "https://liveakdai.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759088282~acl=/*~id=09885392762891480914207906533894~hmac=b20e179889af17ea19064154becfa1dad255ed3c5f64640b04c64c24c3dd7588",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759088282~acl=/*~id=09885392762891480914207906533894~hmac=b20e179889af17ea19064154becfa1dad255ed3c5f64640b04c64c24c3dd7588"
     },
     {
         "id": "sl1090490630",
@@ -84,5 +84,33 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/d38405e04e2c45e3b54cbcf53cdc21f0/1758713336/baseline-std-v4/1090490631_24092025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090490626",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Monaco vs Man City",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5a95276614ac48d2a646491472c1f579/1758710884/baseline-std-v4/1090490626_24092025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090490632",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Dortmund vs Athletic",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/7c732d531b174045a3a26df4f84696fb/1758714101/baseline-std-v4/1090490632_24092025_eng_baseline-800300010.mpd"
     }
 ]
