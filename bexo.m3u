@@ -29,21 +29,21 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758994219577809_ACC25_Final_IND_vs_PAK_27sep_telugu_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Final - 28 Sep 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759117568~acl=/*~id=53241288405946999767884970921156~hmac=2bf3357d5d124bbc55bf07802eb9b21fc6473aa4c9559a5fd42e4abc9527e88f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758994203311809_ACC25_Final_IND_vs_PAK_27sep_tamil_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Final - 28 Sep 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759117568~acl=/*~id=53241288405946999767884970921156~hmac=2bf3357d5d124bbc55bf07802eb9b21fc6473aa4c9559a5fd42e4abc9527e88f
+https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759117690~acl=/*~id=79225236495161818642932706482809~hmac=63e01b1ad06981265a583caafafce164fbe258041ccd96c30fc6a96619e1136a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993872863809_ACC25_Final_IND_vs_PAK_27sep_hindi_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Final - 28 Sep 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759117568~acl=/*~id=53241288405946999767884970921156~hmac=2bf3357d5d124bbc55bf07802eb9b21fc6473aa4c9559a5fd42e4abc9527e88f
+https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759117690~acl=/*~id=79225236495161818642932706482809~hmac=63e01b1ad06981265a583caafafce164fbe258041ccd96c30fc6a96619e1136a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758994219577809_ACC25_Final_IND_vs_PAK_27sep_telugu_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Final - 28 Sep 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759117690~acl=/*~id=79225236495161818642932706482809~hmac=63e01b1ad06981265a583caafafce164fbe258041ccd96c30fc6a96619e1136a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="SonyLIV",India vs Pakistan - Final - 28 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759117568~acl=/*~id=53241288405946999767884970921156~hmac=2bf3357d5d124bbc55bf07802eb9b21fc6473aa4c9559a5fd42e4abc9527e88f
+https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759117690~acl=/*~id=79225236495161818642932706482809~hmac=63e01b1ad06981265a583caafafce164fbe258041ccd96c30fc6a96619e1136a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008126/1757583732911248_Bundesliga_25_26_FC_Koln_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="SonyLIV",FC Koln vs VfB Stuttgart - 28 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759117568~acl=/*~id=53241288405946999767884970921156~hmac=2bf3357d5d124bbc55bf07802eb9b21fc6473aa4c9559a5fd42e4abc9527e88f
+https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759117690~acl=/*~id=79225236495161818642932706482809~hmac=63e01b1ad06981265a583caafafce164fbe258041ccd96c30fc6a96619e1136a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009540/1759052764515903_UCL2526_Barcelona_vs_PSG_26sep_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Barcelona vs PSG - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5ffe35b57ca3452f94997dcc52ff069e/1758713033/baseline-std-v4/1090490630_24092025_eng_baseline-800300010.mpd
