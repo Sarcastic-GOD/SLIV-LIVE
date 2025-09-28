@@ -32,9 +32,6 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175879076024565_WAPC25_Recurvefinals_25SEP_live_Landscape_thumb.jpg" group-title="SonyLIV",Recurve Finals - 28 Sep 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893258026701_World_Para_Athletics_Championships_2025_DAY_2_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 28 Sep 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705971050323_UCL_MD2_Barcelona_vs_PSG_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Barcelona vs PSG - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5ffe35b57ca3452f94997dcc52ff069e/1758713033/baseline-std-v4/1090490630_24092025_eng_baseline-800300010.mpd
@@ -47,3 +44,6 @@ https://streaming.sonyliv.com/trailer/DASH/db74556c24cb4dcb83f7ee8ad5509b92/1758
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Matchday 2 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/540f3c5257b04c4d9e690a2fd10b3c33/1758709820/baseline-std-v4/1090490624_24092025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Chelsea vs Benfica - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/d38405e04e2c45e3b54cbcf53cdc21f0/1758713336/baseline-std-v4/1090490631_24092025_eng_baseline-800300010.mpd
