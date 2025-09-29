@@ -1,19 +1,19 @@
 [
     {
         "id": "sl1090491075",
-        "isLive": false,
-        "event": "",
+        "isLive": true,
+        "event": "World Para Athletics, New Delhi",
         "match": "Day 3 - 29 Sep 2025",
-        "Provider": "",
-        "poster": "",
+        "Provider": "Paralympic Committee of India",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893242148701_World_Para_Athletics_Championships_2025_DAY_3_landscape_thumb.jpg",
         "genre": "Sports",
         "language": "en",
-        "venue": "",
-        "TVchannel": "",
+        "venue": "Jawaharlal Nehru Stadium",
+        "TVchannel": "LIV",
         "SeoTags": "World Para Athletics 2025,New Delhi Para Athletics,Para Athletics Championships India,Sony LIV Para Sports,Watch Para Athletics Live,IndianOil Para Athletics 2025,JLN Stadium Para Athletics,Para Athletics Live Streaming,World Para Athletics Sony LIV,Para Athletics India 2025,Indian Paralympians 2025,Sumit Javelin F64,Preeti Pal T35 Sprint,Para Javelin World Record,Para Athletics Medal Events,Para Track and Field India,Paralympic Champions India,Para Athletics Highlights,Sony LIV Sports Events,Stream Para Athletics Sony LIV,Watch Para Athletics Online,Sony LIV Live Sports 2025,OTT Sports Streaming India,Para Sports on Sony LIV,Inclusive Sports India,Disability Sports India,Global Para Athletics 2025,Para Sports for All,Adaptive Athletics India,World Para Sports Coverage,sports_adsupported,nopreroll_livectv,WorldPara_LiveAthletics,WorldParaAthleticsNewDelhi",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759168060~acl=/*~id=98638634860346437349693804479544~hmac=a73ca7bd00a42665b5e3864fea77a35c8efea25ff7f64dd81b1de5782159033f",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759168060~acl=/*~id=98638634860346437349693804479544~hmac=a73ca7bd00a42665b5e3864fea77a35c8efea25ff7f64dd81b1de5782159033f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759168109~acl=/*~id=98922742220731387195759628789599~hmac=62a6d88d8e6c063ee12fe2b2bad72218ae132e9843655adeb699536e390b07eb",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759168109~acl=/*~id=98922742220731387195759628789599~hmac=62a6d88d8e6c063ee12fe2b2bad72218ae132e9843655adeb699536e390b07eb",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
