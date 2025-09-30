@@ -29,18 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009604/1759123738289998_UCL26_MD2_Chelsea_vs_Benfica_tamil_landscape_thumb.jpg" group-title="SonyLIV",Chelsea vs Benfica - MD 2 - 1 Oct 2025 - TAM
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009239/1758105045475870_UCL26_MD2_Chelsea_vs_Benfica_landscape_thumb.jpg" group-title="SonyLIV",Chelsea vs Benfica - MD 2 - 1 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009428/1758796683225120_UCL26_MD2_Galatasaray_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLIV",Galatasaray vs Liverpool - MD 2 - 1 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/5wZTwOSrRKydrRKTjEELcw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009604/1759123774929998_UCL26_MD2_Chelsea_vs_Benfica_telugu_landscape_thumb.jpg" group-title="SonyLIV",Chelsea vs Benfica - MD 2 - 1 Oct 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/c20vNmsHTQa9j6_SxJGUzg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009604/1759123738289998_UCL26_MD2_Chelsea_vs_Benfica_tamil_landscape_thumb.jpg" group-title="SonyLIV",Chelsea vs Benfica - MD 2 - 1 Oct 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009650/1759244278551934_AUSvsNZ_dated_30sep25_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Australia Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd
