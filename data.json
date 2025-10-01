@@ -11,10 +11,10 @@
         "venue": "Estadi Johan Cruyff",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Barcelona and PSG,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/VaxG73tqSRSb7D2AZdaoaw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759377993~acl=/*~id=05326947275427374278085707274321~hmac=f55eae73340cd2e04b27d6fe9f7138688e363f522025f98339ba0a929e6ce7b3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759377993~acl=/*~id=05326947275427374278085707274321~hmac=f55eae73340cd2e04b27d6fe9f7138688e363f522025f98339ba0a929e6ce7b3",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1759378113~acl=/*~id=27636669381802686998431714555421~hmac=f1660de7bc62f3dc25e21e291f32df537614ae7002dfe1a46c9de143ee1be269",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759378113~acl=/*~id=27636669381802686998431714555421~hmac=f1660de7bc62f3dc25e21e291f32df537614ae7002dfe1a46c9de143ee1be269",
+        "Server3": "?hdnea=exp=1759378113~acl=/*~id=27636669381802686998431714555421~hmac=f1660de7bc62f3dc25e21e291f32df537614ae7002dfe1a46c9de143ee1be269",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090490630",
