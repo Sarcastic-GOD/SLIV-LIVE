@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491220",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Barcelona vs PSG - MD 2 - 1 Oct 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009684/1759297011444654_UYL24_Barcelona_vs_Paris_Live_1OCT_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Estadi Johan Cruyff",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Barcelona and PSG,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/VaxG73tqSRSb7D2AZdaoaw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759377724~acl=/*~id=43052543770070572383254086987150~hmac=224fc3001bcd98884a0f47ce1ec24be140ad23b4fbc3e909efa97d26eb9c9914",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759377724~acl=/*~id=43052543770070572383254086987150~hmac=224fc3001bcd98884a0f47ce1ec24be140ad23b4fbc3e909efa97d26eb9c9914",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090490630",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
