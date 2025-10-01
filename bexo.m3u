@@ -29,21 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009493/1758886821552891_UCL26_MD2_Arsenal_vs_Olympiacos_landscape_thumb.jpg" group-title="SonyLIV",Arsenal vs Olympiacos - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758961861528402_UCL26_MD2_Monaco_vs_Man_City_landscape_thumb.jpg" group-title="SonyLIV",Monaco vs Man City - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/kNYmVDXYSUOiLueBMfLVXg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758973440577402_UCL26_MD2_Dortmund_vs_Athletic_landscape_thumb.jpg" group-title="SonyLIV",Dortmund vs Athletic Club - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/vRu1zRLTRNyErY_-_QQATw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009497/1758900589792886_UCL26_MD2_Villarreal_vs_Juventus_landscape_thumb.jpg" group-title="SonyLIV",Villarreal vs Juventus - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/aGNPcotmQHS93Wy7COJ5dQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758961503168402_UCL26_MD2_Napoli_vs_Sporting_CP_landscape_thumb.jpg" group-title="SonyLIV",Napoli vs Sporting CP - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/X3CCh8tKTdeMTw74Kj3y-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758973440577402_UCL26_MD2_Dortmund_vs_Athletic_landscape_thumb.jpg" group-title="SonyLIV",Dortmund vs Athletic Club - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/vRu1zRLTRNyErY_-_QQATw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814937221623_UCL26_MD2_Barcelona_vs_PSG_tamil_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814959199623_UCL26_MD2_Barcelona_vs_PSG_telugu_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8
@@ -55,13 +52,16 @@ https://dai.google.com/ssai/event/zW_tBz1VQmaVxfXYxwFUzA/master.m3u8
 https://dai.google.com/ssai/event/Eu4uu53PS1i6RWZCvuh7ww/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLIV",Qarabag vs Copenhagen - MD 2 - 1 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1759389601~acl=/*~id=07242167450244809475470030146302~hmac=1ed40f035d7197df7b77715cc68aaa70a5f829c405c163020bbedcee932e01fa
+?hdnea=exp=1759389846~acl=/*~id=23325515506494837729669203826724~hmac=76524f539d349986ac65a1fc50ccdb596dd25d574114fa19bf59f402444ebe3c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814890675623_UCL26_MD2_Barcelona_vs_PSG_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MlDhAkUMS7-Fr-RLAc9F3Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814937221623_UCL26_MD2_Barcelona_vs_PSG_tamil_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TAM
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009493/1758886821552891_UCL26_MD2_Arsenal_vs_Olympiacos_landscape_thumb.jpg" group-title="SonyLIV",Arsenal vs Olympiacos - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
+https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758961861528402_UCL26_MD2_Monaco_vs_Man_City_landscape_thumb.jpg" group-title="SonyLIV",Monaco vs Man City - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/kNYmVDXYSUOiLueBMfLVXg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009701/175931121755978_UEL_MD_2_Promo_Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/ae0394214e43492582524e218e1a1c75/1759309247/baseline-std-v4/PROMO_UEL_MD_2_INTERNATIONAL_PROMO_eng_baseline-800300010.mpd
