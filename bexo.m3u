@@ -32,3 +32,6 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009701/175931121755978_UEL_MD_2_Promo_Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/ae0394214e43492582524e218e1a1c75/1759309247/baseline-std-v4/PROMO_UEL_MD_2_INTERNATIONAL_PROMO_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009735/1759341191214109_UFC320_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 320 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fe7554dc5ee542408694fdf10165720c/1759340316/baseline-std-v4/PROMO_UFC_320_30_SEC_HOR_APP_01102025_eng_baseline-800300010.mpd
