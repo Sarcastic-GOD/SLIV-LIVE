@@ -11,9 +11,9 @@
         "venue": "Tofiq Bahramov Stadium",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Qarabag vs Copenhagen,UEFAChampionsLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759384801~acl=/*~id=82252478608467929505011665491795~hmac=9cc9f76ab99e1edb8b0299c143a19e5c0b0829bdc921a8238c28995caff3a413",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759384801~acl=/*~id=82252478608467929505011665491795~hmac=9cc9f76ab99e1edb8b0299c143a19e5c0b0829bdc921a8238c28995caff3a413",
+        "Server1": "https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759385581~acl=/*~id=93765967169688011187023010851166~hmac=0c2522f14f06d699c5bc4721520cc73c56da24b3881b18c792bdb1c85486833e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759385581~acl=/*~id=93765967169688011187023010851166~hmac=0c2522f14f06d699c5bc4721520cc73c56da24b3881b18c792bdb1c85486833e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,23 +29,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Union SG vs Newcastle,UEFAChampionsLeague202526",
         "Server1": "https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759384801~acl=/*~id=82252478608467929505011665491795~hmac=9cc9f76ab99e1edb8b0299c143a19e5c0b0829bdc921a8238c28995caff3a413",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759384801~acl=/*~id=82252478608467929505011665491795~hmac=9cc9f76ab99e1edb8b0299c143a19e5c0b0829bdc921a8238c28995caff3a413",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759385581~acl=/*~id=93765967169688011187023010851166~hmac=0c2522f14f06d699c5bc4721520cc73c56da24b3881b18c792bdb1c85486833e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759385581~acl=/*~id=93765967169688011187023010851166~hmac=0c2522f14f06d699c5bc4721520cc73c56da24b3881b18c792bdb1c85486833e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090490630",
-        "isLive": false,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Upcoming: Barcelona vs PSG",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009671/1759271384954962_UCL2526_Barcelona_vs_PSG_26sep_tonight_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5ffe35b57ca3452f94997dcc52ff069e/1758713033/baseline-std-v4/1090490630_24092025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090490626",
