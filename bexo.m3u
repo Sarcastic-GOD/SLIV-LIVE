@@ -29,12 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009493/1758886821552891_UCL26_MD2_Arsenal_vs_Olympiacos_landscape_thumb.jpg" group-title="SonyLIV",Arsenal vs Olympiacos - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758961861528402_UCL26_MD2_Monaco_vs_Man_City_landscape_thumb.jpg" group-title="SonyLIV",Monaco vs Man City - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/kNYmVDXYSUOiLueBMfLVXg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758973440577402_UCL26_MD2_Dortmund_vs_Athletic_landscape_thumb.jpg" group-title="SonyLIV",Dortmund vs Athletic Club - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/vRu1zRLTRNyErY_-_QQATw/master.m3u8
@@ -62,6 +56,12 @@ https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814890675623_UCL26_MD2_Barcelona_vs_PSG_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MlDhAkUMS7-Fr-RLAc9F3Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009493/1758886821552891_UCL26_MD2_Arsenal_vs_Olympiacos_landscape_thumb.jpg" group-title="SonyLIV",Arsenal vs Olympiacos - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009513/1758961861528402_UCL26_MD2_Monaco_vs_Man_City_landscape_thumb.jpg" group-title="SonyLIV",Monaco vs Man City - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/kNYmVDXYSUOiLueBMfLVXg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814937221623_UCL26_MD2_Barcelona_vs_PSG_tamil_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
