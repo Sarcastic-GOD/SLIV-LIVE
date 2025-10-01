@@ -43,7 +43,10 @@ https://dai.google.com/ssai/event/vRu1zRLTRNyErY_-_QQATw/master.m3u8
 https://dai.google.com/ssai/event/Eu4uu53PS1i6RWZCvuh7ww/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814297135623_UCL26_MD2_Qarabag_vs_Copenhagen_landscape_thumb.jpg" group-title="SonyLIV",Qarabag vs Copenhagen - MD 2 - 1 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8
+https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814937221623_UCL26_MD2_Barcelona_vs_PSG_tamil_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814959199623_UCL26_MD2_Barcelona_vs_PSG_telugu_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8
@@ -62,9 +65,6 @@ https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814890675623_UCL26_MD2_Barcelona_vs_PSG_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/MlDhAkUMS7-Fr-RLAc9F3Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009492/1758814937221623_UCL26_MD2_Barcelona_vs_PSG_tamil_landscape_thumb.jpg" group-title="SonyLIV",Barcelona vs Paris - MD 2 - 2 Oct 2025 - TAM
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009701/175931121755978_UEL_MD_2_Promo_Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/ae0394214e43492582524e218e1a1c75/1759309247/baseline-std-v4/PROMO_UEL_MD_2_INTERNATIONAL_PROMO_eng_baseline-800300010.mpd
