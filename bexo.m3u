@@ -29,12 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009713/1759316888275971_asiantour2024_IndonesianMasters_day1_1oct_landscape_thumb.jpg" group-title="SonyLIV",Indonesian Masters - Day 1 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925232856558_ATP1000_Shanghai_Masters_30sep_round1_landscape_thumb.jpg" group-title="SonyLIV",Day 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/2Y-hvDvcQaeGParfHCfyhg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009701/175931121755978_UEL_MD_2_Promo_Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/ae0394214e43492582524e218e1a1c75/1759309247/baseline-std-v4/PROMO_UEL_MD_2_INTERNATIONAL_PROMO_eng_baseline-800300010.mpd
