@@ -32,18 +32,6 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009728/1759323707439662_UEL_MD1_RayoVallecano_vs_KF_Shkendija_landscape_thumb.jpg" group-title="SonyLIV",Rayo Vallecano vs KF Shkendija - MD 1 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/H6S0mE59SISkkXTAenoE_w/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009709/1759314304368420_UEL_MD2_ViktoriaPlzen_vs_Malmo_landscape_thumb.jpg" group-title="SonyLIV",Viktoria Plzen vs Malmo - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009730/1759326322346169_UECL26_MD1_Lausanne_Sports-vs-Breidablik_landscape_thumb.jpg" group-title="SonyLIV",Lausanne Sports vs Breidablik - MD 1 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/0q7QI6uKSaivZY8P_dOi2w/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009728/1759323707250662_UEL_MD1_OmoniaNicosia_vs_Mainz_landscape_thumb.jpg" group-title="SonyLIV",Omonia Nicosia vs Mainz - MD 1 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/w_odF55aQzWausvCuwScNA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009707/1759293666090104_UEL_MD2_Roma_vs_Lille_Live_landscape_thumb.jpg" group-title="SonyLIV",Roma vs Lille - MD 2 - 2 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/I1ap9W5OSHioB8-X3D7VWw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009707/1759298359493104_UEL_MD2_Celtic_vs_Braga_landscape_thumb.jpg" group-title="SonyLIV",Celtic vs Braga - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
@@ -77,6 +65,18 @@ https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009727/1759318904402652_UECL26_MD1_FC_Noah_vs_Rijeka_landscape_thumb.jpg" group-title="SonyLIV",FC Noah vs Rijeka - MD 1 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009728/1759323707250662_UEL_MD1_OmoniaNicosia_vs_Mainz_landscape_thumb.jpg" group-title="SonyLIV",Omonia Nicosia vs Mainz - MD 1 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/w_odF55aQzWausvCuwScNA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009707/1759293666090104_UEL_MD2_Roma_vs_Lille_Live_landscape_thumb.jpg" group-title="SonyLIV",Roma vs Lille - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/I1ap9W5OSHioB8-X3D7VWw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009709/1759314304368420_UEL_MD2_ViktoriaPlzen_vs_Malmo_landscape_thumb.jpg" group-title="SonyLIV",Viktoria Plzen vs Malmo - MD 2 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009730/1759326322346169_UECL26_MD1_Lausanne_Sports-vs-Breidablik_landscape_thumb.jpg" group-title="SonyLIV",Lausanne Sports vs Breidablik - MD 1 - 2 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/0q7QI6uKSaivZY8P_dOi2w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009707/1759313247943104_UEL_MD2_Panathinaikos_vs_GoAheadEagles_landscape_thumb.jpg" group-title="SonyLIV",Panathinaikos vs Go Ahead Eagles - MD 2 - 2 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8
