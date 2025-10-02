@@ -1,5 +1,39 @@
 [
     {
+        "id": "sl1090491437",
+        "isLive": true,
+        "event": "Asian Tour 2025",
+        "match": "Indonesian Masters - Day 1 - 2 Oct 2025",
+        "Provider": "ASIAN TOUR MEDIA PTE LTD",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009713/1759316888275971_asiantour2024_IndonesianMasters_day1_1oct_landscape_thumb.jpg",
+        "genre": "Golf",
+        "language": "en",
+        "venue": "Damai Indah Golf (PIK Course), Indonesia",
+        "TVchannel": "LIV",
+        "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
+        "Server1": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759438202~acl=/*~id=41022611301581924730344162192877~hmac=bc8be783684fc47f587a48f96cb72d600d68dca8c67c3dd10f26011af3c15666",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759438202~acl=/*~id=41022611301581924730344162192877~hmac=bc8be783684fc47f587a48f96cb72d600d68dca8c67c3dd10f26011af3c15666",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090491379",
+        "isLive": true,
+        "event": "ATP Masters 1000 - 2025 Shanghai Open",
+        "match": "Day 2 - 2 Oct 2025",
+        "Provider": "ATP Media Operations Ltd",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925232856558_ATP1000_Shanghai_Masters_30sep_round1_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "en",
+        "venue": "Qizhong Forest Sports City Arena",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATPMasters10002025ShanghaiOpen",
+        "Server1": "https://dai.google.com/ssai/event/2Y-hvDvcQaeGParfHCfyhg/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759438202~acl=/*~id=41022611301581924730344162192877~hmac=bc8be783684fc47f587a48f96cb72d600d68dca8c67c3dd10f26011af3c15666",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759438202~acl=/*~id=41022611301581924730344162192877~hmac=bc8be783684fc47f587a48f96cb72d600d68dca8c67c3dd10f26011af3c15666",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090491367",
         "isLive": false,
         "event": "UEFA Europa League 2025-26",
@@ -12,6 +46,20 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Europa League 2025–26,Europa League fixtures,Europa League results,Europa League schedule,Europa League teams,Europa League standings,Europa League knockout phase,Europa League final 2026,Aston Villa Europa League,Nottingham Forest Europa League,Roma Europa League,Porto Europa League,Real Betis Europa League,Celta Vigo Europa League,UEFA Europa League live stream,Europa League highlights,Europa League top scorers,Europa League stats,UEFA second-tier competition,European club football,Istanbul Europa League final,Europa League matchdays,Europa League league phase,UEFA Europa League format,Europa League travel guide,Europa League stadiums,Europa League predictions",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ae0394214e43492582524e218e1a1c75/1759309247/baseline-std-v4/PROMO_UEL_MD_2_INTERNATIONAL_PROMO_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090491245",
+        "isLive": false,
+        "event": "Australia Tour of New Zealand 2025",
+        "match": "Upcoming: Australia Tour of New Zealand 2025",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009655/1759232578000127_NZvsAUS_2025_Landscape_Thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Australia vs New Zealand cricket news,Australia vs New Zealand match updates,Australia vs New Zealand highlights,Australia vs New Zealand results,Australia vs New Zealand fixtures,Australia vs New Zealand squads,Australia vs New Zealand live streaming,Australia vs New Zealand schedule,Test cricket series 2025,pat cummins,mitchell starc,steve smith,travis head,david warner,cameron green,alex carey,marnus labuschagne,josh hazlewood,glenn maxwell,New Zealand cricket team 2025,Australia cricket team 2025,New Zealand vs Australia Test Series,NZ vs AUS 2025,Australia Tour of New Zealand 2025,australia vs new zealand 2025,all blacks vs australia 2025,new zealand,australia tour of new zealand 2025 series schedule,australia tour of new zealand 2025 schedule time,australia tour of new zealand 2025 schedule,new zealand vs australia test series 2025 schedule,new zealand vs australia,new zealand vs australia series schedule 2025,australia,australia vs new zealand",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090491462",
