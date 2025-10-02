@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491379",
-        "isLive": true,
-        "event": "ATP Masters 1000 - 2025 Shanghai Open",
-        "match": "Day 2 - 2 Oct 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925232856558_ATP1000_Shanghai_Masters_30sep_round1_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "Qizhong Forest Sports City Arena",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATPMasters10002025ShanghaiOpen",
-        "Server1": "https://dai.google.com/ssai/event/2Y-hvDvcQaeGParfHCfyhg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759444440~acl=/*~id=54426571993894889525909315794563~hmac=dbde79f1c8b8a79632bbd683994853ac384400d4c7d509cb80b5660e75610081",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759444440~acl=/*~id=54426571993894889525909315794563~hmac=dbde79f1c8b8a79632bbd683994853ac384400d4c7d509cb80b5660e75610081",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090491367",
         "isLive": false,
         "event": "UEFA Europa League 2025-26",
