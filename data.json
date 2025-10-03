@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491574",
-        "isLive": true,
-        "event": "Asian Tour 2025",
-        "match": "Indonesian Masters - Day 2 - 3 Oct 2025",
-        "Provider": "ASIAN TOUR MEDIA PTE LTD",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009713/1759316909181971_asiantour2024_IndonesianMasters_day2_1oct_landscape_thumb.jpg",
-        "genre": "Golf",
-        "language": "en",
-        "venue": "Damai Indah Golf (PIK Course), Indonesia",
-        "TVchannel": "LIV",
-        "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759529642~acl=/*~id=54823831508079205706291649454642~hmac=76a927cfbe6156e8cf20b276f11e0fc6a51eaa019d5df061a638280962e611df",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759529642~acl=/*~id=54823831508079205706291649454642~hmac=76a927cfbe6156e8cf20b276f11e0fc6a51eaa019d5df061a638280962e611df",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090491572",
         "isLive": true,
         "event": "ATP Masters 1000 - 2025 Shanghai Open",
@@ -29,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATP_2025_live,ATPMasters10002025ShanghaiOpen",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759529642~acl=/*~id=54823831508079205706291649454642~hmac=76a927cfbe6156e8cf20b276f11e0fc6a51eaa019d5df061a638280962e611df",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759529642~acl=/*~id=54823831508079205706291649454642~hmac=76a927cfbe6156e8cf20b276f11e0fc6a51eaa019d5df061a638280962e611df",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759529761~acl=/*~id=72435744066279205703358568032709~hmac=1599ca216dc7a26ee632373b3bb446a58d57a2c359938e43f487620a109760d8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759529761~acl=/*~id=72435744066279205703358568032709~hmac=1599ca216dc7a26ee632373b3bb446a58d57a2c359938e43f487620a109760d8",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
