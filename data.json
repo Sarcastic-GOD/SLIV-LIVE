@@ -14,6 +14,34 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd"
     },
     {
+        "id": "sl1090491659",
+        "isLive": false,
+        "event": "Borussia Dortmund vs RB Leipzig",
+        "match": "Upcoming: Borussia Dortmund vs RB Leipzig",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009830/1759500448904198_Bundesliga_Promo_Thumbs_DORTMUND_vs_LEIPZIG_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/d0cff81ebdda4f52a431b58d600dd22d/1759500378/baseline-std-v4/1090491659_03102025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090491660",
+        "isLive": false,
+        "event": "Eintracht Frankfurt vs Bayern Munich",
+        "match": "Upcoming: Eintracht Frankfurt vs Bayern Munich",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009827/1759499752057524_Bundesliga_Promo_Thumbs_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/72feab3724a54c0688ec58714d273e70/1759500765/baseline-std-v4/1090491660_03102025_eng_baseline-800300010.mpd"
+    },
+    {
         "id": "sl1090491462",
         "isLive": false,
         "event": "Ankalaev vs Pereira 2",
