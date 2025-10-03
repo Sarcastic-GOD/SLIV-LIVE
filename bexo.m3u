@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009662/1759259508976151_AUSvsNZ_2t20i_30sep_live_rev_landscape_thumb.jpg" group-title="SonyLIV",2nd T20I - 3 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009713/1759316909181971_asiantour2024_IndonesianMasters_day2_1oct_landscape_thumb.jpg" group-title="SonyLIV",Indonesian Masters - Day 2 - 3 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8
@@ -38,9 +41,6 @@ https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925328118258_ATP1000_Shanghai_Masters_30sep_round2_landscape_thumb.jpg" group-title="SonyLIV",Day 3 - 3 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009733/1759333973550297_AUSvsNZ_3t20i_1oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Australia Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/761e7188bbe64d91877de36bbf5b43ae/1759214648/baseline-std-v4/PROMO_NZ_VS_AUS_T20I_20SEC_HOR_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009735/1759341191214109_UFC320_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 320 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fe7554dc5ee542408694fdf10165720c/1759340316/baseline-std-v4/PROMO_UFC_320_30_SEC_HOR_APP_01102025_eng_baseline-800300010.mpd
