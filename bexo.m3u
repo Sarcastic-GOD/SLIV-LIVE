@@ -29,6 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009813/175948758867570_UFC320_AnkalaevvsPereira2_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: UFC 320 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009816/1759492683491858_UFC_320_Ankalaev_vs_Pereira_2_landscape_thumb.jpg" group-title="SonyLIV",UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/fe7554dc5ee542408694fdf10165720c/1759340316/baseline-std-v4/PROMO_UFC_320_30_SEC_HOR_APP_01102025_eng_baseline-800300010.mpd
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009814/1759488758915226_UFC_320_Ankalaev_vs_Pereira_2_tamil_landscape_thumb.jpg" group-title="SonyLIV",UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025  - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009814/1759488732992226_UFC_320_Ankalaev_vs_Pereira_2_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025  - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009814/1759488773079226_UFC_320_Ankalaev_vs_Pereira_2_telugu_landscape_thumb.jpg" group-title="SonyLIV",UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025  - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8
