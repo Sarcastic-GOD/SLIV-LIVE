@@ -29,21 +29,21 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945300580089_bliga2526_MD6_Leverkusen_vs_Union_Berlin_2oct_landscape_thumb.jpg" group-title="SonyLIV",Bayer Leverkusen vs Union Berlin - 4 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625406~acl=/*~id=74389912748246621025460923685776~hmac=a759bc860d659008ebe98d1217dde1cfb64229127e0ba99c455a617fa6a3da61
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945325884889_bliga2526_MD6_Dortmund_vs_RB_Leipzig_2oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs RB Leipzig - 4 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625406~acl=/*~id=74389912748246621025460923685776~hmac=a759bc860d659008ebe98d1217dde1cfb64229127e0ba99c455a617fa6a3da61
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945358993389_bliga2526_MD6_FC_Augsburg_vs_VfL_Wolfsburg_2oct_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs VfL Wolfsburg - 4 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625406~acl=/*~id=74389912748246621025460923685776~hmac=a759bc860d659008ebe98d1217dde1cfb64229127e0ba99c455a617fa6a3da61
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945471941089_bliga2526_MD6_Werder_Bremen_vs_St_Pauli_2oct_landscape_thumb.jpg" group-title="SonyLIV",Werder Bremen vs St. Pauli - 4 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625406~acl=/*~id=74389912748246621025460923685776~hmac=a759bc860d659008ebe98d1217dde1cfb64229127e0ba99c455a617fa6a3da61
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_goal_arena_22aug_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena Feed - MD 6 - 4 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625406~acl=/*~id=74389912748246621025460923685776~hmac=a759bc860d659008ebe98d1217dde1cfb64229127e0ba99c455a617fa6a3da61
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625521~acl=/*~id=02843358507137458033047261779159~hmac=d811c8b5c1a066160ce948b7621dc170985acc7b5a1b041cb492664023b67a29
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945471941089_bliga2526_MD6_Werder_Bremen_vs_St_Pauli_2oct_landscape_thumb.jpg" group-title="SonyLIV",Werder Bremen vs St. Pauli - 4 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625521~acl=/*~id=02843358507137458033047261779159~hmac=d811c8b5c1a066160ce948b7621dc170985acc7b5a1b041cb492664023b67a29
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945300580089_bliga2526_MD6_Leverkusen_vs_Union_Berlin_2oct_landscape_thumb.jpg" group-title="SonyLIV",Bayer Leverkusen vs Union Berlin - 4 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625521~acl=/*~id=02843358507137458033047261779159~hmac=d811c8b5c1a066160ce948b7621dc170985acc7b5a1b041cb492664023b67a29
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945358993389_bliga2526_MD6_FC_Augsburg_vs_VfL_Wolfsburg_2oct_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs VfL Wolfsburg - 4 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625521~acl=/*~id=02843358507137458033047261779159~hmac=d811c8b5c1a066160ce948b7621dc170985acc7b5a1b041cb492664023b67a29
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945325884889_bliga2526_MD6_Dortmund_vs_RB_Leipzig_2oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs RB Leipzig - 4 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625521~acl=/*~id=02843358507137458033047261779159~hmac=d811c8b5c1a066160ce948b7621dc170985acc7b5a1b041cb492664023b67a29
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893155783701_World_Para_Athletics_Championships_2025_DAY_8_landscape_thumb.jpg" group-title="SonyLIV",Day 8 - 4 Oct 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/QBKr7YPhS3mRxEVsxKqx4g/master.m3u8
@@ -56,9 +56,6 @@ https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009813/175948758873170_UFC320_AnkalaevvsPereira2_Landscape_Thumb_Dated.jpg" group-title="SonyLIV",Upcoming: UFC 320 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fe7554dc5ee542408694fdf10165720c/1759340316/baseline-std-v4/PROMO_UFC_320_30_SEC_HOR_APP_01102025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009830/1759500448904198_Bundesliga_Promo_Thumbs_DORTMUND_vs_LEIPZIG_landscape.jpg" group-title="SonyLIV",Upcoming: Borussia Dortmund vs RB Leipzig - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/d0cff81ebdda4f52a431b58d600dd22d/1759500378/baseline-std-v4/1090491659_03102025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009827/1759499752057524_Bundesliga_Promo_Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Eintracht Frankfurt vs Bayern Munich - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/72feab3724a54c0688ec58714d273e70/1759500765/baseline-std-v4/1090491660_03102025_eng_baseline-800300010.mpd
