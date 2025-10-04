@@ -29,12 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_goal_arena_22aug_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena Feed - MD 6 - 4 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759635847~acl=/*~id=40162149438805555083455843308367~hmac=0b2168a05cf16b7370bda04f1f17babfea4bd13d2e474e16f3c32608ccfa3d61
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009775/175940966520782_ATP25_Day3_Landscape_thumb_2oct.jpg" group-title="SonyLIV",Day 3 - 4 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/XypKP_cqTZ2iMTeYNYO1oA/master.m3u8
+https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009813/175948758873170_UFC320_AnkalaevvsPereira2_Landscape_Thumb_Dated.jpg" group-title="SonyLIV",Upcoming: UFC 320 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fe7554dc5ee542408694fdf10165720c/1759340316/baseline-std-v4/PROMO_UFC_320_30_SEC_HOR_APP_01102025_eng_baseline-800300010.mpd
