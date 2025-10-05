@@ -29,9 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945545895789_bliga2526_MD6_mgladbach_vs_SC_Freiburg_2oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs SC Freiburg - 5 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759726928~acl=/*~id=82195416734707071564668991321085~hmac=083880802ee068693ceffdbaa5f73ad612ef2e788e6465b9d2fec65ee0bacdc5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945530483589_bliga2526_MD6_Hamburg_SV_vs_Mainz_2oct_landscape_thumb.jpg" group-title="SonyLIV",Hamburg SV vs Mainz - 5 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759726928~acl=/*~id=82195416734707071564668991321085~hmac=083880802ee068693ceffdbaa5f73ad612ef2e788e6465b9d2fec65ee0bacdc5
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727160~acl=/*~id=65402890455542929874962277951004~hmac=7b5f8f3ae136d58eb9b0467f094d0ffcd69e29360bfd98d1e4beae7b0ee41edc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945545895789_bliga2526_MD6_mgladbach_vs_SC_Freiburg_2oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs SC Freiburg - 5 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727160~acl=/*~id=65402890455542929874962277951004~hmac=7b5f8f3ae136d58eb9b0467f094d0ffcd69e29360bfd98d1e4beae7b0ee41edc
