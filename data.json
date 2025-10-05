@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491708",
-        "isLive": true,
-        "event": "UFC 320 - Ankalaev vs Pereira 2",
-        "match": "UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025 ",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009814/1759488758915226_UFC_320_Ankalaev_vs_Pereira_2_tamil_landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "ta",
-        "venue": "",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Nassourdine Imavov,Ankalaev vs Pereira,UFC320AnkalaevvsPereira2",
-        "Server1": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090491693",
         "isLive": true,
         "event": "UFC 320 - Ankalaev vs Pereira 2",
@@ -29,8 +12,25 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Nassourdine Imavov,Ankalaev vs Pereira,UFC320AnkalaevvsPereira2",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090491708",
+        "isLive": true,
+        "event": "UFC 320 - Ankalaev vs Pereira 2",
+        "match": "UFC 320 - Ankalaev vs Pereira 2 - 5 Oct 2025 ",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009814/1759488758915226_UFC_320_Ankalaev_vs_Pereira_2_tamil_landscape_thumb.jpg",
+        "genre": "Fight Sports",
+        "language": "ta",
+        "venue": "",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Nassourdine Imavov,Ankalaev vs Pereira,UFC320AnkalaevvsPereira2",
+        "Server1": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -46,8 +46,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Nassourdine Imavov,Ankalaev vs Pereira,UFC320AnkalaevvsPereira2",
         "Server1": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -63,8 +63,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Nassourdine Imavov,Ankalaev vs Pereira,UFC320AnkalaevvsPereira2",
         "Server1": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667403~acl=/*~id=33605701180432087224650732480948~hmac=542522beff163e56b354bf82390e4a4b8806581e8e7fd65830f3c47aace57c9c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759667531~acl=/*~id=04902308809983861965478844324846~hmac=4bdd43f4e6bea8772fad8a2edb1cca9faa80d132fd39377b2b06cad8c21af39e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
