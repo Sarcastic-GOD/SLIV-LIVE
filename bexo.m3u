@@ -29,3 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945530483589_bliga2526_MD6_Hamburg_SV_vs_Mainz_2oct_landscape_thumb.jpg" group-title="SonyLIV",Hamburg SV vs Mainz - 5 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759728032~acl=/*~id=64475309739689349792283238161083~hmac=abbd47e2968245b3f88e6703fcfaa744e3f9ed49ee13f1893e5ba974bb5d1663
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945545895789_bliga2526_MD6_mgladbach_vs_SC_Freiburg_2oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs SC Freiburg - 5 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759728032~acl=/*~id=64475309739689349792283238161083~hmac=abbd47e2968245b3f88e6703fcfaa744e3f9ed49ee13f1893e5ba974bb5d1663
