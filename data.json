@@ -12,8 +12,8 @@
         "TVchannel": "LIV",
         "SeoTags": "Archery Premier League,APL,archery league,professional archery,archery tournament,recurve archery,compound archery,archery competition,archery sports,Indian archery,archery news,archery scores,archery rankings,archery athletes,archery teams.,APL Season 1,APL 2024,top archers,archery champions,archery world rankings,archery Olympics,archery equipment,archery techniques.,archery teams,ArcheryPremierLeague_2025_Live,sports_adsupported,nopreroll_livectv,Archery_PLLive25,ArcheryPremierLeague2025",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759805522~acl=/*~id=08634809719149131071766277288943~hmac=cff2af47a0eb120d91a58a50e3cbd416a4e28dfb37819e491c3bca6abcd9cad4",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759805522~acl=/*~id=08634809719149131071766277288943~hmac=cff2af47a0eb120d91a58a50e3cbd416a4e28dfb37819e491c3bca6abcd9cad4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759805642~acl=/*~id=45788324174527608590577223103057~hmac=13971c8bb50e443eeb30631973590ac16d687ffe8069f2542bdada691a15386a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759805642~acl=/*~id=45788324174527608590577223103057~hmac=13971c8bb50e443eeb30631973590ac16d687ffe8069f2542bdada691a15386a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,8 +29,8 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATP_2025_live,ATPMasters10002025ShanghaiOpen",
         "Server1": "https://dai.google.com/ssai/event/AFrWaFVwR8OSBGEGXJi-kw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759805522~acl=/*~id=08634809719149131071766277288943~hmac=cff2af47a0eb120d91a58a50e3cbd416a4e28dfb37819e491c3bca6abcd9cad4",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759805522~acl=/*~id=08634809719149131071766277288943~hmac=cff2af47a0eb120d91a58a50e3cbd416a4e28dfb37819e491c3bca6abcd9cad4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759805642~acl=/*~id=45788324174527608590577223103057~hmac=13971c8bb50e443eeb30631973590ac16d687ffe8069f2542bdada691a15386a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759805642~acl=/*~id=45788324174527608590577223103057~hmac=13971c8bb50e443eeb30631973590ac16d687ffe8069f2542bdada691a15386a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
