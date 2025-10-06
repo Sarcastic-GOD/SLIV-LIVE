@@ -29,9 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925328995958_ATP1000_Shanghai_Masters_30sep_round3_landscape_thumb.jpg" group-title="SonyLIV",Day 6 - 6 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/AFrWaFVwR8OSBGEGXJi-kw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543037386452_APL25_Day5_3oct_Landscape_thumb.jpg" group-title="SonyLIV",Day 5 - 6 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925328995958_ATP1000_Shanghai_Masters_30sep_round3_landscape_thumb.jpg" group-title="SonyLIV",Day 6 - 6 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/AFrWaFVwR8OSBGEGXJi-kw/master.m3u8
