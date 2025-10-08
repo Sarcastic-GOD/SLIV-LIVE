@@ -32,3 +32,18 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg" group-title="SonyLIV",Gibraltar vs New Caledonia - 8 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg" group-title="SonyLIV",Upcoming: Portugal vs Republic of Ireland - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/e2d560ca12bd4439a273af7afdf9169b/1759826242/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_PORTUGAL_VS_REPUBLIC_OF_IRELAND_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg" group-title="SonyLIV",Upcoming: France vs Azerbaijan - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/46be9e5641134bd79a62a0b2c8f6ed7d/1759825545/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_FRANCE_VS_AZERBAIJAN_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg" group-title="SonyLIV",Upcoming: Spain vs Georgia - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/6655d31c8b144682b7dd1be9710e86ce/1759826363/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_SPAIN_VS_GEORGIA_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg" group-title="SonyLIV",Upcoming: Germany vs Luxembourg - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/DASH/b57eebc32d474ca2959b70a0ba7fafbf/1759844612/baseline-std-v4/1090491896_07102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg" group-title="SonyLIV",Upcoming: Malta vs Netherlands - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/cac133f361924682ba3142eef502ca55/1759825913/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MALTA_VS_NETHERLANDS_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
