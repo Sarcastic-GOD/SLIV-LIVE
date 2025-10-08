@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090491860",
+        "isLive": true,
+        "event": "UEFA International Friendlies",
+        "match": "Gibraltar vs New Caledonia - 8 Oct 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Europa Point Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Gibraltar vs New Caledonia,UEFAInternationalFriendlies",
+        "Server1": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759989241~acl=/*~id=80440967411690633826451981063794~hmac=bc523e4f10a4b567f99d18cc9d29d4e4b463aa8d6f3ac4e97282eb31a5388268",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759989241~acl=/*~id=80440967411690633826451981063794~hmac=bc523e4f10a4b567f99d18cc9d29d4e4b463aa8d6f3ac4e97282eb31a5388268",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090491892",
         "isLive": false,
         "event": "European Qualifiers for 2026 FIFA World Cup",
