@@ -1,19 +1,19 @@
 [
     {
         "id": "sl1090491860",
-        "isLive": false,
-        "event": "",
+        "isLive": true,
+        "event": "UEFA International Friendlies",
         "match": "Gibraltar vs New Caledonia - 8 Oct 2025",
-        "Provider": "",
-        "poster": "",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg",
         "genre": "Football",
         "language": "en",
-        "venue": "",
-        "TVchannel": "",
+        "venue": "Europa Point Stadium",
+        "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Gibraltar vs New Caledonia,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759986236~acl=/*~id=97827627706330954491196866658181~hmac=2d5a5e9fc57e35f9f875a0fab490983808434fcf4df822c38c22a8b53be351cd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759986236~acl=/*~id=97827627706330954491196866658181~hmac=2d5a5e9fc57e35f9f875a0fab490983808434fcf4df822c38c22a8b53be351cd",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759986241~acl=/*~id=65102852167535307208856970834628~hmac=86f143bdb5884d5eb9c3d405bac2e82b15d42d44b5a73134d571066e3138f06f",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759986241~acl=/*~id=65102852167535307208856970834628~hmac=86f143bdb5884d5eb9c3d405bac2e82b15d42d44b5a73134d571066e3138f06f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
