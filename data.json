@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090491807",
-        "isLive": true,
-        "event": "Archery Premier League 2025",
-        "match": "Day 7 - 8 Oct 2025",
-        "Provider": "Archery Premier League Private Limited",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg",
-        "genre": "Archery",
-        "language": "en",
-        "venue": "",
-        "TVchannel": "LIV",
-        "SeoTags": "Archery Premier League,APL,archery league,professional archery,archery tournament,recurve archery,compound archery,archery competition,archery sports,Indian archery,archery news,archery scores,archery rankings,archery athletes,archery teams.,APL Season 1,APL 2024,top archers,archery champions,archery world rankings,archery Olympics,archery equipment,archery techniques.,archery teams,ArcheryPremierLeague_2025_Live,sports_adsupported,nopreroll_livectv,Archery_PLLive25,ArcheryPremierLeague2025",
-        "Server1": "https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759983121~acl=/*~id=41551369812493030311125703858206~hmac=6c0fda46055f8b679248ac2b68c63ada5cabebf38d03b04bb02c87376d09d31a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1759983121~acl=/*~id=41551369812493030311125703858206~hmac=6c0fda46055f8b679248ac2b68c63ada5cabebf38d03b04bb02c87376d09d31a",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090491892",
         "isLive": false,
         "event": "European Qualifiers for 2026 FIFA World Cup",
