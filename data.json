@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATP_2025_live,ATPMasters10002025ShanghaiOpen",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "cURL Error: transfer closed with 1 bytes remaining to read",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760047594~acl=/*~id=79142387727885884308193347548132~hmac=487ef7d195e88640496dc6ab863254cc7fe0a648a1b21247fade90a345a89df4",
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760047681~acl=/*~id=51193217069650431199102586134103~hmac=a9113a6d4dc1181a707cb77cb7e6c707be1978f48921bcee1124d8974f4e0038",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760047681~acl=/*~id=51193217069650431199102586134103~hmac=a9113a6d4dc1181a707cb77cb7e6c707be1978f48921bcee1124d8974f4e0038",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090491895",
