@@ -12,9 +12,23 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATP_2025_live,ATPMasters10002025ShanghaiOpen",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760037961~acl=/*~id=99497939557928529418797573998081~hmac=08788ade228b95b49e89e86f0efbc80e56155144c56ea4a8b10f4923fe71973d",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760037961~acl=/*~id=99497939557928529418797573998081~hmac=08788ade228b95b49e89e86f0efbc80e56155144c56ea4a8b10f4923fe71973d",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760038082~acl=/*~id=82396486829079398075286873108344~hmac=9d4496530a47524d110fbb681898148153129f135f9e10acb2bcb12e636394c3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760038082~acl=/*~id=82396486829079398075286873108344~hmac=9d4496530a47524d110fbb681898148153129f135f9e10acb2bcb12e636394c3",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090491895",
+        "isLive": false,
+        "event": "European Qualifiers for 2026 FIFA World Cup",
+        "match": "Upcoming: Malta vs Netherlands",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cac133f361924682ba3142eef502ca55/1759825913/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MALTA_VS_NETHERLANDS_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090491892",
@@ -71,19 +85,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/DASH/b57eebc32d474ca2959b70a0ba7fafbf/1759844612/baseline-std-v4/1090491896_07102025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090491895",
-        "isLive": false,
-        "event": "European Qualifiers for 2026 FIFA World Cup",
-        "match": "Upcoming: Malta vs Netherlands",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cac133f361924682ba3142eef502ca55/1759825913/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MALTA_VS_NETHERLANDS_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
