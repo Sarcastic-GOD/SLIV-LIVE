@@ -29,15 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540830015830_EQ2526_Kosovo_vs_Slovenia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Kosovo vs Slovenia - MD 7 - 11 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/AtRHWIT_QL6RJoXT7boKsQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg" group-title="SonyLIV",Germany vs Luxembourg - MD 7 - 11 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541075697830_EQ2526_Sweden_vs_Switzerland_3oct_landscape_thumb.jpg" group-title="SonyLIV",Sweden vs Switzerland - MD 7 - 11 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/3dyAWsw2SxmrWlp9Q_QlRA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg" group-title="SonyLIV",France vs Azerbaijan - MD 7 - 11 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg" group-title="SonyLIV",Iceland vs Ukraine - MD 7 - 11 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8
@@ -47,9 +47,9 @@ https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Belgium vs North Macedonia - MD 7 - 11 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/M46tw8SETCua4fSgAvkQww/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540830015830_EQ2526_Kosovo_vs_Slovenia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Kosovo vs Slovenia - MD 7 - 11 Oct 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg" group-title="SonyLIV",France vs Azerbaijan - MD 7 - 11 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/AtRHWIT_QL6RJoXT7boKsQ/master.m3u8
+https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg" group-title="SonyLIV",Upcoming: France vs Azerbaijan - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/46be9e5641134bd79a62a0b2c8f6ed7d/1759825545/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_FRANCE_VS_AZERBAIJAN_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
