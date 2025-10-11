@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090492138",
-        "isLive": true,
-        "event": "UFC Fight Night - Oliveira vs Gamrot",
-        "match": "UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147689235684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscape_thumb_Hindi.jpg",
-        "genre": "Fight Sports",
-        "language": "hi",
-        "venue": "",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Oliveira vs Gamrot,UFCFightNightOliveiravsGamrot",
-        "Server1": "https://dai.google.com/ssai/event/SUnmyIb6QE-jzIy9Zp54KQ/master.m3u8",
-        "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267571~acl=/*~id=07123133580980572439296444045380~hmac=a2a24c52fc367f0ea8e58a1db541ef08ceb4eab2fbba6b079f2fed2676d8cb98",
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090492140",
         "isLive": true,
         "event": "UFC Fight Night - Oliveira vs Gamrot",
@@ -30,7 +13,24 @@
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Oliveira vs Gamrot,UFCFightNightOliveiravsGamrot",
         "Server1": "https://dai.google.com/ssai/event/CexBo8mzQyCIGyttVeOZRA/master.m3u8",
         "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267571~acl=/*~id=07123133580980572439296444045380~hmac=a2a24c52fc367f0ea8e58a1db541ef08ceb4eab2fbba6b079f2fed2676d8cb98",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267727~acl=/*~id=30592530311193661970947738999880~hmac=3e5f9ddee30a4af63561e815edb9c60a9c51d4399d7939223490fff204848a87",
+        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090492138",
+        "isLive": true,
+        "event": "UFC Fight Night - Oliveira vs Gamrot",
+        "match": "UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147689235684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscape_thumb_Hindi.jpg",
+        "genre": "Fight Sports",
+        "language": "hi",
+        "venue": "",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Oliveira vs Gamrot,UFCFightNightOliveiravsGamrot",
+        "Server1": "https://dai.google.com/ssai/event/SUnmyIb6QE-jzIy9Zp54KQ/master.m3u8",
+        "Server2": "Video URL not found",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267727~acl=/*~id=30592530311193661970947738999880~hmac=3e5f9ddee30a4af63561e815edb9c60a9c51d4399d7939223490fff204848a87",
         "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
@@ -47,7 +47,7 @@
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Oliveira vs Gamrot,UFCFightNightOliveiravsGamrot",
         "Server1": "https://dai.google.com/ssai/event/SXGI53qCTm6LYdjpY6aEAw/master.m3u8",
         "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267571~acl=/*~id=07123133580980572439296444045380~hmac=a2a24c52fc367f0ea8e58a1db541ef08ceb4eab2fbba6b079f2fed2676d8cb98",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267727~acl=/*~id=30592530311193661970947738999880~hmac=3e5f9ddee30a4af63561e815edb9c60a9c51d4399d7939223490fff204848a87",
         "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
@@ -64,7 +64,7 @@
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Oliveira vs Gamrot,UFCFightNightOliveiravsGamrot",
         "Server1": "https://dai.google.com/ssai/event/MlDhAkUMS7-Fr-RLAc9F3Q/master.m3u8",
         "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267571~acl=/*~id=07123133580980572439296444045380~hmac=a2a24c52fc367f0ea8e58a1db541ef08ceb4eab2fbba6b079f2fed2676d8cb98",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760267727~acl=/*~id=30592530311193661970947738999880~hmac=3e5f9ddee30a4af63561e815edb9c60a9c51d4399d7939223490fff204848a87",
         "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
