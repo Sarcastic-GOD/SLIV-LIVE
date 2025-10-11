@@ -29,12 +29,12 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147668910684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Telugu.jpg" group-title="SonyLIV",UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/CexBo8mzQyCIGyttVeOZRA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147689235684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscape_thumb_Hindi.jpg" group-title="SonyLIV",UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/SUnmyIb6QE-jzIy9Zp54KQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147668910684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Telugu.jpg" group-title="SonyLIV",UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/CexBo8mzQyCIGyttVeOZRA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147646828684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscape_thumb_tamil.jpg" group-title="SonyLIV",UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/SXGI53qCTm6LYdjpY6aEAw/master.m3u8
