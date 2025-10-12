@@ -13,7 +13,7 @@
         "SeoTags": "ATP Masters 1000 - Rolex Shanghai Masters 2025,watch ATP Masters 1000 - Rolex Shanghai Masters 2025,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis,ATP Masters 1000 - Rolex Shanghai Masters 2025 tennis live,tennis,tennis matches,live tennis matches,ATP Masters 1000,Rolex Shanghai Masters 2025,Rolex Shanghai Masters 2025 schedule,Rolex Shanghai Masters 2025 live streaming,ATP Shanghai Masters 2025 fixtures,ATP Shanghai Masters 2025 results,watch Rolex Shanghai Masters 2025 online,live ATP tennis 2025,Shanghai Masters 2025 highlights,ATP Masters 1000 live scores,ATP tennis tournament 2025,ATP Shanghai Masters 2025 player lineup,sports_adsupported,nopreroll_livectv,Shanghai_25LiveNow,ATP_2025_live,ATPMasters10002025ShanghaiOpen",
         "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
         "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760290803~acl=/*~id=46294675222625341053527409071986~hmac=88c219299b243f5c73e7960ac3d622fea2d81d44f600dbb508d8d8f8cf73ebb0",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760290922~acl=/*~id=19644087124539088901373784589400~hmac=a1eb17c790f60aba6532ea560cea318b7c6df6e2c12ff6e411670d505283913c",
         "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
@@ -71,19 +71,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/3245c3b0fb9641e1afa8a0848101f47c/1760106263/baseline-std-v4/1090492100_10102025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090492101",
-        "isLive": false,
-        "event": "European Qualifiers for 2026 FIFA World Cup",
-        "match": "Upcoming: Portugal vs Hungary",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/e2b9c9d3ba564e15b7c5d7f0e549539b/1760106464/baseline-std-v4/1090492101_10102025_eng_baseline-800300010.mpd"
     }
 ]
