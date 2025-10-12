@@ -32,3 +32,15 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010142/1760197212593374_ATP25_9oct_Rinderknech_vs_Vacherot_Landscape_thumb_Live.jpg" group-title="SonyLIV",A. Rinderknech vs V. Vacherot - Final - 12 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg" group-title="SonyLIV",Upcoming: Netherlands vs Finland - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/a3f757b78f7849d6bd7f28b00ee19fac/1760087083/baseline-std-v4/NetherlandsvsFinland_Promo_10102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg" group-title="SonyLIV",Upcoming: Northern Ireland vs Germany - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/1379031fc2a6498a87d8eda8a68009d4/1760087387/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MD_8_NORTHERN_IRELAND_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760111961547245_UEL_MD8_Latvia_vs_Engaland_DDT_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Latvia vs England - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/3245c3b0fb9641e1afa8a0848101f47c/1760106263/baseline-std-v4/1090492100_10102025_eng_baseline-800300010.mpd
