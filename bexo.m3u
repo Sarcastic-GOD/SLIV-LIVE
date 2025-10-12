@@ -29,18 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599805535527_UEFA_INT_Friendlies_Malta_vs_Bosnia_and_Herzegovia_4oct_landscape_thumb.jpg" group-title="SonyLIV",Malta vs Bosnia and Herzegovia - 12 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544003347839_EQ2526_MD8_Netherlands_vs_Finland_3oct_landscape_thumb.jpg" group-title="SonyLIV",Netherlands vs Finland - MD 8 - 12 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/RaRVtbzsSomcd-5D5m2LZg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544555395839_EQ2526_MD8_Scotland_vs_Belarus_3oct_landscape_thumb.jpg" group-title="SonyLIV",Scotland vs Belarus - MD 8 - 12 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759543837146839_EQ2526_MD8_Faroe_Islands_vs_Czechia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Faroe Islands vs Czechia - MD 8 - 12 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/9IQ8sp3pTamM6sPXOtXnKw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544555395839_EQ2526_MD8_Scotland_vs_Belarus_3oct_landscape_thumb.jpg" group-title="SonyLIV",Scotland vs Belarus - MD 8 - 12 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544003347839_EQ2526_MD8_Netherlands_vs_Finland_3oct_landscape_thumb.jpg" group-title="SonyLIV",Netherlands vs Finland - MD 8 - 12 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/RaRVtbzsSomcd-5D5m2LZg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599805535527_UEFA_INT_Friendlies_Malta_vs_Bosnia_and_Herzegovia_4oct_landscape_thumb.jpg" group-title="SonyLIV",Malta vs Bosnia and Herzegovia - 12 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010167/1760272209747468_ArcheryPremierLeague_SFs_12oct_landscape_thumb.jpg" group-title="SonyLIV",Day 11 - 12 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8
