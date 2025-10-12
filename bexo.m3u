@@ -32,12 +32,12 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759543694637839_EQ2526_MD8_San_Marino_vs_Cyprus_3oct_landscape_thumb.jpg" group-title="SonyLIV",San Marino vs Cyprus - MD 8 - 12 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010167/1760272209747468_ArcheryPremierLeague_SFs_12oct_landscape_thumb.jpg" group-title="SonyLIV",Day 11 - 12 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg" group-title="SonyLIV",Upcoming: Netherlands vs Finland - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a3f757b78f7849d6bd7f28b00ee19fac/1760087083/baseline-std-v4/NetherlandsvsFinland_Promo_10102025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg" group-title="SonyLIV",Upcoming: Northern Ireland vs Germany - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/1379031fc2a6498a87d8eda8a68009d4/1760087387/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MD_8_NORTHERN_IRELAND_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
