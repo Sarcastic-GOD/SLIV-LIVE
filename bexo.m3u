@@ -29,9 +29,3 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009120330198_EQ_promo_iceland_vs_france_landscape.jpg" group-title="SonyLIV",Upcoming: Iceland vs France - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/9ffcf8a101d545e7ad5df928f3db4782/1760087149/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MD_8_ICELAND_VS_FRANCE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg" group-title="SonyLIV",Upcoming: Northern Ireland vs Germany - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/1379031fc2a6498a87d8eda8a68009d4/1760087387/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MD_8_NORTHERN_IRELAND_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
