@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090492217",
+        "isLive": true,
+        "event": "UEFA International Friendlies",
+        "match": "Montenegro vs Liechtenstein - 13 Oct 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599943799527_UEFA_INT_Friendlies_Montenegro_vs_Liechtenstein_4oct_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Podgorica City Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Montenegro vs Liechtenstein,UEFAInternationalFriendlies",
+        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412122~acl=/*~id=08498358488765376120001797091992~hmac=44538a843618427e18de0743bd1fefa2e3a7f09597615116123d6cf923ebf57b",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760412122~acl=/*~id=08498358488765376120001797091992~hmac=44538a843618427e18de0743bd1fefa2e3a7f09597615116123d6cf923ebf57b",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090492087",
         "isLive": false,
         "event": "European Qualifiers for 2026 FIFA World Cup",
