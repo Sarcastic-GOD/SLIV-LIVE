@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Montenegro vs Liechtenstein,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412122~acl=/*~id=08498358488765376120001797091992~hmac=44538a843618427e18de0743bd1fefa2e3a7f09597615116123d6cf923ebf57b",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760412122~acl=/*~id=08498358488765376120001797091992~hmac=44538a843618427e18de0743bd1fefa2e3a7f09597615116123d6cf923ebf57b",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412483~acl=/*~id=35053947297946283235246720725520~hmac=cf435c29a77fab3dce6022a89f26176f09f93249fb495f658d483b6ebb605785",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760412483~acl=/*~id=35053947297946283235246720725520~hmac=cf435c29a77fab3dce6022a89f26176f09f93249fb495f658d483b6ebb605785",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -85,19 +85,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/3245c3b0fb9641e1afa8a0848101f47c/1760106263/baseline-std-v4/1090492100_10102025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090492102",
-        "isLive": false,
-        "event": "European Qualifiers for 2026 FIFA World Cup",
-        "match": "Upcoming: Spain vs Bulgaria",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337677378546_EQFs_Spain_vs_Bulgaria_11oct_dated_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/daa58d530589492fbe2ba698106fc1aa/1760106676/baseline-std-v4/1090492102_10102025_eng_baseline-800300010.mpd"
     }
 ]
