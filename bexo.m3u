@@ -29,21 +29,21 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545170537839_EQ2526_MD8_Iceland_vs_France_3oct_landscape_thumb.jpg" group-title="SonyLIV",Iceland vs France - MD 8 - 14 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545302859839_EQ2526_MD8_North_Macedonia_vs_Kazakhstan_3oct_landscape_thumb.jpg" group-title="SonyLIV",North Macedonia vs Kazakhstan - MD 8 - 14 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759546030300583_EQ2526_MD8_Wales_vs_Belgium_3oct_landscape_thumb.jpg" group-title="SonyLIV",Wales vs Belgium - MD 8 - 14 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545546895839_EQ2526_MD8_Slovakia_vs_Luxembourg_3oct_landscape_thumb.jpg" group-title="SonyLIV",Slovakia vs Luxembourg - MD 8 - 14 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337752500546_EQFs_Portugal_vs_Hungary_11oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Portugal vs Hungary - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/e2b9c9d3ba564e15b7c5d7f0e549539b/1760363952/baseline-std-v4/1090492101_10102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338356226546_EQFs_Latvia_vs_England_11oct_dated_landscaep_thumb.jpg" group-title="SonyLIV",Upcoming: Latvia vs England - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/3245c3b0fb9641e1afa8a0848101f47c/1760106263/baseline-std-v4/1090492100_10102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337677378546_EQFs_Spain_vs_Bulgaria_11oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Spain vs Bulgaria - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/daa58d530589492fbe2ba698106fc1aa/1760106676/baseline-std-v4/1090492102_10102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338258467546_EQFs_Italy_vs_Israel_11oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Italy vs Israel - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/5bdb4ef399dc412caf19a8e012f9e045/1760106133/baseline-std-v4/1090492099_10102025_eng_baseline-800300010.mpd
