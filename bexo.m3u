@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599943799527_UEFA_INT_Friendlies_Montenegro_vs_Liechtenstein_4oct_landscape_thumb.jpg" group-title="SonyLIV",Montenegro vs Liechtenstein - 13 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010181/1760341275270768_EQFs_ireland_vs_france_11oct_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Iceland vs France - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/9ffcf8a101d545e7ad5df928f3db4782/1760087149/baseline-std-v4/PROMO_EUROPEAN_QUALIFIERS_MD_8_ICELAND_VS_FRANCE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
