@@ -29,24 +29,24 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546545505839_EQ2526_MD8_Latvia_vs_England_3oct_landscape_thumb.jpg" group-title="SonyLIV",Latvia vs England - MD 8 - 15 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546812016839_EQ2526_MD8_Republicof_Ireland_vs_Armenia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Republic of Ireland vs Armenia - MD 8 - 15 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/eCwfco5kSQOgsF_j6UEq5g/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759600215191527_UEFA_INT_Friendlies_Albania_vs_Jordan_4oct_landscape_thumb.jpg" group-title="SonyLIV",Albania vs Jordan - 14 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/e61Mck-wSqyKTkxN6ln8dA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546926430839_EQ2526_MD8_Spain_vs_Bulgaria_3oct_landscape_thumb.jpg" group-title="SonyLIV",Spain vs Bulgaria - MD 8 - 15 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546654686839_EQ2526_MD8_Portugal_vs_Hungary_3oct_landscape_thumb.jpg" group-title="SonyLIV",Portugal vs Hungary - MD 8 - 15 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/M46tw8SETCua4fSgAvkQww/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759547034835583_EQ2526_MD8_Turkiye_vs_Georgia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Turkiye vs Georgia - MD 8 - 15 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546926430839_EQ2526_MD8_Spain_vs_Bulgaria_3oct_landscape_thumb.jpg" group-title="SonyLIV",Spain vs Bulgaria - MD 8 - 15 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546812016839_EQ2526_MD8_Republicof_Ireland_vs_Armenia_3oct_landscape_thumb.jpg" group-title="SonyLIV",Republic of Ireland vs Armenia - MD 8 - 15 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/eCwfco5kSQOgsF_j6UEq5g/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759600215191527_UEFA_INT_Friendlies_Albania_vs_Jordan_4oct_landscape_thumb.jpg" group-title="SonyLIV",Albania vs Jordan - 14 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/e61Mck-wSqyKTkxN6ln8dA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546545505839_EQ2526_MD8_Latvia_vs_England_3oct_landscape_thumb.jpg" group-title="SonyLIV",Latvia vs England - MD 8 - 15 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546428358839_EQ2526_MD8_Italy_vs_Israel_3oct_landscape_thumb.jpg" group-title="SonyLIV",Italy vs Israel - MD 8 - 15 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/Rt1Ki38YSpOeyV0saxRaDg/master.m3u8
