@@ -31,10 +31,10 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010364/1760777719951147_bliga2526_MD7_Bayern_vs_Dortmund_18oct_Tactical_Feed_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760853721~acl=/*~id=72729854794292721438412715860078~hmac=530e32f624c232dfb83ea83d251ab5661eb5ec154958df9c12adbf85b5bc21b1
+https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760853962~acl=/*~id=24565030450383953678995611935038~hmac=78ad644f4006b2a2bbb2c820a8965096aeb8583ebbf0b737326785f087d336e9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550682593913_bliga2526_MD7_Bayern_vs_Dortmund_3oct_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760853721~acl=/*~id=72729854794292721438412715860078~hmac=530e32f624c232dfb83ea83d251ab5661eb5ec154958df9c12adbf85b5bc21b1
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760853962~acl=/*~id=24565030450383953678995611935038~hmac=78ad644f4006b2a2bbb2c820a8965096aeb8583ebbf0b737326785f087d336e9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760504005054351_UCL2526_Arsenal_vs_Atletico_15oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Arsenal vs Atletico - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fb5ebc1f596f4c6586b09bea382dfb2e/1760698102/baseline-std-v4/PROMO_UCL_ARSENAL_V_ATLETICO_MADRID_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
@@ -47,6 +47,3 @@ https://streaming.sonyliv.com/trailer/DASH/3b4d74420f9443079d25abb7dad11ebb/1760
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Villarreal vs Man City - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/01bde904e2014fb0868c4adace950837/1760697258/baseline-std-v4/PROMO_UCL_VILLARREAL_V_MAN_CITY_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760509150400351_UCL2526_Frankfurt_vs_Liverpool_15oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Frankfurt vs Liverpool - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/6072ba7238bf4b3caef4ae35cd94b218/1760698098/baseline-std-v4/PROMO_UCL_FRANKFURT_V_LIVERPOOL_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
