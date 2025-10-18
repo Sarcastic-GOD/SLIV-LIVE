@@ -29,24 +29,24 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549224710913_bliga2526_MD7_Heidenheim_vs_Werder_Bremen_3oct_landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs Werder Bremen - MD 7 - 18 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550338383913_bliga2526_MD7_RB_Leipzig_vs_Hamburg_SV_3oct_landscape_thumb.jpg" group-title="SonyLIV",RB Leipzig vs Hamburg SV - MD 7 - 18 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 7 - 18 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550486028913_bliga2526_MD7_VfL_Wolfsburg_vs_VfB_Stuttgart_3oct_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs VfB Stuttgart - MD 7 - 18 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549507579913_bliga2526_MD7_FC_Koln_vs_FC_Augsburg_3oct_landscape_thumb.jpg" group-title="SonyLIV",FC Koln vs FC Augsburg - MD 7 - 18 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550228529913_bliga2526_MD7_Mainz_vs_Leverkusen_3oct_landscape_thumb.jpg" group-title="SonyLIV",Mainz vs Bayer Leverkusen - MD 7 - 18 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836857~acl=/*~id=26103268880759747939607477958031~hmac=eb0c55696d783cdc7690de50f74f28795d9e291c1dcdf47e724a41d8ac41d17a
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550486028913_bliga2526_MD7_VfL_Wolfsburg_vs_VfB_Stuttgart_3oct_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs VfB Stuttgart - MD 7 - 18 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550338383913_bliga2526_MD7_RB_Leipzig_vs_Hamburg_SV_3oct_landscape_thumb.jpg" group-title="SonyLIV",RB Leipzig vs Hamburg SV - MD 7 - 18 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 7 - 18 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549507579913_bliga2526_MD7_FC_Koln_vs_FC_Augsburg_3oct_landscape_thumb.jpg" group-title="SonyLIV",FC Koln vs FC Augsburg - MD 7 - 18 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549224710913_bliga2526_MD7_Heidenheim_vs_Werder_Bremen_3oct_landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs Werder Bremen - MD 7 - 18 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760836922~acl=/*~id=80520282926263347483488422217317~hmac=230857469f3afe72d0ef69a3226f758d177df7d187f2d6445304fb0480da647a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010255/1760465130917328_Bundesliga_MD7_Bayern_vs_Dortmund_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Borussia Dortmund - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/c55700300a894e60a45cb5cc676597d7/1760462674/baseline-std-v4/PROMO_BUNDESLIGA_BAYERN_VS_DORTMUND_30SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd
