@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090492435",
+        "isLive": true,
+        "event": "England Tour of New Zealand 2025",
+        "match": "1st T20I - 18 Oct 2025",
+        "Provider": "New Zealand Cricket",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010221/1760396005324266_NZvsENG25_1t20i_14oct_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Hagley Oval, Christchurch",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "England vs New Zealand cricket news,England vs New Zealand match updates,England vs New Zealand highlights,England vs New Zealand results,England vs New Zealand fixtures,England vs New Zealand squads,England vs New Zealand live streaming,England vs New Zealand schedule,rachin ravindra,matt henry,devon conway,kane williamson,tim southee,chris woakes,ollie pope,zak crawley,harry brook,joe root,ben stokes,New Zealand vs England Test Series,new zealand,new zealand vs england,england,england vs new zealand,england tour of new zealand,eng vs nz 2025,england vs new zealand cricket,eng vs nz live score,england vs nz match updates,england vs new zealand series,eng vs nz fixtures,england cricket in nz,new zealand vs england 2025,eng vs nz highlights,England tour of New Zealand,England tour of New Zealand 2025,mitchell santner,michael bracewell,mark chapman,tom latham,jimmy neesham,England Tour of New Zealand 2025,England cricket tour NZ 2025,New Zealand vs England 2025,ENG vs NZ T20I 2025,ENG vs NZ ODI 2025,cricket schedule NZ England 2025,Blackcaps vs England 2025,Ben Stokes England tour 2025,NZ cricket tour England 2025,cricket tickets England New Zealand 2025,cricket news England New Zealand 2025,cricket fixtures England New Zealand 2025,sports_adsupported,nopreroll_livectv,ENG_TOUR_OF_NZ_2025_LIVE,liveENG_25TourNZ,EnglandTourofNewZealand2025",
+        "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090492475",
         "isLive": true,
         "event": "Asian Tour 2025",
@@ -12,8 +29,25 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808601~acl=/*~id=80968170639640958564587875078911~hmac=7fb6b1c41c570deb7484572a79b4de2df78374c0645e69791264b60f67c5c7fc",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760808601~acl=/*~id=80968170639640958564587875078911~hmac=7fb6b1c41c570deb7484572a79b4de2df78374c0645e69791264b60f67c5c7fc",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090492506",
+        "isLive": true,
+        "event": "Hyundai Archery World Cup Final 2025",
+        "match": "Compound Women Elite Eight - 18 Oct 2025",
+        "Provider": "World Archery Federation",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397791786309_HAWC_NanjingChina2025_Compound_women_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg",
+        "genre": "Archery",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "LIV",
+        "SeoTags": "hyundai_archerywc25_floridaLIVE,sports_adsupported,Watch Hyundai Archery World Cup 2025 online,Hyundai Archery World Cup 2025 online streaming,Hyundai Archery World Cup 2025 highlights,Hyundai Archery World Cup 2025,Hyundai Archery World Cup live,Hyundai Archery World Cup 2025 clips,nopreroll_livectv,Compound Women Elite Eight,Nanjing 2025 Hyundai Archery World Cup Final,archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Final Nanjing 2025,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Hyundai Archery World Cup 2025 match scores,Archery highlights,Hyundai Archery World Cup 2025 Archery,Hyundai Archery World Cup 2025 champion,Hyundai Archery World Cup 2025 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship,HyundaiArcheryWorldCupFinal2025",
+        "Server1": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760808723~acl=/*~id=34279398021638071970442444741640~hmac=159ea64d8c85c909c544ba28046ba255fb4d5a3b1a64baf0453bb4aa8e801731",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
