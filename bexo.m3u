@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009911/175972043531633_AsianTour25_SJM_Macao_Open_Day4_5oct_landscape_thumb.jpg" group-title="SonyLIV",SJM Macao Open - Day 4 - 19 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397857125309_HAWC_NanjingChina2025_Recurve_women_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg" group-title="SonyLIV",Recurve Women Elite Eight - 19 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8
@@ -41,6 +44,3 @@ https://streaming.sonyliv.com/trailer/DASH/9fb520dc017a49ddb1317f7865d22687/1760
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Leverkusen vs PSG - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/3b4d74420f9443079d25abb7dad11ebb/1760698114/baseline-std-v4/PROMO_UCL_LAVERKUSEN_V_PSG_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Villarreal vs Man City - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/01bde904e2014fb0868c4adace950837/1760697258/baseline-std-v4/PROMO_UCL_VILLARREAL_V_MAN_CITY_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
