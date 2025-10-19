@@ -29,12 +29,12 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759551021063913_bliga2526_MD7_St_Pauli_vs_Hoffenheim_3oct_landscape_thumb.jpg" group-title="SonyLIV",St. Pauli vs TSG Hoffenheim - 19 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760930041~acl=/*~id=86448769846429009679814821322719~hmac=253daaa23bf8fe19e41a238b7d29991c8cd4fa40a22d439dd53d90efe6d3f3cb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550843220913_bliga2526_MD7_SC_Freiburg_vs_Frankfurt_3oct_landscape_thumb.jpg" group-title="SonyLIV",SC Freiburg vs Eintracht Frankfurt - 19 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760930041~acl=/*~id=86448769846429009679814821322719~hmac=253daaa23bf8fe19e41a238b7d29991c8cd4fa40a22d439dd53d90efe6d3f3cb
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760930161~acl=/*~id=16794444619391748791844498723860~hmac=0be042f20d9b8005dd5f557ce3b972afff52d630a41136078dcaa4897f42ea4a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759551021063913_bliga2526_MD7_St_Pauli_vs_Hoffenheim_3oct_landscape_thumb.jpg" group-title="SonyLIV",St. Pauli vs TSG Hoffenheim - 19 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760930161~acl=/*~id=16794444619391748791844498723860~hmac=0be042f20d9b8005dd5f557ce3b972afff52d630a41136078dcaa4897f42ea4a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609444288814_NZvsENG25_2t20i_dated_16oct_landscape.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
