@@ -12,25 +12,8 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760892385~acl=/*~id=65364885091507736134779701750942~hmac=85ed8b847d5be81cb272165f61e223b3f5b99de5e8fc80ef9306d298c9d2e9c0",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760892385~acl=/*~id=65364885091507736134779701750942~hmac=85ed8b847d5be81cb272165f61e223b3f5b99de5e8fc80ef9306d298c9d2e9c0",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090492626",
-        "isLive": true,
-        "event": "Hyundai Archery World Cup Final 2025",
-        "match": "Recurve Women Elite Eight - 19 Oct 2025",
-        "Provider": "World Archery Federation",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397857125309_HAWC_NanjingChina2025_Recurve_women_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg",
-        "genre": "Archery",
-        "language": "en",
-        "venue": "",
-        "TVchannel": "LIV",
-        "SeoTags": "hyundai_archerywc25_floridaLIVE,sports_adsupported,Watch Hyundai Archery World Cup 2025 online,Hyundai Archery World Cup 2025 online streaming,Hyundai Archery World Cup 2025 highlights,Hyundai Archery World Cup 2025,Hyundai Archery World Cup live,Hyundai Archery World Cup 2025 clips,nopreroll_livectv,Compound Women Elite Eight,Nanjing 2025 Hyundai Archery World Cup Final,archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Final Nanjing 2025,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Hyundai Archery World Cup 2025 match scores,Archery highlights,Hyundai Archery World Cup 2025 Archery,Hyundai Archery World Cup 2025 champion,Hyundai Archery World Cup 2025 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship,HyundaiArcheryWorldCupFinal2025",
-        "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760892385~acl=/*~id=65364885091507736134779701750942~hmac=85ed8b847d5be81cb272165f61e223b3f5b99de5e8fc80ef9306d298c9d2e9c0",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760892385~acl=/*~id=65364885091507736134779701750942~hmac=85ed8b847d5be81cb272165f61e223b3f5b99de5e8fc80ef9306d298c9d2e9c0",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760892599~acl=/*~id=26668067493786911905374317699381~hmac=a4e936c753c5005541cfb25049ae4dcb28fdcddac05caf7fead66e18a20b52f6",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1760892599~acl=/*~id=26668067493786911905374317699381~hmac=a4e936c753c5005541cfb25049ae4dcb28fdcddac05caf7fead66e18a20b52f6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -74,5 +57,19 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/3b4d74420f9443079d25abb7dad11ebb/1760698114/baseline-std-v4/PROMO_UCL_LAVERKUSEN_V_PSG_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090492558",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Villarreal vs Man City",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505761048351_UCL2526_Villarreal_vs_Man_City_15oct_dated_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/01bde904e2014fb0868c4adace950837/1760697258/baseline-std-v4/PROMO_UCL_VILLARREAL_V_MAN_CITY_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
