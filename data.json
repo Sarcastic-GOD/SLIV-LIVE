@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090492518",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Monaco vs Tottenham - MD 3 - 22 Oct 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010018/1759965475021519_UYL24_MD3_Monaco_vs_Tottenham_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Stade de formation AS Monaco 1",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Monaco vs Tottenham,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183602~acl=/*~id=68306553238421324180149480029492~hmac=1a44694e61312232371327eb0c1db4adee135b7ebe884dc051f905dd268719db",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761183602~acl=/*~id=68306553238421324180149480029492~hmac=1a44694e61312232371327eb0c1db4adee135b7ebe884dc051f905dd268719db",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090492523",
         "isLive": true,
         "event": "UEFA Youth League 2025-26",
@@ -29,8 +12,25 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Arsenal vs Atletico de Madrid,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/C6rBVzlIR6CCJGgPUZuCfw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183602~acl=/*~id=68306553238421324180149480029492~hmac=1a44694e61312232371327eb0c1db4adee135b7ebe884dc051f905dd268719db",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761183602~acl=/*~id=68306553238421324180149480029492~hmac=1a44694e61312232371327eb0c1db4adee135b7ebe884dc051f905dd268719db",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183723~acl=/*~id=51137848688801193388251549150774~hmac=bcc585fc0a717a1eabe9c1bf4f383e5f0e6454d53b2505cc63ddb782ded93f96",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761183723~acl=/*~id=51137848688801193388251549150774~hmac=bcc585fc0a717a1eabe9c1bf4f383e5f0e6454d53b2505cc63ddb782ded93f96",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090492518",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "Monaco vs Tottenham - MD 3 - 22 Oct 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010018/1759965475021519_UYL24_MD3_Monaco_vs_Tottenham_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Stade de formation AS Monaco 1",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Monaco vs Tottenham,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183723~acl=/*~id=51137848688801193388251549150774~hmac=bcc585fc0a717a1eabe9c1bf4f383e5f0e6454d53b2505cc63ddb782ded93f96",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761183723~acl=/*~id=51137848688801193388251549150774~hmac=bcc585fc0a717a1eabe9c1bf4f383e5f0e6454d53b2505cc63ddb782ded93f96",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
