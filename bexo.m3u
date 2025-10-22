@@ -29,9 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010310/1760615011524110_UYL25_MD3_Bayern_vs_Club_Brugge_16oct_landscape_thumb.jpg" group-title="SonyLIV",Bayern vs Club Brugge - MD 3 - 22 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/C6rBVzlIR6CCJGgPUZuCfw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760506576243351_UCL2526_Real_Madrid_vs_Juventus_15oct_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Juventus - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/9fb520dc017a49ddb1317f7865d22687/1760697622/baseline-std-v4/PROMO_UCL_REAL_MADRID_V_JUVENTUS_40_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
