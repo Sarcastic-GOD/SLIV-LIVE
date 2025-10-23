@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "England vs New Zealand cricket news,England vs New Zealand match updates,England vs New Zealand highlights,England vs New Zealand results,England vs New Zealand fixtures,England vs New Zealand squads,England vs New Zealand live streaming,England vs New Zealand schedule,rachin ravindra,matt henry,devon conway,kane williamson,tim southee,chris woakes,ollie pope,zak crawley,harry brook,joe root,ben stokes,New Zealand vs England Test Series,new zealand,new zealand vs england,england,england vs new zealand,england tour of new zealand,eng vs nz 2025,england vs new zealand cricket,eng vs nz live score,england vs nz match updates,england vs new zealand series,eng vs nz fixtures,england cricket in nz,new zealand vs england 2025,eng vs nz highlights,England tour of New Zealand,England tour of New Zealand 2025,mitchell santner,michael bracewell,mark chapman,tom latham,jimmy neesham,England Tour of New Zealand 2025,England cricket tour NZ 2025,New Zealand vs England 2025,ENG vs NZ T20I 2025,ENG vs NZ ODI 2025,cricket schedule NZ England 2025,Blackcaps vs England 2025,Ben Stokes England tour 2025,NZ cricket tour England 2025,cricket tickets England New Zealand 2025,cricket news England New Zealand 2025,cricket fixtures England New Zealand 2025,sports_adsupported,nopreroll_livectv,ENG_TOUR_OF_NZ_2025_LIVE,liveENG_25TourNZ,EnglandTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761252002~acl=/*~id=93156566225557315893072719115713~hmac=ec1ba6121d8774142c99f4b7daa98ae8497982629afc766bc86b546bf27c9aa6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1761252002~acl=/*~id=93156566225557315893072719115713~hmac=ec1ba6121d8774142c99f4b7daa98ae8497982629afc766bc86b546bf27c9aa6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761252122~acl=/*~id=61476820204212746528758213962567~hmac=2cd32c9bbda4478e30a19e889eb486af18ae2ebcdacabd14e83877b9e5960aa2",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1761252122~acl=/*~id=61476820204212746528758213962567~hmac=2cd32c9bbda4478e30a19e889eb486af18ae2ebcdacabd14e83877b9e5960aa2",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,8 +29,22 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,International Series Philippines,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761252002~acl=/*~id=93156566225557315893072719115713~hmac=ec1ba6121d8774142c99f4b7daa98ae8497982629afc766bc86b546bf27c9aa6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761252002~acl=/*~id=93156566225557315893072719115713~hmac=ec1ba6121d8774142c99f4b7daa98ae8497982629afc766bc86b546bf27c9aa6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761252122~acl=/*~id=61476820204212746528758213962567~hmac=2cd32c9bbda4478e30a19e889eb486af18ae2ebcdacabd14e83877b9e5960aa2",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761252122~acl=/*~id=61476820204212746528758213962567~hmac=2cd32c9bbda4478e30a19e889eb486af18ae2ebcdacabd14e83877b9e5960aa2",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090492588",
+        "isLive": false,
+        "event": "MD 3",
+        "match": "Upcoming: UEFA Europa League",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "uefa Europa league,uefa Europa league fixtures,uefa Europa league live,uefa Europa league point table,uefa Europa league schedule,watch uefa Europa league live,uefa Europa league 2025 26,2025 26 uefa Europa league,watch uefa Europa league online,uefa Europa league player stats,watch uefa Europa league live online,uefa Europa league 2026 live,uefa Europa league player lineup,watch Europa league 2026 live,watch Europa league player lineup,watch Europa league player stats,watch uefa Europa league 2026,football match,football players,live football match,Europa league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,Emiliano Martínez,David De Gea,Marc-André ter Stegen,Gianluigi Donnarumma,Kepa Arrizabalaga,Kasper Schmeichel,Yassine Bounou,Jan Oblak,Alphonse Areola,Bernd Leno,Lucas Perri,Jack Butland,Rui Patricio,Sergio Rico,Samir Handanović,Ștefan Târnovanu,Lukas Hrádecký",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/c86ccac4469240b0a2f1617e02b132cd/1760783993/baseline-std-v4/1090492588_17102025_eng_baseline-800300010.mpd"
     }
 ]
