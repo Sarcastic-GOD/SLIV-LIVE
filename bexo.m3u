@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663481630282_NZvsENG25_3t20i_14oct_live_landscape_thumb_re1.jpg" group-title="SonyLIV",3rd T20I - 23 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722883940903_AsianTour25_International_Series_Philippines_Day1_5oct_landscape_thumb.jpg" group-title="SonyLIV",International Series Philippines - Day 1 - 23 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
