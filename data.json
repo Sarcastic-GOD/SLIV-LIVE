@@ -12,36 +12,8 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,International Series Philippines,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761238201~acl=/*~id=73158017331972572989388300482675~hmac=12fc318565f35523e07b47ff98e12051295dcd5269cf4fa33ffcf28362f0f644",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761238201~acl=/*~id=73158017331972572989388300482675~hmac=12fc318565f35523e07b47ff98e12051295dcd5269cf4fa33ffcf28362f0f644",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761238321~acl=/*~id=76221984934258914449829556186227~hmac=76fcdb2929add6bcabef00e92ff19983fe7fbe8b3a6a975617628f6cb655916e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761238321~acl=/*~id=76221984934258914449829556186227~hmac=76fcdb2929add6bcabef00e92ff19983fe7fbe8b3a6a975617628f6cb655916e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090491779",
-        "isLive": false,
-        "event": "England Tour of New Zealand 2025",
-        "match": "Upcoming: England Tour of New Zealand 2025",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609482490814_NZvsENG25_3t20i_today_16oct_landscape.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "england vs new zealand,england,england tour of new zealand 2025,new zealand vs england series schedule 2025,new zealand vs england,new zealand vs england test series 2025 schedule,england tour of new zealand 2025 schedule,england tour of new zealand 2025 schedule time,england tour of new zealand 2025 series schedule,new zealand,all blacks vs england 2025,england vs new zealand 2025,England Tour of New Zealand 2025,NZ vs ENG 2025,New Zealand vs England Test Series,England cricket team 2025,New Zealand cricket team 2025,Ben Stokes,Joe Root,Harry Brook,Zak Crawley,Ollie Pope,Chris Woakes,Tim Southee,Kane Williamson,Devon Conway,Matt Henry,Rachin Ravindra,Test cricket series 2025,England vs New Zealand schedule,England vs New Zealand live streaming,England vs New Zealand squads,England vs New Zealand fixtures,England vs New Zealand results,England vs New Zealand highlights,England vs New Zealand match updates,England vs New Zealand cricket news",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090492588",
-        "isLive": false,
-        "event": "MD 3",
-        "match": "Upcoming: UEFA Europa League",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "uefa Europa league,uefa Europa league fixtures,uefa Europa league live,uefa Europa league point table,uefa Europa league schedule,watch uefa Europa league live,uefa Europa league 2025 26,2025 26 uefa Europa league,watch uefa Europa league online,uefa Europa league player stats,watch uefa Europa league live online,uefa Europa league 2026 live,uefa Europa league player lineup,watch Europa league 2026 live,watch Europa league player lineup,watch Europa league player stats,watch uefa Europa league 2026,football match,football players,live football match,Europa league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,Emiliano Martínez,David De Gea,Marc-André ter Stegen,Gianluigi Donnarumma,Kepa Arrizabalaga,Kasper Schmeichel,Yassine Bounou,Jan Oblak,Alphonse Areola,Bernd Leno,Lucas Perri,Jack Butland,Rui Patricio,Sergio Rico,Samir Handanović,Ștefan Târnovanu,Lukas Hrádecký",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/c86ccac4469240b0a2f1617e02b132cd/1760783993/baseline-std-v4/1090492588_17102025_eng_baseline-800300010.mpd"
     }
 ]
