@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Rijeka vs Sparta Prague,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356808~acl=/*~id=87782020613970213829119028131622~hmac=07d0addcb24078969afff41e0689ec4fc1068e6777fcb66eed931c59ce19ff44",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761356808~acl=/*~id=87782020613970213829119028131622~hmac=07d0addcb24078969afff41e0689ec4fc1068e6777fcb66eed931c59ce19ff44",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356993~acl=/*~id=24361966635846242384927858590176~hmac=ffdad497e47daaa0e91d4a09715f2481e694d690933f7f12a1469509dadc1b83",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761356993~acl=/*~id=24361966635846242384927858590176~hmac=ffdad497e47daaa0e91d4a09715f2481e694d690933f7f12a1469509dadc1b83",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,6 +29,20 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/282d7d0a0c5245a5935c6c038cbd8925/1760722330/baseline-std-v4/PROMO_UFC_321_HOR_DATED_APP_17102025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090491779",
+        "isLive": false,
+        "event": "England Tour of New Zealand 2025",
+        "match": "Upcoming: England Tour of New Zealand 2025",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010514/176130917934364_NZvsENG25_1ODI_24oct_dated_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "england vs new zealand,england,england tour of new zealand 2025,new zealand vs england series schedule 2025,new zealand vs england,new zealand vs england test series 2025 schedule,england tour of new zealand 2025 schedule,england tour of new zealand 2025 schedule time,england tour of new zealand 2025 series schedule,new zealand,all blacks vs england 2025,england vs new zealand 2025,England Tour of New Zealand 2025,NZ vs ENG 2025,New Zealand vs England Test Series,England cricket team 2025,New Zealand cricket team 2025,Ben Stokes,Joe Root,Harry Brook,Zak Crawley,Ollie Pope,Chris Woakes,Tim Southee,Kane Williamson,Devon Conway,Matt Henry,Rachin Ravindra,Test cricket series 2025,England vs New Zealand schedule,England vs New Zealand live streaming,England vs New Zealand squads,England vs New Zealand fixtures,England vs New Zealand results,England vs New Zealand highlights,England vs New Zealand match updates,England vs New Zealand cricket news",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090493095",
