@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090493129",
-        "isLive": true,
-        "event": "UEFA Conference League 2025-26",
-        "match": "Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009910/1759715983570161_UECL2526_MD2_Rijeka_vs_Sparta_Prague_5oct_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Stadion HNK Rijeka",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Rijeka vs Sparta Prague,UEFAConferenceLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761361202~acl=/*~id=86345909389867736309157769607294~hmac=cb3b0984fe00ea65b6e249d4c9fcd839ee909e8420a10d0e1265eba7da1d9da3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761361202~acl=/*~id=86345909389867736309157769607294~hmac=cb3b0984fe00ea65b6e249d4c9fcd839ee909e8420a10d0e1265eba7da1d9da3",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090492593",
         "isLive": false,
         "event": "Aspinall vs Gane",
