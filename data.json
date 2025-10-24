@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "sl1090492964",
+        "isLive": true,
+        "event": "Asian Tour 2025",
+        "match": "International Series Philippines - Day 2 - 24 Oct 2025",
+        "Provider": "ASIAN TOUR MEDIA PTE LTD",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722875213903_AsianTour25_International_Series_Philippines_Day2_5oct_landscape_thumb.jpg",
+        "genre": "Golf",
+        "language": "en",
+        "venue": "Sta. Elena Golf Club, Manila, Philippines ",
+        "TVchannel": "LIV",
+        "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
+        "Server1": "https://dai.google.com/ssai/event/7Sfptw9GRbKeWQ8RrLucMQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761323421~acl=/*~id=87955248368046257396254107774489~hmac=c4858a0aaae840367027ab5543b95cf61feee57317300ba700f4b68afaa58a3d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761323421~acl=/*~id=87955248368046257396254107774489~hmac=c4858a0aaae840367027ab5543b95cf61feee57317300ba700f4b68afaa58a3d",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    }
+]
