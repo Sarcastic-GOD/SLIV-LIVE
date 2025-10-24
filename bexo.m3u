@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729546722300_UFC321_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 321 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/282d7d0a0c5245a5935c6c038cbd8925/1760722330/baseline-std-v4/PROMO_UFC_321_HOR_DATED_APP_17102025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232666172949_Bundesliga_Borussia_vs_Munchen_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Borussia M'gladbach vs Bayern Munich - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/49499a2275854c85bc939b38cacffc7a/1761228026/baseline-std-v4/1090493095_23102025_eng_baseline-800300010.mpd
