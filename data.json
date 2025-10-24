@@ -12,8 +12,50 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/7Sfptw9GRbKeWQ8RrLucMQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761339481~acl=/*~id=40357429137676413703828171616347~hmac=a647f2e18ffdf78c65385038f10dbdcaa4c103a73dd6dcbc5078bcc34fda7915",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761339481~acl=/*~id=40357429137676413703828171616347~hmac=a647f2e18ffdf78c65385038f10dbdcaa4c103a73dd6dcbc5078bcc34fda7915",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761339636~acl=/*~id=45347914728279364168843367307489~hmac=2a2cec8fc40fd538a47a756f750733002b913a8d57800211a0e496b331be70ee",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761339636~acl=/*~id=45347914728279364168843367307489~hmac=2a2cec8fc40fd538a47a756f750733002b913a8d57800211a0e496b331be70ee",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090493095",
+        "isLive": false,
+        "event": "Borussia M'gladbach vs Bayern Munich",
+        "match": "Upcoming: Borussia M'gladbach vs Bayern Munich",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232666172949_Bundesliga_Borussia_vs_Munchen_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/49499a2275854c85bc939b38cacffc7a/1761228026/baseline-std-v4/1090493095_23102025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090493094",
+        "isLive": false,
+        "event": "Borussia Dortmund vs FC Koln",
+        "match": "Upcoming: Borussia Dortmund vs FC Koln",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232538542949_Bundesliga_Dortmund_vs_Kolin_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/bdf56d1cd69e47a5bd1f29db8e6161b0/1761227804/baseline-std-v4/1090493094_23102025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090493091",
+        "isLive": false,
+        "event": "Bayer Leverkusen vs SC Freiburg",
+        "match": "Upcoming: Bayer Leverkusen vs SC Freiburg",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232606357949_Bundesliga_Leverkusen_vs_Freiburg_Promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/43c2a50e10524ed09e881081d1307a17/1761227796/baseline-std-v4/1090493091_23102025_eng_baseline-800300010.mpd"
     }
 ]
