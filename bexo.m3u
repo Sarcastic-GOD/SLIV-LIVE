@@ -29,12 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591203656218_bliga2526_MD8_Mgladbach_vs_Bayern_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs Bayern Munich - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761450603~acl=/*~id=20074196874604071245778814424556~hmac=14b0b0d8035cdc66fc9624cccb15e5cdffe66887614dab835c137d9e69ccdaaa
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761450603~acl=/*~id=20074196874604071245778814424556~hmac=14b0b0d8035cdc66fc9624cccb15e5cdffe66887614dab835c137d9e69ccdaaa
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761450725~acl=/*~id=25334940697104729224671787412310~hmac=cae4a9624ccac9563c724275bc820da196096e079509c94f4eacbac2944a6c28
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597862004218_bliga2526_MD8_Dortmund_vs_FC_Koln_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs FC Koln - MD 8 - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761450725~acl=/*~id=25334940697104729224671787412310~hmac=cae4a9624ccac9563c724275bc820da196096e079509c94f4eacbac2944a6c28
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591203656218_bliga2526_MD8_Mgladbach_vs_Bayern_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs Bayern Munich - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761450725~acl=/*~id=25334940697104729224671787412310~hmac=cae4a9624ccac9563c724275bc820da196096e079509c94f4eacbac2944a6c28
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301137784158_UFC-321-_Aspinall-vs-Gane_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8
