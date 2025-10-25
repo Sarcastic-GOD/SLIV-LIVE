@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,25 +29,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/TzRKgOexRau3vpsrjIUu1Q/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090493175",
-        "isLive": true,
-        "event": "UFC 321 - Aspinall vs Gane",
-        "match": "UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301175876158_UFC-321-_Aspinall-vs-Gane_telugu_landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "te",
-        "venue": "",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
-        "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -63,8 +46,25 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/bY24QoU_RJyNRhP281XI0g/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465482~acl=/*~id=58438420326990821156241474268836~hmac=b54a327d8f9297075e9f0ecd1551a7c96807d19d7cea8b56acd9a29e5c074e2c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090493175",
+        "isLive": true,
+        "event": "UFC 321 - Aspinall vs Gane",
+        "match": "UFC 321 - Aspinall vs Gane - 25 Oct 2025",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301175876158_UFC-321-_Aspinall-vs-Gane_telugu_landscape_thumb.jpg",
+        "genre": "Fight Sports",
+        "language": "te",
+        "venue": "",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
+        "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761465601~acl=/*~id=88368120592303477618516531329021~hmac=d6ef878b4fd4c11159c2861cd4f33ea0a1fa1712989524e6cb1440af0f20128a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
