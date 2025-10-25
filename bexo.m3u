@@ -29,24 +29,21 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597573893218_bliga2526_MD8_TSG_Hoffenheim_vs_Heidenheim_3oct_landscape_thumb.jpg" group-title="SonyLIV",TSG Hoffenheim vs Heidenheim - MD 8 - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597026063218_bliga2526_MD8_FC_Augsburg_vs_RB_Leipzig_3oct_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs RB Leipzig - MD 8 - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 8 - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597305100218_bliga2526_MD8_HamburgSV_vs_VfL_Wolfsburg_3oct_landscape_thumb.jpg" group-title="SonyLIV",Hamburg SV vs VfL Wolfsburg - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759596450224218_bliga2526_MD8_Frankfurt_vs_StPauli_3oct_landscape_thumb.jpg" group-title="SonyLIV",Eintracht Frankfurt vs St. Pauli - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449761~acl=/*~id=77543059829967074080451091615136~hmac=0676d8f1add6cbcef24f3cb6a2a7f43bc296e8ee9946373b658611571391acb2
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591203656218_bliga2526_MD8_Mgladbach_vs_Bayern_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs Bayern Munich - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449644~acl=/*~id=16874168084933993519807189643575~hmac=bddb664cefe5d532badcbea453b897e726ee623625a529838e126f062997c1a2
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449761~acl=/*~id=77543059829967074080451091615136~hmac=0676d8f1add6cbcef24f3cb6a2a7f43bc296e8ee9946373b658611571391acb2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597026063218_bliga2526_MD8_FC_Augsburg_vs_RB_Leipzig_3oct_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs RB Leipzig - MD 8 - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449761~acl=/*~id=77543059829967074080451091615136~hmac=0676d8f1add6cbcef24f3cb6a2a7f43bc296e8ee9946373b658611571391acb2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 8 - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449761~acl=/*~id=77543059829967074080451091615136~hmac=0676d8f1add6cbcef24f3cb6a2a7f43bc296e8ee9946373b658611571391acb2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759596450224218_bliga2526_MD8_Frankfurt_vs_StPauli_3oct_landscape_thumb.jpg" group-title="SonyLIV",Eintracht Frankfurt vs St. Pauli - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449761~acl=/*~id=77543059829967074080451091615136~hmac=0676d8f1add6cbcef24f3cb6a2a7f43bc296e8ee9946373b658611571391acb2
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301137784158_UFC-321-_Aspinall-vs-Gane_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8
