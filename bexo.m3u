@@ -29,24 +29,36 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597573893218_bliga2526_MD8_TSG_Hoffenheim_vs_Heidenheim_3oct_landscape_thumb.jpg" group-title="SonyLIV",TSG Hoffenheim vs Heidenheim - MD 8 - 25 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597305100218_bliga2526_MD8_HamburgSV_vs_VfL_Wolfsburg_3oct_landscape_thumb.jpg" group-title="SonyLIV",Hamburg SV vs VfL Wolfsburg - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759596450224218_bliga2526_MD8_Frankfurt_vs_StPauli_3oct_landscape_thumb.jpg" group-title="SonyLIV",Eintracht Frankfurt vs St. Pauli - 25 Oct 2025 - ENG
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597573893218_bliga2526_MD8_TSG_Hoffenheim_vs_Heidenheim_3oct_landscape_thumb.jpg" group-title="SonyLIV",TSG Hoffenheim vs Heidenheim - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
+https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597026063218_bliga2526_MD8_FC_Augsburg_vs_RB_Leipzig_3oct_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs RB Leipzig - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759596450224218_bliga2526_MD8_Frankfurt_vs_StPauli_3oct_landscape_thumb.jpg" group-title="SonyLIV",Eintracht Frankfurt vs St. Pauli - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591203656218_bliga2526_MD8_Mgladbach_vs_Bayern_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia M'gladbach vs Bayern Munich - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449403~acl=/*~id=64983692293194934434345081862302~hmac=dd6f0a481dfc018a46ec654a93dc613161817a0018ef48031cb439de9c5f647e
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761449523~acl=/*~id=76165822742074627223204958295958~hmac=2e16fa905be515f7d06ed8eb1e71d128ad9a5d1b40d3591d295a186d9802f4af
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301137784158_UFC-321-_Aspinall-vs-Gane_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301160638158_UFC-321-_Aspinall-vs-Gane_tamil_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/TzRKgOexRau3vpsrjIUu1Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301175876158_UFC-321-_Aspinall-vs-Gane_telugu_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/bY24QoU_RJyNRhP281XI0g/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010519/1761326098789904_NZvsENG25_1ODI_24oct_dated_Landscape_thumb_re1.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
