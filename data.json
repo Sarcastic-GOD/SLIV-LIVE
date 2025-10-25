@@ -12,8 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -28,10 +28,10 @@
         "venue": "",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
-        "Server1": "https://dai.google.com/ssai/event/TzRKgOexRau3vpsrjIUu1Q/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "Server3": "?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090493172",
@@ -46,8 +46,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/bY24QoU_RJyNRhP281XI0g/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -63,8 +63,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Aspinall vs Gane,Aspinall,Gane,UFC 321,UFC321AspinallvsGane",
         "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464349~acl=/*~id=92216848878826394511412039446260~hmac=ec98acfc8b8980f6db626e6799b1a4540bf2f58d81c8a65ce1438e7ef18debd5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761464402~acl=/*~id=41192987119987783713321556289810~hmac=b3cb3d2e9fb226cb3bbdbfa1704c71110baf8d657bab1e74b483f1617a1ee1ff",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
