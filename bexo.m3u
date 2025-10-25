@@ -29,9 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Borussia Dortmund vs FC Koln - MD 8 - 25 Oct 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597862004218_bliga2526_MD8_Dortmund_vs_FC_Koln_3oct_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs FC Koln - MD 8 - 25 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/An2kwe6hTL6_xdo3PlLiFA/master.m3u8
+https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761452348~acl=/*~id=62144638181436285956256345040752~hmac=c5d30bd7f175af1e2ba4d8364a114e266106d8a0bfa6820fa1a2f7f50a5e2425
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301137784158_UFC-321-_Aspinall-vs-Gane_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC 321 - Aspinall vs Gane - 25 Oct 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8
