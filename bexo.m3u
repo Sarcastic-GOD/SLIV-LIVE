@@ -29,9 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759598563948218_bliga2526_MD8_Stuttgart_Vs_Mainz_3oct_landscape_thumb.jpg" group-title="SonyLIV",VfB Stuttgart vs Mainz - 26 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761538082~acl=/*~id=63369241291495567024217574120091~hmac=6efd40ca3828974f708d7a8454d9f9bce2a6eb518fd6c23266413e4de2718b19
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759598307001218_bliga2526_MD8_Leverkusen_vs_Freiburg_3oct_landscape_thumb.jpg" group-title="SonyLIV",Bayer Leverkusen vs SC Freiburg - MD 8 - 26 Oct 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761538082~acl=/*~id=63369241291495567024217574120091~hmac=6efd40ca3828974f708d7a8454d9f9bce2a6eb518fd6c23266413e4de2718b19
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761538202~acl=/*~id=62402586007248975903172080653933~hmac=0a65d9cf8c5d8c66761017169344ed6d5aa61fe2403e8b9d8578b5d139fe7257
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759598563948218_bliga2526_MD8_Stuttgart_Vs_Mainz_3oct_landscape_thumb.jpg" group-title="SonyLIV",VfB Stuttgart vs Mainz - 26 Oct 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761538202~acl=/*~id=62402586007248975903172080653933~hmac=0a65d9cf8c5d8c66761017169344ed6d5aa61fe2403e8b9d8578b5d139fe7257
