@@ -29,9 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg" group-title="SonyLIV",International Series Philippines - Day 4 - 26 Oct 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232606357949_Bundesliga_Leverkusen_vs_Freiburg_Promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayer Leverkusen vs SC Freiburg - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/43c2a50e10524ed09e881081d1307a17/1761227796/baseline-std-v4/1090493091_23102025_eng_baseline-800300010.mpd
