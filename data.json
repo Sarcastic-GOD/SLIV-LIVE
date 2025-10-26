@@ -12,22 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bayer Leverkusen vs SC Freiburg,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761530161~acl=/*~id=97178169071446509375851909348563~hmac=d32503d233a601f17eb51a1eaaea0f1c75dc5c5f5ecc9b0bffb277a66a98f5c9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761530161~acl=/*~id=97178169071446509375851909348563~hmac=d32503d233a601f17eb51a1eaaea0f1c75dc5c5f5ecc9b0bffb277a66a98f5c9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761530282~acl=/*~id=49069751369927762334467666324542~hmac=1dc5b1f38089ce3ddf499c4a544ae23e4f79ce4b0b9f2bcc99145bd644631eae",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761530282~acl=/*~id=49069751369927762334467666324542~hmac=1dc5b1f38089ce3ddf499c4a544ae23e4f79ce4b0b9f2bcc99145bd644631eae",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090493091",
-        "isLive": false,
-        "event": "Bayer Leverkusen vs SC Freiburg",
-        "match": "Upcoming: Bayer Leverkusen vs SC Freiburg",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232606357949_Bundesliga_Leverkusen_vs_Freiburg_Promo_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/43c2a50e10524ed09e881081d1307a17/1761227796/baseline-std-v4/1090493091_23102025_eng_baseline-800300010.mpd"
     }
 ]
