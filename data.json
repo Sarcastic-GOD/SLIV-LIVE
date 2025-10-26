@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090492566",
-        "isLive": true,
-        "event": "England Tour of New Zealand 2025",
-        "match": "1st ODI - 26 Oct 2025",
-        "Provider": "New Zealand Cricket",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Bay Oval, Mount Maunganui",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "England vs New Zealand cricket news,England vs New Zealand match updates,England vs New Zealand highlights,England vs New Zealand results,England vs New Zealand fixtures,England vs New Zealand squads,England vs New Zealand live streaming,England vs New Zealand schedule,rachin ravindra,matt henry,devon conway,kane williamson,tim southee,chris woakes,ollie pope,zak crawley,harry brook,joe root,ben stokes,New Zealand vs England Test Series,new zealand,new zealand vs england,england,england vs new zealand,england tour of new zealand,eng vs nz 2025,england vs new zealand cricket,eng vs nz live score,england vs nz match updates,england vs new zealand series,eng vs nz fixtures,england cricket in nz,new zealand vs england 2025,eng vs nz highlights,England tour of New Zealand,England tour of New Zealand 2025,mitchell santner,michael bracewell,mark chapman,tom latham,jimmy neesham,England Tour of New Zealand 2025,England cricket tour NZ 2025,New Zealand vs England 2025,ENG vs NZ T20I 2025,ENG vs NZ ODI 2025,cricket schedule NZ England 2025,Blackcaps vs England 2025,Ben Stokes England tour 2025,NZ cricket tour England 2025,cricket tickets England New Zealand 2025,cricket news England New Zealand 2025,cricket fixtures England New Zealand 2025,sports_adsupported,nopreroll_livectv,ENG_TOUR_OF_NZ_2025_LIVE,liveENG_25TourNZ,EnglandTourofNewZealand2025",
-        "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761508567~acl=/*~id=20237494973357564171254972438252~hmac=3b6d53c6075d0e48f277ff48bb4e08cfc877bd9cb4e053d798e858b43d075704",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1761508567~acl=/*~id=20237494973357564171254972438252~hmac=3b6d53c6075d0e48f277ff48bb4e08cfc877bd9cb4e053d798e858b43d075704",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493182",
         "isLive": true,
         "event": "Asian Tour 2025",
@@ -29,8 +12,8 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508567~acl=/*~id=20237494973357564171254972438252~hmac=3b6d53c6075d0e48f277ff48bb4e08cfc877bd9cb4e053d798e858b43d075704",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761508567~acl=/*~id=20237494973357564171254972438252~hmac=3b6d53c6075d0e48f277ff48bb4e08cfc877bd9cb4e053d798e858b43d075704",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508742~acl=/*~id=16925833642058154345298722390646~hmac=c42453fa67fb1d7c03c8dd921ffef6d59008183f3b1a0f4e098e6d5a8d17e212",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761508742~acl=/*~id=16925833642058154345298722390646~hmac=c42453fa67fb1d7c03c8dd921ffef6d59008183f3b1a0f4e098e6d5a8d17e212",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
