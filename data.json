@@ -1,33 +1,19 @@
 [
     {
-        "id": "sl1090493177",
+        "id": "sl1090493179",
         "isLive": true,
         "event": "ATP Masters 1000 - 2025 Rolex Paris Open",
-        "match": "Round 1 - 27 Oct 2025",
+        "match": "Round 2 - 29 Oct 2025",
         "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg",
         "genre": "Tennis",
         "language": "en",
         "venue": "Paris La Defense Arena",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,ATPMasters10002025RolexParisOpen",
         "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761602762~acl=/*~id=26303491259230045011268514707494~hmac=79343353d696a041e0d5e779134696483c9d3c3c1a6dac5bf28824ee7823aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761602762~acl=/*~id=26303491259230045011268514707494~hmac=79343353d696a041e0d5e779134696483c9d3c3c1a6dac5bf28824ee7823aa02",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761786247~acl=/*~id=84170529013066393240706146197210~hmac=f790b7449d4c1ee0b885b6c727dd6e8b4b774caa7955e0cc447d89bddb581a70",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761786247~acl=/*~id=84170529013066393240706146197210~hmac=f790b7449d4c1ee0b885b6c727dd6e8b4b774caa7955e0cc447d89bddb581a70",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090491779",
-        "isLive": false,
-        "event": "England Tour of New Zealand 2025",
-        "match": "Upcoming: England Tour of New Zealand 2025",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373733704505_NZvsENG25_2ODI_25oct_dated_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "england vs new zealand,england,england tour of new zealand 2025,new zealand vs england series schedule 2025,new zealand vs england,new zealand vs england test series 2025 schedule,england tour of new zealand 2025 schedule,england tour of new zealand 2025 schedule time,england tour of new zealand 2025 series schedule,new zealand,all blacks vs england 2025,england vs new zealand 2025,England Tour of New Zealand 2025,NZ vs ENG 2025,New Zealand vs England Test Series,England cricket team 2025,New Zealand cricket team 2025,Ben Stokes,Joe Root,Harry Brook,Zak Crawley,Ollie Pope,Chris Woakes,Tim Southee,Kane Williamson,Devon Conway,Matt Henry,Rachin Ravindra,Test cricket series 2025,England vs New Zealand schedule,England vs New Zealand live streaming,England vs New Zealand squads,England vs New Zealand fixtures,England vs New Zealand results,England vs New Zealand highlights,England vs New Zealand match updates,England vs New Zealand cricket news",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
