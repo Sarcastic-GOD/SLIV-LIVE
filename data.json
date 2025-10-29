@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,ATPMasters10002025RolexParisOpen",
         "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-        "Server2": "cURL Error: Operation timed out after 300535 milliseconds with 0 out of 0 bytes received",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761802342~acl=/*~id=41964887694597326693660554917769~hmac=ee1673e7e307a49bf75718044b2d3dfaa5ec4308a0cd40cb91d2aa14b79f5c76",
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761802802~acl=/*~id=29262042190014391397411687194442~hmac=a968fe14cfa02353518f88575de471b1875328d3a3e8ce773b3b1eeb04e3ce3b",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761802802~acl=/*~id=29262042190014391397411687194442~hmac=a968fe14cfa02353518f88575de471b1875328d3a3e8ce773b3b1eeb04e3ce3b",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090493487",
