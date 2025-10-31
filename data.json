@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,Vacherot vs Auger-Aliassime,ATPRolexParisMasters2025",
         "Server1": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
-        "Server2": "cURL Error: Operation timed out after 300496 milliseconds with 0 out of 0 bytes received",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761961202~acl=/*~id=27520670247757418791036497754336~hmac=9d9ae8579345fec50f5e672fb55cd1ca6f11141ec8cb3c46ab5418b6206fc70a",
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761963002~acl=/*~id=44310368218518763591337684209770~hmac=9bdfb27663494e807a26a3d830c93cc68a0b2192a460edfc50365940432b92fd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761963002~acl=/*~id=44310368218518763591337684209770~hmac=9bdfb27663494e807a26a3d830c93cc68a0b2192a460edfc50365940432b92fd",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090491779",
