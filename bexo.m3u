@@ -29,21 +29,3 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373789900505_NZvsENG25_3ODI_25oct_today_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: England Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010638/1761756658582586_WWE_SatNight_MainEvent_ddt_promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: WWE - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/7f9247aae6034dd0acae363a7d3364e2/1761751469/baseline-std-v4/1090493490_29102025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Real Madrid - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/446c01a528894ac4a275e946f381d7d5/1761749632/baseline-std-v4/1090493487_29102025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761657011106563_Bundesliga_MD_9_Bayern_vs_Leverkusen_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Bayer Leverkusen - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/402717de3d91497a9c9c54bccec150f9/1761750660/baseline-std-v4/1090493489_29102025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761721584095681_UCL2526_PSG_vs_BAYERN_29oct_dated_landscape.jpg" group-title="SonyLIV",Upcoming: PSG vs Bayern - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/bcf115e51aa5481ba711b050229d6f97/1761893329/baseline-std-v4/PROMO_UCL_PSG_V_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg" group-title="SonyLIV",Upcoming: Man City vs Dortmund - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/fc947b73758540bca706fbac4eb86ba5/1761893578/baseline-std-v4/PROMO_UCL_MANCITY_VS_DORTMUND_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
