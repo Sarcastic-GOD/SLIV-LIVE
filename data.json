@@ -14,6 +14,20 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5523ab0826ab4d79bf54648e6c815870/1759596338/baseline-std-v4/PROMO_NEW_ZEALAND_VS_ENGLAND_20_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
+        "id": "sl1090493488",
+        "isLive": false,
+        "event": "FC Augsburg vs Borussia Dortmund",
+        "match": "Upcoming: FC Augsburg vs Borussia Dortmund",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761655235025563_Bundesliga_MD_9_Augsburg-vs-Dortmund_tonight_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/7d2fac3e5f8f43489727bd848986e694/1761750649/baseline-std-v4/1090493488_29102025_eng_baseline-800300010.mpd"
+    },
+    {
         "id": "sl1090493490",
         "isLive": false,
         "event": "Saturday Night's Main Event",
@@ -54,19 +68,5 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/402717de3d91497a9c9c54bccec150f9/1761750660/baseline-std-v4/1090493489_29102025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090493488",
-        "isLive": false,
-        "event": "FC Augsburg vs Borussia Dortmund",
-        "match": "Upcoming: FC Augsburg vs Borussia Dortmund",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761655235025563_Bundesliga_MD_9_Augsburg-vs-Dortmund_tonight_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/7d2fac3e5f8f43489727bd848986e694/1761750649/baseline-std-v4/1090493488_29102025_eng_baseline-800300010.mpd"
     }
 ]
