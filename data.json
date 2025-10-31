@@ -11,10 +11,10 @@
         "venue": "Paris La Defense Arena",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,Vacherot vs Auger-Aliassime,ATPRolexParisMasters2025",
-        "Server1": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761959048~acl=/*~id=84149608625003107786600596336843~hmac=348f26ac6bf40254b3ec646f7823b38b1602777187ce1bfc626dc99a45a0fb68",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1761959048~acl=/*~id=84149608625003107786600596336843~hmac=348f26ac6bf40254b3ec646f7823b38b1602777187ce1bfc626dc99a45a0fb68",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1761957399~acl=/*~id=94171691273107266518484284624995~hmac=e39385b1fd39c4a1ef000982192f0e1ada570df7fca69c3bebe932100f29d409",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957399~acl=/*~id=94171691273107266518484284624995~hmac=e39385b1fd39c4a1ef000982192f0e1ada570df7fca69c3bebe932100f29d409",
+        "Server3": "?hdnea=exp=1761957399~acl=/*~id=94171691273107266518484284624995~hmac=e39385b1fd39c4a1ef000982192f0e1ada570df7fca69c3bebe932100f29d409",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090491779",
