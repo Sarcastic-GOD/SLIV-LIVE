@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090493582",
+        "isLive": true,
+        "event": "ATP Rolex Paris Masters 2025",
+        "match": "Auger Aliassime vs Bublik - Semi-Final - 1 Nov 2025",
+        "Provider": "ATP Media Operations Ltd",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010740/1761987232626157_ATP_rolex25_SF_Auger_Aliassime_vs_Bublik_1nov_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "en",
+        "venue": "Paris La Defense Arena",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,Felix Auger Aliassime vs Alexander Bublik,ATPRolexParisMasters2025",
+        "Server1": "https://dai.google.com/ssai/event/xTyrNh5rRnySHACfgNBXrw/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762045323~acl=/*~id=02324791202526071040834004435586~hmac=b948debb99ed9156a608430cb5e8b116adb9b5749b369258d3dcd108d08a40e7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762045323~acl=/*~id=02324791202526071040834004435586~hmac=b948debb99ed9156a608430cb5e8b116adb9b5749b369258d3dcd108d08a40e7",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090493490",
         "isLive": false,
         "event": "Saturday Night's Main Event",
