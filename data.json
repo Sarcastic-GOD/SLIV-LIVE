@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090492564",
+        "isLive": false,
+        "event": "",
+        "match": "3rd ODI - 1 Nov 2025",
+        "Provider": "",
+        "poster": "",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "",
+        "SeoTags": "England vs New Zealand cricket news,England vs New Zealand match updates,England vs New Zealand highlights,England vs New Zealand results,England vs New Zealand fixtures,England vs New Zealand squads,England vs New Zealand live streaming,England vs New Zealand schedule,rachin ravindra,matt henry,devon conway,kane williamson,tim southee,chris woakes,ollie pope,zak crawley,harry brook,joe root,ben stokes,New Zealand vs England Test Series,new zealand,new zealand vs england,england,england vs new zealand,england tour of new zealand,eng vs nz 2025,england vs new zealand cricket,eng vs nz live score,england vs nz match updates,england vs new zealand series,eng vs nz fixtures,england cricket in nz,new zealand vs england 2025,eng vs nz highlights,England tour of New Zealand,England tour of New Zealand 2025,mitchell santner,michael bracewell,mark chapman,tom latham,jimmy neesham,England Tour of New Zealand 2025,England cricket tour NZ 2025,New Zealand vs England 2025,ENG vs NZ T20I 2025,ENG vs NZ ODI 2025,cricket schedule NZ England 2025,Blackcaps vs England 2025,Ben Stokes England tour 2025,NZ cricket tour England 2025,cricket tickets England New Zealand 2025,cricket news England New Zealand 2025,cricket fixtures England New Zealand 2025,sports_adsupported,nopreroll_livectv,ENG_TOUR_OF_NZ_2025_LIVE,liveENG_25TourNZ,EnglandTourofNewZealand2025",
+        "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762001605~acl=/*~id=70834449773590588141874524931369~hmac=a0acbd20e057a4d08562e0fea05226f2b2b2a3b416353bdc0f081b918b2d80ce",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762001605~acl=/*~id=70834449773590588141874524931369~hmac=a0acbd20e057a4d08562e0fea05226f2b2b2a3b416353bdc0f081b918b2d80ce",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090493490",
         "isLive": false,
         "event": "Saturday Night's Main Event",
