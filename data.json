@@ -11,10 +11,27 @@
         "venue": "Allianz Arena",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bayern Munich vs Bayer Leverkusen,Bundesliga202526",
-        "Server1": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762062379~acl=/*~id=88706486695303750596837908084062~hmac=4fd58bc0d7a21cdf57cb0f661c495cb90a4f6e1507647246fa4ff0f88223d1ae",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762062379~acl=/*~id=88706486695303750596837908084062~hmac=4fd58bc0d7a21cdf57cb0f661c495cb90a4f6e1507647246fa4ff0f88223d1ae",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1762061294~acl=/*~id=90473243837760861202353393374370~hmac=004bb6b4783a50e08fbcc5419a398286da71faac2dafdf86e3491d3b9d1d40af",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762061294~acl=/*~id=90473243837760861202353393374370~hmac=004bb6b4783a50e08fbcc5419a398286da71faac2dafdf86e3491d3b9d1d40af",
+        "Server3": "?hdnea=exp=1762061294~acl=/*~id=90473243837760861202353393374370~hmac=004bb6b4783a50e08fbcc5419a398286da71faac2dafdf86e3491d3b9d1d40af",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
+    },
+    {
+        "id": "sl1090493582",
+        "isLive": false,
+        "event": "",
+        "match": "Zverev vs Sinner - Semi-Final - 1 Nov 2025",
+        "Provider": "",
+        "poster": "",
+        "genre": "Tennis",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "",
+        "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,Zverev vs Sinner,ATPRolexParisMasters2025",
+        "Server1": "?hdnea=exp=1762061294~acl=/*~id=90473243837760861202353393374370~hmac=004bb6b4783a50e08fbcc5419a398286da71faac2dafdf86e3491d3b9d1d40af",
+        "Server2": "Video URL not found",
+        "Server3": "?hdnea=exp=1762061294~acl=/*~id=90473243837760861202353393374370~hmac=004bb6b4783a50e08fbcc5419a398286da71faac2dafdf86e3491d3b9d1d40af",
+        "debug": "||"
     },
     {
         "id": "sl1090493490",
