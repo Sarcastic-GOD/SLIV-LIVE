@@ -29,15 +29,15 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821530697395_bliga2526_MD9_Bayern-Munich-vs-Bayer-Leverkusen_30oct_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059122~acl=/*~id=93608390010423580994217901801559~hmac=8e220ba8179b2cefb1f17a9a505f2c9f4cec361d2d8cabc4a2d662583c4a83b0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010736/1761986431712451_ATP_rolex25_SF_zverev_vs_sinner_1nov_landscape_thumb.jpg" group-title="SonyLIV",Zverev vs Sinner - Semi-Final - 1 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/xTyrNh5rRnySHACfgNBXrw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010638/1761756658582586_WWE_SatNight_MainEvent_ddt_promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: WWE - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/7f9247aae6034dd0acae363a7d3364e2/1761751469/baseline-std-v4/1090493490_29102025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761657030867563_Bundesliga_MD_9_Bayern_vs_Leverkusen_tonight_landscape_thumb-3.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Bayer Leverkusen - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/402717de3d91497a9c9c54bccec150f9/1761750660/baseline-std-v4/1090493489_29102025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Real Madrid - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/446c01a528894ac4a275e946f381d7d5/1761749632/baseline-std-v4/1090493487_29102025_eng_baseline-800300010.mpd
