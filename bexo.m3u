@@ -29,9 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181499045554_WWE_SNME25_30oct_hindi_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - HIN
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181501615054_WWE_SNME25_30oct_telugu_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/DD-3j9HWTsyxtaZasjfD6A/master.m3u8
+https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010675/1761888173535440_UFC_Fight_Night_Garcia_vs_Onama_30oct_telugu_landscape_thumb.jpg" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
@@ -44,12 +44,12 @@ https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181500070354_WWE_SNME25_30oct_tamil_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181501615054_WWE_SNME25_30oct_telugu_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - TEL
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181499045554_WWE_SNME25_30oct_hindi_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8
+https://dai.google.com/ssai/event/DD-3j9HWTsyxtaZasjfD6A/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010652/176181495978054_WWE_SNME25_30oct_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 2 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/UFXu0e8pQRikjXYQQCKMCA/master.m3u8
+?hdnea=exp=1762083725~acl=/*~id=75500923356886485944200913378712~hmac=0a1ace24f4b56f437e8b1bedb9b066a50323e068256c82abfb7a4f0db47ee02d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010675/1761888158465440_UFC_Fight_Night_Garcia_vs_Onama_30oct_hindi_landscape_thumb.jpg" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
