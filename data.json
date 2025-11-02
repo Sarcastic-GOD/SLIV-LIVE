@@ -1,19 +1,19 @@
 [
     {
         "id": "sl1090493654",
-        "isLive": true,
-        "event": "ATP Rolex Paris Masters 2025",
+        "isLive": false,
+        "event": "",
         "match": "Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762039023142610_ATP_rolex_Paris25_Final_-AugerAliassime_vs_Sinner_live_landscapet_thumb.jpg",
+        "Provider": "",
+        "poster": "",
         "genre": "Tennis",
         "language": "en",
-        "venue": "Paris La Defense Arena",
-        "TVchannel": "Sony Sports Ten 5",
+        "venue": "",
+        "TVchannel": "",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,Auger-Aliassime vs Sinner,ATPRolexParisMasters2025",
         "Server1": "https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762134442~acl=/*~id=06213312255360795723677767811655~hmac=4a0025d5b2938e72658a5b16eebae6a563a74c28163f11addd8daf34ccfee06e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762134442~acl=/*~id=06213312255360795723677767811655~hmac=4a0025d5b2938e72658a5b16eebae6a563a74c28163f11addd8daf34ccfee06e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762134981~acl=/*~id=59828619906900518169949731127651~hmac=82eb9efc2251e66b8c84b8049f06e16b7fde45b79e1d25ce2f7b36c3536a2041",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762134981~acl=/*~id=59828619906900518169949731127651~hmac=82eb9efc2251e66b8c84b8049f06e16b7fde45b79e1d25ce2f7b36c3536a2041",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
