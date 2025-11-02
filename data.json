@@ -1,20 +1,20 @@
 [
     {
         "id": "sl1090493654",
-        "isLive": true,
-        "event": "ATP Rolex Paris Masters 2025",
+        "isLive": false,
+        "event": "",
         "match": "Patten/Heliovaara vs Glasspool/Cash - Doubles Final - 2 Nov 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762040034041610_ATP_Rolex_Paris25_Doubles_Final_Patten-Heliovaara_vs_Glasspool-Cash_Live_Landscape_thumb.jpg",
+        "Provider": "",
+        "poster": "",
         "genre": "Tennis",
         "language": "en",
-        "venue": "Paris La Defense Arena",
-        "TVchannel": "Sony Sports Ten 5",
+        "venue": "",
+        "TVchannel": "",
         "SeoTags": "atp masters 1000 - rolex paris masters 2024,tennis,tennis matches,live tennis matches,atp masters 1000,ATP Masters 1000 - 2025 Rolex Paris Open,Paris Open,ATP Masters 1000,Rolex Paris Open,Rolex Paris,ATP Masters 1000 2025,Rolex Paris Open 2025,ATP Paris Masters,2025 Tennis Rolex Paris,Paris Open tennis scores,ATP Masters Paris results,2025 Rolex Paris Open schedule,ATP tennis tournament 2025,Rolex Paris Open live,ATP Masters 1000 highlights,Paris Masters player list 2025,Paris Open tennis tickets,ATP Rolex Paris news,2025 tennis Masters events,ATP Rolex Paris Open updates,ATP_2025_live,sports_adsupported,nopreroll_livectv,atplive_RolexParis25,ATPRolexParisMasters2025",
-        "Server1": "https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762127252~acl=/*~id=42726273691374520952602083922256~hmac=844c8e4af926e5f10bb4550bf7a692804903a9853f70abe255c88c949728a65a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762127252~acl=/*~id=42726273691374520952602083922256~hmac=844c8e4af926e5f10bb4550bf7a692804903a9853f70abe255c88c949728a65a",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1762124833~acl=/*~id=28292183482170159304600710942618~hmac=2c90561ef44deea8daa62d7c37c9ccdce8b7de3bbcc920b54e1b1cbf711d7ce9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762124833~acl=/*~id=28292183482170159304600710942618~hmac=2c90561ef44deea8daa62d7c37c9ccdce8b7de3bbcc920b54e1b1cbf711d7ce9",
+        "Server3": "?hdnea=exp=1762124833~acl=/*~id=28292183482170159304600710942618~hmac=2c90561ef44deea8daa62d7c37c9ccdce8b7de3bbcc920b54e1b1cbf711d7ce9",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090493487",
