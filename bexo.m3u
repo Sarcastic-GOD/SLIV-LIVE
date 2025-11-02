@@ -29,7 +29,10 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761823253389395_bliga2526_MD9_FC-Koln-vs-Hamburg-SV_30oct_landscape_thumb.jpg" group-title="SonyLIV",FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762134983~acl=/*~id=30943836428082982609358681627016~hmac=fb2eff1d0e90537bf53e43b321d6527304c6d59f8e7b7b2c043b0252fc4d9d32
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762039023142610_ATP_rolex_Paris25_Final_-AugerAliassime_vs_Sinner_live_landscapet_thumb.jpg" group-title="SonyLIV",Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Real Madrid - ENG
