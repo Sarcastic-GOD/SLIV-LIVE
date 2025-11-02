@@ -12,50 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,VfL Wolfsburg vs Hoffenheim,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/CjGf4gVXQGOCvGlY8z3I_Q/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762151409~acl=/*~id=99248132602194694299969172351929~hmac=3e9765b46816f1b7ef52a23cefa33c2d2a73e3c89b305e74c09040ddd5698456",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762151409~acl=/*~id=99248132602194694299969172351929~hmac=3e9765b46816f1b7ef52a23cefa33c2d2a73e3c89b305e74c09040ddd5698456",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762150757~acl=/*~id=64017001114585307252236993482094~hmac=e870c3a4fb562d01cd41c9c894d363555c79e8df0c26be4fb07cf4396ab07461",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762150757~acl=/*~id=64017001114585307252236993482094~hmac=e870c3a4fb562d01cd41c9c894d363555c79e8df0c26be4fb07cf4396ab07461",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090493487",
-        "isLive": false,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Upcoming: Liverpool vs Real Madrid",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/446c01a528894ac4a275e946f381d7d5/1761749632/baseline-std-v4/1090493487_29102025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090493549",
-        "isLive": false,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Upcoming: PSG vs Bayern",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761721584095681_UCL2526_PSG_vs_BAYERN_29oct_dated_landscape.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/bcf115e51aa5481ba711b050229d6f97/1761893329/baseline-std-v4/PROMO_UCL_PSG_V_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090493544",
-        "isLive": false,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Upcoming: Man City vs Dortmund",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/fc947b73758540bca706fbac4eb86ba5/1761893578/baseline-std-v4/PROMO_UCL_MANCITY_VS_DORTMUND_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
