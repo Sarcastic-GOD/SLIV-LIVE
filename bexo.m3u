@@ -29,6 +29,18 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1762092244~acl=/*~id=04119884455720222181786502126380~hmac=be562dad64706a9c28e31dd1d62b47e69d50abbb1d2434ff438cd7615317752b
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1762092244~acl=/*~id=04119884455720222181786502126380~hmac=be562dad64706a9c28e31dd1d62b47e69d50abbb1d2434ff438cd7615317752b
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1762092244~acl=/*~id=04119884455720222181786502126380~hmac=be562dad64706a9c28e31dd1d62b47e69d50abbb1d2434ff438cd7615317752b
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",UFC Fight Night - Garcia vs Onama - 2 Nov 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+?hdnea=exp=1762092244~acl=/*~id=04119884455720222181786502126380~hmac=be562dad64706a9c28e31dd1d62b47e69d50abbb1d2434ff438cd7615317752b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Real Madrid - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/446c01a528894ac4a275e946f381d7d5/1761749632/baseline-std-v4/1090493487_29102025_eng_baseline-800300010.mpd
