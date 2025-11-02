@@ -31,4 +31,13 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761826736467395_bliga2526_MD9_VfL-Wolfsburg-vs-Hoffenheim_30oct_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs Hoffenheim - MD 9 - 2 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762150757~acl=/*~id=64017001114585307252236993482094~hmac=e870c3a4fb562d01cd41c9c894d363555c79e8df0c26be4fb07cf4396ab07461
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762151539~acl=/*~id=42904370658139831563057009841372~hmac=04f42e50e313498cceb03432cd69f9db02d431da72264b2b4c7405f9a4010c22
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Liverpool vs Real Madrid - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/446c01a528894ac4a275e946f381d7d5/1761749632/baseline-std-v4/1090493487_29102025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761721584095681_UCL2526_PSG_vs_BAYERN_29oct_dated_landscape.jpg" group-title="SonyLIV",Upcoming: PSG vs Bayern - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/bcf115e51aa5481ba711b050229d6f97/1761893329/baseline-std-v4/PROMO_UCL_PSG_V_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg" group-title="SonyLIV",Upcoming: Man City vs Dortmund - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fc947b73758540bca706fbac4eb86ba5/1761893578/baseline-std-v4/PROMO_UCL_MANCITY_VS_DORTMUND_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
