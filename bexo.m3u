@@ -29,12 +29,12 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg" group-title="SonyLIV",Paris vs Bayern Munich - MD 4 - 4 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg" group-title="SonyLIV",Liverpool vs Real Madrid - MD 4 - 4 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg" group-title="SonyLIV",Paris vs Bayern Munich - MD 4 - 4 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg" group-title="SonyLIV",Upcoming: MD4 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/83e23395a1474dba8d717a420f43dede/1761893422/baseline-std-v4/PROMO_UCL_MD4_GENERIC_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
