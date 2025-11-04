@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090493538",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "PSG Campus",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Paris vs Bayern Munich,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311369~acl=/*~id=91334501064128910393188668582386~hmac=f3a30b841a492ef99619eedd1ceef41092b98eebf613c2f03503f955d0b413bd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311369~acl=/*~id=91334501064128910393188668582386~hmac=f3a30b841a492ef99619eedd1ceef41092b98eebf613c2f03503f955d0b413bd",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493539",
         "isLive": true,
         "event": "UEFA Youth League 2025-26",
@@ -29,8 +12,25 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Liverpool vs Real Madrid,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311369~acl=/*~id=91334501064128910393188668582386~hmac=f3a30b841a492ef99619eedd1ceef41092b98eebf613c2f03503f955d0b413bd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311369~acl=/*~id=91334501064128910393188668582386~hmac=f3a30b841a492ef99619eedd1ceef41092b98eebf613c2f03503f955d0b413bd",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311501~acl=/*~id=68719310116185633048907922289311~hmac=8360b2a5f3b7b4ece1c91ba09502255ff6fbef615d256a6e6659518cade509f5",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311501~acl=/*~id=68719310116185633048907922289311~hmac=8360b2a5f3b7b4ece1c91ba09502255ff6fbef615d256a6e6659518cade509f5",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090493538",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "PSG Campus",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Paris vs Bayern Munich,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311501~acl=/*~id=68719310116185633048907922289311~hmac=8360b2a5f3b7b4ece1c91ba09502255ff6fbef615d256a6e6659518cade509f5",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311501~acl=/*~id=68719310116185633048907922289311~hmac=8360b2a5f3b7b4ece1c91ba09502255ff6fbef615d256a6e6659518cade509f5",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
