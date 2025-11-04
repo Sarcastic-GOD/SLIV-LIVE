@@ -29,15 +29,3 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg" group-title="SonyLIV",Upcoming: MD4 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/83e23395a1474dba8d717a420f43dede/1761893422/baseline-std-v4/PROMO_UCL_MD4_GENERIC_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010805/1762181837554493_NZvsWI25_1t20i_3nov_rev_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg" group-title="SonyLIV",Upcoming: Man City vs Dortmund - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/fc947b73758540bca706fbac4eb86ba5/1761893578/baseline-std-v4/PROMO_UCL_MANCITY_VS_DORTMUND_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722000042681_UCL2526_Club_Brugge_vs_Barcelona_29oct_Dated_landscape.jpg" group-title="SonyLIV",Upcoming: Club Brugge vs Barcelona - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/0e348733dbc44c38a7a1e8cdae8aaa3c/1761893307/baseline-std-v4/PROMO_UCL_CLUB_BRUGGE_V_BARCELONA_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
