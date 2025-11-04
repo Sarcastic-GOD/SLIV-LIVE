@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090493539",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Liverpool vs Real Madrid - MD 4 - 4 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Liverpool FC Academy Training Ground",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Liverpool vs Real Madrid,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311023~acl=/*~id=25776945972754179828312902206712~hmac=57558b5c626a81c9a183bc11d24c859a15582e2af17ad64934279c3f55e2cb31",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311023~acl=/*~id=25776945972754179828312902206712~hmac=57558b5c626a81c9a183bc11d24c859a15582e2af17ad64934279c3f55e2cb31",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493538",
         "isLive": true,
         "event": "UEFA Youth League 2025-26",
@@ -29,8 +12,25 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Paris vs Bayern Munich,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311023~acl=/*~id=25776945972754179828312902206712~hmac=57558b5c626a81c9a183bc11d24c859a15582e2af17ad64934279c3f55e2cb31",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311023~acl=/*~id=25776945972754179828312902206712~hmac=57558b5c626a81c9a183bc11d24c859a15582e2af17ad64934279c3f55e2cb31",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311121~acl=/*~id=01203073690321664735566044173930~hmac=f60d9ecc16e59d2faea6b2af54050bc79c604aa99e9cd6ad79cbe974703c8c39",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311121~acl=/*~id=01203073690321664735566044173930~hmac=f60d9ecc16e59d2faea6b2af54050bc79c604aa99e9cd6ad79cbe974703c8c39",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090493539",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "Liverpool vs Real Madrid - MD 4 - 4 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Liverpool FC Academy Training Ground",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Liverpool vs Real Madrid,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311121~acl=/*~id=01203073690321664735566044173930~hmac=f60d9ecc16e59d2faea6b2af54050bc79c604aa99e9cd6ad79cbe974703c8c39",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762311121~acl=/*~id=01203073690321664735566044173930~hmac=f60d9ecc16e59d2faea6b2af54050bc79c604aa99e9cd6ad79cbe974703c8c39",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
