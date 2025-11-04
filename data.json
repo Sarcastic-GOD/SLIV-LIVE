@@ -12,25 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Liverpool vs Real Madrid,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762312124~acl=/*~id=41210021848066638855579568564950~hmac=2fc45816d7d40d2881324f906ef1bb42464f1c51dabac23d46f86b63b384c646",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762312124~acl=/*~id=41210021848066638855579568564950~hmac=2fc45816d7d40d2881324f906ef1bb42464f1c51dabac23d46f86b63b384c646",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090493538",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "PSG Campus",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Leverkusen vs PSV,Paris vs Bayern Munich,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762312124~acl=/*~id=41210021848066638855579568564950~hmac=2fc45816d7d40d2881324f906ef1bb42464f1c51dabac23d46f86b63b384c646",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762312124~acl=/*~id=41210021848066638855579568564950~hmac=2fc45816d7d40d2881324f906ef1bb42464f1c51dabac23d46f86b63b384c646",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762312223~acl=/*~id=91027017008610742279281711042970~hmac=8cdd7b174dda6313cf211ceb07eb836ce577e1524902079e71d100b341ce1e93",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762312223~acl=/*~id=91027017008610742279281711042970~hmac=8cdd7b174dda6313cf211ceb07eb836ce577e1524902079e71d100b341ce1e93",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
