@@ -29,18 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902930149290_UCL_25_26_MD4_Man-City-vs-Dortmund_hindi_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902966895290_UCL_25_26_MD4_Man-City-vs-Dortmund_tamil_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - TAM
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761903014747290_UCL_25_26_MD4_Man-City-vs-Dortmund_telugu_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010817/176224007435285_NZvsWI25_2nd_t20i_today_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
