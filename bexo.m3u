@@ -32,12 +32,6 @@ https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761899981009275_UCL25_MD4_Marseille_vs_Atalanta_31oct_landscape_thumb.jpg" group-title="SonyLIV",Marseille vs Atlanta - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/hQjoPq5iQkKZf8yDXUMOeg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897690653275_UCL25_MD4_Club_Brugge_vs_Barcelona_31oct_landscape_thumb.jpg" group-title="SonyLIV",Club Brugge vs Barcelona - MD 4 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/sbGPmoBhRI6RFRMChhQXZQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761900958442275_UCL25_MD4_Newcastle_vs_Athletic_Club_31oct_landscape_thumb.jpg" group-title="SonyLIV",Newcastle vs Athletic Club - MD 4 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/WfqWOn6bTiOECH4jTw3jAQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
@@ -50,15 +44,21 @@ https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761903014747290_UCL_25_26_MD4_Man-City-vs-Dortmund_telugu_landscape_thumb.jpg" group-title="SonyLIV",Man City vs Dortmund - MD 4 - 6 Nov 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761899728869275_UCL25_MD4_Inter_vs_Kairat_Almaty_31oct_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Kairat Almaty - MD 4 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/ppu0eYwbTCmrMHcD_JFV-g/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897690653275_UCL25_MD4_Club_Brugge_vs_Barcelona_31oct_landscape_thumb.jpg" group-title="SonyLIV",Club Brugge vs Barcelona - MD 4 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/sbGPmoBhRI6RFRMChhQXZQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761900958442275_UCL25_MD4_Newcastle_vs_Athletic_Club_31oct_landscape_thumb.jpg" group-title="SonyLIV",Newcastle vs Athletic Club - MD 4 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/WfqWOn6bTiOECH4jTw3jAQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897130375275_UCL25_MD4_Ajax_vs_Galatasaray_31oct_landscape_thumb.jpg" group-title="SonyLIV",Ajax vs Galatasaray - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/5atAKnj7SHKf8Zs1Q31iTg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897418775275_UCL25_MD4_Benfica_vs_Leverkusen_31oct_landscape_thumb.jpg" group-title="SonyLIV",Benfica vs Leverkusen - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/dlFHQ9DxTiaLDNUFMkYxmQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761899728869275_UCL25_MD4_Inter_vs_Kairat_Almaty_31oct_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Kairat Almaty - MD 4 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/ppu0eYwbTCmrMHcD_JFV-g/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Do Or Die November - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/19f0d5a6bc064622891ae5feefba1a77/1762328633/baseline-std-v4/PROMO_NOVEMBER_FOOTBALL_COMBO_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
