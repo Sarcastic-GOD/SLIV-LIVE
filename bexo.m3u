@@ -29,3 +29,30 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896860911275_UCL25_MD4_Pafos_vs_Villarreal_31oct_landscape_thumb.jpg" group-title="SonyLIV",Pafos vs Villareal - MD 4 - 5 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900450039290_UCL_25_26_MD4_Qarabag-vs-Chelsea_tamil_landscape_thumb.jpg" group-title="SonyLIV",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLIV",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/KITs6J15Ta-gCmZmIKCCYw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900494580290_UCL_25_26_MD4_Qarabag-vs-Chelsea_telugu_landscape_thumb.jpg" group-title="SonyLIV",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/7Sfptw9GRbKeWQ8RrLucMQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900401260290_UCL_25_26_MD4_Qarabag-vs-Chelsea_hindi_landscape_thumb.jpg" group-title="SonyLIV",Qarabag vs Chelsea - MD 4 - 5 Nov 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/jIVNhfIrRHqtoYIcw8SMeQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722230980681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_tonight_landscape.jpg" group-title="SonyLIV",Upcoming: Man City vs Dortmund - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fc947b73758540bca706fbac4eb86ba5/1761893578/baseline-std-v4/PROMO_UCL_MANCITY_VS_DORTMUND_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722014863681_UCL2526_Club_Brugge_vs_Barcelona_29oct_tonight_landscape.jpg" group-title="SonyLIV",Upcoming: Club Brugge vs Barcelona - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/0e348733dbc44c38a7a1e8cdae8aaa3c/1761893307/baseline-std-v4/PROMO_UCL_CLUB_BRUGGE_V_BARCELONA_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Do Or Die November - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/19f0d5a6bc064622891ae5feefba1a77/1762328633/baseline-std-v4/PROMO_NOVEMBER_FOOTBALL_COMBO_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761723812500339_UEL_Sturm-Graz-vs-Nottm-Forest_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/98f365ca1ceb4a3b845c264d4fe30bfc/1761899697/baseline-std-v4/PROMO_UEL_MD4_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
