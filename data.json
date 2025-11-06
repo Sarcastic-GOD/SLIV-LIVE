@@ -1,19 +1,19 @@
 [
     {
         "id": "sl1090493935",
-        "isLive": false,
-        "event": "",
+        "isLive": true,
+        "event": "Asian Tour 2025",
         "match": "Moutai Singapore Open - Day 1 - 6 Nov 2025",
-        "Provider": "",
-        "poster": "",
+        "Provider": "ASIAN TOUR MEDIA PTE LTD",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg",
         "genre": "Golf",
         "language": "en",
-        "venue": "",
-        "TVchannel": "",
+        "venue": "Singapore Island Country Club ",
+        "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,Moutai Singapore Open,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762449906~acl=/*~id=67595711552504887258252472119015~hmac=78db5b4228c6844d7c61c5c113b1b065d964701f92777a60a34045cfa52593fb",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762449906~acl=/*~id=67595711552504887258252472119015~hmac=78db5b4228c6844d7c61c5c113b1b065d964701f92777a60a34045cfa52593fb",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762449994~acl=/*~id=26129994638839970565777574057427~hmac=dcf564cf2c0c3a0545248e9f273e77113c9193b0cb1d3fdd08d925d5263472f0",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762449994~acl=/*~id=26129994638839970565777574057427~hmac=dcf564cf2c0c3a0545248e9f273e77113c9193b0cb1d3fdd08d925d5263472f0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
