@@ -29,6 +29,9 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761867620992347_UECL25_MD3_AEK_Athens_vs_ShamrockRovers_Landscape_thumb.jpg" group-title="SonyLIV",AEK Athens vs Shamrock Rovers - MD 3 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/yUO0eUDzSTGfGCq72cD9JA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761874045364347_UECL25_MD3_ShakhtarDonetsk_vs_Breidablik_landscape_thumb.jpg" group-title="SonyLIV",Shakhtar Donetsk vs Breidablik - MD 3 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/8y8tw5UyQzGIJSW2KdGDQA/master.m3u8
@@ -47,9 +50,24 @@ https://dai.google.com/ssai/event/O34cRU9wRZSmpUnaYa1kbQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761826956936571_UEL25_MD4_Midtjylland_vs_Celtic_30oct_landscape_thumb.jpg" group-title="SonyLIV",Midtjylland vs Celtic - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/xgwG9FIdS62cC4HmvMpUYg/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761867620992347_UECL25_MD3_AEK_Athens_vs_ShamrockRovers_Landscape_thumb.jpg" group-title="SonyLIV",AEK Athens vs Shamrock Rovers - MD 3 - 6 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761869511312347_UECL25_MD3_KuPS_Kuopio_vs_SlovanBratislava_Landscape_thumb.jpg" group-title="SonyLIV",KuPS Kuopio v Slovan Bratislava - MD 3 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/yUO0eUDzSTGfGCq72cD9JA/master.m3u8
+https://dai.google.com/ssai/event/qiEqpINWRruT9Ascofrw9g/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761868780470347_UECL25_MD3_FC_Noah_vs_SigmaOlomouc_landscape_thumb.jpg" group-title="SonyLIV",FC Noah vs Sigma Olomouc - MD 3 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761874627315347_UECL25_MD3_Sparta-Prague_vs_RakowCzestochowa_landscape_thumb.jpg" group-title="SonyLIV",Sparta Prague vs Rakow Czestochowa - MD 3 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/e61Mck-wSqyKTkxN6ln8dA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761872531140347_UECL25_MD3_NKCelje_vs_LegiaWarsaw_landscapet_thumb.jpg" group-title="SonyLIV",NK Celje vs Legia Warsaw - MD 3 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/Hoq9fN2JQLCtqLttTvQgXQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761828526696571_UEL25_MD4_Salzburg_vs_Go_Ahead_Eagles_30oct_landscape_thumb.jpg" group-title="SonyLIV",Salzburg vs Go Ahead Eagles - MD 4 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/CexBo8mzQyCIGyttVeOZRA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761868234671347_UECL25_MD3_AEK_AEK_Larnaca_vs_Aberdeen_landscape_thumb.jpg" group-title="SonyLIV",AEK Larnaca vs Aberdeen - MD 3 - 6 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/-6WecvqUSYCsXD1mmzm5hA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761826119691571_UEL25_MD4_GNK_Dinamo_vs_Celta_30oct_landscape_thumb.jpg" group-title="SonyLIV",GNK Dinamo vs Celta - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/qsP7wpRuRn21SQtlFwpLlg/master.m3u8
@@ -65,24 +83,6 @@ https://dai.google.com/ssai/event/oCA-zD5jQvii4kpAdhYRAw/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010665/1761827304781846_UEL25_MD4_Utrecht_vs_Porto_30oct_landscape_thumb.jpg" group-title="SonyLIV",Utrecht vs Porto - MD 4 - 6 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/uoNIln5xQjyMUSzM-CpPuw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761869511312347_UECL25_MD3_KuPS_Kuopio_vs_SlovanBratislava_Landscape_thumb.jpg" group-title="SonyLIV",KuPS Kuopio v Slovan Bratislava - MD 3 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/qiEqpINWRruT9Ascofrw9g/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761868780470347_UECL25_MD3_FC_Noah_vs_SigmaOlomouc_landscape_thumb.jpg" group-title="SonyLIV",FC Noah vs Sigma Olomouc - MD 3 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761874627315347_UECL25_MD3_Sparta-Prague_vs_RakowCzestochowa_landscape_thumb.jpg" group-title="SonyLIV",Sparta Prague vs Rakow Czestochowa - MD 3 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/e61Mck-wSqyKTkxN6ln8dA/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761872531140347_UECL25_MD3_NKCelje_vs_LegiaWarsaw_landscapet_thumb.jpg" group-title="SonyLIV",NK Celje vs Legia Warsaw - MD 3 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/Hoq9fN2JQLCtqLttTvQgXQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761828526696571_UEL25_MD4_Salzburg_vs_Go_Ahead_Eagles_30oct_landscape_thumb.jpg" group-title="SonyLIV",Salzburg vs Go Ahead Eagles - MD 4 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1762497732~acl=/*~id=74120168487307701288382460817750~hmac=c648cf8755701b81ec9652e8b244a2cefe47dae05bb75d21e78b8222f7484958
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761868234671347_UECL25_MD3_AEK_AEK_Larnaca_vs_Aberdeen_landscape_thumb.jpg" group-title="SonyLIV",AEK Larnaca vs Aberdeen - MD 3 - 6 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dai.google.com/ssai/event/-6WecvqUSYCsXD1mmzm5hA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761731294649339_UEL_Aston-Villa-vs-M-Tel-Aviv_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UEFA Europa League - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/98f365ca1ceb4a3b845c264d4fe30bfc/1761899697/baseline-std-v4/PROMO_UEL_MD4_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
