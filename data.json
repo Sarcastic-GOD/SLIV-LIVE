@@ -1,5 +1,22 @@
 [
     {
+        "id": "sl1090493936",
+        "isLive": true,
+        "event": "West Indies Tour of New Zealand 2025",
+        "match": "2nd T20I - 6 Nov 2025",
+        "Provider": "New Zealand Cricket",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231038475425_NZvsWI25_2t20i_4nov_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Eden Park, Auckland",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WestIndiesTourofNewZealand2025",
+        "Server1": "https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762450325~acl=/*~id=34427110644533462935363825162469~hmac=6cc4bc83283c0f014805033aea9bf443570ebe7940d10a31dec92046e16231bb",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762450325~acl=/*~id=34427110644533462935363825162469~hmac=6cc4bc83283c0f014805033aea9bf443570ebe7940d10a31dec92046e16231bb",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090493935",
         "isLive": true,
         "event": "Asian Tour 2025",
@@ -12,8 +29,8 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,Moutai Singapore Open,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762450204~acl=/*~id=17434061347927955731827877742369~hmac=4b2b8ca2cc3ea667448b66d00037a2153398375d76135cfabb86c66b4ff3ba39",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762450204~acl=/*~id=17434061347927955731827877742369~hmac=4b2b8ca2cc3ea667448b66d00037a2153398375d76135cfabb86c66b4ff3ba39",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762450325~acl=/*~id=34427110644533462935363825162469~hmac=6cc4bc83283c0f014805033aea9bf443570ebe7940d10a31dec92046e16231bb",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762450325~acl=/*~id=34427110644533462935363825162469~hmac=6cc4bc83283c0f014805033aea9bf443570ebe7940d10a31dec92046e16231bb",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
