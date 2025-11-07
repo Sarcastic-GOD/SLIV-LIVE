@@ -11,10 +11,10 @@
         "venue": "Singapore Island Country Club ",
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,Moutai Singapore Open,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/kF2Z6RlNT3u3AC1LusZQ9g/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762542722~acl=/*~id=94998200251688309990450287676612~hmac=ce6a345d5107302559ecc159dd6cdc8d62e3974930561a3f0c25ec48a74c882a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762542722~acl=/*~id=94998200251688309990450287676612~hmac=ce6a345d5107302559ecc159dd6cdc8d62e3974930561a3f0c25ec48a74c882a",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1762542962~acl=/*~id=75076438045664826193372791971223~hmac=ee3b814d6ebd2eeac99c718fe3ff0dcbcd121abcd2bc5cbdba024204ca7a216e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762542962~acl=/*~id=75076438045664826193372791971223~hmac=ee3b814d6ebd2eeac99c718fe3ff0dcbcd121abcd2bc5cbdba024204ca7a216e",
+        "Server3": "?hdnea=exp=1762542962~acl=/*~id=75076438045664826193372791971223~hmac=ee3b814d6ebd2eeac99c718fe3ff0dcbcd121abcd2bc5cbdba024204ca7a216e",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090493971",
