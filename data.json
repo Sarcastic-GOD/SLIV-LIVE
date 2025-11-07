@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,Moutai Singapore Open,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/kF2Z6RlNT3u3AC1LusZQ9g/master.m3u8",
-        "Server2": "cURL Error: Operation timed out after 300401 milliseconds with 0 out of 0 bytes received",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762548329~acl=/*~id=95211439482027792498857570749938~hmac=3d9f23e49c0a5957e66e5921d79398429630e44afe668fea0a40e5bcc297c151",
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762550882~acl=/*~id=06402679901910437109003892581255~hmac=813cdacc9729f41d3192d59fae0560a52d1930be4e10ead1746312732b0b0333",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762550882~acl=/*~id=06402679901910437109003892581255~hmac=813cdacc9729f41d3192d59fae0560a52d1930be4e10ead1746312732b0b0333",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090493795",
