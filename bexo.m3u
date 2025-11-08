@@ -29,15 +29,27 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761911782639297_bliga2526_MD10_Bayer-Leverkusen-vs-Heidenheim_31oct_landscape_thumb.jpg" group-title="SonyLIV",Bayer Leverkusen vs Heidenheim - MD 10 - 8 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653970~acl=/*~id=01091746480031839450227975288143~hmac=4b04b44481f6020d5eb3a2082736e8a7b37b6a515e12e366b7ae523495affd58
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910708850297_bliga2526_MD10_Union-Berlin-vs-Bayern_31oct_landscape_thumb.jpg" group-title="SonyLIV",Union Berlin vs Bayern Munich - MD 10 - 8 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653970~acl=/*~id=01091746480031839450227975288143~hmac=4b04b44481f6020d5eb3a2082736e8a7b37b6a515e12e366b7ae523495affd58
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010710/1761919490563474_bliga2526_MD10_Hoffenheim-vs-RB-Leipzig_31oct__landscape_thumb.jpg" group-title="SonyLIV",Hoffenheim vs RB Leipzig - MD 10 - 8 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653970~acl=/*~id=01091746480031839450227975288143~hmac=4b04b44481f6020d5eb3a2082736e8a7b37b6a515e12e366b7ae523495affd58
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 10 - 8 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653970~acl=/*~id=01091746480031839450227975288143~hmac=4b04b44481f6020d5eb3a2082736e8a7b37b6a515e12e366b7ae523495affd58
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010957/1762457677340397_bliga2526_MD10_Hamburg-SV-vs-Borussia-Dortmund_7nov_landscape_thumb_re1.jpg" group-title="SonyLIV",Hamburger SV vs Borussia Dortmund - MD 10 - 8 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653970~acl=/*~id=01091746480031839450227975288143~hmac=4b04b44481f6020d5eb3a2082736e8a7b37b6a515e12e366b7ae523495affd58
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010817/176224029657785_NZvsWI25_3rd_t20i_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010990/1762522138973514_Nitto_ATP_Finals_DDT_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: 2025 Nitto ATP Finals - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010826/1762249388730959_Bliga25_26_MD10_Union_Berlin_vs_Bayern_Munich_tonight_Promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Union Berlin vs Bayern Munich - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/2df3dce4556743d598a9b6d254b542d2/1762435565/baseline-std-v4/BUNDESLIGA_MD_10_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Do Or Die November - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/19f0d5a6bc064622891ae5feefba1a77/1762328633/baseline-std-v4/PROMO_NOVEMBER_FOOTBALL_COMBO_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
