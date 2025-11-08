@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090494167",
-        "isLive": true,
-        "event": "Asian Tour 2025",
-        "match": "Moutai Singapore Open - Day 3 - 8 Nov 2025",
-        "Provider": "ASIAN TOUR MEDIA PTE LTD",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824501583210_Asian_tour_Moutai_Singapore_Open_day3_30oct_landscape_thumb.jpg",
-        "genre": "Golf",
-        "language": "en",
-        "venue": "Singapore Island Country Club ",
-        "TVchannel": "LIV",
-        "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,Moutai Singapore Open,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762613073~acl=/*~id=07196167137218367407464523789319~hmac=a809c88cc2c3a7bccd7ee72aeaa5d58a234b4ad02fa1f4ea3fc016110704cc26",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762613073~acl=/*~id=07196167137218367407464523789319~hmac=a809c88cc2c3a7bccd7ee72aeaa5d58a234b4ad02fa1f4ea3fc016110704cc26",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493795",
         "isLive": false,
         "event": "West Indies Tour of New Zealand 2025",
