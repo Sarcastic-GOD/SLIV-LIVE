@@ -29,9 +29,6 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010786/1762149312281745_bliga2526_MD10_Eintracht-Frankfurt-vs-Mainz_3nov__landscape_thumb.jpg" group-title="SonyLIV",Eintracht Frankfurt vs Mainz - MD 10 - 10 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762763899~acl=/*~id=38132563259086519748634125239266~hmac=42981d25d3bea05de2ecf83f720a9d9b3caf56fce13b1d98bf3c847c1244f37e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011012/1762597617374281_ATP_FINALS_Alexander-Zverev-v-Ben-Shelton_landscape_thumb.jpg" group-title="SonyLIV",Alexander Zverev vs Ben Shelton - Group Stage - 10 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dai.google.com/ssai/event/RaRVtbzsSomcd-5D5m2LZg/master.m3u8
