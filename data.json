@@ -12,25 +12,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,SC Freiburg vs St. Pauli,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744936~acl=/*~id=79722559927794843580566782497618~hmac=e5b1cab2bc820e2a18efb87255346155728a6328d72eaee47a83e326f8b47d7d",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762744936~acl=/*~id=79722559927794843580566782497618~hmac=e5b1cab2bc820e2a18efb87255346155728a6328d72eaee47a83e326f8b47d7d",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090494274",
-        "isLive": true,
-        "event": "Nitto ATP Finals 2025",
-        "match": "Alcaraz vs Alex De Minaur - Group Stage - 9 Nov 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011012/1762597572268281_ATP_FINALS_Carlos-Alcaraz-v-Alex-de-Minaur_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "Inalpi Arena",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
-        "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744936~acl=/*~id=79722559927794843580566782497618~hmac=e5b1cab2bc820e2a18efb87255346155728a6328d72eaee47a83e326f8b47d7d",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762744936~acl=/*~id=79722559927794843580566782497618~hmac=e5b1cab2bc820e2a18efb87255346155728a6328d72eaee47a83e326f8b47d7d",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762745041~acl=/*~id=47778150089369260258851086901034~hmac=c68c9935e3e8f36ae587879cd5b013562d3c8d59ee7a9df430034a9d52fbb5a6",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762745041~acl=/*~id=47778150089369260258851086901034~hmac=c68c9935e3e8f36ae587879cd5b013562d3c8d59ee7a9df430034a9d52fbb5a6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
