@@ -11,10 +11,10 @@
         "venue": "Inalpi Arena",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
-        "Server1": "?hdnea=exp=1762819680~acl=/*~id=52266840012022374750299247270242~hmac=465cf2c281c3aecf1b32311ae757f0259dac8d383f47c8f4c667c282cb5c5253",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762819680~acl=/*~id=52266840012022374750299247270242~hmac=465cf2c281c3aecf1b32311ae757f0259dac8d383f47c8f4c667c282cb5c5253",
-        "Server3": "?hdnea=exp=1762819680~acl=/*~id=52266840012022374750299247270242~hmac=465cf2c281c3aecf1b32311ae757f0259dac8d383f47c8f4c667c282cb5c5253",
-        "debug": "|liveakmt-p-web.slivcdn.com|"
+        "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762820040~acl=/*~id=07260173083979814978568714428708~hmac=701e1f630f6cde1d7c2a8ee3676832bed317f6b59efa383623082ce8ba10cc60",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762820040~acl=/*~id=07260173083979814978568714428708~hmac=701e1f630f6cde1d7c2a8ee3676832bed317f6b59efa383623082ce8ba10cc60",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090494247",
