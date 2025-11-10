@@ -31,4 +31,13 @@ https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLIV",Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-?hdnea=exp=1762855446~acl=/*~id=23191472850055932722861680311893~hmac=c726658bf15daf2b5b32d5f4cd2d174fcf99ab7e3c7bef9c12676ffdd88d231d
+?hdnea=exp=1762855566~acl=/*~id=37653095645158284177287253818845~hmac=0e01eff6035b8d1ee72a2441e964fa2c3727eabca7658a53ec0c2135713c6472
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010817/176224059374685_NZvsWI25_5th_t20i_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011094/1762797899361595_ATP_Alcaraz_vs_Fritz_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Do Or Die November - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/19f0d5a6bc064622891ae5feefba1a77/1762328633/baseline-std-v4/PROMO_NOVEMBER_FOOTBALL_COMBO_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
