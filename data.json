@@ -1,22 +1,5 @@
 [
     {
-        "id": "sl1090494411",
-        "isLive": true,
-        "event": "Nitto ATP Finals 2025",
-        "match": "Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762773783114255_ATP_FINALS_Sinner-vs-Auger-Aliassime_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "Inalpi Arena",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,Heliovaara/Patten vs Harrison vs King,NittoATPFinals2025",
-        "Server1": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762848424~acl=/*~id=91718579361614004427708396764819~hmac=2a29617c918df7ad47e8974b5d5362204549d933a8bc1f322f69936e295f45c1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762848424~acl=/*~id=91718579361614004427708396764819~hmac=2a29617c918df7ad47e8974b5d5362204549d933a8bc1f322f69936e295f45c1",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493795",
         "isLive": false,
         "event": "West Indies Tour of New Zealand 2025",
