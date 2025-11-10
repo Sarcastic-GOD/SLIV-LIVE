@@ -1,19 +1,19 @@
 [
     {
         "id": "sl1090494217",
-        "isLive": false,
-        "event": "",
+        "isLive": true,
+        "event": "West Indies Tour of New Zealand 2025",
         "match": "4th T20I - 10 Nov 2025",
-        "Provider": "",
-        "poster": "",
+        "Provider": "New Zealand Cricket",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231061531425_NZvsWI25_4t20i_4nov_landscape_thumb.jpg",
         "genre": "Cricket",
         "language": "en",
-        "venue": "",
-        "TVchannel": "",
+        "venue": "Saxton Oval, Nelson",
+        "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762787582~acl=/*~id=71325351947264718456094050265808~hmac=81a6dbfbe515532a16f64e6259fae772e28d1f95d8506663e3066d7c4c2c718c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762787582~acl=/*~id=71325351947264718456094050265808~hmac=81a6dbfbe515532a16f64e6259fae772e28d1f95d8506663e3066d7c4c2c718c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762787657~acl=/*~id=68102948386424572429765763617540~hmac=88f9775c4c850414252f43eee32ae244bbda4277145d4b3b82678a5e64882323",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762787657~acl=/*~id=68102948386424572429765763617540~hmac=88f9775c4c850414252f43eee32ae244bbda4277145d4b3b82678a5e64882323",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
