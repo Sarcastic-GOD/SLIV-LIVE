@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762782601~acl=/*~id=19776780332994715735207174161498~hmac=c3a02df02e75c3a018b2180ee445dc37edf20dfe43f62c75b3be0583043f4150",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762782601~acl=/*~id=19776780332994715735207174161498~hmac=c3a02df02e75c3a018b2180ee445dc37edf20dfe43f62c75b3be0583043f4150",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server2": "cURL Error: Operation timed out after 300524 milliseconds with 0 out of 0 bytes received",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1762782388~acl=/*~id=64213244896608271661581716988404~hmac=a03c20bd079c035c44a0f2dc2260f7593058bf4ee1d012874ef6d311c9bc42d0",
+        "debug": "dai.google.com||sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090493971",
