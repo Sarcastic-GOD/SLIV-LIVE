@@ -11,11 +11,11 @@
         "venue": "Inalpi Arena",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
-        "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762933681~acl=/*~id=63187717788228794214639828764361~hmac=bb72a4eb93011d1fe49a2f0946005a1e45324d77ddf3e4024b91a803ec051567",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762933681~acl=/*~id=63187717788228794214639828764361~hmac=bb72a4eb93011d1fe49a2f0946005a1e45324d77ddf3e4024b91a803ec051567",
-        "sus": "hdntl=exp=1762976892~acl=%2f*~id=63187717788228794214639828764361~data=hdntl,2037139,DAI19ME-V3,none~hmac=364564283e9b4fa2ae36c9408306fba0177f91e7b20f8acadb8161d5071fd7c0",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1762932842~acl=/*~id=47393976947461566934139394427189~hmac=02cd9ce2cc2eb11876358b948b0e60c89d27edbbf2d3456c0681782000eabc3c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762932842~acl=/*~id=47393976947461566934139394427189~hmac=02cd9ce2cc2eb11876358b948b0e60c89d27edbbf2d3456c0681782000eabc3c",
+        "Server3": "?hdnea=exp=1762932842~acl=/*~id=47393976947461566934139394427189~hmac=02cd9ce2cc2eb11876358b948b0e60c89d27edbbf2d3456c0681782000eabc3c",
+        "sus": "hdntl=exp=1762976989~acl=%2f*~id=47393976947461566934139394427189~data=hdntl,2037139,DAI19ME-V3,none~hmac=9befad04669a62e9310ecb04994cfe2bc3af56402d2f6d8e90e37d8b81b615e6",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090493795",
