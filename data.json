@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943765~acl=/*~id=54748917012508641003125566123664~hmac=1d9aae63b673deb770d82a124f0b615e721058e8ce3c3abc9d886e4b423e5c13",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762943765~acl=/*~id=54748917012508641003125566123664~hmac=1d9aae63b673deb770d82a124f0b615e721058e8ce3c3abc9d886e4b423e5c13",
-        "sus": "hdntl=exp=1762986966~acl=%2f*~id=54748917012508641003125566123664~data=hdntl,2037139,DAI19ME-V3,none~hmac=eff4078f6b3835e07968994c54d0a83a96c743f65abd1889b28686d981dd4f6f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943885~acl=/*~id=26578586017017180988246532153219~hmac=c6eba904c713648559184d0432f1cb81b889a2de5d6213f2fdd3850c2db81a8f",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762943885~acl=/*~id=26578586017017180988246532153219~hmac=c6eba904c713648559184d0432f1cb81b889a2de5d6213f2fdd3850c2db81a8f",
+        "sus": "hdntl=exp=1762987086~acl=%2f*~id=26578586017017180988246532153219~data=hdntl,2037139,DAI19ME-V3,none~hmac=32bdd65d3f5f66fdf7c01cdbc1f75a8c1394a7d9f85868facc78a9f199de196c",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -58,6 +58,20 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/41b63e8a7a404360984e78a7ea222c12/1762599417/baseline-std-v4/PROMO_IRELAND_VS_PORTUGAL_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090494247",
+        "isLive": false,
+        "event": "Nitto ATP Finals 2025",
+        "match": "Upcoming: Nitto ATP Finals 2025",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090494283",
