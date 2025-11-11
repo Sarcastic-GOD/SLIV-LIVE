@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090494413",
-        "isLive": true,
-        "event": "Nitto ATP Finals 2025",
-        "match": "Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025",
-        "Provider": "ATP Media Operations Ltd",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "Inalpi Arena",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
-        "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762944721~acl=/*~id=28189790508937064418164735011995~hmac=598fc169054411d999f250a18ee999599a23b8662ef6af42825df01acb6330cd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762944721~acl=/*~id=28189790508937064418164735011995~hmac=598fc169054411d999f250a18ee999599a23b8662ef6af42825df01acb6330cd",
-        "sus": "hdntl=exp=1762987922~acl=%2f*~id=28189790508937064418164735011995~data=hdntl,2037139,DAI19ME-V3,none~hmac=f5bac1a12dacba510641bcf3cf2d42a6bbee5fa1957433a6fcf64b57a0d2c34c",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493795",
         "isLive": false,
         "event": "West Indies Tour of New Zealand 2025",
