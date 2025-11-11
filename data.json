@@ -3,7 +3,7 @@
         "id": "sl1090494413",
         "isLive": true,
         "event": "Nitto ATP Finals 2025",
-        "match": "Cash/Glasspool vs Putz/Krawietz - Group Stage - 11 Nov 2025",
+        "match": "Cash/Glasspool vs Krawietz/Puetz - Group Stage - 11 Nov 2025",
         "Provider": "ATP Media Operations Ltd",
         "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
         "genre": "Tennis",
@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762923005~acl=/*~id=53937471586452880943161337228899~hmac=6e49647683356b4a9a0cdcd85f440193aed1d8f3c066e8254e50f61dd6e15ba2",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762923005~acl=/*~id=53937471586452880943161337228899~hmac=6e49647683356b4a9a0cdcd85f440193aed1d8f3c066e8254e50f61dd6e15ba2",
-        "sus": "hdntl=exp=1762966208~acl=%2f*~id=53937471586452880943161337228899~data=hdntl,2037139,DAI19ME-V3,none~hmac=2010a25384f5538cdb3247ffe4e7476df3981675f5a91440a0bbe957dbdaa5ad",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762923121~acl=/*~id=31726904115753921696953677873755~hmac=74e9f95f9cffc23b7ac4adca01d287ccf4dd3aa2eb5ce2e507cf41aa7399f284",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762923121~acl=/*~id=31726904115753921696953677873755~hmac=74e9f95f9cffc23b7ac4adca01d287ccf4dd3aa2eb5ce2e507cf41aa7399f284",
+        "sus": "hdntl=exp=1762966323~acl=%2f*~id=31726904115753921696953677873755~data=hdntl,2037139,DAI19ME-V3,none~hmac=5fd6440fe7fd8a8fbd1863f9c183894d632885c57e1838e93206fac4b0a8c75a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
