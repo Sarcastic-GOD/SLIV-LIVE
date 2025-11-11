@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762914121~acl=/*~id=50174995119034316672165290972087~hmac=79e1afa77553b81e7f62cf5057bb80aacc7a29304e9e8df55d59fb7b5aaa18bf",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762914121~acl=/*~id=50174995119034316672165290972087~hmac=79e1afa77553b81e7f62cf5057bb80aacc7a29304e9e8df55d59fb7b5aaa18bf",
-        "sus": "hdntl=exp=1762957323~acl=%2f*~id=50174995119034316672165290972087~data=hdntl,2037139,DAI19ME-V3,none~hmac=c3eac0c35424ee25a5712efb53c765cb02df5a303f89867f967271f24c2eb522",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762914242~acl=/*~id=50332331020732418298859828164152~hmac=2d01551ded4807f4f0338e4d277efa087c284661ca5b181026338938b4f2dbde",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762914242~acl=/*~id=50332331020732418298859828164152~hmac=2d01551ded4807f4f0338e4d277efa087c284661ca5b181026338938b4f2dbde",
+        "sus": "hdntl=exp=1762957452~acl=%2f*~id=50332331020732418298859828164152~data=hdntl,2037139,DAI19ME-V3,none~hmac=aa0fa49e1d43a38adcfc7b390e28e481db1795303a9347325ed290b25d619d43",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -37,7 +37,7 @@
         "event": "European Qualifiers for 2026 FIFA World Cup",
         "match": "Upcoming: Republic of Ireland vs Portugal",
         "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599672231955_Ireland-vs-Portugal_landscape.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011112/1762864896824916_EQ_MD9_RepublicOfIreland_vs_Portugal_ddt_landscape_thumb.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": "N/A",
