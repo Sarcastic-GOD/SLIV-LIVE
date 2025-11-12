@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762996925~acl=/*~id=77842043884683628843541795552463~hmac=90a20ee9a59362871105a57246663e80b7926f498f943113ac547975444b6586",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762996925~acl=/*~id=77842043884683628843541795552463~hmac=90a20ee9a59362871105a57246663e80b7926f498f943113ac547975444b6586",
-        "sus": "hdntl=exp=1763040126~acl=%2f*~id=77842043884683628843541795552463~data=hdntl,2037139,DAI19ME-V3,none~hmac=bf5f76cd2473e255f7dfbb5a604ade1acd71cdbee4eb0cab4820095587e82454",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762997051~acl=/*~id=62087454959430923796353825936787~hmac=c28b9edbc1a141425fa2e79c14eec434f5cec41798b27608c130f1f3e4fcb9cf",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1762997051~acl=/*~id=62087454959430923796353825936787~hmac=c28b9edbc1a141425fa2e79c14eec434f5cec41798b27608c130f1f3e4fcb9cf",
+        "sus": "hdntl=exp=1763040253~acl=%2f*~id=62087454959430923796353825936787~data=hdntl,2037139,DAI19ME-V3,none~hmac=6340d5cf40c7e2a921478ff086849de69e23ea5c324f0d7a42d9eca899f462f6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
