@@ -1,7 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Norway vs Estonia - MD 9 - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010778/1762148055391734_UEFA_INT_Friendlies_North_Macedonia_vs_Lativa_3nov_landscape_thumb.jpg" group-title="SonyLIV",North Macedonia vs Lativa - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763103487~acl=/*~id=61895972674509550120695990582475~hmac=4ceaa4d180db560d7d94697a4e4b5a2dc3b493fc27b21c416678d4d96c379a2a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762157541498408_EQFs_MD9_Armenia_vs_Hungary_3nov_landscape_thumb.jpg" group-title="SonyLIV",Armenia vs Hungary - MD 9 - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763103487~acl=/*~id=61895972674509550120695990582475~hmac=4ceaa4d180db560d7d94697a4e4b5a2dc3b493fc27b21c416678d4d96c379a2a
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Azerbaijan vs Iceland - MD 9 - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Czechia vs San Marino - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Lithunia vs Israel - 13 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011157/1762963451503878_nitto_ATP25_group_stage_Alcaraz_vs_Musetti_12nov_landscape_thumb.jpg" group-title="SonyLIV",Alcaraz vs Musetti - Group Stage - 14 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763103671~acl=/*~id=26529866897615084533780123418766~hmac=462e437b61276eb5623e0d2af37522f0889fdcaaf09c4d481bcd067e7966f67e
+https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763103487~acl=/*~id=61895972674509550120695990582475~hmac=4ceaa4d180db560d7d94697a4e4b5a2dc3b493fc27b21c416678d4d96c379a2a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011112/1762864879227916_EQ_MD9_RepublicOfIreland_vs_Portugal_ton_Landscapet_thumb.jpg" group-title="SonyLIV",Upcoming: Republic of Ireland vs Portugal - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/41b63e8a7a404360984e78a7ea222c12/1762599417/baseline-std-v4/PROMO_IRELAND_VS_PORTUGAL_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
