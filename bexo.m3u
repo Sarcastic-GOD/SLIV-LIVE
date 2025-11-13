@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011112/1762864879227916_EQ_MD9_RepublicOfIreland_vs_Portugal_ton_Landscapet_thumb.jpg" group-title="SonyLIV",Upcoming: Republic of Ireland vs Portugal - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="SonyLIV",Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/41b63e8a7a404360984e78a7ea222c12/1762599417/baseline-std-v4/PROMO_IRELAND_VS_PORTUGAL_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011116/1762867724952173_EQ_MD9_England_vs_Serbia_ton_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: England vs Serbia - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/57906f4e997f41a49211c30d62d4b4dd/1762599805/baseline-std-v4/PROMO_ENGLAND_VS_SERBIA_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011146/1762951274185754_AsiaCup_India_vs_UAE_12nov_ddt_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Asia Cup Rising Stars Men's 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/9744a88d19234871bf8249766bbffacc/1762870392/baseline-std-v4/1090494509_11112025_hin_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011116/1762867195223173_EQ_MD9_France_vs_Ukraine_ton_Lanascape_thumb.jpg" group-title="SonyLIV",Upcoming: France vs Ukraine - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/8a0aad86135f4aedaba234377746d072/1762600148/baseline-std-v4/PROMO_FRANCE_VS_UKRAINE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 322 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg" group-title="SonyLIV",Upcoming: Do Or Die November - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/19f0d5a6bc064622891ae5feefba1a77/1762328633/baseline-std-v4/PROMO_NOVEMBER_FOOTBALL_COMBO_40SEC_HOR_GENERIC_APP_eng_baseline-800300010.mpd
+https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763076602~acl=/*~id=54737748191290393602012377152873~hmac=58a885fcbb3df59f1952ce5864d9cbfd65140d5664db8dfa6798a17d1ab5342a
