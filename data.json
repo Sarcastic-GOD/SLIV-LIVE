@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763079962~acl=/*~id=96619300533488850123450525008795~hmac=a11ffb8c3c1c30d23217ec571e8d9f71000fdc63a2bd17b3eb100b0c353b06a9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763079962~acl=/*~id=96619300533488850123450525008795~hmac=a11ffb8c3c1c30d23217ec571e8d9f71000fdc63a2bd17b3eb100b0c353b06a9",
-        "sus": "hdntl=exp=1763123176~acl=%2f*~id=96619300533488850123450525008795~data=hdntl,2037139,DAI19ME-V3,none~hmac=df1ce8fc0f490fafbaa06804201e0f99eb69ed0e6cc705bfaf43e29881d586a9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763080802~acl=/*~id=12900315679342866905365662629486~hmac=76f1a522cc101ce12769a1be4386ab2532b4064b55785ec83f80d02a64c4e95e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763080802~acl=/*~id=12900315679342866905365662629486~hmac=76f1a522cc101ce12769a1be4386ab2532b4064b55785ec83f80d02a64c4e95e",
+        "sus": "hdntl=exp=1763124010~acl=%2f*~id=12900315679342866905365662629486~data=hdntl,2037139,DAI19ME-V3,none~hmac=0ffb926140b4b0c9b418b3e47ff649b3eaa31e822fe98a60557481778a982790",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -79,7 +79,7 @@
         "event": "Nitto ATP Finals 2025",
         "match": "Upcoming: Nitto ATP Finals 2025",
         "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
         "genre": "Tennis",
         "language": "ENG",
         "venue": "N/A",
