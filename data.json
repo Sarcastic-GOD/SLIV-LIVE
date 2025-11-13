@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763045041~acl=/*~id=27840685648484780657431041713146~hmac=cccc2a7b2a26bc60b7e79d2ab286c7cf149f1f812637427d9552920ca8f130a8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763045041~acl=/*~id=27840685648484780657431041713146~hmac=cccc2a7b2a26bc60b7e79d2ab286c7cf149f1f812637427d9552920ca8f130a8",
-        "sus": "hdntl=exp=1763088249~acl=%2f*~id=27840685648484780657431041713146~data=hdntl,2018457,wivsnz,ENG~hmac=14fef9b64eff6c490311a48e3ba95e7904caf03d59e86c60998169dc8c2533b2",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763045267~acl=/*~id=26294484237086308613582325692395~hmac=2a1e118a280e3c4e2ed0acc228a2b8917e945e5464d9f69c0f57c95a142b7bdd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763045267~acl=/*~id=26294484237086308613582325692395~hmac=2a1e118a280e3c4e2ed0acc228a2b8917e945e5464d9f69c0f57c95a142b7bdd",
+        "sus": "hdntl=exp=1763088497~acl=%2f*~id=26294484237086308613582325692395~data=hdntl,2018457,wivsnz,ENG~hmac=43b0742258a7da829275b9bb1daab2bc06380527814685ca5499d93a25106fd1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -74,20 +74,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8a0aad86135f4aedaba234377746d072/1762600148/baseline-std-v4/PROMO_FRANCE_VS_UKRAINE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090494550",
-        "isLive": false,
-        "event": "Della Maddalena vs Makhachev",
-        "match": "Upcoming: UFC 322",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090494281",
         "isLive": false,
         "event": "European Qualifiers for 2026 FIFA World Cup",
@@ -100,6 +86,34 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/21f772d53e37499fa63cea596335c9ed/1762599217/baseline-std-v4/PROMO_MOLDOVA_VS_ITALY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090494247",
+        "isLive": false,
+        "event": "Nitto ATP Finals 2025",
+        "match": "Upcoming: Nitto ATP Finals 2025",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090494550",
+        "isLive": false,
+        "event": "Della Maddalena vs Makhachev",
+        "match": "Upcoming: UFC 322",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
+        "genre": "Fight Sports",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090493971",
