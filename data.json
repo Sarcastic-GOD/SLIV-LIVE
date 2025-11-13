@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Norway vs Estonia,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": "hdntl=exp=1763142864~acl=%2f*~id=27432395119123756809803490419582~data=hdntl,2094588,DAI04ME-V3,none~hmac=c331a896ed23fdf64563191475657d7bbca8a93d54e39d8f1cd1ee0c8094d7cd",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763142971~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2094588,DAI04ME-V3,none~hmac=1b96e6accb95903659e56bdf1a492daabb964593a1b61814313f6243e1ae2e54",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,North Macedonia vs Lativa,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143081~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2105080,DAI24ME-V3,none~hmac=cd9d61ec160e61b0539df4ed9d47b82c8699cc1872f3c1f170d242211d216e6d",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Lithunia vs Israel,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": "hdntl=exp=1763142895~acl=%2f*~id=27432395119123756809803490419582~data=hdntl,2037143,DAI23ME-V3,none~hmac=4310946e9c7867e0092ce2d7e40d504e9d989048946aff748458ac80be277c23",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143783~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2037143,DAI23ME-V3,none~hmac=3f4f90c83b6eaef613f3d58389abae14f3d199f5657a5ef958a7c6309a52a5d2",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Azerbaijan vs Iceland,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/_vGwQq9wQvW5ZbCYwvDhJw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": "hdntl=exp=1763142908~acl=%2f*~id=27432395119123756809803490419582~data=hdntl,2105079,DAI08ME-V3,none~hmac=13b4e79bdbc90929e96843550ae8b7f37da6a6ad399a206bc3b9213e468979b1",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143793~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2105079,DAI08ME-V3,none~hmac=aa3b17d63b4263e9a08a7f4082ee1f30870477633ad4cbb1c48fe9bef80bd269",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Czechia vs San Mario,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": "hdntl=exp=1763142924~acl=%2f*~id=27432395119123756809803490419582~data=hdntl,2037140,DAI20ME-V3,none~hmac=dbd6f22321e7d2e35402dbdbc5e2f9a300f3f628d994b4e87237398b640172ca",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143803~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2037140,DAI20ME-V3,none~hmac=a2b5fec91f622d223d3adb09dc662b2c38dad9a7c20e1d12bac582ab6c96c451",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +102,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Armenia vs Hungary,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": "hdntl=exp=1763142939~acl=%2f*~id=27432395119123756809803490419582~data=hdntl,2018458,DAI10ME-V3,none~hmac=e4c0996ca4eb247e840537b45b1bf94b34f8049cd31fcb0932a0dd2dd9c74a3e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143812~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2018458,DAI10ME-V3,none~hmac=ebc413ed7e1115a3ca1d35717d59286453eb7ef4ce95b7dc35a9182b4968c82a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -120,9 +120,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099654~acl=/*~id=27432395119123756809803490419582~hmac=4853bc5db8c255397f8af5560eda91efc06800c4e487579c1e64bf4c222dc8d6",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763099762~acl=/*~id=89070505609450773028188578024909~hmac=d041a5df24fc7082dbe171dc4caff5116d4517820e554d869b635227dad051cd",
+        "sus": "hdntl=exp=1763143822~acl=%2f*~id=89070505609450773028188578024909~data=hdntl,2037139,DAI19ME-V3,none~hmac=200feaa7a42bbecb811a7f0333d60496b6e7024234786c0e5f9a4cef425c3814",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
