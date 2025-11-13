@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762350035335408_EQFs_MD9_France_vs_Ukraine_3nov_landscape_thumb.jpg" group-title="SonyLIV",France vs Ukraine - MD 9 - 14 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763113081~acl=/*~id=11215074352162274195365606298381~hmac=4d6f79ed61d326298b8d678eb8443e5986c474cb0b37c2fe6a130728787d3c40
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762351882019408_EQFs_MD9_Ireland_vs_Portugal_3nov_landscape_thumb.jpg" group-title="SonyLIV",Republic of Ireland vs Portugal - MD 9 - 14 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+cURL Error: Operation timed out after 300120 milliseconds with 0 out of 0 bytes received
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Andorra vs Albania - MD 9 - 14 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",England vs Serbia - MD 9 - 14 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Moldova vs Italy - MD 9 - 14 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011216/1763046599598911_AC25_EMG_IndvsUAE_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs UAE - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/08b7f5b8de2a4ef399b76bb8a6d96cc2/1763046702/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_UAE_30SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
