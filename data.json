@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Pakistan A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763152474~acl=/*~id=96632017509392465714857201830960~hmac=f8cfde8f81b18b7efa799fac542de03892ee545ef920d13c663217588c48d43f",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763152474~acl=/*~id=96632017509392465714857201830960~hmac=f8cfde8f81b18b7efa799fac542de03892ee545ef920d13c663217588c48d43f",
-        "sus": "hdntl=exp=1763195682~acl=%2f*~id=96632017509392465714857201830960~data=hdntl,2037140,DAI20-criclive,none~hmac=c799953873042592120d54e423fb7f7eec2663a50fee93a05cd3bf394d013033",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763153065~acl=/*~id=42617778862276357856990596775899~hmac=7922498a5b0ffad109fee87e8fb6d2f4fb738b244e99c092f5cdd2940bd62c97",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763153065~acl=/*~id=42617778862276357856990596775899~hmac=7922498a5b0ffad109fee87e8fb6d2f4fb738b244e99c092f5cdd2940bd62c97",
+        "sus": "hdntl=exp=1763196365~acl=%2f*~id=42617778862276357856990596775899~data=hdntl,2037140,DAI20-criclive,none~hmac=941ddbf37f65b67bc6033ca28f7545fa1dedc1d207edbcd47546a62e4f1944b7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,9 +29,9 @@
         "venue": "West End Park International Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Pakistan A vs Oman,Asia_CupRising_DPLIVE25,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763152474~acl=/*~id=96632017509392465714857201830960~hmac=f8cfde8f81b18b7efa799fac542de03892ee545ef920d13c663217588c48d43f",
+        "Server1": "?hdnea=exp=1763153065~acl=/*~id=42617778862276357856990596775899~hmac=7922498a5b0ffad109fee87e8fb6d2f4fb738b244e99c092f5cdd2940bd62c97",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763152474~acl=/*~id=96632017509392465714857201830960~hmac=f8cfde8f81b18b7efa799fac542de03892ee545ef920d13c663217588c48d43f",
+        "Server3": "?hdnea=exp=1763153065~acl=/*~id=42617778862276357856990596775899~hmac=7922498a5b0ffad109fee87e8fb6d2f4fb738b244e99c092f5cdd2940bd62c97",
         "sus": false,
         "debug": "||"
     },
@@ -48,6 +48,20 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/08b7f5b8de2a4ef399b76bb8a6d96cc2/1763046702/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_UAE_30SEC_HOR_DATED_APP_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090494284",
+        "isLive": false,
+        "event": "European Qualifiers for 2026 FIFA World Cup",
+        "match": "Upcoming: Luxembourg vs Germany",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5011fd710b3242e9ade17fb0e70a2dee/1762599941/baseline-std-v4/PROMO_LUXEMBOURG_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090494247",
@@ -76,19 +90,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "press conference,UFC Fight Night embedded,UFC Fight Night,UFC news,UFC Fight Night media day,UFC Fight Night face offs,UFC Fight Night countdown,UFC Fight Night live,UFC Fight Night odds,UFC Fight Night picks,UFC Fight Night stream,UFC Fight Night preview,UFC fight pass,UFC Fight Night best bets,UFC Fight Night faceoffs,UFC Fight Night highlights,UFC Fight Night staredowns,UFC Fight Night predictions,UFC press,UFC weigh in,UFC weigh ins,UFC fight night,UFC fight,UFC live,UFC upcoming fights,UFC event,UFC next fight,upcoming UFC events,UFC fight card,UFC live stream,UFC match,fight night,UFC fights today",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090494284",
-        "isLive": false,
-        "event": "European Qualifiers for 2026 FIFA World Cup",
-        "match": "Upcoming: Luxembourg vs Germany",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/5011fd710b3242e9ade17fb0e70a2dee/1762599941/baseline-std-v4/PROMO_LUXEMBOURG_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
