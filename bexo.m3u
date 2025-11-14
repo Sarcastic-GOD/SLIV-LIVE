@@ -4,7 +4,7 @@
 Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036732581604_AsiaCup_PakA_vs_OMA_12nov_live_landscape_thumb.jpg" group-title="SonyLIV",Pakistan A vs Oman - 14 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763148884~acl=/*~id=40208901837000102615787517712100~hmac=4552dbe5f0c57f90f9c783a06341c64994e6e662480057612b223b90d03fd734
+cURL Error: Operation timed out after 300637 milliseconds with 0 out of 0 bytes received
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011146/1762951251827754_AsiaCup_India_vs_UAE_12nov_todayt_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs UAE - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/08b7f5b8de2a4ef399b76bb8a6d96cc2/1763046702/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_UAE_30SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
