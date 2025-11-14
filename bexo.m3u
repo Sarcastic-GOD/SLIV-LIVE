@@ -1,19 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029384461238_AsiaCup_India_vs_UAE_12nov_AudioFeed_Landscape_thumb.jpg" group-title="SonyLIV",India A vs UAE - 14 Nov 2025 - Audio Feed - ENG
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",India A vs UAE - 14 Nov 2025 - Audio Feed - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029458986238_AsiaCup_India_vs_UAE_12nov_live_Landscape_thumb.jpg" group-title="SonyLIV",India A vs UAE - 14 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763165166~acl=/*~id=96561938101057444214243489934126~hmac=a8b2469b15cb7e55666f72ff31f1642bef6f6455afd9a1e2083f62540680f1d3
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763166106~acl=/*~id=27622127292529070759203830826415~hmac=9ee18a838ef72c0679ae6186f763de5e002794b5ddf67f50fa32a74c335e6616
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="SonyLIV",Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763165166~acl=/*~id=96561938101057444214243489934126~hmac=a8b2469b15cb7e55666f72ff31f1642bef6f6455afd9a1e2083f62540680f1d3
+https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166106~acl=/*~id=27622127292529070759203830826415~hmac=9ee18a838ef72c0679ae6186f763de5e002794b5ddf67f50fa32a74c335e6616
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Luxembourg vs Germany - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/5011fd710b3242e9ade17fb0e70a2dee/1762599941/baseline-std-v4/PROMO_LUXEMBOURG_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011210/1763016552719246_ATP_Nitto_Sinner-vs-Shelton_Today_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 322 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd
