@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090494659",
+        "isLive": true,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "India A vs UAE - 14 Nov 2025 ",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029458986238_AsiaCup_India_vs_UAE_12nov_live_Landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Asian Town Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,India A vs UAE,DPWorldAsiaCupRisingStarsMens2025",
+        "Server1": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763160846~acl=/*~id=71363599629531581465303713955720~hmac=583639907fb29a35b9e1b046065af02ea71f45b0d6ad92201f048b6223d9d446",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763160846~acl=/*~id=71363599629531581465303713955720~hmac=583639907fb29a35b9e1b046065af02ea71f45b0d6ad92201f048b6223d9d446",
+        "sus": "hdntl=exp=1763204058~acl=%2f*~id=71363599629531581465303713955720~data=hdntl,2037141,DAI21-criclive,none~hmac=80999471f1fad8e741cfe3123d3bbbe31b215feca6a990e3ba7bb50815b86e7c",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090494567",
         "isLive": true,
         "event": "Nitto ATP Finals 2025",
@@ -12,24 +30,10 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763160326~acl=/*~id=46836674133066483723966401188494~hmac=8d750771b245a5beda1e6df935e9a7f03eb001b21bd4fe1d8307d91edb03a0e3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763160326~acl=/*~id=46836674133066483723966401188494~hmac=8d750771b245a5beda1e6df935e9a7f03eb001b21bd4fe1d8307d91edb03a0e3",
-        "sus": "hdntl=exp=1763203534~acl=%2f*~id=46836674133066483723966401188494~data=hdntl,2037139,DAI19ME-V3,none~hmac=63d1d44f301e2892cb1e4ca6e95612da9f540bd07edc0dc4bf0f9e1ed4cfb723",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763160846~acl=/*~id=71363599629531581465303713955720~hmac=583639907fb29a35b9e1b046065af02ea71f45b0d6ad92201f048b6223d9d446",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763160846~acl=/*~id=71363599629531581465303713955720~hmac=583639907fb29a35b9e1b046065af02ea71f45b0d6ad92201f048b6223d9d446",
+        "sus": "hdntl=exp=1763204562~acl=%2f*~id=71363599629531581465303713955720~data=hdntl,2037139,DAI19ME-V3,none~hmac=8e3312e7c2e25fc4d4725570d419ebae8a0bee848e75985e6136273a4593f5a0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090494661",
-        "isLive": false,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "Upcoming: India A vs UAE",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011146/1762951251827754_AsiaCup_India_vs_UAE_12nov_todayt_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/08b7f5b8de2a4ef399b76bb8a6d96cc2/1763046702/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_UAE_30SEC_HOR_DATED_APP_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090494284",
