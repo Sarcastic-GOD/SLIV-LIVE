@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Finland vs Malta,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763182921~acl=/*~id=78699193635704056396500992855871~hmac=db43cc4752fbb08587d6c1b4fb536dfa0c2f8c8ce0c0ec7a1fc290060841b893",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763182921~acl=/*~id=78699193635704056396500992855871~hmac=db43cc4752fbb08587d6c1b4fb536dfa0c2f8c8ce0c0ec7a1fc290060841b893",
-        "sus": "hdntl=exp=1763226130~acl=%2f*~id=78699193635704056396500992855871~data=hdntl,2018458,DAI10ME-V3,none~hmac=9cf1576fb7604206e8e5c9877f99363d392d4cd84817f1945237ab930f8bb875",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763183289~acl=/*~id=90439027859708372488390538306494~hmac=55360aef5064db26e2d3531b8898e19c75cfbc7016a82e77eee05f50b6b02593",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763183289~acl=/*~id=90439027859708372488390538306494~hmac=55360aef5064db26e2d3531b8898e19c75cfbc7016a82e77eee05f50b6b02593",
+        "sus": "hdntl=exp=1763226497~acl=%2f*~id=90439027859708372488390538306494~data=hdntl,2018458,DAI10ME-V3,none~hmac=6371413328119d1e9a60cba99e7ba2954c3020a3d25449b9f15147b93f577e4c",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,11 +29,11 @@
         "venue": "Inalpi Arena",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
-        "Server1": "?hdnea=exp=1763182921~acl=/*~id=78699193635704056396500992855871~hmac=db43cc4752fbb08587d6c1b4fb536dfa0c2f8c8ce0c0ec7a1fc290060841b893",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763182921~acl=/*~id=78699193635704056396500992855871~hmac=db43cc4752fbb08587d6c1b4fb536dfa0c2f8c8ce0c0ec7a1fc290060841b893",
-        "Server3": "?hdnea=exp=1763182921~acl=/*~id=78699193635704056396500992855871~hmac=db43cc4752fbb08587d6c1b4fb536dfa0c2f8c8ce0c0ec7a1fc290060841b893",
-        "sus": "hdntl=exp=1763226502~acl=%2f*~id=78699193635704056396500992855871~data=hdntl,2037139,DAI19ME-V3,none~hmac=96ade5b88ccdd657a5f7661387318b462a210ad9165d22388434983feb32d337",
-        "debug": "|liveakmt-p-web.slivcdn.com|"
+        "Server1": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763183289~acl=/*~id=90439027859708372488390538306494~hmac=55360aef5064db26e2d3531b8898e19c75cfbc7016a82e77eee05f50b6b02593",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763183289~acl=/*~id=90439027859708372488390538306494~hmac=55360aef5064db26e2d3531b8898e19c75cfbc7016a82e77eee05f50b6b02593",
+        "sus": "hdntl=exp=1763226506~acl=%2f*~id=90439027859708372488390538306494~data=hdntl,2037139,DAI19ME-V3,none~hmac=58e874dd1290d589f5809eefd673c11dbe4338082c5256512ca8562a673402e9",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090494284",
