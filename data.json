@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090494666",
-        "isLive": true,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "India A vs UAE - 14 Nov 2025 - Audio Feed",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029384461238_AsiaCup_India_vs_UAE_12nov_AudioFeed_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Asian Town Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Pakistan A vs Oman,Asia_CupRising_DPLIVE25,India A vs UAE - 14 Nov 2025,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "sus": false,
-        "debug": "||"
-    },
-    {
         "id": "sl1090494659",
         "isLive": true,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
@@ -30,10 +12,28 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,India A vs UAE,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "sus": "hdntl=exp=1763216634~acl=%2f*~id=21369481658749219391617481979100~data=hdntl,2037141,DAI21-criclive,none~hmac=52636cbb48bac76e62e7980517461e832ebe4e6e3908f183e32e4edea00efaf7",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "sus": "hdntl=exp=1763216650~acl=%2f*~id=66487071561403373655063260930021~data=hdntl,2037141,DAI21-criclive,none~hmac=3d02f27e66c6e2c1e40b606af9cf90bed837c8f74ba179f82c9d9c552eacb3f0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090494666",
+        "isLive": true,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "India A vs UAE - 14 Nov 2025 - Audio Feed",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011196/1763029384461238_AsiaCup_India_vs_UAE_12nov_AudioFeed_Landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Asian Town Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Pakistan A vs Oman,Asia_CupRising_DPLIVE25,India A vs UAE - 14 Nov 2025,DPWorldAsiaCupRisingStarsMens2025",
+        "Server1": "?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "Server2": "Video URL not found",
+        "Server3": "?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "sus": false,
+        "debug": "||"
     },
     {
         "id": "sl1090494567",
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,Sinner vs Shelton,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763169875~acl=/*~id=21369481658749219391617481979100~hmac=70742b5a21a786084f9da1daa888b6a0bf6d1ea35050a78640d85fca67551fd7",
-        "sus": "hdntl=exp=1763216644~acl=%2f*~id=21369481658749219391617481979100~data=hdntl,2037139,DAI19ME-V3,none~hmac=054353e20158c78b080a1d06a592086ca472f9f1ce91ed63c7fafc8bca125d79",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763173441~acl=/*~id=66487071561403373655063260930021~hmac=a8d8038e5390a753eb3bb40e8650b625627d1ed7af22ac7220f79b3650f489bd",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
