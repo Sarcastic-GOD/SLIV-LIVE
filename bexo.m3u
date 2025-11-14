@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036732581604_AsiaCup_PakA_vs_OMA_12nov_live_landscape_thumb.jpg" group-title="SonyLIV",Pakistan A vs Oman - 14 Nov 2025  - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763145084~acl=/*~id=03996876664190879270690992342528~hmac=ecf2ce203e0edadf96d0897e4e2aa6f41ca351546e1d9ff6dbe34f49bc55b02b
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036700433604_AsiaCup_PakA_vs_OMA_12nov_AudioFeed_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan A vs Oman - 14 Nov 2025 - Audio Only - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011146/1762951251827754_AsiaCup_India_vs_UAE_12nov_todayt_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs UAE - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/08b7f5b8de2a4ef399b76bb8a6d96cc2/1763046702/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_UAE_30SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011210/1763016552719246_ATP_Nitto_Sinner-vs-Shelton_Today_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 322 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/cb37a6270b2447aebff6edd120d1424f/1762952382/baseline-std-v4/1090494550_12112025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Luxembourg vs Germany - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/5011fd710b3242e9ade17fb0e70a2dee/1762599941/baseline-std-v4/PROMO_LUXEMBOURG_VS_GERMANY_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
