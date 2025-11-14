@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Pakistan A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763151729~acl=/*~id=16015528372867454778604995726330~hmac=367e1c58faa6bad5b3768dfec96fd150ef2019ef9026ccb3645d2536305314b4",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763151729~acl=/*~id=16015528372867454778604995726330~hmac=367e1c58faa6bad5b3768dfec96fd150ef2019ef9026ccb3645d2536305314b4",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763151963~acl=/*~id=01100654744115935644603412973625~hmac=40d17091fade1fe2fd8296ba72753d183650fd96b38c8dadbf77cff72d4ffd35",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763151963~acl=/*~id=01100654744115935644603412973625~hmac=40d17091fade1fe2fd8296ba72753d183650fd96b38c8dadbf77cff72d4ffd35",
+        "sus": "hdntl=exp=1763195172~acl=%2f*~id=01100654744115935644603412973625~data=hdntl,2037140,DAI20-criclive,none~hmac=2cb97878c3d9237be1752ac34872c77808b9cd1e739a92251f292dc6301f57fb",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,9 +29,9 @@
         "venue": "West End Park International Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Pakistan A vs Oman,Asia_CupRising_DPLIVE25,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763151729~acl=/*~id=16015528372867454778604995726330~hmac=367e1c58faa6bad5b3768dfec96fd150ef2019ef9026ccb3645d2536305314b4",
+        "Server1": "?hdnea=exp=1763151963~acl=/*~id=01100654744115935644603412973625~hmac=40d17091fade1fe2fd8296ba72753d183650fd96b38c8dadbf77cff72d4ffd35",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763151729~acl=/*~id=16015528372867454778604995726330~hmac=367e1c58faa6bad5b3768dfec96fd150ef2019ef9026ccb3645d2536305314b4",
+        "Server3": "?hdnea=exp=1763151963~acl=/*~id=01100654744115935644603412973625~hmac=40d17091fade1fe2fd8296ba72753d183650fd96b38c8dadbf77cff72d4ffd35",
         "sus": false,
         "debug": "||"
     },
