@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090494825",
-        "isLive": true,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": " Bangladesh A vs Hong Kong, China - 15 Nov 2025 - Audio Only",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132275967370_ACC25_BAN_A_vs_HongKong_Audio_Commentary_Stream_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Asian Town Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Hong Kong,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763241083~acl=/*~id=51292964904421812550089694868501~hmac=56a638ba9e0136683c5b2972f9a49def25580940f4fccd43f11168cf50c36c3a",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763241083~acl=/*~id=51292964904421812550089694868501~hmac=56a638ba9e0136683c5b2972f9a49def25580940f4fccd43f11168cf50c36c3a",
-        "sus": false,
-        "debug": "||"
-    },
-    {
         "id": "sl1090494816",
         "isLive": true,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
@@ -30,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Bangladesh A vs Hong Kong,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763241083~acl=/*~id=51292964904421812550089694868501~hmac=56a638ba9e0136683c5b2972f9a49def25580940f4fccd43f11168cf50c36c3a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763241083~acl=/*~id=51292964904421812550089694868501~hmac=56a638ba9e0136683c5b2972f9a49def25580940f4fccd43f11168cf50c36c3a",
-        "sus": "hdntl=exp=1763285223~acl=%2f*~id=51292964904421812550089694868501~data=hdntl,2037140,DAI20-criclive,none~hmac=68b62eaef3784969d3fa1a52c4eda1d0101f7c0597392454f02b55b864a55dbb",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763242158~acl=/*~id=72085781044480720145754273793268~hmac=484e64bdce035f0eeb1a2f299605108e3aace804a6d9663ed00b2357dbe5413a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763242158~acl=/*~id=72085781044480720145754273793268~hmac=484e64bdce035f0eeb1a2f299605108e3aace804a6d9663ed00b2357dbe5413a",
+        "sus": "hdntl=exp=1763285373~acl=%2f*~id=72085781044480720145754273793268~data=hdntl,2037140,DAI20-criclive,none~hmac=9d49620c4c8a9c60985979deac9f22564d01af9f704499b1f67324dc8a7cd6e0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
