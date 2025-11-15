@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV", Bangladesh A vs Hong Kong, China - 15 Nov 2025 - Audio Only - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132275967370_ACC25_BAN_A_vs_HongKong_Audio_Commentary_Stream_Landscape_thumb.jpg" group-title="SonyLIV", Bangladesh A vs Hong Kong, China - 15 Nov 2025 - Audio Only - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Bangladesh A vs Hong Kong, China - 15 Nov 2025  - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh A vs Hong Kong, China - 15 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763240104~acl=/*~id=27394816808182557035423715722698~hmac=80e5c5717c4b8afdc23af62f74483bb5fecacab47126bc123821fe145f276af8
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763240655~acl=/*~id=44612091629439404775133747875929~hmac=2eba8b2d849f61666327847f122beb0a7717fd652ae228ac4dfd7ab6a07a9637
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011302/1763161454260202_ACRS25_IND_A_VS_PAK_A_15nov_dated_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Pakistan A - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/cc07c2140a5745288dae8d04d90cba17/1763024394/baseline-std-v4/ASIA_CUP_RISING_STAR_IND_VS_PAK_30SEC_HOR_DATED_APP_IND_eng_baseline-800300010.mpd
+https://streaming.sonyliv.com/trailer/DASH/f9786ae38dd74861b64f33e179a9b4bf/1763196768/baseline-std-v4/PROMO_IND_vs_PAK_RISING_STAR_FOR_JIO_30SEC_HOR_DATED_APP_REV_1_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011273/1763133791089845_ACC25_SLA_vs_AFGA_today_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Asia Cup Rising Stars Men's 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/786c7a99ebd44f20ad1abf43fee74b82/1763133337/baseline-std-v4/RISING_STAR_ASIA_CUP_30_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
