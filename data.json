@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090494704",
-        "isLive": true,
-        "event": "European Qualifiers For 2026 FIFA World Cup",
-        "match": "Georgia vs Spain - MD 9 - 15 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356847394408_EQFs_MD9_Georgia_vs_Spain_3nov_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Boris Paichadze National Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Georgia vs Spain,EuropeanQualifiersFor2026FIFAWorldCup",
-        "Server1": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763276466~acl=/*~id=44937770236827056201525224216780~hmac=46d46a6c21e4376c61defa5f8eacb2f3d776ade6d67cf2b09331e1a5a49bbb6c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763276466~acl=/*~id=44937770236827056201525224216780~hmac=46d46a6c21e4376c61defa5f8eacb2f3d776ade6d67cf2b09331e1a5a49bbb6c",
-        "sus": "hdntl=exp=1763319674~acl=%2f*~id=44937770236827056201525224216780~data=hdntl,2105079,DAI08ME-V3,none~hmac=f0c14be562eb6a7d995af7f90d9eb9d8a49c0448a653720955846fad6fca1dbc",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090494842",
         "isLive": true,
         "event": "Nitto ATP Finals 2025",
@@ -30,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763276466~acl=/*~id=44937770236827056201525224216780~hmac=46d46a6c21e4376c61defa5f8eacb2f3d776ade6d67cf2b09331e1a5a49bbb6c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763276466~acl=/*~id=44937770236827056201525224216780~hmac=46d46a6c21e4376c61defa5f8eacb2f3d776ade6d67cf2b09331e1a5a49bbb6c",
-        "sus": "hdntl=exp=1763319692~acl=%2f*~id=44937770236827056201525224216780~data=hdntl,2037139,DAI19ME-V3,none~hmac=ace2ca06f99e8e8ea7a32e546c2b012eebbf1e87cab17f2ebc5841278c4eebed",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763276557~acl=/*~id=60433951281823575412485939070087~hmac=c44a9e3405abc364a3ed6b8b6afea5c06398f5ffbe1733dfa30e61739e555f76",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763276557~acl=/*~id=60433951281823575412485939070087~hmac=c44a9e3405abc364a3ed6b8b6afea5c06398f5ffbe1733dfa30e61739e555f76",
+        "sus": "hdntl=exp=1763319766~acl=%2f*~id=60433951281823575412485939070087~data=hdntl,2037139,DAI19ME-V3,none~hmac=26a4f5e5ca40959c0b7f8499c9a54146338bf6e52ee265fa2288a745b35bd225",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
