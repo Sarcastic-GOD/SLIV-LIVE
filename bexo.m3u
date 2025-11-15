@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762358431625408_EQFs_MD9_Bosnia_Herzegovina_vs_Romania_3nov_landscape_thumb.jpg" group-title="SonyLIV",Bosnia-Herzegovina vs Romania - MD 9 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763286768~acl=/*~id=73407453693032581146171099526987~hmac=29dc73bab33db9c6df27978469ed34572324ee3656bc3ad6a9b76693933f2740
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Switzerland vs Sweden - MD 9 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Greece vs Scotland - MD 9 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Denmark vs Belarus - MD 9 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011302/1763161472492202_ACRS25_IND_A_VS_PAK_A_15nov_tonight_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Pakistan A - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f9786ae38dd74861b64f33e179a9b4bf/1763196768/baseline-std-v4/PROMO_IND_vs_PAK_RISING_STAR_FOR_JIO_30SEC_HOR_DATED_APP_REV_1_eng_baseline-800300010.mpd
