@@ -1,7 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214919816370_ACC25_UAE_vs_OMA_live_Landscapet_thumb.jpg" group-title="SonyLIV",UAE vs Oman - 16 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763337844~acl=/*~id=15470857968116321397917272222836~hmac=e24dd71ca334c8bf83ba71d44fb2756897bb00d20995b9bed94596f5c01388a3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763215018446370_ACC25_UAE_vs_OMA_audio_commentary_stream_Landscape_thumb.jpg" group-title="SonyLIV",UAE vs Oman - 16 Nov 2025 - Audio Only - ENG
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763342495~acl=/*~id=14165347875297342759754106404970~hmac=2360e6285cf3540b3eabf191bb30e34c8849f20d86b0535c33cff38b90f6051d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011302/1763161472492202_ACRS25_IND_A_VS_PAK_A_15nov_tonight_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Pakistan A - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
+https://streaming.sonyliv.com/trailer/DASH/f9786ae38dd74861b64f33e179a9b4bf/1763196768/baseline-std-v4/PROMO_IND_vs_PAK_RISING_STAR_FOR_JIO_30SEC_HOR_DATED_APP_REV_1_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763246170363573_EQ25_Albania_vs_England_16nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Albania vs England - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/485adb5d3597445eac827dc0b2ddd060/1763120892/baseline-std-v4/PROMO_EUROPEAN_QUALIFIER_MD_10_ALBANIA_V_ENGLAND_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763245913650573_EQ25_Azerbaijan_vs_France_16nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Azerbaijan vs France - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/41dbe786177c4491830db9a22f6a1f53/1763121134/baseline-std-v4/PROMO_EUROPEAN_QUALIFIER_MD_10_AZERBAIJAN_V_FRANCE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011377/176327170619472_NittoATPFinals2025_final_alcaraz_vs_sinner_16nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
