@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011341/1763213747313557_NZvsWI25_1st_ODI_landscape_thumb.jpg" group-title="SonyLIV",1st ODI - 16 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763321594~acl=/*~id=44574882613487248075131730582439~hmac=d3e70080757f08cbc9e76d6f7220639928a1d0e63b1e791dd892b0ac715b867d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011302/1763161472492202_ACRS25_IND_A_VS_PAK_A_15nov_tonight_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Pakistan A - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f9786ae38dd74861b64f33e179a9b4bf/1763196768/baseline-std-v4/PROMO_IND_vs_PAK_RISING_STAR_FOR_JIO_30SEC_HOR_DATED_APP_REV_1_eng_baseline-800300010.mpd
