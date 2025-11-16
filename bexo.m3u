@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg" group-title="SonyLIV",India A vs Pakistan A - 16 Nov 2025  - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763353209~acl=/*~id=48247139099575205161073091017175~hmac=e44f4aee6633ce2bf482f82d1469fa22dae039ccec3261167db21fefd9399273
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214621821370_ACC25_INDA_vs_PAKA_audio_commentary_stream_Landscape_thumb.jpg" group-title="SonyLIV",India A vs Pakistan A - 16 Nov 2025  - Audio Feed - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011370/1763252394738513_nitto_atp_finals25_doubles_Final_16nov_landscape_thumb.jpg" group-title="SonyLIV",Heliovaara/Patten vs Salisbury/Skupski - Final - 16 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg" group-title="SonyLIV",India A vs Pakistan A - 16 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763353209~acl=/*~id=48247139099575205161073091017175~hmac=e44f4aee6633ce2bf482f82d1469fa22dae039ccec3261167db21fefd9399273
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011377/176327170619472_NittoATPFinals2025_final_alcaraz_vs_sinner_16nov_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Nitto ATP Finals 2025 - ENG
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763353705~acl=/*~id=83259552956357526176307888427300~hmac=ec73bc6ee33c035fb81707dea446be6e0f8bb3f56eb7bf68896ffb0202f910b7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762158780606493_EQ2526_MD10_Azerbaijan-vs-France_3nov_landscape_thumb.jpg" group-title="SonyLIV",Azerbaijan vs France - MD 10 - 16 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/8e6985bdec3d4c3e9e3598c8a1c9c837/1762522624/baseline-std-v4/PROMO_ATP_NITTO_FINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763353705~acl=/*~id=83259552956357526176307888427300~hmac=ec73bc6ee33c035fb81707dea446be6e0f8bb3f56eb7bf68896ffb0202f910b7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762164326758493_EQ2526_MD10_Serbia-vs-Latvia_3nov_landscape_thumb.jpg" group-title="SonyLIV",Serbia vs Latvia - MD 10 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763353705~acl=/*~id=83259552956357526176307888427300~hmac=ec73bc6ee33c035fb81707dea446be6e0f8bb3f56eb7bf68896ffb0202f910b7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762154708831493_EQ2526_MD10_Albania-vs-England_3nov_landscape_thumb.jpg" group-title="SonyLIV",Albania vs England - MD 10 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763353705~acl=/*~id=83259552956357526176307888427300~hmac=ec73bc6ee33c035fb81707dea446be6e0f8bb3f56eb7bf68896ffb0202f910b7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762164483112493_EQ2526_MD10_Ukraine-vs-Iceland_3nov_landscape_thumb.jpg" group-title="SonyLIV",Ukraine vs Iceland - MD 10 - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763353705~acl=/*~id=83259552956357526176307888427300~hmac=ec73bc6ee33c035fb81707dea446be6e0f8bb3f56eb7bf68896ffb0202f910b7
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Heliovaara/Patten vs Salisbury/Skupski - Final - 16 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
