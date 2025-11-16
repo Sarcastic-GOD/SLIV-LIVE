@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,India A vs Pakistan A,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397250~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2037141,DAI21-criclive,none~hmac=190d87f06904049871d8320facf5b1c90c9b5f4da7f7dba50ea7d85a4c1a6cb5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,29 +29,11 @@
         "venue": "West End Park International Cricket Stadium, Doha",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Sri Lanka A vs Afghanistan A,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
+        "Server1": "?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
+        "Server3": "?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
         "sus": false,
         "debug": "||"
-    },
-    {
-        "id": "sl1090494885",
-        "isLive": true,
-        "event": "European Qualifiers For 2026 FIFA World Cup",
-        "match": "Azerbaijan vs France - MD 10 - 16 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762158780606493_EQ2526_MD10_Azerbaijan-vs-France_3nov_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Tofiq Bahramov Republican Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Azerbaijan vs France,EuropeanQualifiersFor2026FIFAWorldCup",
-        "Server1": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397263~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2022319,DAI15ME-V3,none~hmac=ff506255ff2d0cca28400ef082b8c449167efdb831ecbbdaa6af93465fe1bceb",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090494886",
@@ -66,9 +48,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Serbia vs Latvia,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397274~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2022320,DAI16ME-V3,none~hmac=447f2b42c2c1600c7c17b26a5ca2c7fa98e8c713d2d697530201d987f72cec3f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": "hdntl=exp=1763397799~acl=%2f*~id=82191404960874512301810966985233~data=hdntl,2022320,DAI16ME-V3,none~hmac=037d992676d823d481a384314f034fc0bd235d3109334c0fbb5daebef6f3aa6d",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090494885",
+        "isLive": true,
+        "event": "European Qualifiers For 2026 FIFA World Cup",
+        "match": "Azerbaijan vs France - MD 10 - 16 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762158780606493_EQ2526_MD10_Azerbaijan-vs-France_3nov_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Tofiq Bahramov Republican Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Azerbaijan vs France,EuropeanQualifiersFor2026FIFAWorldCup",
+        "Server1": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": "hdntl=exp=1763397810~acl=%2f*~id=82191404960874512301810966985233~data=hdntl,2022319,DAI15ME-V3,none~hmac=52109627e6a972ab723d5b6015a304429f4cb25ed72a6d8d2cc9d9659e0b09dd",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Albania vs England,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/CF1Hr4PVTKa6GbX9XbRPNQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397283~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2094588,DAI04ME-V3,none~hmac=963ab6a4cbc4b0ac87e76c90ad8b19a5d550d1a3e9ebbc396426f3d7583bfb4a",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": "hdntl=exp=1763397819~acl=%2f*~id=82191404960874512301810966985233~data=hdntl,2094588,DAI04ME-V3,none~hmac=95a8108ae1164c47997fe91419555b39d0fb46e575944fb65128a45126cd212f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +102,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "European Qualifiers For 2026 FIFA World Cup,Portugal,Poland,England,Romania,Andorra,Latvia,Malta,Finland,European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,Robert Lewandowski World Cup Qualifiers Goals,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team,sports_adsupported,EuropeanWCQual_Live25,nopreroll_livectv,European_Qualifiers_FIFA_WORLDCUP_2026_LIVE,Ukraine vs Iceland,EuropeanQualifiersFor2026FIFAWorldCup",
         "Server1": "https://dai.google.com/ssai/event/TKze0MRpTtao4BnnLtCNng/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397292~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2094587,DAI03ME-V3,none~hmac=40e46c2bdd936926313afe41f703bc6918da1c5956e838795bcdefec1b5bf9b6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": "hdntl=exp=1763397828~acl=%2f*~id=82191404960874512301810966985233~data=hdntl,2094587,DAI03ME-V3,none~hmac=d033eacef1f0c89fff1303fc1ba1786b9ec47221ee6243f71fd0c50754cdd1c6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -120,9 +120,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "atp,Nitto ATP Finals,atp tournaments,atp tennis,atp livescore,atp masters,atp flashscore,Nitto ATP,atp Finals 2025,Nitto ATP Finals 2025,atp championship,tennis Nitto ATP,Nitto ATP 2025,atp Finals live stream,Nitto ATP live streaming,atp masters 2025,Nitto ATP tournaments,Nitto ATP 2025 Finals,atp masters 2025 Finals,watch Nitto ATP 2025 Finals,watch Nitto ATP 2025 online,watch Nitto ATP 2025 live,tennis,tennis game,tennis player,tennis matches,international tennis,tennis live streaming,tennis tournament schedule,tennis stars,doubles mixed tennis,men's doubles,international tennis player,men's single tennis,singles final,doubles final,tennis highlights 2025,Nitto Finals tennis tournament,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Alexander Zverev,Taylor Fritz,Ben Shelton,Alex de Minaur,live_atpnitto15,sports_adsupported,nopreroll_livectv,NittoATPFinals2025",
         "Server1": "https://dai.google.com/ssai/event/MddyccyuQ62_PRCt0Hlqqg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354042~acl=/*~id=70888920853840890732044916682874~hmac=92a070d4713c5d1499e4fdd9c069bdca6ba8309f3564ad48bc5929a97f630abe",
-        "sus": "hdntl=exp=1763397300~acl=%2f*~id=70888920853840890732044916682874~data=hdntl,2037139,DAI19ME-V3,none~hmac=205e2f180179f3ccfce44909e479982ebbbf9c4ec3d34d01e6e4e415a204ee7c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763354470~acl=/*~id=82191404960874512301810966985233~hmac=0269e10f20178f910ab3be7b4f257fc124402bf24b0ffc15f8e00c8657e968d7",
+        "sus": "hdntl=exp=1763397840~acl=%2f*~id=82191404960874512301810966985233~data=hdntl,2037139,DAI19ME-V3,none~hmac=77fcd826c744e48067c9ea64f687e33f1a82d0f6726933e48a8cc9b8a1c9e176",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
