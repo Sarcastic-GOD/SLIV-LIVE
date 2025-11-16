@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "sus": "hdntl=exp=1763352370~acl=%2f*~id=04342000977327724713853883833478~data=hdntl,2018457,wivsnz,ENG~hmac=02158175ec5506cb6d7a183b3a5a5322e489c374aac5620fe783dfbcae691270",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Della Maddalena vs Makhachev,Maddalena,Della Maddalena,UFC 322,UFC322DellaMaddalenavsMakhachev",
         "Server1": "https://dai.google.com/ssai/event/6SkZLVZbSgGyoKd8L_mppg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "sus": "hdntl=exp=1763352380~acl=%2f*~id=04342000977327724713853883833478~data=hdntl,2018458,DAI10ME-V3,none~hmac=9032f0734eb63d618a673aaa60596c0defa3cbb055e4378339752f475b527ce7",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Della Maddalena vs Makhachev,Maddalena,Della Maddalena,UFC 322,UFC322DellaMaddalenavsMakhachev",
         "Server1": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "sus": "hdntl=exp=1763352734~acl=%2f*~id=08661550981869755830993734833200~data=hdntl,2094587,DAI03ME-V3,none~hmac=aa48a705499cc0594ca74b41cbcd44ed65a873f9c8b3168fa38d4321419b2679",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Della Maddalena vs Makhachev,Maddalena,Della Maddalena,UFC 322,UFC322DellaMaddalenavsMakhachev",
         "Server1": "https://dai.google.com/ssai/event/SUnmyIb6QE-jzIy9Zp54KQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "sus": "hdntl=exp=1763352407~acl=%2f*~id=04342000977327724713853883833478~data=hdntl,2005445,DAI06ME-V3,none~hmac=0f939e87a9f5d30d9982d41230315bab2771815f89912b48a3b767c9f379ca2a",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,Della Maddalena vs Makhachev,Maddalena,Della Maddalena,UFC 322,UFC322DellaMaddalenavsMakhachev",
         "Server1": "https://dai.google.com/ssai/event/SXGI53qCTm6LYdjpY6aEAw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309162~acl=/*~id=04342000977327724713853883833478~hmac=238edfdbaa61f0256dc5612fa6cfc12fb98ca7df8a168845fbb20835e01bc015",
-        "sus": "hdntl=exp=1763352417~acl=%2f*~id=04342000977327724713853883833478~data=hdntl,2022316,DAI12ME-V3,none~hmac=4d0237b21575760256d759c276d5e1380b96fece30d90a86189e89510c065d45",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763309417~acl=/*~id=08661550981869755830993734833200~hmac=891301ea751b3513a58f8effe890f0bd8548d90cc5f727867f6ebc79338c795d",
+        "sus": "hdntl=exp=1763352840~acl=%2f*~id=08661550981869755830993734833200~data=hdntl,2022316,DAI12ME-V3,none~hmac=c860b6ffc080a40eab4c55155bd33ec46d6905812e75582147fdf1e2db2e01a1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
