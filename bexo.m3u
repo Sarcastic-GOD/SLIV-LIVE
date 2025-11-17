@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011456/1763381288621228_ACC25_INDA_vs_OMA_ton_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Oman - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/a2ae7e3f5df5421380fc6b78683572e6/1763368006/baseline-std-v4/ASIA_CUP_RISING_STAR_INDIA_VS_OMAN_25SEC_HOR_DATED__APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011369/1763252101678229_NZvsWI25_2ODI_16nov_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763385330952787_EQ_25_25_Spain-vs-Turkiye_ddt_Lanascape_thumb.jpg" group-title="SonyLIV",Upcoming: Spain vs Turkiye - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/3515b7142b174539b08f784e96af0c12/1763124241/baseline-std-v4/PROMO_EUROPEAN_QUALIFIER_MD_10_SPAIN_V_TURKIYE_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763386603830787_EQ_25_25_Belgium-vs-Liechtenstein_tonight_Lanascape_thumb.jpg" group-title="SonyLIV",Upcoming: Belgium vs Liechtenstein - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/263cfebca18a42fd8f8fb78bdafc1b6e/1763121270/baseline-std-v4/PROMO_EUROPEAN_QUALIFIER_MD_10_BELGIUM_V_LIECHTENSTEIN_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
