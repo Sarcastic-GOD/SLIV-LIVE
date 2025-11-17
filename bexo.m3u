@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011393/1763307705817139_ACRS25_SL_A_vs_HKC_16nov_Landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka A vs Hong Kong, China - 17 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763425999~acl=/*~id=85081199109838062870268255746898~hmac=0b5214085c558377a93733220491f64a0113d469c32e535f54854256888364a0
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763421844~acl=/*~id=94273897548225488718517009232778~hmac=480875ec8a0a313aed64437bd51f450c993097c4799856b9df9f8edb27d85de5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011398/1763310640289284_ACRS25_SL_A_vs_HKC_16nov_ACS_Landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka A vs Hong Kong, China - 17 Nov 2025 - Audio Only - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011456/1763381272552228_ACC25_INDA_vs_OMA_ddt_landscape_thumb_Re1.jpg" group-title="SonyLIV",Upcoming: India A vs Oman - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a2ae7e3f5df5421380fc6b78683572e6/1763368006/baseline-std-v4/ASIA_CUP_RISING_STAR_INDIA_VS_OMAN_25SEC_HOR_DATED__APP_hin_baseline-800300010.mpd
