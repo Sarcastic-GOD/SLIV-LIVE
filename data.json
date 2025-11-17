@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Finland vs Andorra,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449122~acl=/*~id=17259092837067634717087420998918~hmac=12cf8b8ad824f59e0440fd92fdbbd13bb96f37e2dda199dde84e76e12530d129",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763449122~acl=/*~id=17259092837067634717087420998918~hmac=12cf8b8ad824f59e0440fd92fdbbd13bb96f37e2dda199dde84e76e12530d129",
-        "sus": "hdntl=exp=1763492366~acl=%2f*~id=17259092837067634717087420998918~data=hdntl,2018457,DAI09ME-V3,none~hmac=16f23dfd7f0ef6c17358ef3ab676b8b6155ef85f14b9bcfc04e193b1300df741",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449207~acl=/*~id=56267913141072511399828957459349~hmac=16f637cbdeb7d261658e80ff6d8dbae01bc25f3ddff14833ebd4c5a631c7100f",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763449207~acl=/*~id=56267913141072511399828957459349~hmac=16f637cbdeb7d261658e80ff6d8dbae01bc25f3ddff14833ebd4c5a631c7100f",
+        "sus": "hdntl=exp=1763492456~acl=%2f*~id=56267913141072511399828957459349~data=hdntl,2018457,DAI09ME-V3,none~hmac=ce839d76d3cb96112a82e869db812f995f058774ef9cf0fbcb3dc89fca8ec6c9",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
