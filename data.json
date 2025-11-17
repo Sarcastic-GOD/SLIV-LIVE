@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Sri Lanka A vs Hong Kong,China,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763423716~acl=/*~id=92646681641022612731547093870258~hmac=38c99c2a1aed5f104416fbb0cbf8fc63644be45f6b6000ebfb0b990fcc1a49b4",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763423716~acl=/*~id=92646681641022612731547093870258~hmac=38c99c2a1aed5f104416fbb0cbf8fc63644be45f6b6000ebfb0b990fcc1a49b4",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763423777~acl=/*~id=33939579956329187464788624004042~hmac=1f89f35b4e36acdfbf7dddddb5fa2b1535838b4adc3ab4193eade8eacda5b6d8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763423777~acl=/*~id=33939579956329187464788624004042~hmac=1f89f35b4e36acdfbf7dddddb5fa2b1535838b4adc3ab4193eade8eacda5b6d8",
+        "sus": "hdntl=exp=1763466986~acl=%2f*~id=33939579956329187464788624004042~data=hdntl,2037140,DAI20-criclive,none~hmac=e7805440456a5f21cacdb0388de98aebe4acb54913eae61ed9973b47c3a21a80",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,11 +29,25 @@
         "venue": "Asian Town Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,UAE vs Oman,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763423716~acl=/*~id=92646681641022612731547093870258~hmac=38c99c2a1aed5f104416fbb0cbf8fc63644be45f6b6000ebfb0b990fcc1a49b4",
+        "Server1": "?hdnea=exp=1763423777~acl=/*~id=33939579956329187464788624004042~hmac=1f89f35b4e36acdfbf7dddddb5fa2b1535838b4adc3ab4193eade8eacda5b6d8",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763423716~acl=/*~id=92646681641022612731547093870258~hmac=38c99c2a1aed5f104416fbb0cbf8fc63644be45f6b6000ebfb0b990fcc1a49b4",
+        "Server3": "?hdnea=exp=1763423777~acl=/*~id=33939579956329187464788624004042~hmac=1f89f35b4e36acdfbf7dddddb5fa2b1535838b4adc3ab4193eade8eacda5b6d8",
         "sus": false,
         "debug": "||"
+    },
+    {
+        "id": "sl1090495191",
+        "isLive": false,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "Upcoming: India A vs Oman",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763379603917524_ACC25_INDA_vs_OMA_ddt_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "HIN",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a2ae7e3f5df5421380fc6b78683572e6/1763368006/baseline-std-v4/ASIA_CUP_RISING_STAR_INDIA_VS_OMAN_25SEC_HOR_DATED__APP_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090494830",
