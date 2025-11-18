@@ -11,9 +11,9 @@
         "venue": "Asian Town Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Afghanistan A,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763518681~acl=/*~id=37105788599193614521890149614328~hmac=b320b8fea17157a29fb46073bd8218faa280c8ddc5ccc8378e2b0bf581ebccc7",
+        "Server1": "?hdnea=exp=1763518801~acl=/*~id=07862653115676276137517680198537~hmac=ccf1639d62fcfe10fc76a68beb47516cc251e301af2c26906172844c351dd44e",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763518681~acl=/*~id=37105788599193614521890149614328~hmac=b320b8fea17157a29fb46073bd8218faa280c8ddc5ccc8378e2b0bf581ebccc7",
+        "Server3": "?hdnea=exp=1763518801~acl=/*~id=07862653115676276137517680198537~hmac=ccf1639d62fcfe10fc76a68beb47516cc251e301af2c26906172844c351dd44e",
         "sus": false,
         "debug": "||"
     },
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,India A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763518681~acl=/*~id=37105788599193614521890149614328~hmac=b320b8fea17157a29fb46073bd8218faa280c8ddc5ccc8378e2b0bf581ebccc7",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763518681~acl=/*~id=37105788599193614521890149614328~hmac=b320b8fea17157a29fb46073bd8218faa280c8ddc5ccc8378e2b0bf581ebccc7",
-        "sus": "hdntl=exp=1763561884~acl=%2f*~id=37105788599193614521890149614328~data=hdntl,2037141,DAI21-criclive,none~hmac=13a3719afe9caa37c43ee872d3da51e2bd673e64ff7b979d559d6ecab6e9660b",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763518801~acl=/*~id=07862653115676276137517680198537~hmac=ccf1639d62fcfe10fc76a68beb47516cc251e301af2c26906172844c351dd44e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763518801~acl=/*~id=07862653115676276137517680198537~hmac=ccf1639d62fcfe10fc76a68beb47516cc251e301af2c26906172844c351dd44e",
+        "sus": "hdntl=exp=1763562003~acl=%2f*~id=07862653115676276137517680198537~data=hdntl,2037141,DAI21-criclive,none~hmac=0096171365fd7f7a994c2c3bae024f59fc8fbf3879d110804068207109924286",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
