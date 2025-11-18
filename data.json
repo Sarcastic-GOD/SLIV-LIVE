@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,Pakistan Shaheens vs UAE,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763508842~acl=/*~id=89438420742366162763607595479870~hmac=02b8b69921031bcfe23ff3ba8c716766f8f87f3a8c98d0de89049c32233dfb9e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763508842~acl=/*~id=89438420742366162763607595479870~hmac=02b8b69921031bcfe23ff3ba8c716766f8f87f3a8c98d0de89049c32233dfb9e",
-        "sus": "hdntl=exp=1763552162~acl=%2f*~id=89438420742366162763607595479870~data=hdntl,2037140,DAI20-criclive,none~hmac=5189d05d20e7b28c9f8da08b0242b7202b2143ac8522192430787c44a3423185",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763508961~acl=/*~id=79230598684987236869521132479190~hmac=c8d9e1feb726c7be062cd81518773c76f789aac4a754f991f522972fa2197901",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763508961~acl=/*~id=79230598684987236869521132479190~hmac=c8d9e1feb726c7be062cd81518773c76f789aac4a754f991f522972fa2197901",
+        "sus": "hdntl=exp=1763552170~acl=%2f*~id=79230598684987236869521132479190~data=hdntl,2037140,DAI20-criclive,none~hmac=2f7dacfba26e0968a6531a8b2ce55630a6753abe0627593ece19ca995f787746",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,9 +29,9 @@
         "venue": "Asian Town Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Pakistan Shaheens vs UAE,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763508842~acl=/*~id=89438420742366162763607595479870~hmac=02b8b69921031bcfe23ff3ba8c716766f8f87f3a8c98d0de89049c32233dfb9e",
+        "Server1": "?hdnea=exp=1763508961~acl=/*~id=79230598684987236869521132479190~hmac=c8d9e1feb726c7be062cd81518773c76f789aac4a754f991f522972fa2197901",
         "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763508842~acl=/*~id=89438420742366162763607595479870~hmac=02b8b69921031bcfe23ff3ba8c716766f8f87f3a8c98d0de89049c32233dfb9e",
+        "Server3": "?hdnea=exp=1763508961~acl=/*~id=79230598684987236869521132479190~hmac=c8d9e1feb726c7be062cd81518773c76f789aac4a754f991f522972fa2197901",
         "sus": false,
         "debug": "||"
     },
