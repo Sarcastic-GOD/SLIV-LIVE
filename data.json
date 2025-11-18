@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Faroe Islands vs Kazakhstan,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/_vGwQq9wQvW5ZbCYwvDhJw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534761~acl=/*~id=98201543037631125735700741642310~hmac=a0c3e4bf7a91efd7bdf12ddbb68081a4bc62dc411184fdbd94a84ab1f3996a7d",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763534761~acl=/*~id=98201543037631125735700741642310~hmac=a0c3e4bf7a91efd7bdf12ddbb68081a4bc62dc411184fdbd94a84ab1f3996a7d",
-        "sus": "hdntl=exp=1763577971~acl=%2f*~id=98201543037631125735700741642310~data=hdntl,2022320,DAI16ME-V3,none~hmac=e920770121e44ac2faf4ee0d7a1ef556e5218965f59c80752a38ff46b0f854c4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534880~acl=/*~id=30384311444967508182751730900896~hmac=651ec9266398471f177b8edb955c4b370e81adcba51400433e623d6412779202",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763534880~acl=/*~id=30384311444967508182751730900896~hmac=651ec9266398471f177b8edb955c4b370e81adcba51400433e623d6412779202",
+        "sus": "hdntl=exp=1763578081~acl=%2f*~id=30384311444967508182751730900896~data=hdntl,2022320,DAI16ME-V3,none~hmac=810244328c2729340927ae257c42dface0b1fb9583caf205eee5e68d0528183a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Cyprus vs Estonia,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534761~acl=/*~id=98201543037631125735700741642310~hmac=a0c3e4bf7a91efd7bdf12ddbb68081a4bc62dc411184fdbd94a84ab1f3996a7d",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763534761~acl=/*~id=98201543037631125735700741642310~hmac=a0c3e4bf7a91efd7bdf12ddbb68081a4bc62dc411184fdbd94a84ab1f3996a7d",
-        "sus": "hdntl=exp=1763577981~acl=%2f*~id=98201543037631125735700741642310~data=hdntl,2022316,DAI12ME-V3,none~hmac=7f90bd6a12ff5daecef68a542cb25fb934c034dbed0baa9411ab0c662d60b1f4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763534880~acl=/*~id=30384311444967508182751730900896~hmac=651ec9266398471f177b8edb955c4b370e81adcba51400433e623d6412779202",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763534880~acl=/*~id=30384311444967508182751730900896~hmac=651ec9266398471f177b8edb955c4b370e81adcba51400433e623d6412779202",
+        "sus": "hdntl=exp=1763578082~acl=%2f*~id=30384311444967508182751730900896~data=hdntl,2022316,DAI12ME-V3,none~hmac=69df8a1f33dd6bb88349a1a2b3ff519c1d529fb3ca69fa06d4adadf4edcaff35",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
