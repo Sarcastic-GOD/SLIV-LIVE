@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495243",
-        "isLive": true,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "India A vs Oman - 18 Nov 2025 - Audio Only",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378514662524_ACC25_INDA_vs_OMA_audio_commentary_stream_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Asian Town Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Afghanistan A,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "sus": false,
-        "debug": "||"
-    },
-    {
         "id": "sl1090495229",
         "isLive": true,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
@@ -30,10 +12,28 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,India A vs Oman,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/PNmcReNTRPCCmobfxQulvA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "sus": "hdntl=exp=1763569940~acl=%2f*~id=69422394856205031483471516295756~data=hdntl,2037141,DAI21-criclive,none~hmac=a5455f89efd429a9145d9215b6f914af30af28fe194d3f763f881d9c5296cb2b",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "sus": "hdntl=exp=1763570066~acl=%2f*~id=26315107187736338270423087580194~data=hdntl,2037141,DAI21-criclive,none~hmac=6401c1adbe7ab20f8b006de0c6461e843e13a5f2b8a1effe7eeb66f05a6fe19e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090495243",
+        "isLive": true,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "India A vs Oman - 18 Nov 2025 - Audio Only",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011453/1763378514662524_ACC25_INDA_vs_OMA_audio_commentary_stream_Landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Asian Town Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Afghanistan A,DPWorldAsiaCupRisingStarsMens2025",
+        "Server1": "?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "Server2": "Video URL not found",
+        "Server3": "?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "sus": false,
+        "debug": "||"
     },
     {
         "id": "sl1090495247",
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Faroe Islands vs Kazakhstan,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/_vGwQq9wQvW5ZbCYwvDhJw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "sus": "hdntl=exp=1763569949~acl=%2f*~id=69422394856205031483471516295756~data=hdntl,2022320,DAI16ME-V3,none~hmac=f4d2ae7f82f35314b325b372ab006ad3b99993f8c425c5f46c2d019014526824",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "sus": "hdntl=exp=1763570094~acl=%2f*~id=26315107187736338270423087580194~data=hdntl,2022320,DAI16ME-V3,none~hmac=cada4f8f241fc5a62b8592cfe696f11bf8b34607ecfb7e50c71893f6260746b2",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa international friendlies,uefa,european football,uefa international friendlies 2024,uefa international friendlies 2024 live,watch uefa international friendlies 2024 live stream,stream uefa international friendlies 2024 streaming,watch uefa international friendlies 2024 online,uefa international friendlies 2024 live score,uefa uefa international friendlies 2024 score update,watch uefa international friendlies,liveintl23_friendlieslive,sports_adsupported,nopreroll_livectv,UEFA_International_Friendlies_2025_LIVE,Cyprus vs Estonia,UEFAInternationalFriendlies",
         "Server1": "https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763526727~acl=/*~id=69422394856205031483471516295756~hmac=0f97409bf93c2db7e564f0bc30c6f3e88fd01a71da91041935fea96a3b7b96db",
-        "sus": "hdntl=exp=1763569983~acl=%2f*~id=69422394856205031483471516295756~data=hdntl,2022316,DAI12ME-V3,none~hmac=c7b381b6468e965aa77f55e262369a73c59d7df6825ac3ccb58640358985dacc",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763526844~acl=/*~id=26315107187736338270423087580194~hmac=5cc10edfa1d888347079f151ef5adc56e65467ba68569eee33d9093842bdf330",
+        "sus": "hdntl=exp=1763570112~acl=%2f*~id=26315107187736338270423087580194~data=hdntl,2022316,DAI12ME-V3,none~hmac=36c44067c8dd344d9032236bead82b599bc0ffd877989db293534b32e8f84f04",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
