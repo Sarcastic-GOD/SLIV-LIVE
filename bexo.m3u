@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011491/1763445532668281_ACC25_PAKS_vs_UAE_live_landscape_thumb_re1.jpg" group-title="SonyLIV",Pakistan Shaheens vs UAE - 18 Nov 2025  - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763505196~acl=/*~id=63697725185418944699850903204240~hmac=33e8fd378d2f9fa8abf39976e3d9fbcd2eef533878cb9d0f8f7ac4d97d1a09a8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011491/1763445559654281_ACC25_PAKA_vs_UAE_audio_commentary_stream_Landscape_thumb_re1.jpg" group-title="SonyLIV", Pakistan Shaheens vs UAE - 18 Nov 2025 - Audio Only - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011491/1763445532668281_ACC25_PAKS_vs_UAE_live_landscape_thumb_re1.jpg" group-title="SonyLIV",Pakistan Shaheens vs UAE - 18 Nov 2025  - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763505318~acl=/*~id=73881928786583168557754975250857~hmac=552e7e0bf56b2bc8b5f6821ee449ba584073fcd242e8533228ca04a0c82e8975
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011456/1763381288621228_ACC25_INDA_vs_OMA_ton_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India A vs Oman - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a2ae7e3f5df5421380fc6b78683572e6/1763368006/baseline-std-v4/ASIA_CUP_RISING_STAR_INDIA_VS_OMAN_25SEC_HOR_DATED__APP_hin_baseline-800300010.mpd
