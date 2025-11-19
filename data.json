@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495306",
-        "isLive": true,
-        "event": "Asian Tour 2025",
-        "match": "PIF Saudi International - Day 1 - 19 Nov 2025",
-        "Provider": "ASIAN TOUR MEDIA PTE LTD",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763442979064963_asiantour2024_PIF_Saudi_International_day1_18nov_Landscape_thumb.jpg",
-        "genre": "Golf",
-        "language": "en",
-        "venue": "Riyadh Golf Club",
-        "TVchannel": "LIV",
-        "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763602335~acl=/*~id=26401208987103986673871200019139~hmac=ab10b34d563652885b55b44e7c9a07cb6401fa90f505e938e6a91e81f79f7b84",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763602335~acl=/*~id=26401208987103986673871200019139~hmac=ab10b34d563652885b55b44e7c9a07cb6401fa90f505e938e6a91e81f79f7b84",
-        "sus": "hdntl=exp=1763645536~acl=%2f*~id=26401208987103986673871200019139~data=hdntl,2022320,DAI16ME-V3,none~hmac=ffad1271c1ed464418eb838ed0b57a9288347ac667a16e827883a76445a796bf",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090494830",
         "isLive": false,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
