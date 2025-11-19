@@ -11,9 +11,9 @@
         "venue": "Asian Town Cricket Stadium",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Afghanistan A vs Hong Kong,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
+        "Server1": "?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
+        "Server2": "cURL Error: SSL read: error:00000000:lib(0):func(0):reason(0), errno 110",
+        "Server3": "?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
         "sus": false,
         "debug": "||"
     },
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,China,Afghanistan A vs Hong Kong,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
+        "sus": "hdntl=exp=1763636969~acl=%2f*~id=42978138974083884261517598807612~data=hdntl,2037140,DAI20-criclive,none~hmac=5783ddf98a922998b480c261e2ccb7a179eb42d3fc0e9a4d7ec6f0434bfc66bf",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763593577~acl=/*~id=03983358680047511967158693302607~hmac=c8f789616d33c2d6b4c639447aa79bc547db09812a3befa3b7511f0e19cc8cf6",
-        "sus": "hdntl=exp=1763636821~acl=%2f*~id=03983358680047511967158693302607~data=hdntl,2022320,DAI16ME-V3,none~hmac=d76d6d3db32dd00a3ddd7202eb6783e9c48dd893869d861a29ab208a868fdaff",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763590510~acl=/*~id=42978138974083884261517598807612~hmac=1f8f4be671a0e6dd75c7cb97124621805b72b32b4cf4ba8b99de4f9f58f4b541",
+        "sus": "hdntl=exp=1763636982~acl=%2f*~id=42978138974083884261517598807612~data=hdntl,2022320,DAI16ME-V3,none~hmac=29fa404af5bec94220a03c7d951a41db8cd4cf710fd43ed2b1166fe17330bc3b",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
