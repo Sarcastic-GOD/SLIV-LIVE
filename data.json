@@ -11,10 +11,10 @@
         "venue": "Riyadh Golf Club",
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681281~acl=/*~id=74643537739708401955100352052390~hmac=4cfb5155a28d7056abdbf04d3557c7df4b6e78b4b7c2bade452d029c1c78f966",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763681281~acl=/*~id=74643537739708401955100352052390~hmac=4cfb5155a28d7056abdbf04d3557c7df4b6e78b4b7c2bade452d029c1c78f966",
-        "sus": "hdntl=exp=1763724482~acl=%2f*~id=74643537739708401955100352052390~data=hdntl,2022320,DAI16ME-V3,none~hmac=5c92234d9400593d11b58a8cf287a196cbdcb4cd5b322975fc1f9960ca21a5b0",
+        "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681425~acl=/*~id=53822280270003610366468484132620~hmac=20eee813ab9361f886006d3cd2427ef325a3c42dc0e2f5f00e3322740ee93655",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763681425~acl=/*~id=53822280270003610366468484132620~hmac=20eee813ab9361f886006d3cd2427ef325a3c42dc0e2f5f00e3322740ee93655",
+        "sus": "hdntl=exp=1763724629~acl=%2f*~id=53822280270003610366468484132620~data=hdntl,2022320,DAI16ME-V3,none~hmac=bacf7abc042f3bfc34ee78e1ba20d59a3fc3726a3116b2b5334f3afb145c4c4d",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
