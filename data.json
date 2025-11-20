@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763680200~acl=/*~id=44164815240120034542818104164514~hmac=006decc480ae3b3982fc0a8f98733d16619d33f64a8542c35d8b620503d58648",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763680200~acl=/*~id=44164815240120034542818104164514~hmac=006decc480ae3b3982fc0a8f98733d16619d33f64a8542c35d8b620503d58648",
-        "sus": "hdntl=exp=1763723402~acl=%2f*~id=44164815240120034542818104164514~data=hdntl,2022320,DAI16ME-V3,none~hmac=8f29eb6cd39597dfaf3342a993760e332cb55967879c7688aaf75a9ac3859f87",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681254~acl=/*~id=83662105087496292489913484370274~hmac=2a47d09a264eb720d4cf2abc0571a14d09449b705dda46c460f85ef930f83c9b",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763681254~acl=/*~id=83662105087496292489913484370274~hmac=2a47d09a264eb720d4cf2abc0571a14d09449b705dda46c460f85ef930f83c9b",
+        "sus": "hdntl=exp=1763724462~acl=%2f*~id=83662105087496292489913484370274~data=hdntl,2022320,DAI16ME-V3,none~hmac=ffc74b890c39f517206c2f6f5266b880fb69bddb0b9592ba28959fc63b16d8e3",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
