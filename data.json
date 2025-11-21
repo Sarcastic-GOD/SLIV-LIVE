@@ -12,24 +12,10 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757962~acl=/*~id=80260758721716524889741660376257~hmac=0e42085dda7ccf6494ed6feceeb066146593893038b5b7236e314f8730eb49d5",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763757962~acl=/*~id=80260758721716524889741660376257~hmac=0e42085dda7ccf6494ed6feceeb066146593893038b5b7236e314f8730eb49d5",
-        "sus": "hdntl=exp=1763801170~acl=%2f*~id=80260758721716524889741660376257~data=hdntl,2022320,DAI16ME-V3,none~hmac=c528d24e9fa99e68df17ff3fa1ed3d8fe6a8bec5f303111ae72a7787a77ae844",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758082~acl=/*~id=28847885208922647544899564122611~hmac=2d6254d34fe910a571ae49a3dcc23ab34f9bbe51170d2ab4c73f62a68fcde769",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763758082~acl=/*~id=28847885208922647544899564122611~hmac=2d6254d34fe910a571ae49a3dcc23ab34f9bbe51170d2ab4c73f62a68fcde769",
+        "sus": "hdntl=exp=1763801407~acl=%2f*~id=28847885208922647544899564122611~data=hdntl,2022320,DAI16ME-V3,none~hmac=149fcb3edf24c45e045e980adf555d163fa01f9abc1b285663d98e45662da8e1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090495617",
-        "isLive": false,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "Upcoming: Bangladesh A vs India A",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011598/1763582299044309_ACRS25_SF_BAN_A_vs_IND_A_20nov_today_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/94f11cf3a24b4163a5fcbba1bd367924/1763643921/baseline-std-v4/PROMO_ASIA_CUP_BANGLADESH_VS_INDIA_SEMIFINAL_30SEC_HOR_DATED_APP_mp4_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090494830",
