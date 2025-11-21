@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495567",
-        "isLive": true,
-        "event": "Bundesliga 2025-26",
-        "match": "Mainz vs Hoffenheim - MD 11 - 22 Nov 2025",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176255981888796_Bundesliga_MD11_Mainz_vs_Hoffenheim_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Mewa Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Mainz vs Hoffenheim,Bundesliga202526",
-        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763803281~acl=/*~id=53740503511514369889276620646169~hmac=3b03eb8d28d5139f4db096556ec8cd281202dead57e48dce976832825090259c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763803281~acl=/*~id=53740503511514369889276620646169~hmac=3b03eb8d28d5139f4db096556ec8cd281202dead57e48dce976832825090259c",
-        "sus": "hdntl=exp=1763847324~acl=%2f*~id=53740503511514369889276620646169~data=hdntl,2094588,DAI04ME-V3,none~hmac=73757931d953c1c44753d3ff0f9d3385dfb48a956c71b3009feb9513f3270cb1",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090493795",
         "isLive": false,
         "event": "West Indies Tour of New Zealand 2025",
