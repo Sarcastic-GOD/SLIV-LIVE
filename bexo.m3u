@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763699858691728_ACC25_BAN-A_vs_IND-A_audio_commentary_stream_Landscape_thumb_re2.jpg" group-title="SonyLIV", Bangladesh A vs India A - Semi-final - 21 Nov 2025 - Audio Only - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg" group-title="SonyLIV",Bangladesh A vs India A - Semi-final - 21 Nov 2025  - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763776081~acl=/*~id=32412051326132165164995118992607~hmac=0003e1780e6f2af0d232c29621f80952e100f9996e36c98f47bd0b5b6e39809d
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763773444~acl=/*~id=67246109434546797416372997684344~hmac=345b7ff4ccf7b6067760e1a1ee0684a447381da4fe3ece6d6aabde025c2f5340
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443205120963_asiantour2024_PIF_Saudi_International_day3_18nov_Landscape_thumb.jpg" group-title="SonyLIV",PIF Saudi International - Day 3 - 21 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+cURL Error: Operation timed out after 300216 milliseconds with 0 out of 0 bytes received
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011543/1763511329387882_NZvsWI25_3odi_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762190497/baseline-std-v4/PROMO_NZ_VS_WI_03112025_eng_baseline-800300010.mpd
