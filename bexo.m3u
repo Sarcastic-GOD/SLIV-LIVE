@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg" group-title="SonyLIV",Bangladesh A vs India A - Semi-final - 21 Nov 2025  - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763443205120963_asiantour2024_PIF_Saudi_International_day3_18nov_Landscape_thumb.jpg" group-title="SonyLIV",PIF Saudi International - Day 3 - 21 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758203~acl=/*~id=92625265778336264161225542930915~hmac=5b1dcb815047a2130b41c50c1acb250a9dd697af49cb0c8d5e63d236778945b3
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011604/1763612794432533_ACC_SF_SHA_vs_SL-A_ton_Landscape_thumb_re1.jpg" group-title="SonyLIV",Upcoming: DP World Asia Cup Rising Stars Men's 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/786c7a99ebd44f20ad1abf43fee74b82/1763133337/baseline-std-v4/RISING_STAR_ASIA_CUP_30_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
@@ -11,3 +14,12 @@ https://streaming.sonyliv.com/trailer/DASH/9f2631c3595a4598a5d4c7c86a0329d7/1762
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Man City vs Leverkusen - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f59ce7cbcb6d4cb7b733656b03ccba46/1763634896/baseline-std-v4/PROMO_UCL_26TH_NOV_COMBO_40SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356725405639_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Arsenal vs Bayern - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/89e27e8805904d299d5e3a577d0ab143/1763705738/baseline-std-v4/PROMO_UCL_ARSENAL_V_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726250639_UCL25_ManCity_vs_Leverkusen_ddt_promo_Landsacpe_thumb.jpg" group-title="SonyLIV",Upcoming: Man City vs Leverkusen - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/fe6e942baafe4cb09cee15a6403f2231/1763707120/baseline-std-v4/PROMO_UCL_MANCITY_VS_LEVERKUSEN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356871587339_UCL2526_MD5_PSG_vs_Tottenham_19nov_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: PSG vs Tottenham - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/93a8330a474b4f82b0eeba619b9b10ee/1763707863/baseline-std-v4/PROMO_UCL_PSG_V_TOTTENHAM_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
