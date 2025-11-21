@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495619",
-        "isLive": true,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": " Bangladesh A vs India A - Semi-final - 21 Nov 2025 - Audio Only",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763699858691728_ACC25_BAN-A_vs_IND-A_audio_commentary_stream_Landscape_thumb_re2.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Asian Town Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs India A,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763775018~acl=/*~id=68144335111545247293553503674144~hmac=657f90bdbc6c01db7f5a8e9d7f6574cd911c5607b20e16ffac166a29c008f2f1",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763775018~acl=/*~id=68144335111545247293553503674144~hmac=657f90bdbc6c01db7f5a8e9d7f6574cd911c5607b20e16ffac166a29c008f2f1",
-        "sus": false,
-        "debug": "||"
-    },
-    {
         "id": "sl1090495608",
         "isLive": true,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
@@ -30,24 +12,10 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Bangladesh A vs India A,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763775018~acl=/*~id=68144335111545247293553503674144~hmac=657f90bdbc6c01db7f5a8e9d7f6574cd911c5607b20e16ffac166a29c008f2f1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763775018~acl=/*~id=68144335111545247293553503674144~hmac=657f90bdbc6c01db7f5a8e9d7f6574cd911c5607b20e16ffac166a29c008f2f1",
-        "sus": "hdntl=exp=1763818227~acl=%2f*~id=68144335111545247293553503674144~data=hdntl,2037140,DAI20-criclive,none~hmac=5825faafe66daa4f1a5681ee26ceaecb136ba14c48efba083f43e4020413f020",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763775723~acl=/*~id=73838311706213651694727242265593~hmac=aa46d5a062933fcbee31a70d645be037274978caf10a229afbd748db4c6dfa5d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763775723~acl=/*~id=73838311706213651694727242265593~hmac=aa46d5a062933fcbee31a70d645be037274978caf10a229afbd748db4c6dfa5d",
+        "sus": "hdntl=exp=1763819015~acl=%2f*~id=73838311706213651694727242265593~data=hdntl,2037140,DAI20-criclive,none~hmac=bd3d21e295bc8c46e5b7f5f36fb960613a1171adac8fca31ffa3abdfa792af73",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090494830",
-        "isLive": false,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "Upcoming: DP World Asia Cup Rising Stars Men's 2025",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011604/1763612794432533_ACC_SF_SHA_vs_SL-A_ton_Landscape_thumb_re1.jpg",
-        "genre": "Cricket",
-        "language": "HIN",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/786c7a99ebd44f20ad1abf43fee74b82/1763133337/baseline-std-v4/RISING_STAR_ASIA_CUP_30_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090493795",
