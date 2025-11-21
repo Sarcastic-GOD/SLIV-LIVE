@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090495608",
+        "isLive": true,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "Bangladesh A vs India A - Semi-final - 21 Nov 2025 ",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Asian Town Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Bangladesh A vs India A,DPWorldAsiaCupRisingStarsMens2025",
+        "Server1": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1",
+        "sus": "hdntl=exp=1763801769~acl=%2f*~id=96302766505161146857590427028401~data=hdntl,2037140,DAI20-criclive,none~hmac=28881908790969f59584ae9be4bf643d96a05fe07b39606374684a5957f3c7ef",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090495539",
         "isLive": true,
         "event": "Asian Tour 2025",
@@ -12,9 +30,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758203~acl=/*~id=92625265778336264161225542930915~hmac=5b1dcb815047a2130b41c50c1acb250a9dd697af49cb0c8d5e63d236778945b3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763758203~acl=/*~id=92625265778336264161225542930915~hmac=5b1dcb815047a2130b41c50c1acb250a9dd697af49cb0c8d5e63d236778945b3",
-        "sus": "hdntl=exp=1763801415~acl=%2f*~id=92625265778336264161225542930915~data=hdntl,2022320,DAI16ME-V3,none~hmac=d8d057ca973a79cc6f1563625dfa9d3ad593edca20e17958b58610d869219421",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763758520~acl=/*~id=96302766505161146857590427028401~hmac=cac53c918e2d305f944d6dda88acb7a05b30f76cf856342c38bc70867ac795d1",
+        "sus": "hdntl=exp=1763801780~acl=%2f*~id=96302766505161146857590427028401~data=hdntl,2022320,DAI16ME-V3,none~hmac=6f71bfbb8ecaa5b0a22ee91f31e0c4826f0ea3b43720b071af223a1077fb1c31",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -58,5 +76,47 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/f59ce7cbcb6d4cb7b733656b03ccba46/1763634896/baseline-std-v4/PROMO_UCL_26TH_NOV_COMBO_40SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090495633",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Arsenal vs Bayern",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356725405639_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/89e27e8805904d299d5e3a577d0ab143/1763705738/baseline-std-v4/PROMO_UCL_ARSENAL_V_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090495635",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Man City vs Leverkusen",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726250639_UCL25_ManCity_vs_Leverkusen_ddt_promo_Landsacpe_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/fe6e942baafe4cb09cee15a6403f2231/1763707120/baseline-std-v4/PROMO_UCL_MANCITY_VS_LEVERKUSEN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090495638",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: PSG vs Tottenham",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356871587339_UCL2526_MD5_PSG_vs_Tottenham_19nov_dated_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/93a8330a474b4f82b0eeba619b9b10ee/1763707863/baseline-std-v4/PROMO_UCL_PSG_V_TOTTENHAM_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
