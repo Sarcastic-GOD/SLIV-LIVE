@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090495745",
+        "isLive": true,
+        "event": "UFC Fight Night - Tsarukyan vs Hooker",
+        "match": "UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763457402556245_UFC_fight_night_Tsarukyan-vs-Hooker_tamil-landscape_thumb.jpg",
+        "genre": "Fight Sports",
+        "language": "ta",
+        "venue": "ABHA Arena, Doha, Qatar",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Tsarukyan vs Hooker,UFCFightNightTsarukyanvsHooker",
+        "Server1": "https://dai.google.com/ssai/event/8EnSFBkbQLyxSn0JDl-bdQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "sus": "hdntl=exp=1763930281~acl=%2f*~id=84602325277264882977592316776147~data=hdntl,2022316,DAI12ME-V3,none~hmac=9a49649665700ab0c8bf7130efc207a653e25a53fa53df0fce91fc506580eade",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090495746",
         "isLive": true,
         "event": "UFC Fight Night - Tsarukyan vs Hooker",
@@ -12,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Tsarukyan vs Hooker,UFCFightNightTsarukyanvsHooker",
         "Server1": "https://dai.google.com/ssai/event/qsP7wpRuRn21SQtlFwpLlg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "sus": "hdntl=exp=1763930162~acl=%2f*~id=17473013955940286690155139878745~data=hdntl,2018458,DAI10ME-V3,none~hmac=7c00c62936b1940b51eb874c63663e4b69855433a86c165a46d9ee8c850e34fd",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "sus": "hdntl=exp=1763930283~acl=%2f*~id=84602325277264882977592316776147~data=hdntl,2018458,DAI10ME-V3,none~hmac=86bbc056ee50d20ad7ef5c8dd97969411ad8f13f72d5c40d2efd34a906ece4c3",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,27 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Tsarukyan vs Hooker,UFCFightNightTsarukyanvsHooker",
         "Server1": "https://dai.google.com/ssai/event/H8sZrwRMQ6WZXui7BZcbaQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "sus": "hdntl=exp=1763930165~acl=%2f*~id=17473013955940286690155139878745~data=hdntl,2005445,DAI06ME-V3,none~hmac=29cb4506e96b17f3ad22cf80f36add497fc84d1565c1cae7e955474ddffd3d4c",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090495745",
-        "isLive": true,
-        "event": "UFC Fight Night - Tsarukyan vs Hooker",
-        "match": "UFC Fight Night - Tsarukyan vs Hooker - 22 Nov 2025",
-        "Provider": "UFC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011502/1763457402556245_UFC_fight_night_Tsarukyan-vs-Hooker_tamil-landscape_thumb.jpg",
-        "genre": "Fight Sports",
-        "language": "ta",
-        "venue": "ABHA Arena, Doha, Qatar",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Tsarukyan vs Hooker,UFCFightNightTsarukyanvsHooker",
-        "Server1": "https://dai.google.com/ssai/event/8EnSFBkbQLyxSn0JDl-bdQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "sus": "hdntl=exp=1763930166~acl=%2f*~id=17473013955940286690155139878745~data=hdntl,2022316,DAI12ME-V3,none~hmac=a0e7244d6628ac279d9211e574c5e6b0042a0b256ff489eaec745e5d15e21d74",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "sus": "hdntl=exp=1763930285~acl=%2f*~id=84602325277264882977592316776147~data=hdntl,2005445,DAI06ME-V3,none~hmac=1a4ff06880e6376724535357dba8d71a1bcff3a69ce09f669a969118e85b32fd",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Tsarukyan vs Hooker,UFCFightNightTsarukyanvsHooker",
         "Server1": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763886961~acl=/*~id=17473013955940286690155139878745~hmac=5fcbb3ce1242a42b2a1a81d836781bd6747c35eafe6325b11704521f0678ac8e",
-        "sus": "hdntl=exp=1763930168~acl=%2f*~id=17473013955940286690155139878745~data=hdntl,2094587,DAI03ME-V3,none~hmac=583b91d90d219a70e25d30d06c4549dbee0d543240ecac765ee8055c37e0b17d",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763887080~acl=/*~id=84602325277264882977592316776147~hmac=0224a73512461621df973545dcaf563956a283f5d51dcb2d25206d213928e287",
+        "sus": "hdntl=exp=1763930286~acl=%2f*~id=84602325277264882977592316776147~data=hdntl,2094587,DAI03ME-V3,none~hmac=c5d7f26c2488d99e16e470aa7c8c662078bec9724171d261368b6502d1832863",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
