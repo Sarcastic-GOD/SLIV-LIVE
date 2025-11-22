@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256230056596_Bundesliga_MD11_FC_Augsburg_vs_HamburgSV_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs Hamburger SV - MD 11 - 22 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 11 - 22 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256089196796_Bundesliga_MD11_Heidenheim_vs_BorussiaMgladbach_Landscape_thumb.jpg" group-title="SonyLIV",Heidenheim vs Borussia M'gladbach - MD 11 - 22 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256175622096_Bundesliga_MD11_BorussiaDortmund_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs VfB Stuttgart - MD 11 - 22 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256273959496_Bundesliga_MD11_VfL_Wolfsburg_vs_BayerLeverkusen_landscape_thumb.jpg" group-title="SonyLIV",VfL Wolfsburg vs Bayer Leverkusen - MD 11 - 22 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872626~acl=/*~id=11023917479649398012255414344663~hmac=187a285a319a63809921b930db427a6ede1e7328240892c7882a52e631fbb61d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256137196696_Bundesliga_MD11_BayernMunich_vs_SC_Freiburg_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs SC Freiburg - MD 11 - 22 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872441~acl=/*~id=20576396906460379340811600460914~hmac=4445f373642263f15d4a1b4dfc01b7a2e76594df4945fb224f1c3c7d8ec050e0
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872626~acl=/*~id=11023917479649398012255414344663~hmac=187a285a319a63809921b930db427a6ede1e7328240892c7882a52e631fbb61d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256230056596_Bundesliga_MD11_FC_Augsburg_vs_HamburgSV_landscape_thumb.jpg" group-title="SonyLIV",FC Augsburg vs Hamburger SV - MD 11 - 22 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872626~acl=/*~id=11023917479649398012255414344663~hmac=187a285a319a63809921b930db427a6ede1e7328240892c7882a52e631fbb61d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 11 - 22 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763872626~acl=/*~id=11023917479649398012255414344663~hmac=187a285a319a63809921b930db427a6ede1e7328240892c7882a52e631fbb61d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753029467760_ACRS25_final_BAN_A_vs_SHA_22nov_dated_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Asia Cup Rising Stars Men's 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/17164d45725d4e338f6d3a66e5763511/1763805477/baseline-std-v4/PROMO_ASIA_CUP_RISING_STAR_FINAL_10_SEC_HOR_APP_hin_baseline-800300010.mpd
