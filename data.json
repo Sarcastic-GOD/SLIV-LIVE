@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763849405~acl=/*~id=88368191619209057729817286346364~hmac=ce45902da549ad3ff4219488e87f228d9ec67c57ebc1a915e84e992ba440c0a6",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763849405~acl=/*~id=88368191619209057729817286346364~hmac=ce45902da549ad3ff4219488e87f228d9ec67c57ebc1a915e84e992ba440c0a6",
-        "sus": "hdntl=exp=1763892614~acl=%2f*~id=88368191619209057729817286346364~data=hdntl,2022320,DAI16ME-V3,none~hmac=99027f15041330051aa6c919f6d4f6be05d155c58da98070e8e1763a38c54322",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763860804~acl=/*~id=81685154833222203102315333338806~hmac=a94caaf15f8a4b57325568fe1e68967b3014d065c89795b4cbef57e264da61b7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763860804~acl=/*~id=81685154833222203102315333338806~hmac=a94caaf15f8a4b57325568fe1e68967b3014d065c89795b4cbef57e264da61b7",
+        "sus": "hdntl=exp=1763904005~acl=%2f*~id=81685154833222203102315333338806~data=hdntl,2022320,DAI16ME-V3,none~hmac=e71319be3446c1e42807bfdd5c38cc373520251384677af470da8c8ea8d69096",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -29,7 +29,7 @@
         "venue": "N/A",
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Jasprit Bumrah,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Asia Cup Rising Stars 2025,Rising Stars 2025",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/786c7a99ebd44f20ad1abf43fee74b82/1763133337/baseline-std-v4/RISING_STAR_ASIA_CUP_30_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd"
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/17164d45725d4e338f6d3a66e5763511/1763805477/baseline-std-v4/PROMO_ASIA_CUP_RISING_STAR_FINAL_10_SEC_HOR_APP_hin_baseline-800300010.mpd"
     },
     {
         "id": "sl1090495639",
