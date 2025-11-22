@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",3rd ODI - 22 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011489/1763440827784214_NZvsWI25_3rd_ODI_landscape_thumb.jpg" group-title="SonyLIV",3rd ODI - 22 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837965~acl=/*~id=52737291849233696168616838825605~hmac=d7faa2f6c263afd069e8a37c5be855a0fd8a44d4aff4e7a5699e000a3faceec1
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763838121~acl=/*~id=61610396440804131073823856516031~hmac=2f61d1d1f5ae9d9762ce1b54d3b3aa56772b4f302663b1685c9e02bb22325015
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753029467760_ACRS25_final_BAN_A_vs_SHA_22nov_dated_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Asia Cup Rising Stars Men's 2025 - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/786c7a99ebd44f20ad1abf43fee74b82/1763133337/baseline-std-v4/RISING_STAR_ASIA_CUP_30_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
