@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763833814~acl=/*~id=41482652030192936569468910943658~hmac=4cdcd87ccd5ead9f2569d04e1345597b00c2e99385e32eac337a04fd097e522e",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763833814~acl=/*~id=41482652030192936569468910943658~hmac=4cdcd87ccd5ead9f2569d04e1345597b00c2e99385e32eac337a04fd097e522e",
-        "sus": "hdntl=exp=1763877023~acl=%2f*~id=41482652030192936569468910943658~data=hdntl,2018457,wivsnz,ENG~hmac=fbe1d55f9d82459a38a585d68bbcf5ae01a0e30aaaf05bb4d5cbaf3fdb3d82b6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763835074~acl=/*~id=60280453072937715484915450876116~hmac=8b4e6147ed3b8469e9bd1c3c2bcfc2269e68953d6200490946157b19592e31f8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1763835074~acl=/*~id=60280453072937715484915450876116~hmac=8b4e6147ed3b8469e9bd1c3c2bcfc2269e68953d6200490946157b19592e31f8",
+        "sus": "hdntl=exp=1763878590~acl=%2f*~id=60280453072937715484915450876116~data=hdntl,2018457,wivsnz,ENG~hmac=58bb5563ff0ac430c51700647e337311cc6ad8c9d57145395f13007cbf8bfb29",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -65,7 +65,7 @@
         "event": "Bayern Munich vs SC Freiburg",
         "match": "Upcoming: Bayern Munich vs SC Freiburg",
         "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011639/17637085445153_BLIGA_25_26_Bayern-Munich-vs-SC-Freiburg_dated_landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011639/17637085645013_BLIGA_25_26_Bayern-Munich-vs-SC-Freiburg_tonight_landscape_thumb-3.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": "N/A",
