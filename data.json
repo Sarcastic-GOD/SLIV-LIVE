@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090495822",
+        "isLive": true,
+        "event": "DP World Asia Cup Rising Stars Men's 2025",
+        "match": "Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025 - Audio Only",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753184061760_ACRS25_final_BAN_A_vs_SHA_22nov_ACS_Landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "West End Park International Cricket Stadium",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Pakistan Shaheens,DPWorldAsiaCupRisingStarsMens2025",
+        "Server1": "?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "Server2": "Video URL not found",
+        "Server3": "?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "sus": false,
+        "debug": "||"
+    },
+    {
         "id": "sl1090495814",
         "isLive": true,
         "event": "DP World Asia Cup Rising Stars Men's 2025",
@@ -12,28 +30,10 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,sports_adsupported,nopreroll_livectv,EmergingAsia_cup_2025_Live,Asia_CupRising_DPLIVE25,Bangladesh A vs Pakistan Shaheens,DPWorldAsiaCupRisingStarsMens2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "sus": "hdntl=exp=1763996165~acl=%2f*~id=14110199870558834944218521438982~data=hdntl,2037140,DAI20-criclive,none~hmac=51f642792f2207c5685fad2034de315a08d53ebf6542cdf9b09ea8d1a52fe209",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "sus": "hdntl=exp=1763996283~acl=%2f*~id=61425572012872721303252143727013~data=hdntl,2037140,DAI20-criclive,none~hmac=8ef5f1a65d2b8070db085704e799225bcef4adce3de28c0c57178f27e685ab93",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090495822",
-        "isLive": true,
-        "event": "DP World Asia Cup Rising Stars Men's 2025",
-        "match": "Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025 - Audio Only",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753184061760_ACRS25_final_BAN_A_vs_SHA_22nov_ACS_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "West End Park International Cricket Stadium",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Asia Cup 2025,Cricket Asia Cup,Asia Cup Cricket,ACC Asia Cup,Asia Cup 2025 Schedule,Asia Cup 2025 Teams,Asia Cup 2025 Fixtures,Asia Cup Cricket Live,Asia Cup 2025 Live Streaming,Virat Kohli,Babar Azam,Rohit Sharma,Rashid Khan,Asia Cup 2025 Match Schedule,Cricket Asia Cup 2025 Teams and Squads,Asia Cup 2025 Cricket Fixtures and Results,ACC Asia Cup 2025 Live Scores,Asia Cup 2025 Cricket Tournament Format,Asia Cup 2025 Teams and Captains,Asia Cup 2025 Cricket Live Streaming Online,Asia Cup 2025 Cricket Match Highlights,Asia Cup 2025 Cricket News and Updates,Asia Cup 2025 Cricket Tournament Records,Asia Cup Cricket India,Asia Cup Cricket Pakistan,Asia Cup Cricket Sri Lanka,Asia Cup Cricket Bangladesh,Asia Cup Rising Stars 2025,DP World Men's Asia Cup Rising Stars 2025,Men's Asia Cup Rising Stars 2025,Rising Stars 2025,Asia_CupRising_DPLIVE25,Bangladesh A vs Pakistan Shaheens,DPWorldAsiaCupRisingStarsMens2025",
-        "Server1": "?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "Server2": "Video URL not found",
-        "Server3": "?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "sus": false,
-        "debug": "||"
     },
     {
         "id": "sl1090495713",
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,Bayern Munich vs RB Leipzig,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,RB Leipzig vs Werder Bremen,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763952964~acl=/*~id=14110199870558834944218521438982~hmac=f556e8b5def1c9390ee4a414bab1e5923381dcd34b9ce1eebe6392ce1aa7a6b8",
-        "sus": "hdntl=exp=1763996168~acl=%2f*~id=14110199870558834944218521438982~data=hdntl,2094588,DAI04ME-V3,none~hmac=2ed36ff98e147edea4ec9faf8a18fc2036b36e29761f2babc17c4c5f046da313",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1763953080~acl=/*~id=61425572012872721303252143727013~hmac=49e160559cb487ad41507ba4a62e0f4c843939564cba7ec96477c26c8beed4bc",
+        "sus": "hdntl=exp=1763996283~acl=%2f*~id=61425572012872721303252143727013~data=hdntl,2094588,DAI04ME-V3,none~hmac=52a58625d7f089dafb6a587069f374be6f850b63ca0e4ed1d48a824a891a6f52",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
