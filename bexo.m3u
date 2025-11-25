@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763500991234411_UYL2526_MD5_Dortmund_vs_Villarreal_18nov_landscape_thumb.jpg" group-title="SonyLIV",Dortmund vs Villarreal - MD 5 - 25 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764126007~acl=/*~id=64867108989884034489037612905307~hmac=ae2e0dd10e75ff94d1f549601b1c537d581f250202a75ba660303eaabc22d619
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763500723231411_UYL2526_MD5_Chelsea_vs_Barcelona_18nov_landscape_thumb.jpg" group-title="SonyLIV",Chelsea vs Barcelona - MD 5 - 25 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764126007~acl=/*~id=64867108989884034489037612905307~hmac=ae2e0dd10e75ff94d1f549601b1c537d581f250202a75ba660303eaabc22d619
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764126253~acl=/*~id=42953460428119574368095610140480~hmac=cf2d326902a055b62ade3b7f81913b9a39efc472b8d4440975a94d8c74ddfa54
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763500991234411_UYL2526_MD5_Dortmund_vs_Villarreal_18nov_landscape_thumb.jpg" group-title="SonyLIV",Dortmund vs Villarreal - MD 5 - 25 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764126253~acl=/*~id=42953460428119574368095610140480~hmac=cf2d326902a055b62ade3b7f81913b9a39efc472b8d4440975a94d8c74ddfa54
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
