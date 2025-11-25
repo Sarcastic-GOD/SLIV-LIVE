@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Chelsea vs Barcelona,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764117004~acl=/*~id=03937013431831478269751900922954~hmac=9bcf26189e8a450db7b6de3ca68ada47d86102cb088cd96cd34c74c27642c1fd",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764117004~acl=/*~id=03937013431831478269751900922954~hmac=9bcf26189e8a450db7b6de3ca68ada47d86102cb088cd96cd34c74c27642c1fd",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764117121~acl=/*~id=37669749301969804948742427051453~hmac=e5ff210813910e820de8105bc9bf1975add3da04095cb3bebf8ddc23d7888243",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764117121~acl=/*~id=37669749301969804948742427051453~hmac=e5ff210813910e820de8105bc9bf1975add3da04095cb3bebf8ddc23d7888243",
+        "sus": "hdntl=exp=1764160331~acl=%2f*~id=37669749301969804948742427051453~data=hdntl,2022316,DAI12ME-V3,none~hmac=0c5aa3a63ee04a53ebebf077377c08490a1294f93d16d85d6e856fb91673654d",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
