@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501198856411_UYL2526_MD5_Arsenal_vs_Bayern_18nov_landscape_thumb.jpg" group-title="SonyLIV",Arsenal vs Bayern Munich - MD 5 - 26 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764209306~acl=/*~id=15074376019823540621591314740939~hmac=c13f6bbe7341d67afb9dc4e83868de39739b23ac42d26479c71ea0f6dfdc8a3f
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501380375411_UYL2526_MD5_Frankfurt_vs_Atalanta_18nov_landscape_thumb.jpg" group-title="SonyLIV",Frankfurt vs Atalanta - MD 5 - 26 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
@@ -13,7 +16,7 @@ https://streaming.sonyliv.com/trailer/DASH/89e27e8805904d299d5e3a577d0ab143/1763
 https://streaming.sonyliv.com/trailer/DASH/93a8330a474b4f82b0eeba619b9b10ee/1763707863/baseline-std-v4/PROMO_UCL_PSG_V_TOTTENHAM_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011806/17641437175857_UCL_25_26_Liverpool-vs-PSV_tonight_landscape_thumb_re1.png" group-title="SonyLIV",Upcoming: Matchday 5 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/46d1b1221c6147f9b3b7b2ffeae481bf/1763813472/baseline-std-v4/PROMO_UCL_26TH_NOV_COMBO_45_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+https://streaming.sonyliv.com/trailer/DASH/ef9e28707025475eacdc4cf918221e6e/1764166524/baseline-std-v4/PROMO_UCL_27TH_NOV_COMBO_45SEC_HOR_DATED_APP_REV_mp4_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011806/17641437000407_UCL_25_26_olympiacos-vs-real-madrid_tonight_landscape_thumb_re1.png" group-title="SonyLIV",Upcoming: Olympiacos vs Real Madrid - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/fad784edc85c451196da223f5d982de3/1763707858/baseline-std-v4/PROMO_UCL_OLYMPIACOS_VS_REALMADRID_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
