@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Arsenal vs Bayern Munich,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764204006~acl=/*~id=14402056155907082843305040737028~hmac=d71f17da308760033cb3b3b521e239a0529a17d200336796f5a92e2ca4e58c78",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764204006~acl=/*~id=14402056155907082843305040737028~hmac=d71f17da308760033cb3b3b521e239a0529a17d200336796f5a92e2ca4e58c78",
-        "sus": "hdntl=exp=1764247215~acl=%2f*~id=14402056155907082843305040737028~data=hdntl,2022316,DAI12ME-V3,none~hmac=e141c8e3efcb99e503c643d1dc84bc50be3cece98c0cd796dd37cc951beb5e05",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764204129~acl=/*~id=55515599031242571131613828439023~hmac=2ab161d8b2e7d5bd782c0c627e8c887d89de604b9ac8864ab6498b3c2e2d90ac",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764204129~acl=/*~id=55515599031242571131613828439023~hmac=2ab161d8b2e7d5bd782c0c627e8c887d89de604b9ac8864ab6498b3c2e2d90ac",
+        "sus": "hdntl=exp=1764247330~acl=%2f*~id=55515599031242571131613828439023~data=hdntl,2022316,DAI12ME-V3,none~hmac=5d7077a931c34ec061765894acb3c86ca588c46a253571d28171eeaf73718347",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
