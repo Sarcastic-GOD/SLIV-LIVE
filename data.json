@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495956",
-        "isLive": true,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Pafos vs Monaco - MD 5 - 26 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Alphamega Stadium",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Pafos vs Monaco,UEFAChampionsLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/onF5vLVNR2er1jW5fgNPOQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "sus": "hdntl=exp=1764262153~acl=%2f*~id=11712773552924228492723008761722~data=hdntl,2105079,DAI08ME-V3,none~hmac=2ff4c2e6554f187c45a0980ab3ed78cb3fd41da1edb8dca3b895f95b2de0687f",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090496026",
         "isLive": true,
         "event": "UEFA Champions League 2025-26",
@@ -30,9 +12,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,UEFA_Champions_League_2025_LIVE,Pafos vs Monaco,UEFAChampionsLeague202526",
         "Server1": "https://dai.google.com/ssai/event/T1PkCKmaSfWZJXXEVaN2WQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "sus": "hdntl=exp=1764262162~acl=%2f*~id=11712773552924228492723008761722~data=hdntl,2094588,DAI04ME-V3,none~hmac=3e32076d5b34b5a382c8edc8d0cbb24e112b1fb844435446ef055700ac83e0c2",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "sus": "hdntl=exp=1764261250~acl=%2f*~id=08538317543533723425041789392594~data=hdntl,2094588,DAI04ME-V3,none~hmac=39c1daad4a53ab2129c4bfff4a4a7c7caeab31046c5220d209fede9b09d0a48e",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090495956",
+        "isLive": true,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Pafos vs Monaco - MD 5 - 26 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Alphamega Stadium",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,Live25_UefaCL26,UEFA_Champions_League_2025_LIVE,Pafos vs Monaco,UEFAChampionsLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/onF5vLVNR2er1jW5fgNPOQ/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,UEFA_Champions_League_2025_LIVE,Pafos vs Monaco,UEFAChampionsLeague202526",
         "Server1": "https://dai.google.com/ssai/event/H6S0mE59SISkkXTAenoE_w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "sus": "hdntl=exp=1764262170~acl=%2f*~id=11712773552924228492723008761722~data=hdntl,2022319,DAI15ME-V3,none~hmac=aa442c9828fb04ad5eb1a94c775015d389010f3c38da7a705935c6e2b20680f8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "sus": "hdntl=exp=1764262172~acl=%2f*~id=08538317543533723425041789392594~data=hdntl,2022319,DAI15ME-V3,none~hmac=0360773b35d62e528196202bbf52e2416c70a11c368d09d9d5c12c21f822c61a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Frankfurt vs Atalanta,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/YWEgb2bCQMyARGS1v3fUYw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "sus": "hdntl=exp=1764262180~acl=%2f*~id=11712773552924228492723008761722~data=hdntl,2094589,DAI05ME-V3,none~hmac=1aab726e14b50e702b43b77eeb1afdb449d6bbc484e954b00e1ca5281debb707",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "sus": "hdntl=exp=1764262184~acl=%2f*~id=08538317543533723425041789392594~data=hdntl,2094589,DAI05ME-V3,none~hmac=c474f8d7f236f55c6b20d494462bca0b82e8db5c60714ea50f856e2de9140c1f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2025 26,2025 26 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,erling haaland,cole palmer,mohamed salah,lautaro martinez,phil foden,virgil van dijk,wojciech szczęsny,achraf hakimi,bernardo silva,alisson becker,joan garcia,jules koundé,marcus thuram,reece james,marquinhos,andrew robertson,lucas hernández,robert sánchez,stefan de vrij,nicolo barella,hakan calhanoglu,sports_adsupported,nopreroll_livectv,UEFA_Champions_League_2025_LIVE,Pafos vs Monaco,UEFAChampionsLeague202526",
         "Server1": "https://dai.google.com/ssai/event/4CO8p1OmQhKwNcYCQpmFXw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218944~acl=/*~id=11712773552924228492723008761722~hmac=77da3e3eef7e70293b9161a3bb1cfe3956a17b8765095f835259a61943c28a18",
-        "sus": "hdntl=exp=1764262190~acl=%2f*~id=11712773552924228492723008761722~data=hdntl,2037141,DAI21ME-V3,none~hmac=4e5e51689ff81791a93002d9aaa4639442b5511139c926cc6271e0f294b18fe4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764218042~acl=/*~id=08538317543533723425041789392594~hmac=67fa44b0e7b979c266f85c4488a439d666a87927ac96f4c5597635eea9a7fcab",
+        "sus": "hdntl=exp=1764262195~acl=%2f*~id=08538317543533723425041789392594~data=hdntl,2037141,DAI21ME-V3,none~hmac=6e314082776b1a6c87a6aa4584ba866e182e1be5e8cafe6a6f7a0e9e5eaf7911",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
