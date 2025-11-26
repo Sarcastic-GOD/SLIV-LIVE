@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090495955",
-        "isLive": true,
-        "event": "UEFA Youth League 2025-26",
-        "match": "Frankfurt vs Atalanta - MD 5 - 26 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501380375411_UYL2526_MD5_Frankfurt_vs_Atalanta_18nov_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Sportpark Dreieich",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Frankfurt vs Atalanta,UEFAYouthLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/YWEgb2bCQMyARGS1v3fUYw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764216003~acl=/*~id=41101048215676677648622396182215~hmac=17e2b39288a30dcefeae843d2162ae77d209e751bcc8339bc3ee3d99e84f64e9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764216003~acl=/*~id=41101048215676677648622396182215~hmac=17e2b39288a30dcefeae843d2162ae77d209e751bcc8339bc3ee3d99e84f64e9",
-        "sus": "hdntl=exp=1764259269~acl=%2f*~id=41101048215676677648622396182215~data=hdntl,2094589,DAI05ME-V3,none~hmac=926fc5f9719aa9f77dd385369b089d84ca366b606473c35af0d2c04258178dc5",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
