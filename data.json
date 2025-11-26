@@ -12,9 +12,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Arsenal vs Bayern Munich,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764209306~acl=/*~id=15074376019823540621591314740939~hmac=c13f6bbe7341d67afb9dc4e83868de39739b23ac42d26479c71ea0f6dfdc8a3f",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764209306~acl=/*~id=15074376019823540621591314740939~hmac=c13f6bbe7341d67afb9dc4e83868de39739b23ac42d26479c71ea0f6dfdc8a3f",
-        "sus": "hdntl=exp=1764252507~acl=%2f*~id=15074376019823540621591314740939~data=hdntl,2022316,DAI12ME-V3,none~hmac=d9539d346c32ddc84981f9790e33b7936282a85debe0380be578f62b24bc6939",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4",
+        "sus": "hdntl=exp=1764254437~acl=%2f*~id=88809752916292526042616522603985~data=hdntl,2022316,DAI12ME-V3,none~hmac=3f6dcb9649b9f9b834f6f55e443ecfc8b55015ec688177739ba139f348c5a263",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090495955",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "Frankfurt vs Atalanta - MD 5 - 26 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501380375411_UYL2526_MD5_Frankfurt_vs_Atalanta_18nov_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Sportpark Dreieich",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Frankfurt vs Atalanta,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/YWEgb2bCQMyARGS1v3fUYw/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764211236~acl=/*~id=88809752916292526042616522603985~hmac=2602ac233037b57dc0d2394f32ecd95474b281a4fca0b6c7af5af6c8962203d4",
+        "sus": "hdntl=exp=1764254439~acl=%2f*~id=88809752916292526042616522603985~data=hdntl,2094589,DAI05ME-V3,none~hmac=b721ec88b26faae011b775d56bbcfdd5f5148a2fc42621192336821be0b067ef",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -71,7 +89,7 @@
         "venue": "N/A",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/46d1b1221c6147f9b3b7b2ffeae481bf/1763813472/baseline-std-v4/PROMO_UCL_26TH_NOV_COMBO_45_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ef9e28707025475eacdc4cf918221e6e/1764166524/baseline-std-v4/PROMO_UCL_27TH_NOV_COMBO_45SEC_HOR_DATED_APP_REV_mp4_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090495637",
