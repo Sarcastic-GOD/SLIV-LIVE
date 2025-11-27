@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Rijeka vs. AEK Larnaca,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/PUs1MMddTWyneCBN32ShKA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366302~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2037140,DAI20ME-V3,none~hmac=1ff91422e288887e6a8198665db8a935ceda82d0246eed5c7315be6681a28316",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364088~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2037140,DAI20ME-V3,none~hmac=0542783391a226149fb7d1cff71d4f7be6f4f4d036e6f00698af25cea9d3cc23",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Fiorentina vs. AEK Athens,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/zSttkIYeTby1o7CTnOXcCQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366312~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2022316,DAI12ME-V3,none~hmac=5db771fd9d14663fef6258e6d9631810c7434dd54b6c57ca91f9bacd46a3811e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364097~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2022316,DAI12ME-V3,none~hmac=3ae8d91aef0d04a048d85b02f633b9c5f8632d384173cacffa8b7a806423c22a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,27 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Nott'm Forest vs Malmo,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/A_HzDp45SK-qio6nqMaOqg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366321~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2018458,DAI10ME-V3,none~hmac=b2bdaba327e624124db0ac05a00197c76c59d99eadfd42e30310d03b94da509b",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090496071",
-        "isLive": true,
-        "event": "UEFA Europa League 2025-26",
-        "match": "Bologna vs Salzburg - MD 5 - 28 Nov 2025",
-        "Provider": "UEFA",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011844/1764238018793975_UEL25_md5_Bologna_vs_Salzburg_rev_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Renato Dall'Ara",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Bologna vs Salzburg,UEFAEuropaLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/pzAZ6MXmQmaIq497VfvqOA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366330~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2094588,DAI04ME-V3,none~hmac=db50142ad8e28d8602492589c7701f77941c937be19a55dbea768f439f168836",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364106~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2018458,DAI10ME-V3,none~hmac=ab4f24ff2c9eae44de585a88a360dc6fcbf6982ba4291f8bf337ea8344b91e0b",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Jagiellonia Bialystok vs. KuPS Kuopio,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/BwNQ4nWKSZWgX-NfsIJLeA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366339~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2094589,DAI05ME-V3,none~hmac=2385c91c2e1d474244406f577270a1ccc545a3cdcbc352fce3e967677276e09e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364114~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2094589,DAI05ME-V3,none~hmac=4245fe1e5100737ae64db863990700bcd3c65adf09d15f3772d5576130cd2b5e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Panathinaikos vs Sturm Graz,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/F0uruwPCRtu1lVbb6Jib-A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366350~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2005445,DAI06ME-V3,none~hmac=e7d27e3a6b9a867a37c25770e467467847b20dd6ed622bcf82833f4ba69b3048",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364122~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2005445,DAI06ME-V3,none~hmac=e71d81b32e7d599bbd290dac6b0510c752c9a8268236deaa6f556338302c6f14",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -120,9 +102,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Aberdeen vs FC Noah,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/F3RalrquRASqVxe8L1b24w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366359~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2022315,DAI11ME-V3,none~hmac=79670763945ef374693ace051e44b02ce72ad005c9db26bdc6e1f0298a5d52fe",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364130~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2022315,DAI11ME-V3,none~hmac=de2c62348df79f53bbb688d1f9152ae89b7241b9296c0cc111d322c1fd46d31f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -138,9 +120,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Breidablik vs. Samsunspor,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/QcZybCCBQIGk9qHd5cCAwQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364139~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2022318,DAI14ME-V3,none~hmac=c6b7812c33ba971644bc3874eb3b44cb18c083e57d9594003efe42b2cde8a825",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090496071",
+        "isLive": true,
+        "event": "UEFA Europa League 2025-26",
+        "match": "Bologna vs Salzburg - MD 5 - 28 Nov 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011844/1764238018793975_UEL25_md5_Bologna_vs_Salzburg_rev_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Renato Dall'Ara",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Bologna vs Salzburg,UEFAEuropaLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/pzAZ6MXmQmaIq497VfvqOA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364148~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2094588,DAI04ME-V3,none~hmac=2c52624f912cc92a81b5239965f992ff681ae8796221304c649b6719632e59a0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -156,9 +156,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,M. Tel-Aviv vs Lyon,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/FuGFb9bcSEWxSWShqRWhIg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366414~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2037141,DAI21ME-V3,none~hmac=d723d1393e47866c975d5e1e9c6d43de4f7628d5655e5442599c10b3187b91d6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364158~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2037141,DAI21ME-V3,none~hmac=21eb843056505a085268b4eac5ee493133145d61253b43202a23e0e7dd3c09df",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -174,9 +174,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Crvena Zvezda vs FCSB,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/3UDxKvk9RJuVigYi5ej2WQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366422~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2018457,DAI09ME-V3,none~hmac=9c51ac0fa464b5997e7fbe4325e47f505b61a309df8438e3a1c6f1d676561bee",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364167~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2018457,DAI09ME-V3,none~hmac=e28a65ce16e907db5eaff71021a984f532f5bcf9c6ac11b91c91583fa01fb8b4",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -192,9 +192,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Shamrock Rovers vs Shakhtar Donetsk,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/2R1hnuuSSOWkKNyWJpafTQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366430~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2037143,DAI23ME-V3,none~hmac=fe6f925f4f42fe0ac42d5cd719fe6c847c5092124bf19ebb17c3e9dc04c0d0f2",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764364178~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2037143,DAI23ME-V3,none~hmac=a383d2445823b113f278081c5dbd23a2f7757df93dbba8fb7eb2492dd70cbf08",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -210,9 +210,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Rangers vs Braga,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/5wZTwOSrRKydrRKTjEELcw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366438~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2105079,DAI08ME-V3,none~hmac=b1620d5acdde1648d13daa0a62f8d38109ce439ea2d0786bf2ccff37b3542eed",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -228,9 +228,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Genk vs Basel,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/-Z5M0tAIQSeVS0SKrUmURA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366447~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2022317,DAI13ME-V3,none~hmac=43c3b994ba4854261bdaab68038602a528de07b986f18bac6003d232e5d98bae",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -245,11 +245,11 @@
         "venue": "Estadio la Cartuja",
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Real Betis vs Utrecht,UEFAEuropaLeague202526",
-        "Server1": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366455~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2094587,DAI03ME-V3,none~hmac=ba56d5dafa1e07a1fa61b19f317c3fafb07f12000b668301e0e15099dc3c2707",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764366455~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2094587,DAI03ME-V3,none~hmac=dd9d51578885f56307fcbbaf3470cc29b9eb45babf90ea8de4fe64175411c94c",
+        "debug": "|liveakmt-p-web.slivcdn.com|"
     },
     {
         "id": "sl1090496091",
@@ -264,9 +264,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Drita Gjilan vs. KF Shkendija,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/CNoyvSrFQdWpZ5veDRGeSA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366464~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2022322,DAI18ME-V3,none~hmac=48bfdd3536ba9020a84510c0a98fd6cb105da40c9cdf1e6d6852d1c9de7f4451",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764366464~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2022322,DAI18ME-V3,none~hmac=f21e177bc74a1c630f9ead73667ada81f195bed7643d3b59fd8319f2e58ae42e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -282,9 +282,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online,sports_adsupported,nopreroll_livectv,UEFA_Europa25_LIVE26,UEFA_Europa_League_2025_LIVE,Go Ahead Eagles vs Stuttgart,UEFAEuropaLeague202526",
         "Server1": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366472~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2022319,DAI15ME-V3,none~hmac=ebbc1baaf3e10591c9b89122cf044ae439c429ccb5700d7f8e07dc02d83f6042",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764366474~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2022319,DAI15ME-V3,none~hmac=60d0e7e41c5b5a71de25029fe759140ebb461fb70dd6d557521f01042382b980",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -300,9 +300,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Strasbourg vs. Crystal Palace,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/1_qjiKIrTdWSy-l6EunrWw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366480~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2105080,DAI24ME-V3,none~hmac=9ea1a6381e017a65b6c01edb067801dd308b00d2ad34067c62c2b9f13f82dcec",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764366483~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2105080,DAI24ME-V3,none~hmac=f1490ef5cbd18187bf109e45fd610599fee52132d524952b1b8e2dd34fa00083",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -318,9 +318,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online,nopreroll_livectv,sports_adsupported,UEFA_Europa_conference_League_2026_LIVE,UECL_25Live26,Legia Warsaw vs. Sparta Prague,UEFAConferenceLeague202526",
         "Server1": "https://dai.google.com/ssai/event/u5QstzpKTJGWhEZbsA_7Ng/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764323048~acl=/*~id=70848815303668477811278173577470~hmac=d8a65de3463322e070f88aaa8ee05026d94e6f65c283d659eed40f6f67c29df9",
-        "sus": "hdntl=exp=1764366488~acl=%2f*~id=70848815303668477811278173577470~data=hdntl,2005444,DAI07ME-V3,none~hmac=88371c33b75320b0c0a97a0c21053fe266c3ee8e6c1413d4e5281dce416c35e5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764320881~acl=/*~id=64402404958197905354261439696812~hmac=7593b11fd19f404435ff7b9c757d7bfff53befbf5e2857ca7f117f179c1960a8",
+        "sus": "hdntl=exp=1764366493~acl=%2f*~id=64402404958197905354261439696812~data=hdntl,2005444,DAI07ME-V3,none~hmac=a8ad64416737509d92361adb2b592a9bdec793ee7ace9f2d33415b8f606c8244",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
