@@ -1,31 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763492328093830_UECL2526_MD4_AZ_Alkmaar_Vs_Shelbourne_18nov_landscape_thumb.jpg" group-title="SonyLIV",AZ Alkmaar vs Shelbourne - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Sigma Olomouc vs NK Celje - MD 4 - 27 Nov 2025 - ENG
+https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764314761~acl=/*~id=39893824762539184539133756204766~hmac=0465dd2df283f7a49846f5c5a59fc361c645248f421bb487e0a40168b358892f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763495751909830_UECL2526_MD4_Sigma_Olomouc_vs_NK_Celje_18nov_landscape_thumb.jpg" group-title="SonyLIV",Sigma Olomouc vs NK Celje - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764314761~acl=/*~id=39893824762539184539133756204766~hmac=0465dd2df283f7a49846f5c5a59fc361c645248f421bb487e0a40168b358892f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762652672224622_UEL25_md5_ViktoriaPlzen_vs_Freiburg_landscape_thumb.jpg" group-title="SonyLIV",Viktoria Plzen vs Freiburg - MD 5 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764314761~acl=/*~id=39893824762539184539133756204766~hmac=0465dd2df283f7a49846f5c5a59fc361c645248f421bb487e0a40168b358892f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763493249072830_UECL2526_MD4_Omonoia_Nicosia_vs_Dynamo_Kyiv_18nov_landscape_thumb.jpg" group-title="SonyLIV",Omonoia Nicosia vs Dynamo Kyiv - MD 4 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764314761~acl=/*~id=39893824762539184539133756204766~hmac=0465dd2df283f7a49846f5c5a59fc361c645248f421bb487e0a40168b358892f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762651259167622_UEL25_md5_Feyenoord_vs_Celtic_landscape_thumb.jpg" group-title="SonyLIV",Feyenoord vs Celtic - MD 5 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764314761~acl=/*~id=39893824762539184539133756204766~hmac=0465dd2df283f7a49846f5c5a59fc361c645248f421bb487e0a40168b358892f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762618947964622_UEL25_md5_Porto_vs_Nice_Landscape_thumb.jpg" group-title="SonyLIV",Porto vs Nice - MD 5 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Viktoria Plzen vs Freiburg - MD 5 - 27 Nov 2025 - ENG
+cURL Error: SSL read: error:00000000:lib(0):func(0):reason(0), errno 110
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Zrinjski Mostar vs BK Hacken - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763492509058830_UECL2526_MD4_CSU_Craiova_vs_Mainz_18nov_landscape_thumb.jpg" group-title="SonyLIV",CSU Craiova vs Mainz - MD 4 - 27 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Fenerbahce vs Ferencvaros - MD 5 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763495940604830_UECL2526_MD4_Slovan_Bratislava_vs_Rayo_Vallecano_18nov_landscape_thumb.jpg" group-title="SonyLIV",Slovan Bratislava vs Rayo Vallecano - MD 4 - 27 Nov 2025 - ENG
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Roma vs Midtjylland - MD 5 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011534/1763493001072830_UECL2526_MD4_Lech_Poznan_vs_Lausanne_Sports_18nov_landscape_thumb.jpg" group-title="SonyLIV",Lech Poznan vs Lausanne Sports - MD 4 - 27 Nov 2025 - ENG
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",CSU Craiova vs Mainz - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg" group-title="SonyLIV",Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 - ENG
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Slovan Bratislava vs Rayo Vallecano - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762651913317622_UEL25_md5_Ludogorets_vs_Celta_Dinamo_landscape_thumb.jpg" group-title="SonyLIV",Ludogorets vs Celta - MD 5 - 27 Nov 2025 - ENG
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Lech Poznan vs Lausanne Sports - MD 4 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315930~acl=/*~id=34034061525598520963641809359822~hmac=1401daa150855458a5847b793cf9eadd946b34851459c70d636815774ec4c1e4
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Rakow Czestochowa vs Rapid Vienna - MD 4 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Lille vs GNK Dinamo - MD 5 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Ludogorets vs Celta - MD 5 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Hamrun Spartans vs Lincoln Red Imps - MD 4 - 27 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="" group-title="SonyLIV",PAOK vs Brann - MD 5 - 27 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 Video URL not found
