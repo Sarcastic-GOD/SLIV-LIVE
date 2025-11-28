@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Australian Open,Australian Open 2026,AO 2026 Melbourne Park,Australian Open 2026 schedule,Australian Open 2026 tickets,AO 2026 live streaming,AO live streaming,Australian Open live streaming,Australian Open 2026 live streaming,Australian Open 2026 prize money,Australian Open 2026 dates,AO 2026 draws,AO 2026 fixtures,Australian Open 2026 highlights,Australian Open highlights,AO 2026 results,AO 2026 updates,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Daniil Medvedev,Stefanos Tsitsipas,Alex de Minaur,Holger Rune,Taylor Fritz,Iga Swiatek,Aryna Sabalenka,Coco Gauff,Naomi Osaka,Elena Rybakina,Madison Keys,Ajla Tomljanovic,Zheng Qinwen,Emma Raducanu,Mirra Andreeva,Lorenzo Musetti,Maria Sakkari,Ons Jabeur,Caroline Garcia,sports_adsupported,nopreroll_livectv,AO_WCPlayoff_2026LIVE,AustralianOpen2026",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764360856~acl=/*~id=32463092255669885310445316926198~hmac=372bf464b71b6e1a3fb116ab8bff2557dcfe97dd905803bc181fc28611ac4536",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764360856~acl=/*~id=32463092255669885310445316926198~hmac=372bf464b71b6e1a3fb116ab8bff2557dcfe97dd905803bc181fc28611ac4536",
-        "sus": "hdntl=exp=1764404078~acl=%2f*~id=32463092255669885310445316926198~data=hdntl,2022320,DAI16ME-V3,none~hmac=aa56fb779bb82a40e933b33004a39179a5569a86fe7b14289f0114cce1eec612",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764360856~acl=/*~id=20740944840544438266540576354544~hmac=9b031baa161b90d54d314be2fd9ecd0865003c815f668723bea1065271740ade",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764360856~acl=/*~id=20740944840544438266540576354544~hmac=9b031baa161b90d54d314be2fd9ecd0865003c815f668723bea1065271740ade",
+        "sus": "hdntl=exp=1764404078~acl=%2f*~id=20740944840544438266540576354544~data=hdntl,2022320,DAI16ME-V3,none~hmac=c7d5f9cbb89808fbd586aeac9e42b669c4c2dd661d1da5a8840ca6ee89caad6a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
