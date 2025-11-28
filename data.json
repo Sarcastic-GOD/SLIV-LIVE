@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090496244",
-        "isLive": false,
-        "event": "",
-        "match": "Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025",
-        "Provider": "",
-        "poster": "",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "",
-        "TVchannel": "",
-        "SeoTags": "Australian Open,Australian Open 2026,AO 2026 Melbourne Park,Australian Open 2026 schedule,Australian Open 2026 tickets,AO 2026 live streaming,AO live streaming,Australian Open live streaming,Australian Open 2026 live streaming,Australian Open 2026 prize money,Australian Open 2026 dates,AO 2026 draws,AO 2026 fixtures,Australian Open 2026 highlights,Australian Open highlights,AO 2026 results,AO 2026 updates,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Daniil Medvedev,Stefanos Tsitsipas,Alex de Minaur,Holger Rune,Taylor Fritz,Iga Swiatek,Aryna Sabalenka,Coco Gauff,Naomi Osaka,Elena Rybakina,Madison Keys,Ajla Tomljanovic,Zheng Qinwen,Emma Raducanu,Mirra Andreeva,Lorenzo Musetti,Maria Sakkari,Ons Jabeur,Caroline Garcia,sports_adsupported,nopreroll_livectv,AO_WCPlayoff_2026LIVE,AustralianOpen2026",
-        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "Video URL not found",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764371151~acl=/*~id=72380561438505080058364861584234~hmac=699f11db8b523b7a6f089a27de555a0d2c6305fc7f4a998f7960274c589d3615",
-        "sus": false,
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
