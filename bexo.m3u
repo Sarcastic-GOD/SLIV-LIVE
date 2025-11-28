@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="SonyLIV",Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 - ENG
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764365401~acl=/*~id=85194631957585102145408835025065~hmac=cb3addfe728f87d5bc24aca8b7200bc9aa33d74b6ac781bff06c4870285fca08
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764365788~acl=/*~id=85147230752891496466435014539004~hmac=ac164782b25244413e8b37e97a2aa7a35d25b54b6764b3ec6f62f60a0a4e3c4f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
