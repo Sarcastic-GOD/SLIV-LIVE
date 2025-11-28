@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090496244",
-        "isLive": true,
-        "event": "Australian Open 2026",
-        "match": "Semi-Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025",
-        "Provider": "Tennis Australia Limited",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262620967621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_SF_27nov_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "en",
-        "venue": "Sichuan International Tennis Centre, Chengdu, China",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Australian Open,Australian Open 2026,AO 2026 Melbourne Park,Australian Open 2026 schedule,Australian Open 2026 tickets,AO 2026 live streaming,AO live streaming,Australian Open live streaming,Australian Open 2026 live streaming,Australian Open 2026 prize money,Australian Open 2026 dates,AO 2026 draws,AO 2026 fixtures,Australian Open 2026 highlights,Australian Open highlights,AO 2026 results,AO 2026 updates,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Daniil Medvedev,Stefanos Tsitsipas,Alex de Minaur,Holger Rune,Taylor Fritz,Iga Swiatek,Aryna Sabalenka,Coco Gauff,Naomi Osaka,Elena Rybakina,Madison Keys,Ajla Tomljanovic,Zheng Qinwen,Emma Raducanu,Mirra Andreeva,Lorenzo Musetti,Maria Sakkari,Ons Jabeur,Caroline Garcia,sports_adsupported,nopreroll_livectv,AO_WCPlayoff_2026LIVE,AustralianOpen2026",
-        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764350282~acl=/*~id=88306316520210451118176228609666~hmac=ff3036e458a0d75a269a64e5e6fc06d52f2846c0259a018882d8dd7ac5304e10",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764350282~acl=/*~id=88306316520210451118176228609666~hmac=ff3036e458a0d75a269a64e5e6fc06d52f2846c0259a018882d8dd7ac5304e10",
-        "sus": "hdntl=exp=1764393494~acl=%2f*~id=88306316520210451118176228609666~data=hdntl,2022320,DAI16ME-V3,none~hmac=51ed20577ed3b4baf6a9b4db0fe3c2502cebc42bbc0377862ab15b39ce06fd5f",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
