@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "Australian Open,Australian Open 2026,AO 2026 Melbourne Park,Australian Open 2026 schedule,Australian Open 2026 tickets,AO 2026 live streaming,AO live streaming,Australian Open live streaming,Australian Open 2026 live streaming,Australian Open 2026 prize money,Australian Open 2026 dates,AO 2026 draws,AO 2026 fixtures,Australian Open 2026 highlights,Australian Open highlights,AO 2026 results,AO 2026 updates,Novak Djokovic,Carlos Alcaraz,Jannik Sinner,Daniil Medvedev,Stefanos Tsitsipas,Alex de Minaur,Holger Rune,Taylor Fritz,Iga Swiatek,Aryna Sabalenka,Coco Gauff,Naomi Osaka,Elena Rybakina,Madison Keys,Ajla Tomljanovic,Zheng Qinwen,Emma Raducanu,Mirra Andreeva,Lorenzo Musetti,Maria Sakkari,Ons Jabeur,Caroline Garcia,sports_adsupported,nopreroll_livectv,AO_WCPlayoff_2026LIVE,AustralianOpen2026",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764367740~acl=/*~id=01234153535011624272443464135557~hmac=898272fa3bc54cea843671b0319bfdf5f0085120d26e29ee3667b3ef613b3613",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764367740~acl=/*~id=01234153535011624272443464135557~hmac=898272fa3bc54cea843671b0319bfdf5f0085120d26e29ee3667b3ef613b3613",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764367861~acl=/*~id=81406334478858918964406400915977~hmac=b9fd47eaa9ba37e8630bf9d695e51e96944cb5e5da8550494c01cb40060bec02",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1764367861~acl=/*~id=81406334478858918964406400915977~hmac=b9fd47eaa9ba37e8630bf9d695e51e96944cb5e5da8550494c01cb40060bec02",
+        "sus": "hdntl=exp=1764411106~acl=%2f*~id=81406334478858918964406400915977~data=hdntl,2022320,DAI16ME-V3,none~hmac=bb384eeade0d5ddd803ae06d50cdf092ee6bf655ca8c0018d2ed0f6b01218309",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
