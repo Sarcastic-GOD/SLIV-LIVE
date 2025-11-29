@@ -1,22 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629321629623_Bliga2526_MD12_Union-Berlin-vs-Heidenheim_12nov_landscape_thumb.jpg" group-title="SonyLIV",Union Berlin vs Heidenheim - MD 12 - 29 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764477241~acl=/*~id=29805354485560328686643437469098~hmac=c2082558ab15f3f226201b75691be13f69b91465f8e0c194885b73743292cfe3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629395785273_Bliga2526_MD12_Bayern-Munich-vs-St-Pauli_12nov_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs St Pauli - MD 12 - 29 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764477241~acl=/*~id=29805354485560328686643437469098~hmac=c2082558ab15f3f226201b75691be13f69b91465f8e0c194885b73743292cfe3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629399963793_Bliga2526_MD12_Werder-Bremen-vs-FC-Koln_12nov_landscape_thumb.jpg" group-title="SonyLIV",Werder Bremen vs FC Koln - MD 12 - 29 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764477241~acl=/*~id=29805354485560328686643437469098~hmac=c2082558ab15f3f226201b75691be13f69b91465f8e0c194885b73743292cfe3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLIV",Goal Arena - MD 11 - 29 Nov 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764477241~acl=/*~id=29805354485560328686643437469098~hmac=c2082558ab15f3f226201b75691be13f69b91465f8e0c194885b73743292cfe3
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011891/1764335068016434_NZvsWI2025_1st_test_28nov_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/8bd525d0de834fa78e2a151e77426c62/1764351073/baseline-std-v4/PROMO_NZ_VS_WI_TEST_SERIES_30SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149099082218_Bung_25_26_Bayer-Leverkusen-vs-Borussia-Dortmundi_Tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayer Leverkusen vs Borussia Dortmund - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/305e926f5faf4bcd89fff4d114212503/1764152558/baseline-std-v4/PROMO_BUNDESLIGA_MATCHDAY_12_LEVERKUSEN_VS_DORTMUND_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
