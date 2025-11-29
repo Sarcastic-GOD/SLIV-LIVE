@@ -1,1 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="SonyLIV",Finals - Asia-Pacific Wildcard Playoff - 29 Nov 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764443167~acl=/*~id=61877079654391870584230644804979~hmac=699257d9545280203ffe3d45bed4f58175a2f9af3dfa03e5f737f23dfdb64238
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011891/1764335068016434_NZvsWI2025_1st_test_28nov_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: West Indies Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/8bd525d0de834fa78e2a151e77426c62/1764351073/baseline-std-v4/PROMO_NZ_VS_WI_TEST_SERIES_30SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149606751218_Bung_25_26_Bayern-VS-St-Pauli_Tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs St. Pauli - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/a9a5a949d88848648b2a1e385f485324/1764152558/baseline-std-v4/PROMO_BUNDESLIGA_MATCHDAY_12_BAYERN_VS_ST_PAULI_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149099082218_Bung_25_26_Bayer-Leverkusen-vs-Borussia-Dortmundi_Tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayer Leverkusen vs Borussia Dortmund - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/305e926f5faf4bcd89fff4d114212503/1764152558/baseline-std-v4/PROMO_BUNDESLIGA_MATCHDAY_12_LEVERKUSEN_VS_DORTMUND_30_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
