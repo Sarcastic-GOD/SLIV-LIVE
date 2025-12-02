@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/hj50VlsLTma4DLiOkd84EA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764688689~acl=/*~id=35378350267502967833379545808057~hmac=e9e5cafd108db5f0a12b6b7f3b7ca41f5606026daba93749639749a8f94bf261",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1764688689~acl=/*~id=35378350267502967833379545808057~hmac=e9e5cafd108db5f0a12b6b7f3b7ca41f5606026daba93749639749a8f94bf261",
-        "sus": "hdntl=exp=1764731898~acl=%2f*~id=35378350267502967833379545808057~data=hdntl,2018457,wivsnz,ENG~hmac=2261cc88d763956784284649d2f6113b6e1fb6abf687347729f7cb43465e9446",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764688801~acl=/*~id=15339503657135670125089296851243~hmac=850e8fbbb7e79850f1240935f75184d1d3592dce3f4b6e2a521b26b8e6554748",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1764688801~acl=/*~id=15339503657135670125089296851243~hmac=850e8fbbb7e79850f1240935f75184d1d3592dce3f4b6e2a521b26b8e6554748",
+        "sus": "hdntl=exp=1764732010~acl=%2f*~id=15339503657135670125089296851243~data=hdntl,2018457,wivsnz,ENG~hmac=a9beb9d8401af1eea9f2499935c12fd4e2c6d5aa55603c61590f6ce0599b6a99",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
