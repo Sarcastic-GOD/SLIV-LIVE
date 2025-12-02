@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/hj50VlsLTma4DLiOkd84EA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764699601~acl=/*~id=32784643830088633481444974655592~hmac=9d87dc76389f53201271c18f85f056b5781ee6b0995b3fa2b874b0aca874f7dc",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1764699601~acl=/*~id=32784643830088633481444974655592~hmac=9d87dc76389f53201271c18f85f056b5781ee6b0995b3fa2b874b0aca874f7dc",
-        "sus": "hdntl=exp=1764742814~acl=%2f*~id=32784643830088633481444974655592~data=hdntl,2018457,wivsnz,ENG~hmac=227968993c9cdfd35061ef2756723ee458298df1147815e570342f6be73b17df",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764699726~acl=/*~id=11042910534839741616733866153330~hmac=c8de344556c771c6af7599d78c0f00da706324297382e40bc5bd79ee1a5a88c4",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1764699726~acl=/*~id=11042910534839741616733866153330~hmac=c8de344556c771c6af7599d78c0f00da706324297382e40bc5bd79ee1a5a88c4",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
