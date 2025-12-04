@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507867350522_NZvsWI25_1st_test_day4_30nov_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 4 - 5 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1764934709~acl=/*~id=77670607199603834926183939124543~hmac=c129cdaae9e2e5bc185df28c4ff6b48f0196dbe7e583637176bf97b7f2ed8abe
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764935029~acl=/*~id=72350337550808889400761329113916~hmac=dd0873c8a2c54115bc680427782f217a3f7f26c6699af1579b6fa8336c5f6d55
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507867350522_NZvsWI25_1st_test_day4_30nov_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 4 - 5 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1764935029~acl=/*~id=72350337550808889400761329113916~hmac=dd0873c8a2c54115bc680427782f217a3f7f26c6699af1579b6fa8336c5f6d55
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011968/1764677800963719_UFC323_dated_2dec_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 323 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/26fc8f2452ff4941b026fc7e2d942964/1764578973/baseline-std-v4/PROMO_UFC_323_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
