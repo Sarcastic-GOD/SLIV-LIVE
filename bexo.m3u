@@ -1,25 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507867350522_NZvsWI25_1st_test_day4_30nov_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 4 - 5 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764946445~acl=/*~id=37903188882282926805641848973524~hmac=ff14e95ef96b6a91c61a8373d6af104ee504ff35c43694d626582b97548d5fc9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011968/1764677800963719_UFC323_dated_2dec_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 323 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/26fc8f2452ff4941b026fc7e2d942964/1764578973/baseline-std-v4/PROMO_UFC_323_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764872609328362_UCL_Inter-vs-Liverpool-MD-6_promo_landscape_thumb_ddt.jpg" group-title="SonyLIV",Upcoming: Inter vs Liverpool - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/3a87d1501fcd4c6d8d360bfe2f935011/1764869623/baseline-std-v4/PROMO_UCL_INTERM_MILAN_VS_LIVERPOOL_04Dec2025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764871752740362_UCL_Real-Madrid-vs-Man-City-MD-6_promo_landscape_thumb_ddt.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Manchester City - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468402286036_UCL2526_Barcelona_vs_Frankfurt_2dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Barcelona vs Frankfurt - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/7ded55a829bb4a959eb33ce7f4e7c641/1764861894/baseline-std-v4/1090496663_04122025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468084716036_UCL2526_Bayern_vs_Sporting_CP_2dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Sporting CP - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/48a42c531c9940d98687d93df6fbf3e9/1764861933/baseline-std-v4/1090496664_04122025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689643766190_UCL_MD6_AthleticClub_vs_PSG_DDT_promo_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Athletic Club vs Paris - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764946689~acl=/*~id=78489182909390397649884878231264~hmac=236d4d87babf3e587c67f1ec8db2709e7a3c61352e92afd773e8d5875fc17ddc
