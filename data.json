@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090496700",
+        "isLive": true,
+        "event": "ABB FIA Formula E World Championship",
+        "match": "Round 1 - Sao Paulo E-PRIX - Qualifying Race - 6 Dec 2025",
+        "Provider": "FORMULA E OPERATIONS LIMITED",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011993/1764738463989770_ABB_FIA_FormulaE_WC25_Round_1_Sao_Paulo_EPRIX_Qualifying_Race_2dec_landscape_thumb.jpg",
+        "genre": "Racing",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "formula e,abb fia formula e,formula e championship,electric racing,fia electric racing series,e-prix,electric street racing,abb formula e,electric car racing,fia formula e world championship,formula e teams,formula e drivers,electric motorsport,abb formula e schedule,formula e tickets,formula e results,formula e highlights,electric vehicle racing,abb formula e news,formula e technology,ABBFIAFormulaEWorldChampionship",
+        "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765070280~acl=/*~id=49743658682070177337298688290437~hmac=e57d6df8f82ca810319b93dfabf04b4c9c49f0932cad967f8bc2bb7ab3925a03",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765070280~acl=/*~id=49743658682070177337298688290437~hmac=e57d6df8f82ca810319b93dfabf04b4c9c49f0932cad967f8bc2bb7ab3925a03",
+        "sus": "hdntl=exp=1765113482~acl=%2f*~id=49743658682070177337298688290437~data=hdntl,2037139,DAI19ME-V3,none~hmac=80b14454fc87259732b5a70eabb68dc18b77561090eb5264c2561c0ba7f00ad6",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
