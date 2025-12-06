@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507875506522_NZvsWI25_1st_test_day5_30nov_landscape_thumb.jpg" group-title="SonyLIV",1st Test - Day 5 - 6 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765033082~acl=/*~id=11265293809393273066349619922872~hmac=c0112c6d9eb65a27049b202fd51c589bda68037db51541fb8f1dfd2819e49dfa
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765033395~acl=/*~id=01566448955788143145572570471098~hmac=f4708879d8f8cfa9f472f9f4c9269186739b7ed12fd8e1cd02afb5efc5d0a28d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011968/1764677800963719_UFC323_dated_2dec_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: UFC 323 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/26fc8f2452ff4941b026fc7e2d942964/1764578973/baseline-std-v4/PROMO_UFC_323_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
@@ -14,7 +14,7 @@ https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/176486
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483690059826_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_Dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: VfB Stuttgart vs Bayern Munich - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483691676426_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: VfB Stuttgart vs Bayern Munich - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/4a3011cffd6543ada7d5f3581e248c7e/1764748271/baseline-std-v4/PROMO_BUNDESLIGA_STUTTGART_VS_BAYERN_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176484027294326_BLIGA_25_26_MD13_Borussia-Dortmund-vs-Hoffenheim_Dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Borussia Dortmund vs Hoffenheim - ENG
