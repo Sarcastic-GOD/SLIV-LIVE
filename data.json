@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "formula e,abb fia formula e,formula e championship,electric racing,fia electric racing series,e-prix,electric street racing,abb formula e,electric car racing,fia formula e world championship,formula e teams,formula e drivers,electric motorsport,abb formula e schedule,formula e tickets,formula e results,formula e highlights,electric vehicle racing,abb formula e news,formula e technology,ABBFIAFormulaEWorldChampionship",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765066957~acl=/*~id=52262539919230645485820280852238~hmac=3ca9a5c9d0c50ce4c38a3c98df8ed473f8c5f56a5e65e2ad8601552d81f7d609",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765066957~acl=/*~id=52262539919230645485820280852238~hmac=3ca9a5c9d0c50ce4c38a3c98df8ed473f8c5f56a5e65e2ad8601552d81f7d609",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067041~acl=/*~id=91564891496333923016002135006648~hmac=5050795f5e6d0e9f3d44ed1c78ec02543ed5df005ac426dbe4b158e8634eed6b",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765067041~acl=/*~id=91564891496333923016002135006648~hmac=5050795f5e6d0e9f3d44ed1c78ec02543ed5df005ac426dbe4b158e8634eed6b",
+        "sus": "hdntl=exp=1765110250~acl=%2f*~id=91564891496333923016002135006648~data=hdntl,2037139,DAI19ME-V3,none~hmac=002f9bca82b872c4207562ab71c7e03f7b9588b739af19bfdc13ef87d67170a8",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
