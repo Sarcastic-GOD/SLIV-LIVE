@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090496457",
-        "isLive": true,
-        "event": "West Indies Tour of New Zealand 2025",
-        "match": "1st Test - Day 5 - 6 Dec 2025",
-        "Provider": "New Zealand Cricket",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507875506522_NZvsWI25_1st_test_day5_30nov_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Christchurch, Hagley Oval",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
-        "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765023004~acl=/*~id=61500022045058949876204913130108~hmac=6f83ff1fcebd61c8afd1addceaac2d2e8d5d8395561b291a360e16b10782fff1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765023004~acl=/*~id=61500022045058949876204913130108~hmac=6f83ff1fcebd61c8afd1addceaac2d2e8d5d8395561b291a360e16b10782fff1",
-        "sus": "hdntl=exp=1765066212~acl=%2f*~id=61500022045058949876204913130108~data=hdntl,2018457,wivsnz,ENG~hmac=588fe43c65dcaace12dc76dc57b1fbbf471d50834be898a4bde8e81fb6e2a019",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090496396",
         "isLive": false,
         "event": "Dvalishvili vs Yan 2",
