@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,RB Leipzig vs Eintracht Frankfurt,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765085042~acl=/*~id=94863742952178247779172372441589~hmac=75544ce2e42d0bdb44fd75504d42ed68edca8148b6d8a156856996d8df7d0203",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765085042~acl=/*~id=94863742952178247779172372441589~hmac=75544ce2e42d0bdb44fd75504d42ed68edca8148b6d8a156856996d8df7d0203",
-        "sus": "hdntl=exp=1765128244~acl=%2f*~id=94863742952178247779172372441589~data=hdntl,2022318,DAI14ME-V3,none~hmac=29ea8ae03adc110c5741bc5b06723f253aea94481099b6bcc55c5368f90f0e69",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765085162~acl=/*~id=11757472503825445224718306779413~hmac=0ef86f7eb7a234688ac07fc1f3d8e7da58b08210716483b43eb5a2f5eb17ba3c",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765085162~acl=/*~id=11757472503825445224718306779413~hmac=0ef86f7eb7a234688ac07fc1f3d8e7da58b08210716483b43eb5a2f5eb17ba3c",
+        "sus": "hdntl=exp=1765128363~acl=%2f*~id=11757472503825445224718306779413~data=hdntl,2022318,DAI14ME-V3,none~hmac=0e03c4439c7626f93a8cc1d3c6096782f8ef838c47533d630912d1c59b407b37",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "formula e,abb fia formula e,formula e championship,electric racing,fia electric racing series,e-prix,electric street racing,abb formula e,electric car racing,fia formula e world championship,formula e teams,formula e drivers,electric motorsport,abb formula e schedule,formula e tickets,formula e results,formula e highlights,electric vehicle racing,abb formula e news,formula e technology,ABBFIAFormulaEWorldChampionship",
         "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765085042~acl=/*~id=94863742952178247779172372441589~hmac=75544ce2e42d0bdb44fd75504d42ed68edca8148b6d8a156856996d8df7d0203",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765085042~acl=/*~id=94863742952178247779172372441589~hmac=75544ce2e42d0bdb44fd75504d42ed68edca8148b6d8a156856996d8df7d0203",
-        "sus": "hdntl=exp=1765128246~acl=%2f*~id=94863742952178247779172372441589~data=hdntl,2037139,DAI19ME-V3,none~hmac=f7e3a45cffe2453a14554b9194ddf3f452338871cc46016b1912bc171c5fa29f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765085162~acl=/*~id=11757472503825445224718306779413~hmac=0ef86f7eb7a234688ac07fc1f3d8e7da58b08210716483b43eb5a2f5eb17ba3c",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765085162~acl=/*~id=11757472503825445224718306779413~hmac=0ef86f7eb7a234688ac07fc1f3d8e7da58b08210716483b43eb5a2f5eb17ba3c",
+        "sus": "hdntl=exp=1765128364~acl=%2f*~id=11757472503825445224718306779413~data=hdntl,2037139,DAI19ME-V3,none~hmac=ad98b889ab6d14bcd5f25ba3e7c9206d328180f152ad39ac8d54847eb10f8214",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
