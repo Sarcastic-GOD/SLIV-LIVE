@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "formula e,abb fia formula e,formula e championship,electric racing,fia electric racing series,e-prix,electric street racing,abb formula e,electric car racing,fia formula e world championship,formula e teams,formula e drivers,electric motorsport,abb formula e schedule,formula e tickets,formula e results,formula e highlights,electric vehicle racing,abb formula e news,formula e technology,ABBFIAFormulaEWorldChampionship",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067290~acl=/*~id=10482015445650583592543439843390~hmac=e32e8145540dd3876f5be6b08ffd46a2696785e7dbca35ca3e83a8a5c0a1f39c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765067290~acl=/*~id=10482015445650583592543439843390~hmac=e32e8145540dd3876f5be6b08ffd46a2696785e7dbca35ca3e83a8a5c0a1f39c",
-        "sus": "hdntl=exp=1765110525~acl=%2f*~id=10482015445650583592543439843390~data=hdntl,2037139,DAI19ME-V3,none~hmac=774a0a256f379a01e8964c5a31876114f8bc10a8a64e4d9fac70aa93f6500532",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067509~acl=/*~id=23098967442833872320620573396112~hmac=2fe87c93f28e31364c65cb244822e122048eb88731845632fe11ca0bf0b9c7d8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765067509~acl=/*~id=23098967442833872320620573396112~hmac=2fe87c93f28e31364c65cb244822e122048eb88731845632fe11ca0bf0b9c7d8",
+        "sus": "hdntl=exp=1765110718~acl=%2f*~id=23098967442833872320620573396112~data=hdntl,2037139,DAI19ME-V3,none~hmac=9f9e1769dd37b90ff0fc7879fdbf640ed54a860f919493d91e6c705a91e1dad1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
