@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090496705",
-        "isLive": true,
-        "event": "Bundesliga 2025-26",
-        "match": "RB Leipzig vs Eintracht Frankfurt- MD 13 - 6 Dec 2025",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764133806696656_Bundesliga_MD13_RB_Leipzig_vs_EintrachtFrankfurt_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Red Bull Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,RB Leipzig vs Eintracht Frankfurt,Bundesliga202526",
-        "Server1": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765093144~acl=/*~id=74491879942479124099543948517212~hmac=69205d259b3d373541409ad0cd886248e44dfee551d4db9de98eb3966925ce90",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765093144~acl=/*~id=74491879942479124099543948517212~hmac=69205d259b3d373541409ad0cd886248e44dfee551d4db9de98eb3966925ce90",
-        "sus": "hdntl=exp=1765136425~acl=%2f*~id=74491879942479124099543948517212~data=hdntl,2022318,DAI14ME-V3,none~hmac=db8a30be7a7468d079921cbba294e4fea80e24e98d1bcf7b54fe47d132d16a6f",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
