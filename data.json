@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765033082~acl=/*~id=11265293809393273066349619922872~hmac=c0112c6d9eb65a27049b202fd51c589bda68037db51541fb8f1dfd2819e49dfa",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765033082~acl=/*~id=11265293809393273066349619922872~hmac=c0112c6d9eb65a27049b202fd51c589bda68037db51541fb8f1dfd2819e49dfa",
-        "sus": "hdntl=exp=1765076283~acl=%2f*~id=11265293809393273066349619922872~data=hdntl,2018457,wivsnz,ENG~hmac=4a6465a0ced826ce61d0a67bf93be468af8a78069919e2f7f41f9039defd4a5d",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765033395~acl=/*~id=01566448955788143145572570471098~hmac=f4708879d8f8cfa9f472f9f4c9269186739b7ed12fd8e1cd02afb5efc5d0a28d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765033395~acl=/*~id=01566448955788143145572570471098~hmac=f4708879d8f8cfa9f472f9f4c9269186739b7ed12fd8e1cd02afb5efc5d0a28d",
+        "sus": "hdntl=exp=1765076596~acl=%2f*~id=01566448955788143145572570471098~data=hdntl,2018457,wivsnz,ENG~hmac=dc2ff83a5ddada4e2b280aef9dae97d5c09cbc5acacb82433d2687796fe04597",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -79,7 +79,7 @@
         "event": "VfB Stuttgart vs Bayern Munich",
         "match": "Upcoming: VfB Stuttgart vs Bayern Munich",
         "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483690059826_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_Dated_landscape_thumb.jpg",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176483691676426_BLIGA_25_26_MD13_VfB-Stuttgart-vs-Bayern-Munich_tonight_landscape_thumb.jpg",
         "genre": "Football",
         "language": "ENG",
         "venue": "N/A",
