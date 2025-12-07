@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg" group-title="SonyLIV",Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765171590~acl=/*~id=89037447369929543603339336145529~hmac=20589f59dbbc16e54adf49f92ebb2aeb0e9e40142db1bec07d38e3a8ea0ae7c0
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765171590~acl=/*~id=26655640268671191592403258239374~hmac=408ca471be95a8344fbe1e14c6c5842284711061fc116b7f9b194c5aedfe69bc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
