@@ -12,9 +12,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Hamburg SV vs Werder Bremen,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765165809~acl=/*~id=78671366472653186576476682831661~hmac=eecd166463e3683da343695cad65aaec811df976725f846eb53e866055156f0f",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765165809~acl=/*~id=78671366472653186576476682831661~hmac=eecd166463e3683da343695cad65aaec811df976725f846eb53e866055156f0f",
-        "sus": "hdntl=exp=1765209029~acl=%2f*~id=78671366472653186576476682831661~data=hdntl,2094588,DAI04ME-V3,none~hmac=453a2404b3c9e6f0ed4583808295819483e3c3e75989748cc35d6546d73ad7fc",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166059~acl=/*~id=13262277348201084258826066583484~hmac=485998ee3c82711c9e11587043fb24e7b0c34143ae345d571c7b734ff427dbf7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765166059~acl=/*~id=13262277348201084258826066583484~hmac=485998ee3c82711c9e11587043fb24e7b0c34143ae345d571c7b734ff427dbf7",
+        "sus": false,
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090496758",
+        "isLive": true,
+        "event": "Bundesliga 2025-26",
+        "match": "Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025",
+        "Provider": "DFL Deutsche Fubball Liga e.V.",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Signal Iduna Park",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Borussia Dortmund vs Hoffenheim,Bundesliga202526",
+        "Server1": "https://dai.google.com/ssai/event/i3W424xBTFmjSHum4gdPbA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166059~acl=/*~id=13262277348201084258826066583484~hmac=485998ee3c82711c9e11587043fb24e7b0c34143ae345d571c7b734ff427dbf7",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765166059~acl=/*~id=13262277348201084258826066583484~hmac=485998ee3c82711c9e11587043fb24e7b0c34143ae345d571c7b734ff427dbf7",
+        "sus": "hdntl=exp=1765209422~acl=%2f*~id=13262277348201084258826066583484~data=hdntl,2094589,DAI05ME-V3,none~hmac=620086b4031bee833ef178478664d7d0c01417b0a904d0bc7d92b3621d0e18e7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -58,19 +76,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090496564",
-        "isLive": false,
-        "event": "Borussia Dortmund vs Hoffenheim",
-        "match": "Upcoming: Borussia Dortmund vs Hoffenheim",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176484029539726_BLIGA_25_26_MD13_Borussia-Dortmund-vs-Hoffenheim_tonight_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/190e87611ba54d049ff7cff1378eef67/1764748257/baseline-std-v4/PROMO_BUNDESLIGA_DORTMUND_VS_HOFFENHEIM_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     }
 ]
