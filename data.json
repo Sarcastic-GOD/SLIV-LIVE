@@ -1,20 +1,20 @@
 [
     {
         "id": "sl1090496781",
-        "isLive": false,
-        "event": "",
+        "isLive": true,
+        "event": "UFC 323 - Dvalishvili vs Yan 2",
         "match": "UFC 323 - Dvalishvili vs Yan 2 - 7 Dec 2025",
-        "Provider": "",
-        "poster": "",
+        "Provider": "UFC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011990/1764725389792261_UFC323_3dec_telugu_landscape_thumb.jpg",
         "genre": "Fight Sports",
         "language": "te",
         "venue": "",
-        "TVchannel": "",
+        "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,UFC 323 - Dvalishvili vs Yan 2,Dvalishvili,Dvalishvili vs Yan 2,UFC323DvalishvilivsYan2",
         "Server1": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "sus": "hdntl=exp=1765172231~acl=%2f*~id=76470028911924421701919123383715~data=hdntl,2018458,DAI10ME-V3,none~hmac=f7c354a4fda358a97d90e0c45f88b65cd7939996cfa30918d30eade331d91890",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "sus": "hdntl=exp=1765172231~acl=%2f*~id=43871242698937958607171636801473~data=hdntl,2018458,DAI10ME-V3,none~hmac=7fc25166bc1e7d7773efaafc91adb0a5710e8e77e4e0065e0098339b2410b462",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,UFC 323 - Dvalishvili vs Yan 2,Dvalishvili,Dvalishvili vs Yan 2,UFC323DvalishvilivsYan2",
         "Server1": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "sus": "hdntl=exp=1765172239~acl=%2f*~id=76470028911924421701919123383715~data=hdntl,2022316,DAI12ME-V3,none~hmac=a8204a88996cea84231c5c890754944187e28eb110f490b59a08ad69ed4878c8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "sus": "hdntl=exp=1765172239~acl=%2f*~id=43871242698937958607171636801473~data=hdntl,2022316,DAI12ME-V3,none~hmac=c8b9041dba9d91affaa2ad1f34de51fea7c74c3f84fa5cc6847f9439d7e8fd05",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,8 +48,8 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,UFC 323 - Dvalishvili vs Yan 2,Dvalishvili,Dvalishvili vs Yan 2,UFC323DvalishvilivsYan2",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
         "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,next ufc event,ufc fight schedule,ufc schedule today,next ufc match,ufc fighters names,ufc live stream india,ufc live match,ufc time,ufc calendar,ufc fight tonight time,ufc fight time,ufc online,martial arts,mixed martial arts,dustin poirier,lightweight,heavyweight,welterweight,ufc fight night live,flyweight,ufc Featherweight,ufc bantamweight,ufc light heavyweight,middleweight,ufc flyweight,light heavyweight,ufc fight night live streaming,watch UFC Fight Night,watch fight,bmf belt,mixed martial arts fighting,fighting championship,the ultimate fighting championship,light heavyweight division,straw,strawweight,nopreroll_livectv,Imavov vs Borralho,Nassourdine Imavov,UFC 323 - Dvalishvili vs Yan 2,Dvalishvili,Dvalishvili vs Yan 2,UFC323DvalishvilivsYan2",
         "Server1": "https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=76470028911924421701919123383715~hmac=714821d5c2db7cfdae160866fe74e0fdc3595f2d0c6c832c63ffeaa6351087fe",
-        "sus": "hdntl=exp=1765172325~acl=%2f*~id=76470028911924421701919123383715~data=hdntl,2005445,DAI06ME-V3,none~hmac=3af69c6185bd0fde1ef3b2aa18efe087b77f39dc93edb31dd2e068f6a3e858b5",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765129023~acl=/*~id=43871242698937958607171636801473~hmac=9c4330931e0d639c6b325d71c548a33755eb86129fae7b192a033a4d1b1c5d18",
+        "sus": "hdntl=exp=1765172327~acl=%2f*~id=43871242698937958607171636801473~data=hdntl,2005445,DAI06ME-V3,none~hmac=8ce882126d43251bfa4fec0a7c99d8e869bc6b4be2f973afde3f93f6d9da8231",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
