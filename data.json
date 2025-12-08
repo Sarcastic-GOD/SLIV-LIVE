@@ -56,20 +56,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/8bd525d0de834fa78e2a151e77426c62/1764351073/baseline-std-v4/PROMO_NZ_VS_WI_TEST_SERIES_30SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090496662",
-        "isLive": false,
-        "event": "UEFA Champions League 2025-26",
-        "match": "Upcoming: Athletic Club vs Paris",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689643766190_UCL_MD6_AthleticClub_vs_PSG_DDT_promo_Landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090496664",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
@@ -96,5 +82,19 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/7ded55a829bb4a959eb33ce7f4e7c641/1764861894/baseline-std-v4/1090496663_04122025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090496662",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Athletic Club vs Paris",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689643766190_UCL_MD6_AthleticClub_vs_PSG_DDT_promo_Landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
     }
 ]
