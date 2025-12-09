@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090496494",
+        "isLive": true,
+        "event": "UEFA Youth League 2025-26",
+        "match": "PSV vs Atletico - MD 6 - 9 Dec 2025",
+        "Provider": "UEFA",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Campus de Herdgang, Eindhoven",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,PSV vs Atletico,UEFAYouthLeague202526",
+        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328521~acl=/*~id=50926626783194543231524880123296~hmac=00184445aa5d4e4f2b348c7ea6975392a361088377c02feaa9f0e370a60ef106",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765328521~acl=/*~id=50926626783194543231524880123296~hmac=00184445aa5d4e4f2b348c7ea6975392a361088377c02feaa9f0e370a60ef106",
+        "sus": "hdntl=exp=1765371722~acl=%2f*~id=50926626783194543231524880123296~data=hdntl,2022316,DAI12ME-V3,none~hmac=70296f6b169845e3c8e0a9f3ee447acadf4a03df1d99b78a642c51ac4a318f8b",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090496667",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
