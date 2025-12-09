@@ -1,19 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255330712892_NZvsWI25_2nd_test_day1_9dec_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 1 - 10 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765363921~acl=/*~id=22634193655463685320427611651195~hmac=db299208c45550f9e0877f638112750ec778ae891bd55a403c661a1d85ed2de6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764078330341284_UCL_25_26_MD6_Inter-vs-Liverpool_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Liverpool - MD 6 - 10 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363921~acl=/*~id=22634193655463685320427611651195~hmac=db299208c45550f9e0877f638112750ec778ae891bd55a403c661a1d85ed2de6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764683412607791_UCL_25_26_MD6_Inter-vs-Liverpool_hindi_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Liverpool - MD 6 - 10 Dec 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363921~acl=/*~id=22634193655463685320427611651195~hmac=db299208c45550f9e0877f638112750ec778ae891bd55a403c661a1d85ed2de6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764683470959791_UCL_25_26_MD6_Inter-vs-Liverpool_telugu_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Liverpool - MD 6 - 10 Dec 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363921~acl=/*~id=22634193655463685320427611651195~hmac=db299208c45550f9e0877f638112750ec778ae891bd55a403c661a1d85ed2de6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764683443518791_UCL_25_26_MD6_Inter-vs-Liverpool_tamil_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Liverpool - MD 6 - 10 Dec 2025 - TAM
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765363921~acl=/*~id=22634193655463685320427611651195~hmac=db299208c45550f9e0877f638112750ec778ae891bd55a403c661a1d85ed2de6
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765364042~acl=/*~id=44335807809892560124630714364431~hmac=8e37ca3e81d2f1729b4e8f832c01a5ac86f2b14b20afe9c293378ad5b411dbf8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764871752740362_UCL_Real-Madrid-vs-Man-City-MD-6_promo_landscape_thumb_ddt.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Manchester City - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd
