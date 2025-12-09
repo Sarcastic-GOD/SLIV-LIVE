@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg" group-title="SonyLIV",PSV vs Atletico - MD 6 - 9 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765333801~acl=/*~id=63890921479810489051266467640440~hmac=3213591aa305d3081817f7534fc31cae4a4b65212a1ed2d98f272ea2d8a6d634
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739779693688_UYL2526_MD6_Inter_vs_Liverpool_2dec_landscape_thumb.jpg" group-title="SonyLIV",Inter vs Liverpool - MD 6 - 9 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765333801~acl=/*~id=63890921479810489051266467640440~hmac=3213591aa305d3081817f7534fc31cae4a4b65212a1ed2d98f272ea2d8a6d634
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765333926~acl=/*~id=42702096994702626348272962423837~hmac=0ec861aa2bf5b2926ccb4e5a557733f2077ba6e39bbecbed0274cf8eedfa5a9a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg" group-title="SonyLIV",PSV vs Atletico - MD 6 - 9 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765333926~acl=/*~id=42702096994702626348272962423837~hmac=0ec861aa2bf5b2926ccb4e5a557733f2077ba6e39bbecbed0274cf8eedfa5a9a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012140/1765204494940251_UCL2526_MD6_inter_vs_liverpool_8dec_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Inter vs Liverpool - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/3a87d1501fcd4c6d8d360bfe2f935011/1764869623/baseline-std-v4/PROMO_UCL_INTERM_MILAN_VS_LIVERPOOL_04Dec2025_eng_baseline-800300010.mpd
