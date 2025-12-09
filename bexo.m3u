@@ -1,16 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682980470791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_telugu_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - TEL
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344962~acl=/*~id=06093869446614818720371072167793~hmac=9212f478ac7c25282174ccef03a3dda7ecaf238feff2bc84ec36d573762f3de5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682965600791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_tamil_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344962~acl=/*~id=06093869446614818720371072167793~hmac=9212f478ac7c25282174ccef03a3dda7ecaf238feff2bc84ec36d573762f3de5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682933611791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_hindi_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - HIN
+https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344250~acl=/*~id=93809774773802553560240587056440~hmac=d1cca1f1a6560163517a433689c83bf972aa0a8c234115fa032814bc95017f05
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682980470791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_telugu_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344962~acl=/*~id=06093869446614818720371072167793~hmac=9212f478ac7c25282174ccef03a3dda7ecaf238feff2bc84ec36d573762f3de5
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344250~acl=/*~id=93809774773802553560240587056440~hmac=d1cca1f1a6560163517a433689c83bf972aa0a8c234115fa032814bc95017f05
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344250~acl=/*~id=93809774773802553560240587056440~hmac=d1cca1f1a6560163517a433689c83bf972aa0a8c234115fa032814bc95017f05
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764065944923284_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344962~acl=/*~id=06093869446614818720371072167793~hmac=9212f478ac7c25282174ccef03a3dda7ecaf238feff2bc84ec36d573762f3de5
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765344250~acl=/*~id=93809774773802553560240587056440~hmac=d1cca1f1a6560163517a433689c83bf972aa0a8c234115fa032814bc95017f05
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Kairat Almaty vs Olympiacos - MD 6 - 9 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012140/1765204494940251_UCL2526_MD6_inter_vs_liverpool_8dec_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Inter vs Liverpool - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/3a87d1501fcd4c6d8d360bfe2f935011/1764869623/baseline-std-v4/PROMO_UCL_INTERM_MILAN_VS_LIVERPOOL_04Dec2025_eng_baseline-800300010.mpd
