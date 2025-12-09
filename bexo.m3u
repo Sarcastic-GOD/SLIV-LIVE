@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682980470791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_telugu_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - TEL
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765349345~acl=/*~id=84132991877688195594203935439818~hmac=e2159d5545d06bf08c5b76814f204d269dda4c18de0dc52a88200076c8a78cdb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682965600791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_tamil_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - TAM
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765349345~acl=/*~id=84132991877688195594203935439818~hmac=e2159d5545d06bf08c5b76814f204d269dda4c18de0dc52a88200076c8a78cdb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011977/1764682933611791_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_hindi_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765349345~acl=/*~id=84132991877688195594203935439818~hmac=e2159d5545d06bf08c5b76814f204d269dda4c18de0dc52a88200076c8a78cdb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764065944923284_UCL_25_26_MD6_Bayern-Munich-vs-Sporting-CP_landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Sporting CP - MD 6 - 9 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765349345~acl=/*~id=84132991877688195594203935439818~hmac=e2159d5545d06bf08c5b76814f204d269dda4c18de0dc52a88200076c8a78cdb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764871752740362_UCL_Real-Madrid-vs-Man-City-MD-6_promo_landscape_thumb_ddt.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Manchester City - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd
