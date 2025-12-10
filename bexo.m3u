@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737828465679_AsianTour25_Saudi_Open_presented_by_PIF_Day1_2dec_landscape_thumb.jpg" group-title="SonyLIV",PIF Saudi Open - Day 1 - 10 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412522~acl=/*~id=95405158998770707290819171642644~hmac=a243cf1454eae21f4581eb86a7fbe2d480abc4950be456307af0893cfb6e6e3c
+https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412642~acl=/*~id=66968514508655217724999296521419~hmac=b1eda111a07cd2b6e0ded8971ddd08e293fea65415183700621cec2743c17f2e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764871769556362_UCL_Real-Madrid-vs-Man-City-MD-6_promo_landscape_thumb_ton.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Manchester City - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd
@@ -17,6 +17,3 @@ https://streaming.sonyliv.com/trailer/DASH/08d8115e29c64f17a83e7dd3de64aa26/1764
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689585726190_UCL_MD6_AthleticClub_vs_PSG_TON_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Athletic Club vs Paris - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Australian Open 2026 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd
