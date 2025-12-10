@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740530232688_UYL2526_MD6_Real_Madrid_vs_Man_City_2dec_landscape_thumb.jpg" group-title="SonyLIV",Real Madrid vs Man City - MD 6 - 10 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012049/1764871769556362_UCL_Real-Madrid-vs-Man-City-MD-6_promo_landscape_thumb_ton.jpg" group-title="SonyLIV",Upcoming: Real Madrid vs Manchester City - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765419962~acl=/*~id=88868841364316127288133332822773~hmac=774ce2083f78886f04568691e0922401ece46a0a9698e535482af0d8b6efafea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg" group-title="SonyLIV",Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 - ENG
+https://streaming.sonyliv.com/promo/DASH/12156cf171fb4210ad2b2d9d79f56dc7/1764862607/baseline-std-v4/PROMO_UCL_REAL_MADRID_VS_MANCITY_40_SEC_HOR_04Dec2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765419962~acl=/*~id=88868841364316127288133332822773~hmac=774ce2083f78886f04568691e0922401ece46a0a9698e535482af0d8b6efafea
+https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765370792/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012202/1765356766813344_U19_Asia_Cup_2025_GOB_2_Landscape_Thumb_Dated.jpg" group-title="SonyLIV",Upcoming: DP World U-19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/9cf1b9e538f2484aa39dca660b108ebf/1765214173/baseline-std-v4/PROMO_ASIA_CUP_U19_35SEC_08Dec2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Matchday 6 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/08d8115e29c64f17a83e7dd3de64aa26/1764869829/baseline-std-v4/Promo_UCL_MD6_Generic_04Dec2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689585726190_UCL_MD6_AthleticClub_vs_PSG_TON_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Athletic Club vs Paris - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd
