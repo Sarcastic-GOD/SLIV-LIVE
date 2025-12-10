@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090496903",
-        "isLive": true,
-        "event": "West Indies Tour of New Zealand 2025",
-        "match": "2nd Test - Day 1 - 10 Dec 2025",
-        "Provider": "New Zealand Cricket",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255330712892_NZvsWI25_2nd_test_day1_9dec_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Basin Reserve, Wellington",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,WestIndiesTourofNewZealand2025",
-        "Server1": "https://dai.google.com/ssai/event/CNoyvSrFQdWpZ5veDRGeSA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765388160~acl=/*~id=46620515615811898984031834949414~hmac=98f72181e61ee8b4d43204957a1af16b0a64a6f8017d65cf8e786575639d0436",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765388160~acl=/*~id=46620515615811898984031834949414~hmac=98f72181e61ee8b4d43204957a1af16b0a64a6f8017d65cf8e786575639d0436",
-        "sus": "hdntl=exp=1765431361~acl=%2f*~id=46620515615811898984031834949414~data=hdntl,2018457,wivsnz,ENG~hmac=64f7575b3c8d25bda7c18b5ed013033376f3b7684120e6c640ee2e4cc24ba554",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090496666",
         "isLive": false,
         "event": "UEFA Champions League 2025-26",
@@ -58,6 +40,20 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090496665",
+        "isLive": false,
+        "event": "UEFA Champions League 2025-26",
+        "match": "Upcoming: Matchday 6",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/08d8115e29c64f17a83e7dd3de64aa26/1764869829/baseline-std-v4/Promo_UCL_MD6_Generic_04Dec2025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090496662",
