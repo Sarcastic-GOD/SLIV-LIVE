@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412522~acl=/*~id=95405158998770707290819171642644~hmac=a243cf1454eae21f4581eb86a7fbe2d480abc4950be456307af0893cfb6e6e3c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765412522~acl=/*~id=95405158998770707290819171642644~hmac=a243cf1454eae21f4581eb86a7fbe2d480abc4950be456307af0893cfb6e6e3c",
-        "sus": "hdntl=exp=1765455787~acl=%2f*~id=95405158998770707290819171642644~data=hdntl,2022320,DAI16ME-V3,none~hmac=20537e793bd9a8a9da2a9a453a0c87426ce4709aaa42da3a00f1368bdaff2571",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412642~acl=/*~id=66968514508655217724999296521419~hmac=b1eda111a07cd2b6e0ded8971ddd08e293fea65415183700621cec2743c17f2e",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765412642~acl=/*~id=66968514508655217724999296521419~hmac=b1eda111a07cd2b6e0ded8971ddd08e293fea65415183700621cec2743c17f2e",
+        "sus": "hdntl=exp=1765455922~acl=%2f*~id=66968514508655217724999296521419~data=hdntl,2022320,DAI16ME-V3,none~hmac=ca779ba61bceefcb659d9477fd182f458c7fe29c176ef0902cd85e1acea5a6c6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -86,19 +86,5 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
-    },
-    {
-        "id": "sl1090496895",
-        "isLive": false,
-        "event": "Australian Open 2026",
-        "match": "Upcoming: Australian Open 2026",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
-        "genre": "Tennis",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "Sinner,Zverev,Alcaraz,Fritz,Medvedev,Ruud,Djokovic,De Minaur,Rublev,Tsitsipas,Rune,Tiafoe,Sabalenka,Swaitek,Gauff,Rybakina,Pegula,Collins,Andreeva,watch Australian Open online,The Australian Open online streaming,Australian Open highlights,Australian Open matches,watch Australian Open games,live Australian Open match score,Australian Open games scores,watch Australian Open match online,watch Australian Open games online,Australian Open match highlights,Australian Open Live Streaming,Australian Open 2025,australian open,aus open,tennis australian open,ao open tennis,aussie tennis open",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd"
     }
 ]
