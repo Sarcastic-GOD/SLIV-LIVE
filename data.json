@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765409042~acl=/*~id=48396448772221892891431497569632~hmac=7868ea5d6aab3f112998a3802e08583f929b6ae47f2f3eb7d0a3bf489c0d6ad3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765409042~acl=/*~id=48396448772221892891431497569632~hmac=7868ea5d6aab3f112998a3802e08583f929b6ae47f2f3eb7d0a3bf489c0d6ad3",
-        "sus": "hdntl=exp=1765452349~acl=%2f*~id=48396448772221892891431497569632~data=hdntl,2022320,DAI16ME-V3,none~hmac=34cd97d952e50a4f5315176c69c9e527319eaa7a7090a85ae89e0d75b5b8b7a3",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765409162~acl=/*~id=98967202535835999146866569273123~hmac=23ce3184fb24a51aae4e0ff06bda1b63354852f6b84a078ae6270e75205e4c37",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765409162~acl=/*~id=98967202535835999146866569273123~hmac=23ce3184fb24a51aae4e0ff06bda1b63354852f6b84a078ae6270e75205e4c37",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
