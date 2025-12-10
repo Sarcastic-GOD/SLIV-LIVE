@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Real Madrid vs Man City,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/0C4AuDckR7GLF9cLQmxKKA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765421287~acl=/*~id=29714405839219799617404327004676~hmac=71b1703a5379342e4b504d0671500f2bedcd29944dccf485d558e9146cc9c1ad",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765421287~acl=/*~id=29714405839219799617404327004676~hmac=71b1703a5379342e4b504d0671500f2bedcd29944dccf485d558e9146cc9c1ad",
-        "sus": "hdntl=exp=1765464496~acl=%2f*~id=29714405839219799617404327004676~data=hdntl,2094589,DAI05ME-V3,none~hmac=24d53be26d1591304588c1437c4f65a0f20e780a0fe26be95e8740a3b1f5bf39",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765421284~acl=/*~id=56779459836097124450709692671628~hmac=da9c53be9255a0da3ae90cb27d1039944e940c649168c69ed77686743b1fc826",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765421284~acl=/*~id=56779459836097124450709692671628~hmac=da9c53be9255a0da3ae90cb27d1039944e940c649168c69ed77686743b1fc826",
+        "sus": "hdntl=exp=1765464493~acl=%2f*~id=56779459836097124450709692671628~data=hdntl,2094589,DAI05ME-V3,none~hmac=fadeb6725e11e33b0fed9c0b3def50a5c0c0a061ac1266642f6bcbb75beaf5dd",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Club Brugge vs Arsenal,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/qTUWzMuwR_KqQmNC9B9alg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765421287~acl=/*~id=29714405839219799617404327004676~hmac=71b1703a5379342e4b504d0671500f2bedcd29944dccf485d558e9146cc9c1ad",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765421287~acl=/*~id=29714405839219799617404327004676~hmac=71b1703a5379342e4b504d0671500f2bedcd29944dccf485d558e9146cc9c1ad",
-        "sus": "hdntl=exp=1765464608~acl=%2f*~id=29714405839219799617404327004676~data=hdntl,2022316,DAI12ME-V3,none~hmac=7b6db45bc8e06f964c9919f414979e2b46b7f887f39fadb6192ed4a8d8f1d512",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765421284~acl=/*~id=56779459836097124450709692671628~hmac=da9c53be9255a0da3ae90cb27d1039944e940c649168c69ed77686743b1fc826",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765421284~acl=/*~id=56779459836097124450709692671628~hmac=da9c53be9255a0da3ae90cb27d1039944e940c649168c69ed77686743b1fc826",
+        "sus": "hdntl=exp=1765464607~acl=%2f*~id=56779459836097124450709692671628~data=hdntl,2022316,DAI12ME-V3,none~hmac=2971417c21e638fa9f56345a62893769f90c561fe9bf68216ac6b42de449256f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
