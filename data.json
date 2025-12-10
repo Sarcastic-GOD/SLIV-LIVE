@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Club Brugge vs Arsenal,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/qTUWzMuwR_KqQmNC9B9alg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765414443~acl=/*~id=09988994277830682842870173373960~hmac=75bda053c176325b226730f5d6fe90d33cf429ce6da838644115a94fff0a4edb",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765414443~acl=/*~id=09988994277830682842870173373960~hmac=75bda053c176325b226730f5d6fe90d33cf429ce6da838644115a94fff0a4edb",
-        "sus": "hdntl=exp=1765457652~acl=%2f*~id=09988994277830682842870173373960~data=hdntl,2022316,DAI12ME-V3,none~hmac=ea80c75534457e436964dc342543b09ee08aaf67a0c6775ff160720a35d630b8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765414564~acl=/*~id=61144172491451680513585005970453~hmac=66b9d938eb8817a3e23a5eaf2c304f4e8271561f13d209ad9a7d9aa87677b1ca",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765414564~acl=/*~id=61144172491451680513585005970453~hmac=66b9d938eb8817a3e23a5eaf2c304f4e8271561f13d209ad9a7d9aa87677b1ca",
+        "sus": "hdntl=exp=1765457773~acl=%2f*~id=61144172491451680513585005970453~data=hdntl,2022316,DAI12ME-V3,none~hmac=5ac4bf173d15d63709f5f9021fcbb639fd1699dd69c294a07407d6ad8e5526f2",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765414443~acl=/*~id=09988994277830682842870173373960~hmac=75bda053c176325b226730f5d6fe90d33cf429ce6da838644115a94fff0a4edb",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765414443~acl=/*~id=09988994277830682842870173373960~hmac=75bda053c176325b226730f5d6fe90d33cf429ce6da838644115a94fff0a4edb",
-        "sus": "hdntl=exp=1765457763~acl=%2f*~id=09988994277830682842870173373960~data=hdntl,2022320,DAI16ME-V3,none~hmac=30cdb75a7c9e0e53590795d0a40ba213d2319bddbc330dd7c3489bb5a99bf32e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765414564~acl=/*~id=61144172491451680513585005970453~hmac=66b9d938eb8817a3e23a5eaf2c304f4e8271561f13d209ad9a7d9aa87677b1ca",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765414564~acl=/*~id=61144172491451680513585005970453~hmac=66b9d938eb8817a3e23a5eaf2c304f4e8271561f13d209ad9a7d9aa87677b1ca",
+        "sus": "hdntl=exp=1765457882~acl=%2f*~id=61144172491451680513585005970453~data=hdntl,2022320,DAI16ME-V3,none~hmac=d6a843c02a90546fe07443a37e0dac085a224fffd5f1e4bcd6e952b1391bfe66",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
