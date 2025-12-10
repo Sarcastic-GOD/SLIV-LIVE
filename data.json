@@ -12,28 +12,28 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,sports_adsupported,uefayouth_live24league25,nopreroll_livectv,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026,Club Brugge vs Arsenal,UEFAYouthLeague202526",
         "Server1": "https://dai.google.com/ssai/event/qTUWzMuwR_KqQmNC9B9alg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416483~acl=/*~id=61522723429895098325766087756759~hmac=bbe3ab71a0a3d75d1b52b6ebc494d45fa5fc75e02e53330b65c81e8f6ffd4361",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765416483~acl=/*~id=61522723429895098325766087756759~hmac=bbe3ab71a0a3d75d1b52b6ebc494d45fa5fc75e02e53330b65c81e8f6ffd4361",
-        "sus": "hdntl=exp=1765459692~acl=%2f*~id=61522723429895098325766087756759~data=hdntl,2022316,DAI12ME-V3,none~hmac=df7b7c5d9dafa66e32ecb43f26893f4f87d409a10ae11bcefb6eb8c698540014",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416603~acl=/*~id=52853719740314365752714344841671~hmac=60a83b4a96135eb02e9d7449dde02f6144d20161a528d51f8d554d8798c93637",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765416603~acl=/*~id=52853719740314365752714344841671~hmac=60a83b4a96135eb02e9d7449dde02f6144d20161a528d51f8d554d8798c93637",
+        "sus": "hdntl=exp=1765459917~acl=%2f*~id=52853719740314365752714344841671~data=hdntl,2022316,DAI12ME-V3,none~hmac=6e207f8f1361c58408222d251d1a8ff98f89fa45e799cecc3da327ff247cacb6",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
         "id": "sl1090496904",
-        "isLive": true,
-        "event": "Asian Tour 2025",
+        "isLive": false,
+        "event": "",
         "match": "PIF Saudi Open - Day 1 - 10 Dec 2025",
-        "Provider": "ASIAN TOUR MEDIA PTE LTD",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737828465679_AsianTour25_Saudi_Open_presented_by_PIF_Day1_2dec_landscape_thumb.jpg",
+        "Provider": "",
+        "poster": "",
         "genre": "Golf",
         "language": "en",
-        "venue": "Dirab Golf & Country Club",
-        "TVchannel": "LIV",
+        "venue": "",
+        "TVchannel": "",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
-        "Server1": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416483~acl=/*~id=61522723429895098325766087756759~hmac=bbe3ab71a0a3d75d1b52b6ebc494d45fa5fc75e02e53330b65c81e8f6ffd4361",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765416483~acl=/*~id=61522723429895098325766087756759~hmac=bbe3ab71a0a3d75d1b52b6ebc494d45fa5fc75e02e53330b65c81e8f6ffd4361",
-        "sus": "hdntl=exp=1765459703~acl=%2f*~id=61522723429895098325766087756759~data=hdntl,2022320,DAI16ME-V3,none~hmac=6cd4337fe251cb9b18bb993b5931767f0ca78e811d483233cf14739e2f145bdc",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+        "Server1": "?hdnea=exp=1765416603~acl=/*~id=52853719740314365752714344841671~hmac=60a83b4a96135eb02e9d7449dde02f6144d20161a528d51f8d554d8798c93637",
+        "Server2": "Video URL not found",
+        "Server3": "?hdnea=exp=1765416603~acl=/*~id=52853719740314365752714344841671~hmac=60a83b4a96135eb02e9d7449dde02f6144d20161a528d51f8d554d8798c93637",
+        "sus": false,
+        "debug": "||"
     },
     {
         "id": "sl1090496666",
@@ -104,5 +104,19 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "Watch UEFA Champions League 2025-26 online,UEFA Champions League 2025 online streaming,UEFA Champions League 2025 highlights,UEFA Champions League 2025,UEFA Champions League,UEFA Champions League 2025-26,Champions League 2025-26 schedule,UCL 2025-26 fixtures,UEFA Champions League teams,Champions League live scores,Champions League top scorers,Champions League fantasy football,Champions League highlights,Champions League stats,Champions League knockout stage,Champions League final 2026",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a07a982958b14b37a7505624d4519f47/1764861882/baseline-std-v4/1090496662_04122025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090496895",
+        "isLive": false,
+        "event": "Australian Open 2026",
+        "match": "Upcoming: Australian Open 2026",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+        "genre": "Tennis",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "Sinner,Zverev,Alcaraz,Fritz,Medvedev,Ruud,Djokovic,De Minaur,Rublev,Tsitsipas,Rune,Tiafoe,Sabalenka,Swaitek,Gauff,Rybakina,Pegula,Collins,Andreeva,watch Australian Open online,The Australian Open online streaming,Australian Open highlights,Australian Open matches,watch Australian Open games,live Australian Open match score,Australian Open games scores,watch Australian Open match online,watch Australian Open games online,Australian Open match highlights,Australian Open Live Streaming,Australian Open 2025,australian open,aus open,tennis australian open,ao open tennis,aussie tennis open",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd"
     }
 ]
