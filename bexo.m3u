@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011793/1764103135280301_UECL2526_MD5_Fiorentina_vs_Dynamo_Kyiv_26nov_landscape_thumb.jpg" group-title="SonyLIV",Fiorentina vs Dynamo Kyiv - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525561~acl=/*~id=30813523265386850164333413777338~hmac=75d6b0c3f016ec2123e1d16d5cffdacdb600b939d80258c101b7ca394d972d0a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011793/1764104354659301_UECL2526_MD5_FC_Noah_vs_Legia_Warsaw_26nov_landscape_thumb.jpg" group-title="SonyLIV",FC Noah vs Legia Warsaw - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525561~acl=/*~id=30813523265386850164333413777338~hmac=75d6b0c3f016ec2123e1d16d5cffdacdb600b939d80258c101b7ca394d972d0a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764095324863276_UEL2526_MD6_Young_Boys_vs_Lille_25nov_landscape_thumb.jpg" group-title="SonyLIV",Young Boys vs Lille - MD 6 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525561~acl=/*~id=30813523265386850164333413777338~hmac=75d6b0c3f016ec2123e1d16d5cffdacdb600b939d80258c101b7ca394d972d0a
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",CSU Craiova vs Sparta Prague - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764087942393276_UEL2526_MD6_Ludogorets_vs_PAOK_25nov_landscape_thumb.jpg" group-title="SonyLIV",Ludogorets vs PAOK - MD 6 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525561~acl=/*~id=30813523265386850164333413777338~hmac=75d6b0c3f016ec2123e1d16d5cffdacdb600b939d80258c101b7ca394d972d0a
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Ferencvaros vs Rangers - MD 6 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Nice vs Braga - MD 6 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Jagiellonia Bialystok vs Rayo Vallecano - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764089245459276_UEL2526_MD6_Sturm_Graz_vs_Crvena_Zvezda_25nov_landscape_thumb.jpg" group-title="SonyLIV",Sturm Graz vs Crvena Zvezda - MD 6 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525561~acl=/*~id=30813523265386850164333413777338~hmac=75d6b0c3f016ec2123e1d16d5cffdacdb600b939d80258c101b7ca394d972d0a
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Drita Gjilan vs AZ Alkmaar - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",KF Shkendija vs Slovan Bratislava - MD 5 - 11 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-Video URL not found
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765370792/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
