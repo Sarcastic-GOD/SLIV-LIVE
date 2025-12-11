@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 3 - 12 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765534321~acl=/*~id=17370230915511551892177530724338~hmac=702f98189ea606cab4036248b15a319deca5e6db54811696f81c721703dd2371
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764095940887276_UEL2526_MD6_Celtic_vs_AS_Roma_25nov_landscape_thumb.jpg" group-title="SonyLIV",Celtic vs AS Roma - MD 6 - 12 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765534321~acl=/*~id=17370230915511551892177530724338~hmac=702f98189ea606cab4036248b15a319deca5e6db54811696f81c721703dd2371
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="SonyLIV",Basel vs Aston Villa - MD 6 - 12 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765534321~acl=/*~id=17370230915511551892177530724338~hmac=702f98189ea606cab4036248b15a319deca5e6db54811696f81c721703dd2371
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765534839~acl=/*~id=21420486925242554148638018363800~hmac=6c8bc5c3bdd071db7053549f0504cde18e19b1d14416bca8cc1ed251d13db11c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
