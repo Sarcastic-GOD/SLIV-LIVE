@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 3 - 12 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="" group-title="SonyLIV",2nd Test - Day 3 - 12 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765548373~acl=/*~id=42405669347971505695493165164905~hmac=f0c24315e9f96d2f032f718c724311d2c69f40896c7ad9960d8b5d0f22bc7c08
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765548856~acl=/*~id=50099247320822685756780033662320~hmac=4ef6b9dfbc39f4eed78984a5db1473e18d1af5fb9a4fce953ba14a0b4a90a6d8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
