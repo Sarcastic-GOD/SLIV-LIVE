@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764304401532124_Bundesliga_MD14_UnionBerlin_vs_RB_Leipzig_landscape_thumb.jpg" group-title="SonyLIV",Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765613368~acl=/*~id=29631826885125514773528426435481~hmac=8e4d68588ec6c68c9dc956ca4312356cd93f0d6d2a3064c4a75a7482a515c253
+https://liveakmt-p-web.slivcdn.com/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765613401~acl=/*~id=56872452768561167441907928746994~hmac=4f6b1c6ab4be86cb679c9849f17362b1b692aedbbe5244a4d7adb27e51b6d8a5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765550591/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
