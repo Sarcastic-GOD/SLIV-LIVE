@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,India U19 vs UAE U19,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765581003~acl=/*~id=82832125101668881829872483198370~hmac=fc9658f79fe439911187d06026b357443534ee54b1e0258a0260328b51675f64",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765581003~acl=/*~id=82832125101668881829872483198370~hmac=fc9658f79fe439911187d06026b357443534ee54b1e0258a0260328b51675f64",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765581245~acl=/*~id=87400189522556001099771102896038~hmac=eb58a051dbadf361537998fe61c78a5ecffe8fcd27aacd4aa920043a1f0808da",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765581245~acl=/*~id=87400189522556001099771102896038~hmac=eb58a051dbadf361537998fe61c78a5ecffe8fcd27aacd4aa920043a1f0808da",
+        "sus": "hdntl=exp=1765624453~acl=%2f*~id=87400189522556001099771102896038~data=hdntl,2037140,DAI20-criclive,none~hmac=5e0f93dd15cdaf5ee293014338974f1faaa57ed296ba1cb134d04847e0aeb7a9",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765581003~acl=/*~id=82832125101668881829872483198370~hmac=fc9658f79fe439911187d06026b357443534ee54b1e0258a0260328b51675f64",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765581003~acl=/*~id=82832125101668881829872483198370~hmac=fc9658f79fe439911187d06026b357443534ee54b1e0258a0260328b51675f64",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765581245~acl=/*~id=87400189522556001099771102896038~hmac=eb58a051dbadf361537998fe61c78a5ecffe8fcd27aacd4aa920043a1f0808da",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765581245~acl=/*~id=87400189522556001099771102896038~hmac=eb58a051dbadf361537998fe61c78a5ecffe8fcd27aacd4aa920043a1f0808da",
+        "sus": "hdntl=exp=1765624461~acl=%2f*~id=87400189522556001099771102896038~data=hdntl,2022320,DAI16ME-V3,none~hmac=a7db2c2f07b4aa450183dba870fac9f8cdab2eafa38fa6e05ee304859e5b74a4",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
