@@ -28,20 +28,6 @@
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd"
     },
     {
-        "id": "sl1090495939",
-        "isLive": false,
-        "event": "John Cena's Final Match",
-        "match": "Upcoming: WWE SNME",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg",
-        "genre": "Sport",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "Sony Sports Ten 1",
-        "SeoTags": "",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd"
-    },
-    {
         "id": "sl1090496896",
         "isLive": false,
         "event": "DP World Men's U19 Asia Cup 2025",
@@ -54,6 +40,20 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U19 Asia Cup live streaming,U19 Asia Cup schedule,U19 Asia Cup fixtures,U19 Asia Cup points table,U19 Asia Cup squads,U19 Asia Cup venues,U19 Asia Cup results,U19 Asia Cup highlights,U19 Asia Cup updates,Ayush Mhatre,Vaibhav Sooryavanshi,Vihaan Malhotra,Abhigyan Kundu,Harvansh Singh,Khilan Patel,Naman Pushpak,Henil Patel,Kishan Kumar Singh,Udhav Mohan,Aaron George,Farhan Yousaf,Usman Khan,Huzaifa Ahsan,Ali Hassan Baloch,Ahmed Hussain,Mohammad Huzaifa,Daniyal Ali Khan,Sameer Minhas,Hamza Zahoor,Mohammad Shayan",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/9cf1b9e538f2484aa39dca660b108ebf/1765214173/baseline-std-v4/PROMO_ASIA_CUP_U19_35SEC_08Dec2025_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090495939",
+        "isLive": false,
+        "event": "John Cena's Final Match",
+        "match": "Upcoming: WWE SNME",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg",
+        "genre": "Sport",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 1",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090496895",
