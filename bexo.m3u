@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="SonyLIV",2nd Test - Day 3 - 12 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765543275~acl=/*~id=27279302224953284127279522468143~hmac=aa7cb4fe9267f25868b315cd178a696cfdadaadec85e281560fdf97cb38fbb23
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765370792/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012220/1765387291109511_ACC_U19_IND_vs_UAE_today_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/9cf1b9e538f2484aa39dca660b108ebf/1765214173/baseline-std-v4/PROMO_ASIA_CUP_U19_35SEC_08Dec2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Australian Open 2026 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd
