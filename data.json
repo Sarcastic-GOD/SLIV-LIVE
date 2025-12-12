@@ -12,10 +12,10 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Union Berlin vs RB Leipzig,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/du13XCK6Q6utrFFNf40g2A/master.m3u8",
-        "Server2": "cURL Error: SSL read: error:00000000:lib(0):func(0):reason(0), errno 110",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119936/bundesli1212/ENG/std_mdl-700300010.m3u8?hdnea=exp=1765610401~acl=/*~id=61338740874168343712464503136189~hmac=ad3bcf41f9e15cde87aa16a467980d76d66c33a54e5d6f862b47ffe82ba71890",
-        "sus": false,
-        "debug": "dai.google.com||liveakmt-p-md.slivcdn.com"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765614961~acl=/*~id=64159253791759216637279651127446~hmac=db92736687e7d229020ea1998bae1d0892d9e33006515fc57b4e05d9f8df4ae4",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119936/bundesli1212/ENG/std_mdl-700300010.m3u8?hdnea=exp=1765614961~acl=/*~id=64159253791759216637279651127446~hmac=db92736687e7d229020ea1998bae1d0892d9e33006515fc57b4e05d9f8df4ae4",
+        "sus": "hdntl=exp=1765658170~acl=%2f*~id=64159253791759216637279651127446~data=hdntl,2119931,bundesli1212,ENG~hmac=485293f6e554d16bc0939af56700462a3cb9f1829b6982aa9d7ed2533ad9d29d",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
     },
     {
         "id": "sl1090497066",
