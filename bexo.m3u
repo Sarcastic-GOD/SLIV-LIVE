@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012245/1765444000776333_AC25_U19_IND_vs_UAE_11dec_Landscape_thumb.jpg" group-title="SonyLIV",India U19 vs UAE U19 - 12 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765564360~acl=/*~id=91928626825980372589330492126619~hmac=87ee7699d8c4ee6f3e14be7b3016e0bd3c3026b909aa8703e861684fd52cc2f7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012246/1765445543924356_AC25_U19_PAK_vs_MAS_11dec_LIVE_Landscape_thumb.jpg" group-title="SonyLIV",Pakistan U19 vs Malaysia U19 - 12 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765564360~acl=/*~id=91928626825980372589330492126619~hmac=87ee7699d8c4ee6f3e14be7b3016e0bd3c3026b909aa8703e861684fd52cc2f7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
