@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Union Berlin vs RB Leipzig,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/du13XCK6Q6utrFFNf40g2A/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765616529~acl=/*~id=30921332863140138920363066442855~hmac=528e89e02f54318a8744d5ed8549455a90f5cde489768dee809a0dd093be91e8",
-        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119936/bundesli1212/ENG/std_mdl-700300010.m3u8?hdnea=exp=1765616529~acl=/*~id=30921332863140138920363066442855~hmac=528e89e02f54318a8744d5ed8549455a90f5cde489768dee809a0dd093be91e8",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765617394~acl=/*~id=46750557047904442076174732016790~hmac=276c58dc60c0f913cc6c1ce45dc263da48341d57f6ff007b5af8a3235016ece2",
+        "Server3": "https://liveakmt-p-md.slivcdn.com/hls/live/2119936/bundesli1212/ENG/std_mdl-700300010.m3u8?hdnea=exp=1765617394~acl=/*~id=46750557047904442076174732016790~hmac=276c58dc60c0f913cc6c1ce45dc263da48341d57f6ff007b5af8a3235016ece2",
+        "sus": "hdntl=exp=1765660705~acl=%2f*~id=46750557047904442076174732016790~data=hdntl,2119931,bundesli1212,ENG~hmac=3d4c3abc2b99b5bcfd131bf9b0898d037fc287a2ce5ca5fe1698e67b206987ce",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|liveakmt-p-md.slivcdn.com"
     },
     {
@@ -44,6 +44,34 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U19 Asia Cup live streaming,U19 Asia Cup schedule,U19 Asia Cup fixtures,U19 Asia Cup points table,U19 Asia Cup squads,U19 Asia Cup venues,U19 Asia Cup results,U19 Asia Cup highlights,U19 Asia Cup updates,Ayush Mhatre,Vaibhav Sooryavanshi,Vihaan Malhotra,Abhigyan Kundu,Harvansh Singh,Khilan Patel,Naman Pushpak,Henil Patel,Kishan Kumar Singh,Udhav Mohan,Aaron George,Farhan Yousaf,Usman Khan,Huzaifa Ahsan,Ali Hassan Baloch,Ahmed Hussain,Mohammad Huzaifa,Daniyal Ali Khan,Sameer Minhas,Hamza Zahoor,Mohammad Shayan",
         "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090497417",
+        "isLive": false,
+        "event": "Bayern Munich vs Mainz",
+        "match": "Upcoming: Bayern Munich vs Mainz",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765523274849301_Bliga2526_MD14_bayern_vs_mainz_12dec_dated_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/DASH/ff6cc614d6ac4423a1983ccd208f5bc2/1765563257/baseline-std-v4/PROMO_BUNDESLIGA_BAYERN_VS_MAINZ_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
+    },
+    {
+        "id": "sl1090497416",
+        "isLive": false,
+        "event": "SC Freiburg vs Borussia Dortmund",
+        "match": "Upcoming: SC Freiburg vs Borussia Dortmund",
+        "Provider": "N/A",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765523249478301_Bliga2526_MD14_Freiburg_vs_Dortmund_12dec_dated_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "ENG",
+        "venue": "N/A",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "",
+        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/6da4a46d37b84f5ab9c85fee9e930e81/1765563254/baseline-std-v4/PROMO_BUNDESLIGA_FREIBURG_VS_DORTMUND_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090496896",
