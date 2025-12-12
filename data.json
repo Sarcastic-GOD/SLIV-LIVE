@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,Tom Latham,John Campbell,Devon Conway,Brandon King,Kane Williamson,Kavem Hodge,Rachin Ravindra,Shai Hope,Daryl Mitchell,Roston Chase,Mitchell Hay,Justin Greaves,Glenn Phillips,Tevin Imlach,Zak Foulkes,Kemar Roach,Blair Tickner,Anderson Phillip,Jacob Duffy,Jayden Seales,Michael Rae,Ojay Shields,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/FpkZw68FQKSEBeSHfi0nYA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765543275~acl=/*~id=80654983230097312000340583614162~hmac=aae731e703dc12ce20c21773fdd4ae96b533862fcddef623b4da5e5ae6068cb4",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765543275~acl=/*~id=80654983230097312000340583614162~hmac=aae731e703dc12ce20c21773fdd4ae96b533862fcddef623b4da5e5ae6068cb4",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765543354~acl=/*~id=81662461214828431838970403290779~hmac=ed7c1865a59883c73b4280486c9bbcd4d3499748766068a9df54e30fc2bb12ec",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1765543354~acl=/*~id=81662461214828431838970403290779~hmac=ed7c1865a59883c73b4280486c9bbcd4d3499748766068a9df54e30fc2bb12ec",
+        "sus": "hdntl=exp=1765586564~acl=%2f*~id=81662461214828431838970403290779~data=hdntl,2018457,wivsnz,ENG~hmac=1671af30fe72149ad1e825edccfa9ffcc0769dcd0f354ea2661f60284d7f3f5a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
