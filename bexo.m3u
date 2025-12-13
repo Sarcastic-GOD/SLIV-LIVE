@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="SonyLIV",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652164~acl=/*~id=78248355588883203579845595396741~hmac=24fe6236d8fbacca250a209f047f30ea9d1a367667cfd2a55993545534578fda
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012248/1765446765258679_AC25_U19_SL_vs_NEP_11dec_Landscape_thumb.jpg" group-title="SonyLIV",Sri Lanka U19 vs Nepal U19 - 13 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652164~acl=/*~id=78248355588883203579845595396741~hmac=24fe6236d8fbacca250a209f047f30ea9d1a367667cfd2a55993545534578fda
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652169~acl=/*~id=69461785691584360477608918538174~hmac=9946994c00a38ca8a0802c17c24ace7796f27ec4cce3bdaa833a7a83c13ce5fc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="SonyLIV",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652169~acl=/*~id=69461785691584360477608918538174~hmac=9946994c00a38ca8a0802c17c24ace7796f27ec4cce3bdaa833a7a83c13ce5fc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
