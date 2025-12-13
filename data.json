@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090497413",
+        "isLive": true,
+        "event": "Messi's GOAT Tour Of India",
+        "match": "Hyderabad Event - 13 Dec 2025",
+        "Provider": "Satadru Dutta",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536465044773_Messi_India_Tour25_Hyderabad_12dec_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "LIV",
+        "SeoTags": "Messi GOAT Tour India,Lionel Messi India Tour,Messi football event India,Messi live in India,Messi India 2025,Messi soccer tour India,Messi visit India,Messi football match India,Messi India tickets,Messi India schedule,Messi football fans India,Messi fan meet India,Messi football clinic India,Messi autograph session India,Messi photo opportunity India,Messi football legend India,Messi football experience India,Messi football skills India,Messi football training India,Messi football show India,Messi GOAT India,Messi greatest of all time India,Messi football icon India,Messi football superstar India,Messi football hero India,Messi football king India,Messi football champion India,Messi football inspiration India,Messi football career India,Messi football history India,Messi India trending,Messi India viral,Messi India Instagram,Messi India hashtags,Messi India reels,Messi India YouTube,Messi India live coverage,Messi India news,Messi India updates,Messi India official website,Messi_GOAT_TOUR_OF_India_2025_Live,nopreroll_livectv,sports_adsupported,MessiInIND_LIVE25,Hyderabad Event,MessisGOATTourOfIndia",
+        "Server1": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677002~acl=/*~id=01478123725133698433529878747356~hmac=880b5b91fb4fa8f56bcc500692a7a2124f711a725d0dca964214d166c629b4f2",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677002~acl=/*~id=01478123725133698433529878747356~hmac=880b5b91fb4fa8f56bcc500692a7a2124f711a725d0dca964214d166c629b4f2",
+        "sus": "hdntl=exp=1765720203~acl=%2f*~id=01478123725133698433529878747356~data=hdntl,2022316,DAI12ME-V3,none~hmac=15c0910fb1aadcfe4ce82a6d68dcc727742f33f323d15425f0c84b5ed5e10e1d",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090495939",
         "isLive": false,
         "event": "John Cena's Final Match",
