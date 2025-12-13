@@ -1,5 +1,23 @@
 [
     {
+        "id": "sl1090497313",
+        "isLive": true,
+        "event": "Bundesliga 2025-26",
+        "match": "Hoffenheim vs Hamburg SV - MD 14 - 13 Dec 2025",
+        "Provider": "DFL Deutsche Fubball Liga e.V.",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308535841124_Bundesliga_MD14_Hoffenheim_vs_HamburgSV_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "PreZero Arena",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Hoffenheim vs Hamburg SV,Bundesliga202526",
+        "Server1": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720685~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2022315,DAI11ME-V3,none~hmac=16fd27db3f1c3882fb2aaf0c3f0f1ae150cde3dae369c8be0882b8d5bbd86b9e",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
         "id": "sl1090497305",
         "isLive": true,
         "event": "Bundesliga 2025-26",
@@ -12,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Borussia M'gladbach vs VfL Wolfsburg,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720682~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2094589,DAI05ME-V3,none~hmac=b68801034476211df95a58d08dc609729da0fd57d649291aac9043cd63df145b",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720687~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2094589,DAI05ME-V3,none~hmac=3369e8cc87fd912fba36559d448782ad987d32ce91b6d38a69749a628a9ac75a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,St. Pauli vs Heidenheim,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720684~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2018457,DAI09ME-V3,none~hmac=f625e6ba59edcefc3b63f0b482de252db90be102d90810bcb00d3acf352cf472",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720688~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2018457,DAI09ME-V3,none~hmac=af3f22f77d39e8b6c600b3208671c6d1891e05b70c7b01d290c58c1de59745d3",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,27 +66,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Eintracht Frankfurt vs FC Augsburg,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/eCwfco5kSQOgsF_j6UEq5g/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720685~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2105079,DAI08ME-V3,none~hmac=9b01e99dea089c3c7756d86179a7aa7916f74582872e06f06dcd4c3b2daf0045",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090497313",
-        "isLive": true,
-        "event": "Bundesliga 2025-26",
-        "match": "Hoffenheim vs Hamburg SV - MD 14 - 13 Dec 2025",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308535841124_Bundesliga_MD14_Hoffenheim_vs_HamburgSV_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "PreZero Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Hoffenheim vs Hamburg SV,Bundesliga202526",
-        "Server1": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720687~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2022315,DAI11ME-V3,none~hmac=a5213f8d2a30b19cb26396b82d5a772fb325fc52d48f38c34d32d4a83acccaad",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720867~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2105079,DAI08ME-V3,none~hmac=c8efb4b2e8c4382b21a37de8a45c558ba571c10e64d35bf8bf4ca35618ad714a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/6UCYizuPSLycLdldOOWsGg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720688~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2094588,DAI04ME-V3,none~hmac=1581d142f24a28f5c6fc277cde27e362e3aa2446722d5ce455fea7bf2cd20c14",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720868~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2094588,DAI04ME-V3,none~hmac=4ee36d5d95fde31d562c7fed0f917771e1fc5ab76dce1471641a718ab51d5f0d",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +102,9 @@
         "TVchannel": "LIV",
         "SeoTags": "Messi GOAT Tour India,Lionel Messi India Tour,Messi football event India,Messi live in India,Messi India 2025,Messi soccer tour India,Messi visit India,Messi football match India,Messi India tickets,Messi India schedule,Messi football fans India,Messi fan meet India,Messi football clinic India,Messi autograph session India,Messi photo opportunity India,Messi football legend India,Messi football experience India,Messi football skills India,Messi football training India,Messi football show India,Messi GOAT India,Messi greatest of all time India,Messi football icon India,Messi football superstar India,Messi football hero India,Messi football king India,Messi football champion India,Messi football inspiration India,Messi football career India,Messi football history India,Messi India trending,Messi India viral,Messi India Instagram,Messi India hashtags,Messi India reels,Messi India YouTube,Messi India live coverage,Messi India news,Messi India updates,Messi India official website,Messi_GOAT_TOUR_OF_India_2025_Live,nopreroll_livectv,sports_adsupported,MessiInIND_LIVE25,Hyderabad Event,MessisGOATTourOfIndia",
         "Server1": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677481~acl=/*~id=48965358238111598002695450924914~hmac=e602afd1e77eb06412d22abeabe7dbca7000304a11b63f82f9130d2587b50443",
-        "sus": "hdntl=exp=1765720689~acl=%2f*~id=48965358238111598002695450924914~data=hdntl,2022316,DAI12ME-V3,none~hmac=05e9e8293170f7dc7f77e17ee13214c6405cd3e1249f6c965a09fb46584844b6",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765677484~acl=/*~id=07164627765846660275652402894864~hmac=5c259f37efe5adcb796c137ef13c138a9c9b6e592b54ff57478272f5c962db01",
+        "sus": "hdntl=exp=1765720869~acl=%2f*~id=07164627765846660275652402894864~data=hdntl,2022316,DAI12ME-V3,none~hmac=c84cc88c8842db389375a5fa9b803640ebc1046b81b8e762076b966f7f84387e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
