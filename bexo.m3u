@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="SonyLIV",Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765674147~acl=/*~id=86185645458638202850945265905516~hmac=c9f2d65689cd8b2ff2ad3cfc7c5a20ee2fa0b91236e5d3ae18f608cdf2d2b4cc
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765674150~acl=/*~id=04108843833519924950508283202918~hmac=21e769a8ffc03717887690a478d20603c59b3c7bf5f7965af200165bb9f90df8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536465044773_Messi_India_Tour25_Hyderabad_12dec_landscape_thumb.jpg" group-title="SonyLIV",Hyderabad Event - 13 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765674150~acl=/*~id=04108843833519924950508283202918~hmac=21e769a8ffc03717887690a478d20603c59b3c7bf5f7965af200165bb9f90df8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
