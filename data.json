@@ -1,20 +1,20 @@
 [
     {
         "id": "sl1090497361",
-        "isLive": true,
-        "event": "DP World Men's U19 Asia Cup 2025",
+        "isLive": false,
+        "event": "",
         "match": "Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg",
+        "Provider": "",
+        "poster": "",
         "genre": "Cricket",
         "language": "en",
-        "venue": " ICC Academy Ground, Dubai",
-        "TVchannel": "Sony Sports Ten 5",
+        "venue": "",
+        "TVchannel": "",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,ACC U-19 Asia Cup,Sevens Stadium,Dubai,ACC_U19_Mens_2025_live,Afghanistan U19 vs Bangladesh U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765663776~acl=/*~id=94305237378312488552425123337778~hmac=fd378a967879be5c624e3532b8ab75ffc8733e61525aa659c2059638d27e643c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765663776~acl=/*~id=94305237378312488552425123337778~hmac=fd378a967879be5c624e3532b8ab75ffc8733e61525aa659c2059638d27e643c",
-        "sus": "hdntl=exp=1765707120~acl=%2f*~id=94305237378312488552425123337778~data=hdntl,2037140,DAI20-criclive,none~hmac=6d90508ee6505faf345e5f06d051e905cc91fcd8a0c877794c98e6c7506c625c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765664164~acl=/*~id=73001580722356561724000722528277~hmac=c0316b48d1bce0745a9e0ebfc124672718545183f8a76017c011c133140da3e2",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765664164~acl=/*~id=73001580722356561724000722528277~hmac=c0316b48d1bce0745a9e0ebfc124672718545183f8a76017c011c133140da3e2",
+        "sus": "hdntl=exp=1765707372~acl=%2f*~id=73001580722356561724000722528277~data=hdntl,2037140,DAI20-criclive,none~hmac=a0be72938478e35f6056698732646297279a8c7ce348c4d8dcdafb108aaa6d18",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "LIV",
         "SeoTags": "asian tour golf championship,professional golf tournaments,asia-pacific golf competitions,international golfing circuit,Korea tourism and golf,prestigious golf events in asia,asian tour 2025,the asian tour 2025 live streaming,asian tour 2025 online streaming,asian tour 2025 live,asian tour 2025 highlights,watch asian tour 2025 games,watch asian tour 2025 online,watch asian tour 2025 live streaming,sports_adsupported,AsianTour_Macau_Live,Kolon Korea Open,nopreroll_livectv,PIF Saudi International powered by SoftBank Investment Advisers,AsianTour2025",
         "Server1": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765663776~acl=/*~id=94305237378312488552425123337778~hmac=fd378a967879be5c624e3532b8ab75ffc8733e61525aa659c2059638d27e643c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765663776~acl=/*~id=94305237378312488552425123337778~hmac=fd378a967879be5c624e3532b8ab75ffc8733e61525aa659c2059638d27e643c",
-        "sus": "hdntl=exp=1765707129~acl=%2f*~id=94305237378312488552425123337778~data=hdntl,2022320,DAI16ME-V3,none~hmac=015c21e7dbc34069af3b3076ef775ee7cd5329a68f1b28e0aeb89da483efda9b",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765664164~acl=/*~id=73001580722356561724000722528277~hmac=c0316b48d1bce0745a9e0ebfc124672718545183f8a76017c011c133140da3e2",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765664164~acl=/*~id=73001580722356561724000722528277~hmac=c0316b48d1bce0745a9e0ebfc124672718545183f8a76017c011c133140da3e2",
+        "sus": "hdntl=exp=1765707384~acl=%2f*~id=73001580722356561724000722528277~data=hdntl,2022320,DAI16ME-V3,none~hmac=d606ef4a81e1f3b6827b6cf1ec182a33d053f81ecc8e8387774d19281f744dc0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
