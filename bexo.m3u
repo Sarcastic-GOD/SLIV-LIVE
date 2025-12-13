@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SonyLIV",Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="SonyLIV",Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765691029~acl=/*~id=11393775712675022338176502310582~hmac=c84ad26d15c9ac6acaf7fdbe84a010d1956213bbfbd76dc9e17c42d34ce59d51
+https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765691041~acl=/*~id=27114554465304602234619475641163~hmac=1e244bbc9559759d993986d7633f50cb31aaec9dd8bcc8cb5e363bf8ef4fb2eb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
