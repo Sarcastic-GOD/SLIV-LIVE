@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536429852773_Messi_India_Tour25_kolkata_12dec_landscape_thumb.jpg" group-title="SonyLIV",Kolkata Event - 13 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765642635~acl=/*~id=92923432960660985331952934796313~hmac=c65b95f4e2a502ae6ebdb68c92726e8a7f629d79401e3d630a97959e2c2d575c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765550591/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765642682~acl=/*~id=58485278309180500743587738679208~hmac=cfb08f117d68a68d70b539ac291d6a8342f378bbc3be76524436d7043aa10c58
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
@@ -14,9 +11,6 @@ https://streaming.sonyliv.com/DASH/ff6cc614d6ac4423a1983ccd208f5bc2/1765563257/b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765523249478301_Bliga2526_MD14_Freiburg_vs_Dortmund_12dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: SC Freiburg vs Borussia Dortmund - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/6da4a46d37b84f5ab9c85fee9e930e81/1765563254/baseline-std-v4/PROMO_BUNDESLIGA_FREIBURG_VS_DORTMUND_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012296/1765518674571313_AC25_U19_AFG_vs_BAN_12dec_tonight_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Men's U19 Asia Cup 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://streaming.sonyliv.com/trailer/DASH/9cf1b9e538f2484aa39dca660b108ebf/1765214173/baseline-std-v4/PROMO_ASIA_CUP_U19_35SEC_08Dec2025_eng_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg" group-title="SonyLIV",Upcoming: WWE SNME - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/f00b031094d844d2b5879ae5feb0e315/1763999688/baseline-std-v4/PROMO_WWE_JOHN_CENA_24Nov2025_eng_baseline-800300010.mpd
