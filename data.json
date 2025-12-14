@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "sus": "hdntl=exp=1765763051~acl=%2f*~id=81876562040491430515080343135134~data=hdntl,2022317,DAI13ME-V3,none~hmac=29e378e85dc12bd86811dc36ce34b6c4bc0c4ca7664f67510fe0dbe4f6a6b084",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "sus": "hdntl=exp=1765763052~acl=%2f*~id=71207339093077209632377544088613~data=hdntl,2022317,DAI13ME-V3,none~hmac=5bad638362b74e4b3164df49e211aa6f6ff6537b5c9bd871e867149ee59fe7c4",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,mainevent_wweLIVE25,WWE",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "sus": "hdntl=exp=1765763063~acl=%2f*~id=81876562040491430515080343135134~data=hdntl,2094587,DAI03ME-V3,none~hmac=fa5c234b5d77218e281e61717ec4cb101211eca094d5b124fa7599d4ce9f8197",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "sus": "hdntl=exp=1765763064~acl=%2f*~id=71207339093077209632377544088613~data=hdntl,2094587,DAI03ME-V3,none~hmac=82742ec46096b6af5f44ab559cf1e4ab2a621ab089481968a114da482f0b75a0",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "sus": "hdntl=exp=1765763074~acl=%2f*~id=81876562040491430515080343135134~data=hdntl,2005445,DAI06ME-V3,none~hmac=4e10da7623c2662281c5cf906948a9e6546ef7fb113291ce1732f4174ea2051c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "sus": "hdntl=exp=1765763075~acl=%2f*~id=71207339093077209632377544088613~data=hdntl,2005445,DAI06ME-V3,none~hmac=7a441f263914ef1df9a8079596d767616619c844eaaf0dc7eaacdaa6af97debc",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=81876562040491430515080343135134~hmac=9a210145cdc541340f6f2f1b2e1b87a946d04349acda4c59887237fb9f0a2831",
-        "sus": "hdntl=exp=1765763083~acl=%2f*~id=81876562040491430515080343135134~data=hdntl,2022316,DAI12ME-V3,none~hmac=2da2962f23e723a367c0e4c9a2479379a5b9b70375e4f147e7601a8aec57a889",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=71207339093077209632377544088613~hmac=0b9e6d70c80d31dae60f97e894d92b7f3a4b230479af70a9710ba5e4e3d0bb95",
+        "sus": "hdntl=exp=1765763085~acl=%2f*~id=71207339093077209632377544088613~data=hdntl,2022316,DAI12ME-V3,none~hmac=ea08f034652ffe8d913424210920cf0e653e598e8655c88aa2687c4e78340c29",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
