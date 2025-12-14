@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="SonyLIV",SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765767602~acl=/*~id=18416128920254531712386678514196~hmac=29d6c53adab9bde64563fcd27f3a2ef7c98ff6aef16bb6ff18fc99a09166c8e8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765522974453301_Bliga2526_MD14_bayern_vs_mainz_12dec_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Mainz - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/DASH/ff6cc614d6ac4423a1983ccd208f5bc2/1765563257/baseline-std-v4/PROMO_BUNDESLIGA_BAYERN_VS_MAINZ_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
