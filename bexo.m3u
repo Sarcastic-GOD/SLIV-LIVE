@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764310946965124_Bundesliga_MD14_WerderBremen_vs_VfB_Stuttgart_Landscape_thumb.jpg" group-title="SonyLIV",Werder Bremen vs VfB Stuttgart - MD 14 - 15 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765779666~acl=/*~id=23507148006598793844298964055003~hmac=0f0c6ba21094686e96f1efbe3faad4ddac778f0f0d8be316133eb2678fd3ef42
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309988748124_Bundesliga_MD14_BayernMunich_vs_Mainz_Landscape_thumb.jpg" group-title="SonyLIV",Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765779666~acl=/*~id=23507148006598793844298964055003~hmac=0f0c6ba21094686e96f1efbe3faad4ddac778f0f0d8be316133eb2678fd3ef42
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012411/1765725426053619_Messi_India_Tour25_Delhi_14dec_ddt_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Messi's GOAT Tour of India - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765550591/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd
