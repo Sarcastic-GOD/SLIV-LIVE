@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/GVoUtuX5TtmTNWu9wagk0w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768457~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2105079,DAI08ME-V3,none~hmac=5b6c87fba71c4e26d536a520d1eece009c082f57eb7107df8251c199f202d134",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768455~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2022317,DAI13ME-V3,none~hmac=a0d7ce73501ee3e5ef1e1112223d8150ea1f8c940099653c111e3eec79e46668",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768467~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2022317,DAI13ME-V3,none~hmac=def6f3b1818eeeaea9442bc82e028adeffcbacbcc75237fb421e927370f707c3",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/_PjIG8_URyq2kpapR8dACw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768464~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2094589,DAI05ME-V3,none~hmac=e70683828744e5b44468b78593bfad3c4e8063ca74ae66b188564d066c50f652",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768476~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2094589,DAI05ME-V3,none~hmac=7acf12ff1549cf827f5bfb6908c207a6915d9a27fe38b279dd4c6b3a31511d89",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768474~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2022316,DAI12ME-V3,none~hmac=4dba8a154a32eae5527cad43855980ec2556dfdb0d47fe89e9519084be99c629",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768485~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2022316,DAI12ME-V3,none~hmac=67d19927ef5dff28e1d3972e4a70a416b8a913a3b517a20a818f5a6a668fd02a",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,mainevent_wweLIVE25,WWE",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768483~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2094587,DAI03ME-V3,none~hmac=41acc4e397ae0c7dde54445db279cc9fff7a46c20b99bf05cfb7d734037eda15",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +102,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/5-Bce3WwSx2amn5zvUYQLg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768525~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2094588,DAI04ME-V3,none~hmac=a8a0240cf12b8d3377e64bf2da9cb2d558a4ca8dbdef7b4525383218849cfa70",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -120,9 +120,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768524~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2022320,DAI16ME-V3,none~hmac=52117a34020a65423a19656404a3e14d4b6cbb041b359eac3ed83d76ebc5ddd4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768566~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2022320,DAI16ME-V3,none~hmac=bd30f1edf2680868329eaca3f83159aaa3136cb080a58110c7607dbfb6610822",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -138,9 +138,9 @@
         "TVchannel": "Sony Sports Ten 1",
         "SeoTags": "WWE highlights,WWE full match,WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions,sports_adsupported,nopreroll_livectv,WWE",
         "Server1": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725225~acl=/*~id=10952736114529386097309144158626~hmac=0a5a54e580fe7027c2575dd147464c4028d2714fb94b37cdde909d62173e2e9a",
-        "sus": "hdntl=exp=1765768564~acl=%2f*~id=10952736114529386097309144158626~data=hdntl,2005445,DAI06ME-V3,none~hmac=8091bf0f5b998ae330ce79496fa4131422f0cffce2e9ad8e16c7570f8cad7fd4",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765725249~acl=/*~id=53216634671355570683888816811440~hmac=15935d02f7f7dc4228e68630f67768f5885f409ead85395ffbecb581d2f409b3",
+        "sus": "hdntl=exp=1765768622~acl=%2f*~id=53216634671355570683888816811440~data=hdntl,2005445,DAI06ME-V3,none~hmac=a6094ca0230a989a8c6d6ac8c3d855835952083bfde6323555b149ca8effe233",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
