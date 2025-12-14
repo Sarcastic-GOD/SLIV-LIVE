@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182581135309_WWE_SNME_2025_JohnCena1_telugu_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - TEL
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=95952439994976051298901038572831~hmac=326b260b59bb75a509547825fcd350ed734d7536647dbded4e70f3041132500c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - ENG
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=95952439994976051298901038572831~hmac=326b260b59bb75a509547825fcd350ed734d7536647dbded4e70f3041132500c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182592550309_WWE_SNME_2025_JohnCena1_hindi_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - HIN
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=95952439994976051298901038572831~hmac=326b260b59bb75a509547825fcd350ed734d7536647dbded4e70f3041132500c
+https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719966~acl=/*~id=81088777831464629554384091011094~hmac=5da3f990117651c68335d3dd1f1e9b55c14c55d09054f8e2b84a8d07683840ba
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182569530309_WWE_SNME_2025_JohnCena1_tamil_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - TAM
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719844~acl=/*~id=95952439994976051298901038572831~hmac=326b260b59bb75a509547825fcd350ed734d7536647dbded4e70f3041132500c
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719966~acl=/*~id=81088777831464629554384091011094~hmac=5da3f990117651c68335d3dd1f1e9b55c14c55d09054f8e2b84a8d07683840ba
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719966~acl=/*~id=81088777831464629554384091011094~hmac=5da3f990117651c68335d3dd1f1e9b55c14c55d09054f8e2b84a8d07683840ba
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182592550309_WWE_SNME_2025_JohnCena1_hindi_landscape_thumb.jpg" group-title="SonyLIV",Saturday Night's Main Event - 14 Dec 2025 - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765719966~acl=/*~id=81088777831464629554384091011094~hmac=5da3f990117651c68335d3dd1f1e9b55c14c55d09054f8e2b84a8d07683840ba
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456094938463_ACC_INDvsPAK_today_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Pakistan - HIN
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/a741737501404443b05529dc6805e4e6/1765468901/baseline-std-v4/PROMO_U19_ASIA_CUP_IND_VS_PAK_11Dec2025_hin_baseline-800300010.mpd
