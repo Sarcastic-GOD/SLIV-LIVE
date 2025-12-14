@@ -1,20 +1,20 @@
 [
     {
         "id": "sl1090497525",
-        "isLive": true,
-        "event": "DP World Men's U19 Asia Cup 2025",
+        "isLive": false,
+        "event": "",
         "match": "India U19 vs Pakistan U19 - 14 Dec 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012363/1765623132326611_AC25_U19_IND_vs_PAK_13dec_landscape_thumb.jpg",
+        "Provider": "",
+        "poster": "",
         "genre": "Cricket",
         "language": "en",
-        "venue": "ICC Academy Ground, Dubai",
-        "TVchannel": "Sony Sports Ten 5",
+        "venue": "",
+        "TVchannel": "",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/ccHKh3aRTjCL5zyXqX2_GQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765776330~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2037140,DAI20-criclive,none~hmac=50a2f2465c87eff7f110dc4d781e4c92373e364b2983d686a86a16ba44a289f9",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765776323~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2037140,DAI20-criclive,none~hmac=6122f115bd2edca4de1b1826cd328e94ba75edda9036a9f32f5127f110cc1565",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/D07-rC4TTgWxsH6LZlTxgg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765776339~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2018457,DAI09-criclive,none~hmac=ee832fb73346d45d27d0957624fc475c31ad91c539496f0c0eef740f7e7e92ea",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765776333~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2018457,DAI09-criclive,none~hmac=8df9d20d71aa79f989b4619ab9f820e6fe821fd1b9eb59f5534805351898f153",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/oKUJa3NlT_uGJZQZZ6a-Tg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765776341~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2018458,DAI10-criclive,none~hmac=55e636da6cdb665f0c7cfc91091312092cc13a12b4bc287c0755c11870f0493e",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,ACC U-19 Asia Cup,Sevens Stadium,Dubai,ACC_U19_Mens_2025_live,UAE U19 vs Malaysia U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/49moWCzpRfCRhmTX4Oqm7g/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765776378~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2037141,DAI21-criclive,none~hmac=0dd39151f8e59d1a9a868fb8e0e8dafb4866ec39740119beded89ea4b8af8b46",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765776381~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2037141,DAI21-criclive,none~hmac=166e52060d05e0b44b904fad96b1480cf1957ccd9b25a2318e40f8f2256b883c",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,ICC Academy Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/vKVM6OAZT96UmmedH4JLCw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765776386~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2022315,DAI11-criclive,none~hmac=b4825c7c872cd1f26297a2bfa8293c72cc0d4ade3587d2a79832f454204171a2",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765776391~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2022315,DAI11-criclive,none~hmac=39be9a131bd1a865736bd298c101d6a14496b1e7d4c96576d3e28bc43023915b",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -102,9 +102,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/GVoUtuX5TtmTNWu9wagk0w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765776396~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2105079,DAI08ME-V3,none~hmac=76f7f6d1549b4c832d1a03d5ebe3a1037b35a69d1a0fdf7b391c21f520bb5010",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": false,
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -120,9 +120,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/_PjIG8_URyq2kpapR8dACw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": false,
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765777303~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2094589,DAI05ME-V3,none~hmac=44f778d8e2c4e2ba8c4e56c84b66b932669b3edb79bf31991b284967f9f76f95",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -138,9 +138,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/5-Bce3WwSx2amn5zvUYQLg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765777302~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2094588,DAI04ME-V3,none~hmac=6bd13e2841878b0e164c406df12b51c78cce88cec5b5d967bd2fc753cf41fb6e",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765777320~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2094588,DAI04ME-V3,none~hmac=30494945238392feedded5ac1e56383c53d3121914c5efa1f98f868a2dec2da5",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -156,9 +156,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "ufc_live_2024,sports_adsupported,nopreroll_livectv,ufc fight night,ufc fight,ufc fight upcoming,upcoming ufc events,ufc fight schedule,ufc fights dates,ufc fight night schedule,ufc match live,watch ufc online,upcoming ufc fight events,ufc fight night 2025 schedule,ufc fight night replay,watch ufc fight night online,Royval vs Kape,ufc fight night Royval vs Kape,ufc Royval vs Kape,live ufc fight night streaming,ufc fight night match highlights,ufc latest match results,watch Royval vs Kape live,watch ufc fight night Royval vs Kape,martial arts,fight night,combat sports,ufc fight today,action sports,ufc live stream,ufc fight night results,ufc tonight fighters,sports entertainment,ufc main event,watch ufc live,ufc fight night live,sports highlights,ufc fight live stream,ufc upcoming main events,ufc live stream now,Kape ufc,ufc fight night 2025,ufc fight replays,Royval ufc,ufc fight night highlights,ufc fight night matches,ufc match timings,Manel Kape,Brandon Royval,King Green,Neil Magny,Giga Chikadze,Amanda Lemos,Luana Santos,Kevin Vallejos,Kennedy Nzechukwu,Gillian Robertson,Morgan Charriere,Melquizael Costa,Marcus Buchecha,Jamey Lyn Horth,César Almeida,Joanderson Brito,Yaroslav Amosov,Melissa Croden,Tereza Bleda,Cezary Oleksiejczuk,Lance Gibson Jr.,Isaac Thomson,Sean Sharaf,Steven Asplund,Guilherme Pat,Allen Frye Jr,UFCFightNightRoyvalvsKape",
         "Server1": "https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733122~acl=/*~id=22614664870088354136545615654348~hmac=009769b34f5d4aecc9a4e9720153dbc3d2b7386cec7de5a016f7b635d385e2e1",
-        "sus": "hdntl=exp=1765777311~acl=%2f*~id=22614664870088354136545615654348~data=hdntl,2022320,DAI16ME-V3,none~hmac=bcc954aea63af61bf1302ada27aa712950820d696438a1e167bbd91e3cc902d3",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1765733113~acl=/*~id=11198142922283016785680015573581~hmac=a6d9ed015a624eb91532a36878110e3c68e297de26658febd320eadfaac0d454",
+        "sus": "hdntl=exp=1765777328~acl=%2f*~id=11198142922283016785680015573581~data=hdntl,2022320,DAI16ME-V3,none~hmac=6543c75a803ea00e91c97ea6c80972e04f0adf2b82b732edab13f403758077af",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
