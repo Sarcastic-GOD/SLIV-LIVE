@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628523593836_AC25_U19_UAE_vs_MAS_13dec_Landscape_thumb.jpg" group-title="SonyLIV",UAE U19 vs Malaysia U19 - 14 Dec 2025 - ENG
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="SonyLIV",SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765763001~acl=/*~id=57997633415435695637697484381578~hmac=ff8b9fc78d21d9e97afecfb1a8a50b1b7113ebe03d5f3694c4df6c10dbdb502d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536441245773_Messi_India_Tour25_Mumbai_12dec_landscape_thumb.jpg" group-title="SonyLIV",Mumbai Event - 14 Dec 2025 - ENG
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765765442~acl=/*~id=69647474701760558931277856367960~hmac=db2a222366b88070a2b7039caaeecf25c88cabf7970e6e22e566314cac69bef1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765522974453301_Bliga2526_MD14_bayern_vs_mainz_12dec_tonight_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Bayern Munich vs Mainz - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765763001~acl=/*~id=57997633415435695637697484381578~hmac=ff8b9fc78d21d9e97afecfb1a8a50b1b7113ebe03d5f3694c4df6c10dbdb502d
+https://streaming.sonyliv.com/DASH/ff6cc614d6ac4423a1983ccd208f5bc2/1765563257/baseline-std-v4/PROMO_BUNDESLIGA_BAYERN_VS_MAINZ_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012400/1765709457469135_ACC_AFGvsSLq_14dec_dated_landcape_thumb.jpg" group-title="SonyLIV",Upcoming: DP World Men's U19 Asia Cup 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/9cf1b9e538f2484aa39dca660b108ebf/1765214173/baseline-std-v4/PROMO_ASIA_CUP_U19_35SEC_08Dec2025_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012400/1765709156690135_ACC_INDvsMAL_dated_14dec_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Malaysia - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/79e3a213fe4a4543b6b5d9d0beebe523/1765710919/baseline-std-v4/PROMO_ASIA_CUP_U19_IND_VS_MALAYSIA_15SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
