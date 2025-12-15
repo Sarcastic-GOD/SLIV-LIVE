@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628316664836_AC25_U19_AFG_vs_SL_13dec_Landscape_thumb.jpg" group-title="SonyLIV",Afghanistan U19 vs Sri Lanka U19 - 15 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765843442~acl=/*~id=42787110914604255167742412507603~hmac=f740397bbd0da82b3f3aebf53a123a93ede34edcc09ec45470d5bf56ec620f1a
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765842128~acl=/*~id=93360401402885128800344538397243~hmac=90e3028da29c89479a85e002c784be03f6799d55dea2ea1923653837896567d5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536451155773_Messi_India_Tour25_Delhi_12dec_landscape_thumb.jpg" group-title="SonyLIV",Delhi Event - 15 Dec 2025 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+cURL Error: Operation timed out after 300046 milliseconds with 0 out of 0 bytes received
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012427/1765784501947101_AC25_U19_IND_vs_MAS_15dec_dated_Landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Malaysia - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/79e3a213fe4a4543b6b5d9d0beebe523/1765710919/baseline-std-v4/PROMO_ASIA_CUP_U19_IND_VS_MALAYSIA_15SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
