@@ -1,13 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628417942836_AC25_U19_BAN_vs_NEP_13dec_Landscape_thumb.jpg" group-title="SonyLIV",Bangladesh U19 vs Nepal U19 - 15 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825321~acl=/*~id=23366706013361125926050504262145~hmac=27e2e88fc821c185bc9ed7a13dd5ba514d9124009e146b65326117d7e0e34de4
+https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825443~acl=/*~id=05354149926535663510184614684038~hmac=9386093d1547e27fde058fed644932d0efc6d0f5a7cfaaa3a9afb5f6ddeb5f26
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628316664836_AC25_U19_AFG_vs_SL_13dec_Landscape_thumb.jpg" group-title="SonyLIV",Afghanistan U19 vs Sri Lanka U19 - 15 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825321~acl=/*~id=23366706013361125926050504262145~hmac=27e2e88fc821c185bc9ed7a13dd5ba514d9124009e146b65326117d7e0e34de4
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825443~acl=/*~id=05354149926535663510184614684038~hmac=9386093d1547e27fde058fed644932d0efc6d0f5a7cfaaa3a9afb5f6ddeb5f26
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536451155773_Messi_India_Tour25_Delhi_12dec_landscape_thumb.jpg" group-title="SonyLIV",Delhi Event - 15 Dec 2025 - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
-https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765825321~acl=/*~id=23366706013361125926050504262145~hmac=27e2e88fc821c185bc9ed7a13dd5ba514d9124009e146b65326117d7e0e34de4
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765825443~acl=/*~id=05354149926535663510184614684038~hmac=9386093d1547e27fde058fed644932d0efc6d0f5a7cfaaa3a9afb5f6ddeb5f26
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012400/1765709156690135_ACC_INDvsMAL_dated_14dec_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Malaysia - ENG
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://streaming.sonyliv.com/trailer/DASH/79e3a213fe4a4543b6b5d9d0beebe523/1765710919/baseline-std-v4/PROMO_ASIA_CUP_U19_IND_VS_MALAYSIA_15SEC_HOR_DATED_APP_eng_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Australian Open 2026 - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/ad10631896e34de58e9bdef99860416c/1765211995/baseline-std-v4/PROMO_AO_2026_30_SEC_08Dec2025_eng_baseline-800300010.mpd
