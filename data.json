@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,ACC U-19 Asia Cup,Sevens Stadium,Dubai,ACC_U19_Mens_2025_live,Bangladesh U19 vs Nepal U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/OrrE0QodR-2jX2eFpzqRPg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765824964~acl=/*~id=10678307872402342277522811889482~hmac=fa62ecb400b35194c2fea75cee5fed624f2279a348ba4c83563039736ae1db99",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765824964~acl=/*~id=10678307872402342277522811889482~hmac=fa62ecb400b35194c2fea75cee5fed624f2279a348ba4c83563039736ae1db99",
-        "sus": "hdntl=exp=1765868173~acl=%2f*~id=10678307872402342277522811889482~data=hdntl,2037141,DAI21-criclive,none~hmac=e4187e91effd09a5affb3202c31c2405504255551f4feef05b13aa6cbecd8414",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825083~acl=/*~id=92357941592066924819952380490315~hmac=ebd0ee486247b2dc4e9f7406af3b4466aa02688d5bb863c7c6ee984db80db2bf",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765825083~acl=/*~id=92357941592066924819952380490315~hmac=ebd0ee486247b2dc4e9f7406af3b4466aa02688d5bb863c7c6ee984db80db2bf",
+        "sus": "hdntl=exp=1765868400~acl=%2f*~id=92357941592066924819952380490315~data=hdntl,2037141,DAI21-criclive,none~hmac=3b278a004974ae2f208ac3051b2115c2ae637a46a85916957ffcc882148ca3eb",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,24 +30,10 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,U19Asia_Cup25_LIVE,ACC U-19 Asia Cup,Sevens Stadium,Dubai,ACC_U19_Mens_2025_live,Afghanistan U19 vs Sri Lanka U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765824964~acl=/*~id=10678307872402342277522811889482~hmac=fa62ecb400b35194c2fea75cee5fed624f2279a348ba4c83563039736ae1db99",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765824964~acl=/*~id=10678307872402342277522811889482~hmac=fa62ecb400b35194c2fea75cee5fed624f2279a348ba4c83563039736ae1db99",
-        "sus": "hdntl=exp=1765868185~acl=%2f*~id=10678307872402342277522811889482~data=hdntl,2037140,DAI20-criclive,none~hmac=ba64b929350b4a4b18ab9c9611802928470b6f2e9f65c8a43fc1551aceda7427",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765825083~acl=/*~id=92357941592066924819952380490315~hmac=ebd0ee486247b2dc4e9f7406af3b4466aa02688d5bb863c7c6ee984db80db2bf",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1765825083~acl=/*~id=92357941592066924819952380490315~hmac=ebd0ee486247b2dc4e9f7406af3b4466aa02688d5bb863c7c6ee984db80db2bf",
+        "sus": "hdntl=exp=1765868463~acl=%2f*~id=92357941592066924819952380490315~data=hdntl,2037140,DAI20-criclive,none~hmac=5127dacba03921471974a743658b0b9abacb9ccff7e4ac93275ad61cc14f82e4",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
-        "id": "sl1090497066",
-        "isLive": false,
-        "event": "Messi's GOAT Tour of India",
-        "match": "Upcoming: Messi's GOAT Tour of India",
-        "Provider": "N/A",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012411/1765725375070619_Messi_India_Tour25_Delhi_14dec_today_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "ENG",
-        "venue": "N/A",
-        "TVchannel": "LIV",
-        "SeoTags": "Messi GOAT Tour India,Lionel Messi India Tour,Messi football event India,Messi live in India,Messi India 2025,Messi soccer tour India,Messi visit India,Messi football match India,Messi India tickets,Messi India schedule,Messi football fans India,Messi fan meet India,Messi football clinic India,Messi autograph session India,Messi photo opportunity India,Messi football legend India,Messi football experience India,Messi football skills India,Messi football training India,Messi football show India,Messi GOAT India,Messi greatest of all time India,Messi football icon India,Messi football superstar India,Messi football hero India,Messi football king India,Messi football champion India,Messi football inspiration India,Messi football career India,Messi football history India,Messi India trending,Messi India viral,Messi India Instagram,Messi India hashtags,Messi India reels,Messi India YouTube,Messi India live coverage,Messi India news,Messi India updates,Messi India official website",
-        "TRAILER": "https://streaming.sonyliv.com/trailer/DASH/42f7c41d23b44661a149b62bbc7e5313/1765550591/baseline-std-v4/GOAT_INDIA_TOUR_2025_22_SEC_HOR_eng_baseline-800300010.mpd"
     },
     {
         "id": "sl1090497537",
