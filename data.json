@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,RB Leipzig vs Bayer Leverkusen,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766296321~acl=/*~id=52826259163083510586764206736149~hmac=c7c603ae8bd2e192561719d0fbebf46b30fc737340368f82d395a09172dd7d7c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766296321~acl=/*~id=52826259163083510586764206736149~hmac=c7c603ae8bd2e192561719d0fbebf46b30fc737340368f82d395a09172dd7d7c",
-        "sus": "hdntl=exp=1766339529~acl=%2f*~id=52826259163083510586764206736149~data=hdntl,2022318,DAI14ME-V3,none~hmac=8336c335260abf6b99e8c6af0ebc7613905e75f0b5166525b8ae66c8b7bfca2f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766296441~acl=/*~id=05625138515069189754147937805051~hmac=56631b85a129d34c3c638bb3bd57cea35bc26e666fe51b0b9b6baca3c625e8e6",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766296441~acl=/*~id=05625138515069189754147937805051~hmac=56631b85a129d34c3c638bb3bd57cea35bc26e666fe51b0b9b6baca3c625e8e6",
+        "sus": "hdntl=exp=1766339649~acl=%2f*~id=05625138515069189754147937805051~data=hdntl,2022318,DAI14ME-V3,none~hmac=6a3d3352a5939f0b4e65c988820b03930f9c329ad457277870603a0c54b63800",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
