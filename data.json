@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090498314",
-        "isLive": true,
-        "event": "DP World Men's U19 Asia Cup 2025",
-        "match": "India U19 vs Pakistan U19 - Final - 21 Dec 2025",
-        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "ICC Academy Ground, Dubai",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,U19Asia_Cup25_LIVE,DPWorldMensU19AsiaCup2025",
-        "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "sus": "hdntl=exp=1766382976~acl=%2f*~id=34645613683885353263735039516321~data=hdntl,2037140,DAI20-criclive,none~hmac=2f871c3c6d2901a74e287398bd29fb162a405e563e9e3c5e4b11f0e56c94844d",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090498317",
         "isLive": true,
         "event": "DP World Men's U19 Asia Cup 2025",
@@ -30,9 +12,27 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "sus": "hdntl=exp=1766382986~acl=%2f*~id=34645613683885353263735039516321~data=hdntl,2018457,DAI09-criclive,none~hmac=68d6410aaa1c0f99bb9c9b2ad8ff0154f35fd78d720ea4b06dc485fef88bd8af",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "sus": "hdntl=exp=1766383094~acl=%2f*~id=99528088118242884460991981206547~data=hdntl,2018457,DAI09-criclive,none~hmac=bcf8c860e0138f359a25468a91cb71597ec9c7af9918b49dfc8247d2aa2e5f45",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090498314",
+        "isLive": true,
+        "event": "DP World Men's U19 Asia Cup 2025",
+        "match": "India U19 vs Pakistan U19 - Final - 21 Dec 2025",
+        "Provider": "THE ASIAN CRICKET COUNCIL FZ LLC",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "ICC Academy Ground, Dubai",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,U19Asia_Cup25_LIVE,DPWorldMensU19AsiaCup2025",
+        "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "sus": "hdntl=exp=1766383106~acl=%2f*~id=99528088118242884460991981206547~data=hdntl,2037140,DAI20-criclive,none~hmac=15e4ebe1c4abf5ce6f7589d1df9c535a62ba4a1ce77e8992dc17e4ff8157b2d7",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +48,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "sus": "hdntl=exp=1766382995~acl=%2f*~id=34645613683885353263735039516321~data=hdntl,2018458,DAI10-criclive,none~hmac=ca3c6a8cde3822b354e608e5d9ffdb261d2f92b98279901f8136e78124bd87d8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "sus": "hdntl=exp=1766383114~acl=%2f*~id=99528088118242884460991981206547~data=hdntl,2018458,DAI10-criclive,none~hmac=f1e874c81199b970474080a59da74251d0a5fcca546fce72a6e22c13eb8f5ecb",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +66,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339767~acl=/*~id=34645613683885353263735039516321~hmac=f655d203d866014fcf9a36a5cf232e1c3ac81893656f955809b62d340a02b738",
-        "sus": "hdntl=exp=1766383006~acl=%2f*~id=34645613683885353263735039516321~data=hdntl,2022315,DAI11-criclive,none~hmac=f1b91545d633c6c479a43a07cea694a8af6d5217e5a7ea4a7a57b78b74abe97f",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766339886~acl=/*~id=99528088118242884460991981206547~hmac=6947cf81c5ae06650b3fb8dc713f9f889f00a7c5229ca7e4b36b5436f8556cf8",
+        "sus": "hdntl=exp=1766383122~acl=%2f*~id=99528088118242884460991981206547~data=hdntl,2022315,DAI11-criclive,none~hmac=e876fa86c8f194427610c5beb5db29d03bf7880082376925594c5adef83e2c51",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
