@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090498270",
-        "isLive": true,
-        "event": "West Indies Tour of New Zealand 2025",
-        "match": "3rd Test - Day 4 - 21 Dec 2025",
-        "Provider": "New Zealand Cricket",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg",
-        "genre": "Cricket",
-        "language": "en",
-        "venue": "Bay Oval, Mount Maunganui",
-        "TVchannel": "Sony Sports Ten 5",
-        "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,Tom Latham,John Campbell,Devon Conway,Brandon King,Kane Williamson,Kavem Hodge,Rachin Ravindra,Shai Hope,Daryl Mitchell,Roston Chase,Mitchell Hay,Justin Greaves,Glenn Phillips,Tevin Imlach,Zak Foulkes,Kemar Roach,Blair Tickner,Anderson Phillip,Jacob Duffy,Jayden Seales,Michael Rae,Ojay Shields,WestIndiesTourofNewZealand2025",
-        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "sus": "hdntl=exp=1766380206~acl=%2f*~id=21484584128292136298838600184723~data=hdntl,2018457,wivsnz,ENG~hmac=68d2d9e21fe4502f8aaf7ae332325a6dbd0564e3aa9d492499ccafb8bb1d8041",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090498318",
         "isLive": true,
         "event": "DP World Men's U19 Asia Cup 2025",
@@ -30,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "sus": "hdntl=exp=1766380207~acl=%2f*~id=21484584128292136298838600184723~data=hdntl,2018458,DAI10-criclive,none~hmac=5b83d6b491a353a5db436bdf8741e853035d48222d99e0a58b8e1c5d1a51cf86",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "sus": "hdntl=exp=1766380334~acl=%2f*~id=03510883060421680349427376444036~data=hdntl,2018458,DAI10-criclive,none~hmac=155f8dfcd3eb65173a9f3346f088b769b4a37e321e2a6fc19d6ec59d88075301",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -48,9 +30,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "sus": "hdntl=exp=1766380209~acl=%2f*~id=21484584128292136298838600184723~data=hdntl,2018457,DAI09-criclive,none~hmac=3a9866cbad09b1bb10b23c72a50193c721e0cfdfeeefa341af0c151095cfd843",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "sus": "hdntl=exp=1766380342~acl=%2f*~id=03510883060421680349427376444036~data=hdntl,2018457,DAI09-criclive,none~hmac=45d2efe703046dcd4c2b3f1de93baad295c51742126a3cc9d43fa3e4f032240b",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -66,9 +48,27 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,U19Asia_Cup25_LIVE,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "sus": "hdntl=exp=1766380210~acl=%2f*~id=21484584128292136298838600184723~data=hdntl,2037140,DAI20-criclive,none~hmac=346bb2283652fff05b54fd03fc653fb2014fe79f31b0d3c3942c6aa0d66267b3",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "sus": "hdntl=exp=1766380350~acl=%2f*~id=03510883060421680349427376444036~data=hdntl,2037140,DAI20-criclive,none~hmac=9995229d0feea5c00b450a3dd7a98c7b5066d7593df876884f690b99d7620f53",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090498270",
+        "isLive": true,
+        "event": "West Indies Tour of New Zealand 2025",
+        "match": "3rd Test - Day 4 - 21 Dec 2025",
+        "Provider": "New Zealand Cricket",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg",
+        "genre": "Cricket",
+        "language": "en",
+        "venue": "Bay Oval, Mount Maunganui",
+        "TVchannel": "Sony Sports Ten 5",
+        "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,Tom Latham,John Campbell,Devon Conway,Brandon King,Kane Williamson,Kavem Hodge,Rachin Ravindra,Shai Hope,Daryl Mitchell,Roston Chase,Mitchell Hay,Justin Greaves,Glenn Phillips,Tevin Imlach,Zak Foulkes,Kemar Roach,Blair Tickner,Anderson Phillip,Jacob Duffy,Jayden Seales,Michael Rae,Ojay Shields,WestIndiesTourofNewZealand2025",
+        "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "sus": "hdntl=exp=1766380361~acl=%2f*~id=03510883060421680349427376444036~data=hdntl,2018457,wivsnz,ENG~hmac=a33868ed40ce5bfa9b7d6d658cce8b0a854942592faa546db55adddce905504f",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -84,9 +84,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "ACC U-19 Asia Cup 2025,U-19 cricket tournament,Asia Cup 2025 schedule,ACC U-19 teams,U-19 cricket matches,Asia Cup 2025 fixtures,ACC U-19 live scores,U-19 Asia Cup results,ACC U-19 highlights,Asia Cup 2025 venues,U-19 cricket squads,ACC U-19 champions,Asia Cup 2025 updates,U-19 cricket news,ACC U-19 standings,Asia Cup 2025 points table,U-19 cricket live streaming,ACC U-19 match tickets,Asia Cup 2025 final,U-19 cricket stats,ACC U-19 player rankings,Asia Cup 2025 predictions,U-19 cricket records,ACC U-19 match previews,Asia Cup 2025 fan zone,U-19 cricket commentary,ACC U-19 social media,Asia Cup 2025 sponsors,U-19 cricket photos,ACC U-19 tournament history,India team,Pakistan team,Sri Lanka team,Afghanistan team,Bangladesh team,Japan team,UAE team,Nepal team,Ayush Mhatre,Vaibhav Sooryavanshi,Mohd. Amaan,Kiran Chormale,Saad Baig,Hassan Khan,Tayyab Arif,Mehboob Taskin,Allah Ghazanfar,Vihas Thevmika,Dulnith Sigera,Azizul Hakim Tamin,Farid Hasan,Rafi Uzzaman,Koji Hardgrave-Abe,Yuto Yageta,Charles Hinze,Aayan Afzal Khan,Harsh Desai,Ethan D'Souza,Hemant Dhami,Bipin Kumar Mahato,Naren Saud,sports_adsupported,nopreroll_livectv,ACC U-19 Asia Cup,Dubai,ACC_U19_Mens_2025_live,India U19 vs Pakistan U19,DPWorldMensU19AsiaCup2025",
         "Server1": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337006~acl=/*~id=21484584128292136298838600184723~hmac=2f1674b223a948205f996b83f95c5cb982a402eee261b87141d2547756d0aa02",
-        "sus": "hdntl=exp=1766380212~acl=%2f*~id=21484584128292136298838600184723~data=hdntl,2022315,DAI11-criclive,none~hmac=fd8ce1ba6e149719c162644533687355105de0d1add74458fa19595693cbf6dc",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_mdh-800300010.m3u8?hdnea=exp=1766337127~acl=/*~id=03510883060421680349427376444036~hmac=a329e7669797611b9d1178768bd294b2dd509e377aad961486112d21a19b5d7d",
+        "sus": "hdntl=exp=1766380369~acl=%2f*~id=03510883060421680349427376444036~data=hdntl,2022315,DAI11-criclive,none~hmac=ced286edd8cb97fe007745ea796506f40a6498585aff8a481e66d9c70b857429",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
