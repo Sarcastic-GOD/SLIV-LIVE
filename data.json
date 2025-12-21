@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 5",
         "SeoTags": "West Indies tour of New Zealand 2025,NZ vs WI 2025 schedule,West Indies vs New Zealand T20I preview,NZ vs WI ODI fixtures,West Indies Test series New Zealand,NZ vs WI squads 2025,West Indies cricket tour 2025,cricket series,international cricket,West Indies cricket,New Zealand cricket,T20 matches,ODI series,Test cricket,cricket fixtures,team squads,match preview,cricket tour,ICC rankings,cricket news,NZvsWI_LIVE25,sports_adsupported,nopreroll_livectv,WI_Tour_of_NZ_2025_Live,Tom Latham,John Campbell,Devon Conway,Brandon King,Kane Williamson,Kavem Hodge,Rachin Ravindra,Shai Hope,Daryl Mitchell,Roston Chase,Mitchell Hay,Justin Greaves,Glenn Phillips,Tevin Imlach,Zak Foulkes,Kemar Roach,Blair Tickner,Anderson Phillip,Jacob Duffy,Jayden Seales,Michael Rae,Ojay Shields,WestIndiesTourofNewZealand2025",
         "Server1": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766322727~acl=/*~id=66716713505877023990580665852039~hmac=02bd4eeff0ab532e567273a596df0e243500e5a76526a88b39a25cda94513a20",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1766322727~acl=/*~id=66716713505877023990580665852039~hmac=02bd4eeff0ab532e567273a596df0e243500e5a76526a88b39a25cda94513a20",
-        "sus": "hdntl=exp=1766365935~acl=%2f*~id=66716713505877023990580665852039~data=hdntl,2018457,wivsnz,ENG~hmac=1f5f27f59bf9e2495d155741d78d0ea4112112046877e98a48b86377ffef1b77",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766322845~acl=/*~id=20971406126239276474696223502263~hmac=90ec214e89c993c12a22e373e1e79688fde4806c27a9d207ccc426692e9e3115",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_mdh-800300010.m3u8?hdnea=exp=1766322845~acl=/*~id=20971406126239276474696223502263~hmac=90ec214e89c993c12a22e373e1e79688fde4806c27a9d207ccc426692e9e3115",
+        "sus": "hdntl=exp=1766366046~acl=%2f*~id=20971406126239276474696223502263~data=hdntl,2018457,wivsnz,ENG~hmac=7f11eb65acd1649e9e85bd86369cddd7390f612749c30115cca4fe81836c64c1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
