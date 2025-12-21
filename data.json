@@ -1,23 +1,5 @@
 [
     {
-        "id": "sl1090498271",
-        "isLive": true,
-        "event": "Bundesliga 2025-26",
-        "match": "Mainz vs St. Pauli - MD 15 - 21 Dec 2025",
-        "Provider": "DFL Deutsche Fubball Liga e.V.",
-        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg",
-        "genre": "Football",
-        "language": "en",
-        "venue": "Mewa Arena",
-        "TVchannel": "Sony Sports Ten 2",
-        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Mainz vs St. Pauli,Bundesliga202526",
-        "Server1": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766375527~acl=/*~id=55409046720087600489627831812290~hmac=d9ff4a8e7cca8a35b04a84c15da8b3176f42354f054b0d385f540ebd8e5b7903",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766375527~acl=/*~id=55409046720087600489627831812290~hmac=d9ff4a8e7cca8a35b04a84c15da8b3176f42354f054b0d385f540ebd8e5b7903",
-        "sus": "hdntl=exp=1766418735~acl=%2f*~id=55409046720087600489627831812290~data=hdntl,2094588,DAI04ME-V3,none~hmac=9590e8f424bc520d099e8f24d2e15a7fb906cb8c7ee33edd84e60cb9d2f69746",
-        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
-    },
-    {
         "id": "sl1090498272",
         "isLive": true,
         "event": "Bundesliga 2025-26",
@@ -30,9 +12,27 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Heidenheim vs Bayern Munich,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766375527~acl=/*~id=55409046720087600489627831812290~hmac=d9ff4a8e7cca8a35b04a84c15da8b3176f42354f054b0d385f540ebd8e5b7903",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766375527~acl=/*~id=55409046720087600489627831812290~hmac=d9ff4a8e7cca8a35b04a84c15da8b3176f42354f054b0d385f540ebd8e5b7903",
-        "sus": "hdntl=exp=1766418745~acl=%2f*~id=55409046720087600489627831812290~data=hdntl,2094589,DAI05ME-V3,none~hmac=277f4a6258a8c3d1590e07117dca91969ee166fdace864232ada022df5731688",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766375647~acl=/*~id=25966882012304147197287265436198~hmac=825c4e755dec4353c6bf0462fcae3411fe68068f97e65606c9023d90cbf8b94a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766375647~acl=/*~id=25966882012304147197287265436198~hmac=825c4e755dec4353c6bf0462fcae3411fe68068f97e65606c9023d90cbf8b94a",
+        "sus": "hdntl=exp=1766418856~acl=%2f*~id=25966882012304147197287265436198~data=hdntl,2094589,DAI05ME-V3,none~hmac=efe64a96e046e9872141b01f3fb56ce336f6a0749e21a1ff159e24fcf6d90845",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    },
+    {
+        "id": "sl1090498271",
+        "isLive": true,
+        "event": "Bundesliga 2025-26",
+        "match": "Mainz vs St. Pauli - MD 15 - 21 Dec 2025",
+        "Provider": "DFL Deutsche Fubball Liga e.V.",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg",
+        "genre": "Football",
+        "language": "en",
+        "venue": "Mewa Arena",
+        "TVchannel": "Sony Sports Ten 2",
+        "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Mainz vs St. Pauli,Bundesliga202526",
+        "Server1": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766375647~acl=/*~id=25966882012304147197287265436198~hmac=825c4e755dec4353c6bf0462fcae3411fe68068f97e65606c9023d90cbf8b94a",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1766375647~acl=/*~id=25966882012304147197287265436198~hmac=825c4e755dec4353c6bf0462fcae3411fe68068f97e65606c9023d90cbf8b94a",
+        "sus": "hdntl=exp=1766418866~acl=%2f*~id=25966882012304147197287265436198~data=hdntl,2094588,DAI04ME-V3,none~hmac=c470a3a95c23e266fc3ab501ee88a72b8bc0a4f61b5eb335360a74a8a8234287",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
