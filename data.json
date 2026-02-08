@@ -11,10 +11,10 @@
         "venue": "",
         "TVchannel": "LIV",
         "SeoTags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action,sports_adsupported,nopreroll_livectv,dplive_worldasiagolf26,Qatar Masters Day 2,DPWorldTour",
-        "Server1": "https://dai.google.com/ssai/event/YWEgb2bCQMyARGS1v3fUYw/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770585365~acl=/*~id=36630488535630346209985234129902~hmac=91108b573dce9fecae8c521f6a081a143d345364d3e85893d5875098e33063c9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770585365~acl=/*~id=36630488535630346209985234129902~hmac=91108b573dce9fecae8c521f6a081a143d345364d3e85893d5875098e33063c9",
-        "sus": "hdntl=exp=1770628567~acl=%2f*~id=36630488535630346209985234129902~data=hdntl,2094587,DAI03ME-V3,none~hmac=b2d9f0f884a3d029b511d32ba124ef680843435fc72446ae823a5a0e7b1a3e4e",
+        "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770585485~acl=/*~id=11904343083959220261503827744055~hmac=25f15d9ed0d4b42b93f5d179aa77d427673dd4421d66b269674dd75ae7997aca",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770585485~acl=/*~id=11904343083959220261503827744055~hmac=25f15d9ed0d4b42b93f5d179aa77d427673dd4421d66b269674dd75ae7997aca",
+        "sus": "hdntl=exp=1770628687~acl=%2f*~id=11904343083959220261503827744055~data=hdntl,2094587,DAI03ME-V3,none~hmac=794937ff39624d86855377fdfb7227a7d5645faa308cd66b17296e99944096ca",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
