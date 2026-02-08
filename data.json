@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action,sports_adsupported,nopreroll_livectv,dplive_worldasiagolf26,Qatar Masters Day 2,DPWorldTour",
         "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600723~acl=/*~id=79489067174421354135944545444301~hmac=84bc36cfc1434a054c64cda5557ff39d5a974b75764eb687556fa3fba93195a9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770600723~acl=/*~id=79489067174421354135944545444301~hmac=84bc36cfc1434a054c64cda5557ff39d5a974b75764eb687556fa3fba93195a9",
-        "sus": "hdntl=exp=1770643931~acl=%2f*~id=79489067174421354135944545444301~data=hdntl,2094587,DAI03ME-V3,none~hmac=8b753466d8ee908bc00342542d3b2cd26794d623cf56d82c9577425fad731bb8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600842~acl=/*~id=22221749009059663119740025398969~hmac=f09dd62e12ded6bfcc5df64e6f62e965ea9c2a9af9eb37cdf9997baabdf5cc5d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770600842~acl=/*~id=22221749009059663119740025398969~hmac=f09dd62e12ded6bfcc5df64e6f62e965ea9c2a9af9eb37cdf9997baabdf5cc5d",
+        "sus": "hdntl=exp=1770644051~acl=%2f*~id=22221749009059663119740025398969~data=hdntl,2094587,DAI03ME-V3,none~hmac=ed15a9cea0c23894d5cf2665058fbec2b9b27412a8b3a450838c219e68bd2bd1",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     },
     {
@@ -30,9 +30,9 @@
         "TVchannel": "LIV",
         "SeoTags": "World Pickleball League 2026,WPBL Season 2,Mumbai Jio World Garden,Jaipur Djinns,Bengaluru Jawans,Pune United,Mumbai Pickle Power,Hyderabad Superstars,Chennai Super Champs,Dilli Dillwale,Simone Jardim,global pickleball league India,franchise pickleball teams India,international pickleball players 2026,WPBL schedule,All India Pickleball Association,pickleball,pickleball tournaments,pickleball sport,world pickleball league,pickleball league,santhosh narayanan,quan do,max green,kat stewart,vrushali thakare,pickleball world championship,nopreroll_livectv,sports_adsupported,Live26_PickleballLeague,World_pickleball_league_2026_Live,Chennai Super Champs vs Dilli Dillwale,WorldPickleballLeague2026",
         "Server1": "https://dai.google.com/ssai/event/RaRVtbzsSomcd-5D5m2LZg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600723~acl=/*~id=79489067174421354135944545444301~hmac=84bc36cfc1434a054c64cda5557ff39d5a974b75764eb687556fa3fba93195a9",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770600723~acl=/*~id=79489067174421354135944545444301~hmac=84bc36cfc1434a054c64cda5557ff39d5a974b75764eb687556fa3fba93195a9",
-        "sus": "hdntl=exp=1770643942~acl=%2f*~id=79489067174421354135944545444301~data=hdntl,2022319,DAI15ME-V3,none~hmac=163d9cf08d703c52ff4180dc8dc5124cf2fd550dac3fe6437b42ac120906114c",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770600842~acl=/*~id=22221749009059663119740025398969~hmac=f09dd62e12ded6bfcc5df64e6f62e965ea9c2a9af9eb37cdf9997baabdf5cc5d",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770600842~acl=/*~id=22221749009059663119740025398969~hmac=f09dd62e12ded6bfcc5df64e6f62e965ea9c2a9af9eb37cdf9997baabdf5cc5d",
+        "sus": "hdntl=exp=1770644060~acl=%2f*~id=22221749009059663119740025398969~data=hdntl,2022319,DAI15ME-V3,none~hmac=844bcbcffa5dd1e18de46a1a41b38c6cc7a1f65737ff196e3a32573dbda1978c",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
