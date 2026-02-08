@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "World Pickleball League 2026,WPBL Season 2,Mumbai Jio World Garden,Jaipur Djinns,Bengaluru Jawans,Pune United,Mumbai Pickle Power,Hyderabad Superstars,Chennai Super Champs,Dilli Dillwale,Simone Jardim,global pickleball league India,franchise pickleball teams India,international pickleball players 2026,WPBL schedule,All India Pickleball Association,pickleball,pickleball tournaments,pickleball sport,world pickleball league,pickleball league,santhosh narayanan,quan do,max green,kat stewart,vrushali thakare,pickleball world championship,nopreroll_livectv,sports_adsupported,Live26_PickleballLeague,World_pickleball_league_2026_Live,Chennai Super Champs vs Dilli Dillwale,WorldPickleballLeague2026",
         "Server1": "https://dai.google.com/ssai/event/RaRVtbzsSomcd-5D5m2LZg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770601206~acl=/*~id=45253741220580399494984276525398~hmac=4c39df1415107e84e5124238476f1df7c3fa6e59a540d54e421425de28dc21c3",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770601206~acl=/*~id=45253741220580399494984276525398~hmac=4c39df1415107e84e5124238476f1df7c3fa6e59a540d54e421425de28dc21c3",
-        "sus": "hdntl=exp=1770644413~acl=%2f*~id=45253741220580399494984276525398~data=hdntl,2022319,DAI15ME-V3,none~hmac=3282479191ef5be720d940af25e3de9a2095e24e957356bab08a4f245fbd2bef",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770601326~acl=/*~id=71500187057627947285137777924209~hmac=5faf9db7e3323c4728060323726ce9a50b390082548d9c8e39dddb97b89db570",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770601326~acl=/*~id=71500187057627947285137777924209~hmac=5faf9db7e3323c4728060323726ce9a50b390082548d9c8e39dddb97b89db570",
+        "sus": "hdntl=exp=1770644535~acl=%2f*~id=71500187057627947285137777924209~data=hdntl,2022319,DAI15ME-V3,none~hmac=2535792796c82b34677ff053aa1812e4bc1012ec4894bf5fe2c0f59af953b2f9",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
