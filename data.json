@@ -12,9 +12,9 @@
         "TVchannel": "Sony Sports Ten 2",
         "SeoTags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen,sports_adsupported,nopreroll_livectv,Bundesliga_2026_LIVE,live25_bundesliga26,Bayern Munich vs Hoffenheim,Bundesliga202526",
         "Server1": "https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8",
-        "Server2": "cURL Error: transfer closed with 1 bytes remaining to read",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770614647~acl=/*~id=67855188366449800039968639669401~hmac=91d9e67d27db33bb82d488dee74f149d30dc499c023bf2dd44d9d3126db320cd",
-        "sus": false,
-        "debug": "dai.google.com||sonydaimenew.akamaized.net"
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770614761~acl=/*~id=54992015367007978515609543443175~hmac=45ada33d6c3c51395933dd399598e22fda9774e37fc98277a98349161ca68a92",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770614761~acl=/*~id=54992015367007978515609543443175~hmac=45ada33d6c3c51395933dd399598e22fda9774e37fc98277a98349161ca68a92",
+        "sus": "hdntl=exp=1770657971~acl=%2f*~id=54992015367007978515609543443175~data=hdntl,2094589,DAI05ME-V3,none~hmac=27217a5002f4aea86283134349ba974df0cd6b93a26bfed7fba4d9b031d1a5ae",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
