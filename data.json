@@ -12,9 +12,9 @@
         "TVchannel": "LIV",
         "SeoTags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action,sports_adsupported,nopreroll_livectv,dplive_worldasiagolf26,Qatar Masters Day 2,DPWorldTour",
         "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
-        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770594726~acl=/*~id=45884567849935972208339384446093~hmac=5fad0b0290e0be63f634c7a69a00e9c59e5554abda84490e836a9c2d41cb331c",
-        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770594726~acl=/*~id=45884567849935972208339384446093~hmac=5fad0b0290e0be63f634c7a69a00e9c59e5554abda84490e836a9c2d41cb331c",
-        "sus": "hdntl=exp=1770637935~acl=%2f*~id=45884567849935972208339384446093~data=hdntl,2094587,DAI03ME-V3,none~hmac=3970a0e41285081b135eecc2883d2c1a87b1ec9971cb37513779e85ae830ebc1",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770594845~acl=/*~id=38678482137943447798396341576767~hmac=f785b586beeec02eeee8d04596ea2e306a497c06334b1a688804ef4aef802cf5",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770594845~acl=/*~id=38678482137943447798396341576767~hmac=f785b586beeec02eeee8d04596ea2e306a497c06334b1a688804ef4aef802cf5",
+        "sus": "hdntl=exp=1770638046~acl=%2f*~id=38678482137943447798396341576767~data=hdntl,2094587,DAI03ME-V3,none~hmac=d2dd8719e82e09c9548e84d75bf9a2e36dc9f7f4b08243b5513ca69083d46f15",
         "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
     }
 ]
