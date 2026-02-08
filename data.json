@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": "sl1090503424",
+        "isLive": true,
+        "event": "DP World Tour",
+        "match": "Qatar Masters Day 4 - 8 Feb 2026",
+        "Provider": "PGA European Tour Productions Limited",
+        "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014812/1770116887759170_DPworld_tour_Qatar_Masters_Day4_3feb_landscape_thumb.jpg",
+        "genre": "Golf",
+        "language": "en",
+        "venue": "",
+        "TVchannel": "LIV",
+        "SeoTags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action,sports_adsupported,nopreroll_livectv,dplive_worldasiagolf26,Qatar Masters Day 2,DPWorldTour",
+        "Server1": "https://dai.google.com/ssai/event/VhWCiA8mQjGGNBcucZKABg/master.m3u8",
+        "Server2": "https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770582726~acl=/*~id=93324657116401150809342483051660~hmac=32d31bb9ee482744b0420592a1063717adc6399bb5eb9db8379b296a01e0203b",
+        "Server3": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1770582726~acl=/*~id=93324657116401150809342483051660~hmac=32d31bb9ee482744b0420592a1063717adc6399bb5eb9db8379b296a01e0203b",
+        "sus": "hdntl=exp=1770625935~acl=%2f*~id=93324657116401150809342483051660~data=hdntl,2094587,DAI03ME-V3,none~hmac=d9105d11693148240926f8863d8e12981f55ae5a3227286828ff6a7e3e20ef40",
+        "debug": "dai.google.com|liveakmt-p-web.slivcdn.com|sonydaimenew.akamaized.net"
+    }
+]
